@@ -1,11 +1,11 @@
 {
-  "bytes": 419065,
+  "bytes": 463524,
   "count_of_rows": 8955,
-  "hash": "e96470246df7974be1ac04dc880b3799",
+  "hash": "2e74b71787289aac912b647688893625",
   "profile": "data-package",
   "resources": [
     {
-      "bytes": 419065,
+      "bytes": 463524,
       "dialect": {
         "caseSensitiveHeader": false,
         "delimiter": ",",
@@ -17,9 +17,9 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "8697a80eb83feaf11c7041b2724eaa91",
-      "name": "time_series_19-covid-Recovered",
-      "path": "time_series_19-covid-Recovered.csv",
+      "hash": "88df9ccb75f4858ce93bc6607a9fefec",
+      "name": "time-series-19-covid-combined",
+      "path": "time-series-19-covid-combined.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [
@@ -49,14 +49,28 @@
           },
           {
             "format": "%Y-%m-%d",
-            "name": "date",
+            "name": "Date",
             "type": "date"
           },
           {
             "decimalChar": ".",
             "format": "default",
             "groupChar": "",
-            "name": "case",
+            "name": "Confirmed",
+            "type": "number"
+          },
+          {
+            "decimalChar": ".",
+            "format": "default",
+            "groupChar": "",
+            "name": "Recovered",
+            "type": "number"
+          },
+          {
+            "decimalChar": ".",
+            "format": "default",
+            "groupChar": "",
+            "name": "Deaths",
             "type": "number"
           }
         ],
