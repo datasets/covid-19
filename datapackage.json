@@ -1,0 +1,3075 @@
+{
+    "profile": "tabular-data-package",
+    "resources": [
+        {
+            "path": "data\\confirmed.csv",
+            "profile": "tabular-data-resource",
+            "name": "confirmed",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "encoding": "utf-8",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "1000",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1001",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1002",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1003",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1004",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1005",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1006",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1007",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1008",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1009",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1010",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1011",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1012",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1013",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1014",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1015",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1016",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1017",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1018",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1019",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1020",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1021",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1022",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1023",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1024",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1025",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1026",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1027",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1028",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1029",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1030",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1031",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1032",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1033",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1034",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1035",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1036",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1037",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1038",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1039",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1040",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1041",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1042",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1043",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1044",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1045",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1046",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1047",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1048",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1049",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1050",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1051",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1052",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1053",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1054",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1055",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1056",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1057",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1058",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1059",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1060",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1061",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1062",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1063",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1064",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1065",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1066",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1067",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1068",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1069",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1070",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1071",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1072",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1073",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1074",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1075",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1076",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1077",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1078",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1079",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1080",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1081",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1082",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1083",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1084",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1085",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1086",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1087",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1088",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1089",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1090",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1091",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1092",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1093",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1094",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1095",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1096",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1097",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1098",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1099",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1100",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1101",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1102",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1103",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1104",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1105",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1106",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1107",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1108",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1109",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1110",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1111",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1112",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1113",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1114",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1115",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1116",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1117",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1118",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1119",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1120",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1121",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1122",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1123",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1124",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1125",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1126",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1127",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1128",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1129",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1130",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1131",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1132",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1133",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1134",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1135",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1136",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1137",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1138",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1139",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1140",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1141",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1142",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1143",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1144",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1145",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1146",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1147",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1148",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1149",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1150",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1151",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1152",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1153",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1154",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1155",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1156",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1157",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1158",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1159",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1160",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1161",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1162",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1163",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1164",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1165",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1166",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1167",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1168",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1169",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1170",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1171",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1172",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1173",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1174",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1175",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1176",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1177",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1178",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1179",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1180",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1181",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1182",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1183",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1184",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1185",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1186",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1187",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1188",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1189",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1190",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1191",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1192",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1193",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1194",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1195",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1196",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1197",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1198",
+                        "type": "integer",
+                        "format": "default"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "path": "data\\deaths.csv",
+            "profile": "tabular-data-resource",
+            "name": "deaths",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "encoding": "utf-8",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "1000",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1001",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1002",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1003",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1004",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1005",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1006",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1007",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1008",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1009",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1010",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1011",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1012",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1013",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1014",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1015",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1016",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1017",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1018",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1019",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1020",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1021",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1022",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1023",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1024",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1025",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1026",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1027",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1028",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1029",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1030",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1031",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1032",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1033",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1034",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1035",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1036",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1037",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1038",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1039",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1040",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1041",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1042",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1043",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1044",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1045",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1046",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1047",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1048",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1049",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1050",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1051",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1052",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1053",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1054",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1055",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1056",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1057",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1058",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1059",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1060",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1061",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1062",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1063",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1064",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1065",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1066",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1067",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1068",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1069",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1070",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1071",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1072",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1073",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1074",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1075",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1076",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1077",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1078",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1079",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1080",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1081",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1082",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1083",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1084",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1085",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1086",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1087",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1088",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1089",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1090",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1091",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1092",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1093",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1094",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1095",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1096",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1097",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1098",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1099",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1100",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1101",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1102",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1103",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1104",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1105",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1106",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1107",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1108",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1109",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1110",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1111",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1112",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1113",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1114",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1115",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1116",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1117",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1118",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1119",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1120",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1121",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1122",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1123",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1124",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1125",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1126",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1127",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1128",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1129",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1130",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1131",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1132",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1133",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1134",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1135",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1136",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1137",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1138",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1139",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1140",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1141",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1142",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1143",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1144",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1145",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1146",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1147",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1148",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1149",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1150",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1151",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1152",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1153",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1154",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1155",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1156",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1157",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1158",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1159",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1160",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1161",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1162",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1163",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1164",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1165",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1166",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1167",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1168",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1169",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1170",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1171",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1172",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1173",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1174",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1175",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1176",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1177",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1178",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1179",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1180",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1181",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1182",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1183",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1184",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1185",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1186",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1187",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1188",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1189",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1190",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1191",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1192",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1193",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1194",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1195",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1196",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1197",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1198",
+                        "type": "integer",
+                        "format": "default"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "path": "data\\recovered.csv",
+            "profile": "tabular-data-resource",
+            "name": "recovered",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "encoding": "utf-8",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "1000",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1001",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1002",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1003",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1004",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1005",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1006",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1007",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1008",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1009",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1010",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1011",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1012",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1013",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1014",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1015",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1016",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1017",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1018",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1019",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1020",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1021",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1022",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1023",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1024",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1025",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1026",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1027",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1028",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1029",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1030",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1031",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1032",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1033",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1034",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1035",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1036",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1037",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1038",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1039",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1040",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1041",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1042",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1043",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1044",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1045",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1046",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1047",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1048",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1049",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1050",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1051",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1052",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1053",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1054",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1055",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1056",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1057",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1058",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1059",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1060",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1061",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1062",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1063",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1064",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1065",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1066",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1067",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1068",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1069",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1070",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1071",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1072",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1073",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1074",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1075",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1076",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1077",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1078",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1079",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1080",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1081",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1082",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1083",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1084",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1085",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1086",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1087",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1088",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1089",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1090",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1091",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1092",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1093",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1094",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1095",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1096",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1097",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1098",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1099",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1100",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1101",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1102",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1103",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1104",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1105",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1106",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1107",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1108",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1109",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1110",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1111",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1112",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1113",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1114",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1115",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1116",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1117",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1118",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1119",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1120",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1121",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1122",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1123",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1124",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1125",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1126",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1127",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1128",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1129",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1130",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1131",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1132",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1133",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1134",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1135",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1136",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1137",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1138",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1139",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1140",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1141",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1142",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1143",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1144",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1145",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1146",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1147",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1148",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1149",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1150",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1151",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1152",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1153",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1154",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1155",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1156",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1157",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1158",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1159",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1160",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1161",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1162",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1163",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1164",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1165",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1166",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1167",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1168",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1169",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1170",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1171",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1172",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1173",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1174",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1175",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1176",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1177",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1178",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1179",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1180",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1181",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1182",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1183",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1184",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1185",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1186",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1187",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1188",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1189",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1190",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1191",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1192",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1193",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1194",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1195",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1196",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1197",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "1198",
+                        "type": "integer",
+                        "format": "default"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "path": "data\\regions.csv",
+            "profile": "tabular-data-resource",
+            "name": "regions",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "encoding": "utf-8",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "ID",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "Province/State",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "Country/Region",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "Lat",
+                        "type": "number",
+                        "format": "default"
+                    },
+                    {
+                        "name": "Long",
+                        "type": "number",
+                        "format": "default"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ]
+}
