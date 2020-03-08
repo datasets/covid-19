@@ -1,4 +1,4 @@
-from dataflows import Flow, load, unpivot, find_replace, set_type, dump_to_path, update_resource, join, add_computed_field, delete_fields
+from dataflows import Flow, load, unpivot, find_replace, set_type, dump_to_path, update_resource, join, add_computed_field, delete_fields, select_fields
 
 BASE_URL = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/'
 CONFIRMED = 'time_series_19-covid-Confirmed.csv'
@@ -55,7 +55,18 @@ Flow(
         operation='format',
         with_='{Case}'
       ),
-      delete_fields(['Case']),
+      add_computed_field(
+        target={'name': 'Country', 'type': 'string'},
+        operation='format',
+        with_='{Country/Region}'
+      ),
+      add_computed_field(
+        target={'name': 'Province', 'type': 'string'},
+        operation='format',
+        with_='{Province/State}'
+      ),
+      delete_fields(['Case', 'Country/Region', 'Province/State']),
       update_resource('time_series_19-covid-Deaths', name='time-series-19-covid-combined', path='time-series-19-covid-combined.csv'),
+      select_fields(['Province', 'Country', 'Lat', 'Long', 'Date', 'Confirmed', 'Recovered', 'Deaths']),
       dump_to_path()
 ).results()[0]

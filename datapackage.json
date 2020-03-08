@@ -1,11 +1,11 @@
 {
-  "bytes": 463524,
-  "count_of_rows": 8955,
-  "hash": "2e74b71787289aac912b647688893625",
+  "bytes": 545058,
+  "count_of_rows": 10350,
+  "hash": "305ff4220fa6ad6a26fea43b4faed91d",
   "profile": "data-package",
   "resources": [
     {
-      "bytes": 463524,
+      "bytes": 545058,
       "dialect": {
         "caseSensitiveHeader": false,
         "delimiter": ",",
@@ -17,7 +17,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "88df9ccb75f4858ce93bc6607a9fefec",
+      "hash": "9b195200cbf74b876f3119136058c6b2",
       "name": "time-series-19-covid-combined",
       "path": "time-series-19-covid-combined.csv",
       "profile": "tabular-data-resource",
@@ -25,12 +25,12 @@
         "fields": [
           {
             "format": "default",
-            "name": "Province/State",
+            "name": "Province",
             "type": "string"
           },
           {
             "format": "default",
-            "name": "Country/Region",
+            "name": "Country",
             "type": "string"
           },
           {
