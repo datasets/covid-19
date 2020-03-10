@@ -18,4 +18,4 @@ python process.py
 
 ## Data
 
-Data is coming from https://githab.com/CSSEGISandData/COVID-19 updated daily. We have normalized data a bit - unpivoted and transfered dates to be more machine readable.
+Data is coming from https://github.com/CSSEGISandData/COVID-19 updated daily. We have normalized data a bit - unpivoted and transfered dates to be more machine readable.
