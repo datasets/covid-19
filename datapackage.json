@@ -1,11 +1,11 @@
 {
-  "bytes": 1377760,
-  "count_of_rows": 27144,
-  "hash": "ec90ac9985c88cc2696bca9128710557",
+  "bytes": 1427059,
+  "count_of_rows": 28143,
+  "hash": "dfbbe91c39e821e0be8a3aa8eaa75cf4",
   "profile": "data-package",
   "resources": [
     {
-      "bytes": 1377760,
+      "bytes": 1427059,
       "dialect": {
         "caseSensitiveHeader": false,
         "delimiter": ",",
@@ -17,7 +17,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "5863aaadcfdc513a6be1fde1878d2036",
+      "hash": "1d60e9601452bd6ffc40571e19b66719",
       "name": "time-series-19-covid-combined",
       "path": "time-series-19-covid-combined.csv",
       "profile": "tabular-data-resource",
