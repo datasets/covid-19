@@ -1,7 +1,8 @@
 {
-  "bytes": 1465368,
-  "count_of_rows": 28920,
-  "hash": "0645dcfca5d10e757252920dbcdbe67d",
+  "bytes": 1467076,
+  "count_of_rows": 28980,
+  "hash": "6e25a726932e6dabaaa8b8e5ed578dd7",
+  "name": "covid-19",
   "profile": "data-package",
   "resources": [
     {
@@ -19,7 +20,7 @@
       "format": "csv",
       "hash": "7b65c350a6e621e770bdce075df8b657",
       "name": "time-series-19-covid-combined",
-      "path": "time-series-19-covid-combined.csv",
+      "path": "data/time-series-19-covid-combined.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [
@@ -78,6 +79,50 @@
           ""
         ]
       }
+    },
+    {
+      "bytes": 1708,
+      "dialect": {
+        "delimiter": ",",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "quoteChar": "\"",
+        "skipInitialSpace": false
+      },
+      "encoding": "utf-8",
+      "format": "csv",
+      "hash": "f261b5b527542ceace4f2c7941d69e40",
+      "name": "worldwide-aggregated",
+      "path": "data/worldwide-aggregated.csv",
+      "profile": "data-resource",
+      "schema": {
+        "fields": [
+          {
+            "decimalChar": ".",
+            "groupChar": "",
+            "name": "Confirmed",
+            "type": "number"
+          },
+          {
+            "format": "%Y-%m-%d",
+            "name": "Date",
+            "type": "date"
+          },
+          {
+            "decimalChar": ".",
+            "groupChar": "",
+            "name": "Deaths",
+            "type": "number"
+          },
+          {
+            "decimalChar": ".",
+            "groupChar": "",
+            "name": "Recovered",
+            "type": "number"
+          }
+        ]
+      }
     }
-  ]
+  ],
+  "title": "Novel Coronavirus 2019"
 }
