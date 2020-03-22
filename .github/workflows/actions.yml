@@ -1,7 +1,6 @@
 on:
-  push:
-    branches:
-    - feature/auto-update-data
+  schedule:
+    - cron:  '0 0 * * *'
 
 jobs:
   deploy:
