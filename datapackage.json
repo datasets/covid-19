@@ -1,7 +1,8 @@
 {
   "bytes": 1465368,
   "count_of_rows": 28920,
-  "hash": "0645dcfca5d10e757252920dbcdbe67d",
+  "hash": "ac80ca047703880c26c97d8a6dc73df8",
+  "name": "covid-19",
   "profile": "data-package",
   "resources": [
     {
@@ -79,5 +80,6 @@
         ]
       }
     }
-  ]
+  ],
+  "title": "Novel Coronavirus 2019"
 }
