@@ -58,6 +58,7 @@
             "format": "default",
             "groupChar": "",
             "name": "Confirmed",
+            "title": "Cumulative total confirmed cases to date",
             "type": "number"
           },
           {
@@ -65,6 +66,7 @@
             "format": "default",
             "groupChar": "",
             "name": "Recovered",
+            "title": "Cumulative total recovered cases to date",
             "type": "number"
           },
           {
@@ -72,6 +74,7 @@
             "format": "default",
             "groupChar": "",
             "name": "Deaths",
+            "title": "Cumulative total deaths to date",
             "type": "number"
           }
         ],
