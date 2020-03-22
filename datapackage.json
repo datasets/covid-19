@@ -20,7 +20,7 @@
       "format": "csv",
       "hash": "7b65c350a6e621e770bdce075df8b657",
       "name": "time-series-19-covid-combined",
-      "path": "time-series-19-covid-combined.csv",
+      "path": "data/time-series-19-covid-combined.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [

@@ -1,4 +1,4 @@
-from dataflows import Flow, load, unpivot, find_replace, set_type, dump_to_path, update_package, update_resource, join, add_computed_field, delete_fields
+from dataflows import Flow, load, unpivot, find_replace, set_type, dump_to_path, update_package, update_resource, join, join_with_self, add_computed_field, delete_fields, checkpoint, duplicate
 
 BASE_URL = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/'
 CONFIRMED = 'time_series_19-covid-Confirmed.csv'
@@ -57,7 +57,7 @@ Flow(
         with_='{Case}'
       ),
       delete_fields(['Case']),
-      update_resource('time_series_19-covid-Deaths', name='time-series-19-covid-combined', path='time-series-19-covid-combined.csv'),
+      update_resource('time_series_19-covid-Deaths', name='time-series-19-covid-combined', path='data/time-series-19-covid-combined.csv'),
       update_package(name='covid-19', title='Novel Coronavirus 2019'),
       dump_to_path()
 ).results()[0]
