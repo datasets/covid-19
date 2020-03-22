@@ -10,7 +10,7 @@ We use [dataflows](https://github.com/datahq/dataflows) to process and normalize
 pip install dataflows
 ```
 
-Run the sript
+Run the script
 
 ```
 python process.py
