@@ -23,6 +23,7 @@ Flow(
       load(f'{BASE_URL}{CONFIRMED}'),
       load(f'{BASE_URL}{RECOVERED}'),
       load(f'{BASE_URL}{DEATH}'),
+      checkpoint('load_data'),
       unpivot(unpivoting_fields, extra_keys, extra_value),
       find_replace([{'name': 'Date', 'patterns': [{'find': '/', 'replace': '-'}]}]),
       to_normal_date,
