@@ -59,5 +59,34 @@ Flow(
       delete_fields(['Case']),
       update_resource('time_series_19-covid-Deaths', name='time-series-19-covid-combined', path='data/time-series-19-covid-combined.csv'),
       update_package(name='covid-19', title='Novel Coronavirus 2019'),
+      dump_to_path(),
+      checkpoint('processed_data'),
+      # Duplicate the stream to create aggregated data
+      duplicate(
+        source='time-series-19-covid-combined',
+        target_name='worldwide-aggregated',
+        target_path='worldwide-aggregated.csv'
+      ),
+      join_with_self(
+        resource_name='worldwide-aggregated',
+        join_key=['Date'],
+        fields=dict(
+            Date={
+                'name': 'Date'
+            },
+            Confirmed={
+                'name': 'Confirmed',
+                'aggregate': 'sum'
+            },
+            Recovered={
+                'name': 'Recovered',
+                'aggregate': 'sum'
+            },
+            Deaths={
+                'name': 'Deaths',
+                'aggregate': 'sum'
+            }
+        )
+      ),
       dump_to_path()
 ).results()[0]
