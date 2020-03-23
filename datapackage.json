@@ -1,7 +1,7 @@
 {
-  "bytes": 1505482,
+  "bytes": 1505765,
   "count_of_rows": 29768,
-  "hash": "7603c441142db6032adf74caf6eb87f9",
+  "hash": "7c1f355d6b5bd6ca69af974543cb5bc9",
   "name": "covid-19",
   "profile": "data-package",
   "resources": [
@@ -81,7 +81,7 @@
       }
     },
     {
-      "bytes": 1739,
+      "bytes": 2022,
       "dialect": {
         "delimiter": ",",
         "doubleQuote": true,
@@ -91,16 +91,34 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "1561dbd98fd8d7ac1286117c07e51076",
+      "hash": "941c6d8fa5769f1891f7d9162a70f86d",
       "name": "worldwide-aggregated",
       "path": "data/worldwide-aggregated.csv",
       "profile": "data-resource",
       "schema": {
         "fields": [
           {
+            "format": "default",
+            "name": "Province/State",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "Country/Region",
+            "type": "string"
+          },
+          {
             "decimalChar": ".",
+            "format": "default",
             "groupChar": "",
-            "name": "Confirmed",
+            "name": "Lat",
+            "type": "number"
+          },
+          {
+            "decimalChar": ".",
+            "format": "default",
+            "groupChar": "",
+            "name": "Long",
             "type": "number"
           },
           {
@@ -109,16 +127,25 @@
             "type": "date"
           },
           {
-            "decimalChar": ".",
+            "format": "default",
             "groupChar": "",
-            "name": "Deaths",
-            "type": "number"
+            "name": "Confirmed",
+            "title": "Cumulative total confirmed cases to date",
+            "type": "integer"
           },
           {
-            "decimalChar": ".",
+            "format": "default",
             "groupChar": "",
             "name": "Recovered",
-            "type": "number"
+            "title": "Cumulative total recovered cases to date",
+            "type": "integer"
+          },
+          {
+            "format": "default",
+            "groupChar": "",
+            "name": "Deaths",
+            "title": "Cumulative total deaths to date",
+            "type": "integer"
           }
         ]
       }
