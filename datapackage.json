@@ -1,7 +1,7 @@
 {
-  "bytes": 1505482,
-  "count_of_rows": 29768,
-  "hash": "ac8c0b4052b0175a92bedfded90f85e2",
+  "bytes": 1796366,
+  "count_of_rows": 40199,
+  "hash": "a0c947ee02ae0feabc93c3a7dc4d2a52",
   "name": "covid-19",
   "profile": "data-package",
   "resources": [
@@ -77,6 +77,57 @@
         ],
         "missingValues": [
           ""
+        ]
+      }
+    },
+    {
+      "bytes": 290884,
+      "dialect": {
+        "delimiter": ",",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "quoteChar": "\"",
+        "skipInitialSpace": false
+      },
+      "encoding": "utf-8",
+      "format": "csv",
+      "hash": "c13f9c5f7cd0254ef149c378c3a10902",
+      "name": "countries-aggregated",
+      "path": "data/countries-aggregated.csv",
+      "profile": "data-resource",
+      "schema": {
+        "fields": [
+          {
+            "format": "%Y-%m-%d",
+            "name": "Date",
+            "type": "date"
+          },
+          {
+            "format": "default",
+            "name": "Country",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "groupChar": "",
+            "name": "Confirmed",
+            "title": "Cumulative total confirmed cases to date",
+            "type": "integer"
+          },
+          {
+            "format": "default",
+            "groupChar": "",
+            "name": "Recovered",
+            "title": "Cumulative total recovered cases to date",
+            "type": "integer"
+          },
+          {
+            "format": "default",
+            "groupChar": "",
+            "name": "Deaths",
+            "title": "Cumulative total deaths to date",
+            "type": "integer"
+          }
         ]
       }
     },
