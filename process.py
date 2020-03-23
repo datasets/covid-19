@@ -58,8 +58,6 @@ Flow(
       ),
       delete_fields(['Case']),
       update_resource('time_series_19-covid-Deaths', name='time-series-19-covid-combined', path='data/time-series-19-covid-combined.csv'),
-      update_package(name='covid-19', title='Novel Coronavirus 2019'),
-      dump_to_path(),
       checkpoint('processed_data'),
       # Duplicate the stream to create aggregated data
       duplicate(
@@ -87,6 +85,22 @@ Flow(
                 'aggregate': 'sum'
             }
         )
+      ),
+      update_package(
+        name='covid-19',
+        title='Novel Coronavirus 2019',
+        views=[
+            {
+              "title": "Total world to date",
+              "resources": ["worldwide-aggregated"],
+              "specType": "simple",
+              "spec": {
+                "group": "Date",
+                "series": ["Confirmed", "Recovered", "Deaths"],
+                "type": "line"
+              }
+            }
+        ]
       ),
       dump_to_path()
 ).results()[0]

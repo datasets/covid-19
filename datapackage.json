@@ -1,12 +1,12 @@
 {
-  "bytes": 1467076,
-  "count_of_rows": 28980,
-  "hash": "6e25a726932e6dabaaa8b8e5ed578dd7",
+  "bytes": 1505482,
+  "count_of_rows": 29768,
+  "hash": "7603c441142db6032adf74caf6eb87f9",
   "name": "covid-19",
   "profile": "data-package",
   "resources": [
     {
-      "bytes": 1465368,
+      "bytes": 1503743,
       "dialect": {
         "caseSensitiveHeader": false,
         "delimiter": ",",
@@ -18,7 +18,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "7b65c350a6e621e770bdce075df8b657",
+      "hash": "5cff1c69d0a1e017cefe86db5e89192d",
       "name": "time-series-19-covid-combined",
       "path": "data/time-series-19-covid-combined.csv",
       "profile": "tabular-data-resource",
@@ -81,7 +81,7 @@
       }
     },
     {
-      "bytes": 1708,
+      "bytes": 1739,
       "dialect": {
         "delimiter": ",",
         "doubleQuote": true,
@@ -91,7 +91,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "f261b5b527542ceace4f2c7941d69e40",
+      "hash": "1561dbd98fd8d7ac1286117c07e51076",
       "name": "worldwide-aggregated",
       "path": "data/worldwide-aggregated.csv",
       "profile": "data-resource",
@@ -124,5 +124,23 @@
       }
     }
   ],
-  "title": "Novel Coronavirus 2019"
+  "title": "Novel Coronavirus 2019",
+  "views": [
+    {
+      "resources": [
+        "worldwide-aggregated"
+      ],
+      "spec": {
+        "group": "Date",
+        "series": [
+          "Confirmed",
+          "Recovered",
+          "Deaths"
+        ],
+        "type": "line"
+      },
+      "specType": "simple",
+      "title": "Total world to date"
+    }
+  ]
 }
