@@ -1,12 +1,12 @@
 {
-  "bytes": 1796366,
-  "count_of_rows": 40199,
-  "hash": "a0c947ee02ae0feabc93c3a7dc4d2a52",
+  "bytes": 1905585,
+  "count_of_rows": 42470,
+  "hash": "81aae76b0bd89ffd2f3fe135d619d96a",
   "name": "covid-19",
   "profile": "data-package",
   "resources": [
     {
-      "bytes": 1503743,
+      "bytes": 1586504,
       "dialect": {
         "caseSensitiveHeader": false,
         "delimiter": ",",
@@ -18,7 +18,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "d9550a8b6acfae7b139b7c61af1993f1",
+      "hash": "c1e32d419f94054e3ff37191e64d26b4",
       "name": "time-series-19-covid-combined",
       "path": "data/time-series-19-covid-combined.csv",
       "profile": "tabular-data-resource",
@@ -76,12 +76,14 @@
           }
         ],
         "missingValues": [
+          "None",
+          null,
           ""
         ]
       }
     },
     {
-      "bytes": 290884,
+      "bytes": 317311,
       "dialect": {
         "delimiter": ",",
         "doubleQuote": true,
@@ -91,7 +93,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "c13f9c5f7cd0254ef149c378c3a10902",
+      "hash": "a59719082a4e1e20769a515e330338a5",
       "name": "countries-aggregated",
       "path": "data/countries-aggregated.csv",
       "profile": "data-resource",
@@ -128,11 +130,16 @@
             "title": "Cumulative total deaths to date",
             "type": "integer"
           }
+        ],
+        "missingValues": [
+          "None",
+          null,
+          ""
         ]
       }
     },
     {
-      "bytes": 1739,
+      "bytes": 1770,
       "dialect": {
         "delimiter": ",",
         "doubleQuote": true,
@@ -142,7 +149,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "ef0e2669f3d7949ff7f1e6a8404f1e68",
+      "hash": "0e1f20b63ee4be40bff10a3051864fc8",
       "name": "worldwide-aggregated",
       "path": "data/worldwide-aggregated.csv",
       "profile": "data-resource",
@@ -174,6 +181,11 @@
             "title": "Cumulative total deaths to date",
             "type": "integer"
           }
+        ],
+        "missingValues": [
+          "None",
+          null,
+          ""
         ]
       }
     }

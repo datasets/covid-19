@@ -62,7 +62,7 @@ Flow(
       ),
       delete_fields(['Case']),
       update_resource('time_series_19-covid-Deaths', name='time-series-19-covid-combined', path='data/time-series-19-covid-combined.csv'),
-      update_schema('time-series-19-covid-combined', fields=[
+      update_schema('time-series-19-covid-combined', missingValues=['None', None, ''], fields=[
         {
         "format": "%Y-%m-%d",
         "name": "Date",
@@ -142,7 +142,7 @@ Flow(
             }
         )
       ),
-      update_schema('worldwide-aggregated', fields=[
+      update_schema('worldwide-aggregated', missingValues=['None', None, ''], fields=[
         {
           "format": "%Y-%m-%d",
           "name": "Date",
@@ -201,7 +201,7 @@ Flow(
             }
         )
       ),
-      update_schema('countries-aggregated', fields=[
+      update_schema('countries-aggregated', missingValues=['None', None, ''], fields=[
         {
           "format": "%Y-%m-%d",
           "name": "Date",
