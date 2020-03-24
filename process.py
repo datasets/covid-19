@@ -1,8 +1,8 @@
 from dataflows import Flow, load, unpivot, find_replace, set_type, dump_to_path, update_package, update_resource, update_schema, join, join_with_self, add_computed_field, delete_fields, checkpoint, duplicate, filter_rows
 
 BASE_URL = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/'
-CONFIRMED = 'time_series_19-covid-Confirmed.csv'
-DEATH = 'time_series_19-covid-Deaths.csv'
+CONFIRMED = 'time_series_covid19_confirmed_global.csv'
+DEATH = 'time_series_covid19_deaths_global.csv'
 RECOVERED = 'time_series_19-covid-Recovered.csv'
 
 def to_normal_date(row):
@@ -34,10 +34,10 @@ Flow(
       set_type('Date', type='date', format='%d-%m-%y', resources=None),
       set_type('Case', type='number', resources=None),
       join(
-        source_name='time_series_19-covid-Confirmed',
+        source_name='time_series_covid19_confirmed_global',
         source_key=['Province/State', 'Country/Region', 'Date'],
         source_delete=True,
-        target_name='time_series_19-covid-Deaths',
+        target_name='time_series_covid19_deaths_global',
         target_key=['Province/State', 'Country/Region', 'Date'],
         fields=dict(Confirmed={
             'name': 'Case',
@@ -48,7 +48,7 @@ Flow(
         source_name='time_series_19-covid-Recovered',
         source_key=['Province/State', 'Country/Region', 'Date'],
         source_delete=True,
-        target_name='time_series_19-covid-Deaths',
+        target_name='time_series_covid19_deaths_global',
         target_key=['Province/State', 'Country/Region', 'Date'],
         fields=dict(Recovered={
             'name': 'Case',
@@ -61,7 +61,7 @@ Flow(
         with_='{Case}'
       ),
       delete_fields(['Case']),
-      update_resource('time_series_19-covid-Deaths', name='time-series-19-covid-combined', path='data/time-series-19-covid-combined.csv'),
+      update_resource('time_series_covid19_deaths_global', name='time-series-19-covid-combined', path='data/time-series-19-covid-combined.csv'),
       update_schema('time-series-19-covid-combined', missingValues=['None', ''], fields=[
         {
         "format": "%Y-%m-%d",
