@@ -1,7 +1,7 @@
 {
   "bytes": 979273,
   "count_of_rows": 25296,
-  "hash": "6c8d26b210a9141fbcd24652a104fae1",
+  "hash": "934fb9bb820482546b0c1699c8ec73e5",
   "name": "covid-19",
   "profile": "data-package",
   "resources": [
@@ -273,6 +273,27 @@
       },
       "specType": "simple",
       "title": "Total world to date"
+    },
+    {
+      "resources": [
+        "key-countries-pivoted"
+      ],
+      "spec": {
+        "group": "Date",
+        "series": [
+          "China",
+          "US",
+          "United_Kingdom",
+          "Italy",
+          "France",
+          "Germany",
+          "Spain",
+          "Iran"
+        ],
+        "type": "line"
+      },
+      "specType": "simple",
+      "title": "Number of confirmed cases in key countries"
     }
   ]
 }

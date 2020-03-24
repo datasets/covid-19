@@ -288,6 +288,16 @@ Flow(
                 "series": ["Confirmed", "Recovered", "Deaths"],
                 "type": "line"
               }
+            },
+            {
+                "title": "Number of confirmed cases in key countries",
+                "resources": ["key-countries-pivoted"],
+                "specType": "simple",
+                "spec": {
+                    "group": "Date",
+                    "series": ["China", "US", "United_Kingdom", "Italy", "France", "Germany", "Spain", "Iran"],
+                    "type": "line"
+                }
             }
         ]
       ),
