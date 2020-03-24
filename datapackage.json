@@ -1,7 +1,7 @@
 {
-  "bytes": 976643,
-  "count_of_rows": 25234,
-  "hash": "9bc713d601a6c93496187964b2922be5",
+  "bytes": 979273,
+  "count_of_rows": 25296,
+  "hash": "6c8d26b210a9141fbcd24652a104fae1",
   "name": "covid-19",
   "profile": "data-package",
   "resources": [
@@ -72,6 +72,75 @@
             "groupChar": "",
             "name": "Deaths",
             "title": "Cumulative total deaths to date",
+            "type": "integer"
+          }
+        ],
+        "missingValues": [
+          "None",
+          ""
+        ]
+      }
+    },
+    {
+      "bytes": 2630,
+      "dialect": {
+        "delimiter": ",",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "quoteChar": "\"",
+        "skipInitialSpace": false
+      },
+      "encoding": "utf-8",
+      "format": "csv",
+      "hash": "8928741fc196e6f76113ed59b080b753",
+      "name": "key-countries-pivoted",
+      "path": "data/key-countries-pivoted.csv",
+      "profile": "data-resource",
+      "schema": {
+        "fields": [
+          {
+            "format": "%Y-%m-%d",
+            "name": "Date",
+            "type": "date"
+          },
+          {
+            "name": "China",
+            "title": "Cumulative total confirmed cases to date.",
+            "type": "integer"
+          },
+          {
+            "name": "US",
+            "title": "Cumulative total confirmed cases to date.",
+            "type": "integer"
+          },
+          {
+            "name": "United_Kingdom",
+            "title": "Cumulative total confirmed cases to date.",
+            "type": "integer"
+          },
+          {
+            "name": "Italy",
+            "title": "Cumulative total confirmed cases to date.",
+            "type": "integer"
+          },
+          {
+            "name": "France",
+            "title": "Cumulative total confirmed cases to date.",
+            "type": "integer"
+          },
+          {
+            "name": "Germany",
+            "title": "Cumulative total confirmed cases to date.",
+            "type": "integer"
+          },
+          {
+            "name": "Spain",
+            "title": "Cumulative total confirmed cases to date.",
+            "type": "integer"
+          },
+          {
+            "name": "Iran",
+            "title": "Cumulative total confirmed cases to date.",
             "type": "integer"
           }
         ],

@@ -19,9 +19,40 @@ unpivoting_fields = [
 extra_keys = [{'name': 'Date', 'type': 'string'} ]
 extra_value = {'name': 'Case', 'type': 'number'}
 
-def is_key_country(row):
-    key_countries = ['Chine', 'US', 'United Kingdom', 'Italy', 'France', 'Germany']
-    return row['Country'] in key_countries
+
+def pivot_key_countries(package):
+    key_countries = ['China', 'US', 'United_Kingdom', 'Italy', 'France', 'Germany', 'Spain', 'Iran']
+    for country in key_countries:
+        package.pkg.descriptor['resources'][1]['schema']['fields'].append(dict(
+            name=country,
+            type='integer',
+            title='Cumulative total confirmed cases to date.'
+        ))
+    yield package.pkg
+    resources = iter(package)
+
+    data_by_province = next(resources)
+    yield data_by_province
+
+    data_by_key_countries = next(resources)
+    def process_rows(rows):
+        new_row = dict(Date=None, China=None, US=None, United_Kingdom=None, Italy=None, France=None, Germany=None, Spain=None, Iran=None)
+        for row in rows:
+            country = row['Country'].replace(' ', '_')
+            if country in key_countries:
+                new_row['Date'] = row['Date']
+                new_row[country] = row['Confirmed']
+            if None not in new_row.values():
+                yield new_row
+                new_row = dict(Date=None, China=None, US=None, United_Kingdom=None, Italy=None, France=None, Germany=None, Spain=None, Iran=None)
+
+    yield process_rows(data_by_key_countries)
+
+    data_by_country = next(resources)
+    yield data_by_country
+
+    worldwide = next(resources)
+    yield worldwide
 
 Flow(
       load(f'{BASE_URL}{CONFIRMED}'),
@@ -171,14 +202,14 @@ Flow(
         }
       ]),
       checkpoint('processed_worldwide_data'),
-      # Create another resource with countries aggregated
+      # Create another resource with key countries pivoted
       duplicate(
         source='time-series-19-covid-combined',
-        target_name='countries-aggregated',
-        target_path='data/countries-aggregated.csv'
+        target_name='key-countries-pivoted',
+        target_path='data/key-countries-pivoted.csv'
       ),
       join_with_self(
-        resource_name='countries-aggregated',
+        resource_name='key-countries-pivoted',
         join_key=['Date', 'Country/Region'],
         fields=dict(
             Date={
@@ -201,7 +232,7 @@ Flow(
             }
         )
       ),
-      update_schema('countries-aggregated', missingValues=['None', ''], fields=[
+      update_schema('key-countries-pivoted', missingValues=['None', ''], fields=[
         {
           "format": "%Y-%m-%d",
           "name": "Date",
@@ -235,6 +266,14 @@ Flow(
         }
       ]),
       checkpoint('processed_country_data'),
+      # All countries aggregated
+      duplicate(
+        source='key-countries-pivoted',
+        target_name='countries-aggregated',
+        target_path='data/countries-aggregated.csv'
+      ),
+      pivot_key_countries,
+      delete_fields(['Country', 'Confirmed', 'Recovered', 'Deaths'], resources='key-countries-pivoted'),
       # Prepare data package (name, title) and add views
       update_package(
         name='covid-19',
