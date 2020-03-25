@@ -52,13 +52,13 @@ This repository uses [dataflows](https://github.com/datahq/dataflows) to process
 You first need to install the dependencies:
 
 ```
-pip install -r requirements.txt
+pip install -r scripts/requirements.txt
 ```
 
 Then run the script
 
 ```
-python process.py
+python scripts/process.py
 ```
 
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
