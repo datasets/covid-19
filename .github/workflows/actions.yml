@@ -19,7 +19,7 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git commit --allow-empty -m "Daily auto-update of the data" -a
+        git commit --allow-empty -m "Auto-update of the data packages" -a
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
