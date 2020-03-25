@@ -1,7 +1,7 @@
 {
-  "bytes": 1005128,
+  "bytes": 1006284,
   "count_of_rows": 26019,
-  "hash": "d22b1a7ca49de32ccd5af5015d079e55",
+  "hash": "5627f1efc2c009c98a656056875003ff",
   "name": "covid-19",
   "profile": "data-package",
   "resources": [
@@ -104,43 +104,43 @@
             "type": "date"
           },
           {
+            "description": "Cumulative total confirmed cases to date.",
             "name": "China",
-            "title": "Cumulative total confirmed cases to date.",
             "type": "integer"
           },
           {
+            "description": "Cumulative total confirmed cases to date.",
             "name": "US",
-            "title": "Cumulative total confirmed cases to date.",
             "type": "integer"
           },
           {
+            "description": "Cumulative total confirmed cases to date.",
             "name": "United_Kingdom",
-            "title": "Cumulative total confirmed cases to date.",
             "type": "integer"
           },
           {
+            "description": "Cumulative total confirmed cases to date.",
             "name": "Italy",
-            "title": "Cumulative total confirmed cases to date.",
             "type": "integer"
           },
           {
+            "description": "Cumulative total confirmed cases to date.",
             "name": "France",
-            "title": "Cumulative total confirmed cases to date.",
             "type": "integer"
           },
           {
+            "description": "Cumulative total confirmed cases to date.",
             "name": "Germany",
-            "title": "Cumulative total confirmed cases to date.",
             "type": "integer"
           },
           {
+            "description": "Cumulative total confirmed cases to date.",
             "name": "Spain",
-            "title": "Cumulative total confirmed cases to date.",
             "type": "integer"
           },
           {
+            "description": "Cumulative total confirmed cases to date.",
             "name": "Iran",
-            "title": "Cumulative total confirmed cases to date.",
             "type": "integer"
           }
         ],
@@ -206,7 +206,7 @@
       }
     },
     {
-      "bytes": 1796,
+      "bytes": 2952,
       "dialect": {
         "delimiter": ",",
         "doubleQuote": true,
@@ -216,7 +216,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "3e4773d411336b35ed32dbf4d4bcaf86",
+      "hash": "113e3b6565e97e7874da8d29e90bb8f2",
       "name": "worldwide-aggregated",
       "path": "data/worldwide-aggregated.csv",
       "profile": "data-resource",
@@ -247,6 +247,13 @@
             "name": "Deaths",
             "title": "Cumulative total deaths to date",
             "type": "integer"
+          },
+          {
+            "decimalChar": ".",
+            "description": "Inrease rate from the previous day in percentage.",
+            "groupChar": "",
+            "name": "Increase rate",
+            "type": "number"
           }
         ],
         "missingValues": [
@@ -320,7 +327,21 @@
         "type": "bar"
       },
       "specType": "simple",
-      "title": "Mortality rate"
+      "title": "Mortality rate in percentage"
+    },
+    {
+      "resources": [
+        "worldwide-aggregated"
+      ],
+      "spec": {
+        "group": "Date",
+        "series": [
+          "Increase rate"
+        ],
+        "type": "bar"
+      },
+      "specType": "simple",
+      "title": "Increase rate from previous day in confirmed cases worldwide"
     }
   ]
 }

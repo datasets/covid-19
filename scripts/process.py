@@ -26,7 +26,7 @@ def pivot_key_countries(package):
         package.pkg.descriptor['resources'][1]['schema']['fields'].append(dict(
             name=country,
             type='integer',
-            title='Cumulative total confirmed cases to date.'
+            description='Cumulative total confirmed cases to date.'
         ))
     yield package.pkg
     resources = iter(package)
@@ -53,6 +53,29 @@ def pivot_key_countries(package):
 
     worldwide = next(resources)
     yield worldwide
+
+
+def calculate_increase_rate(package):
+    package.pkg.descriptor['resources'][1]['schema']['fields'].append(dict(
+        name='Increase rate',
+        type='number',
+        description='Inrease rate from the previous day in percentage.'
+    ))
+    yield package.pkg
+    resources = iter(package)
+    first_resource = next(resources)
+    yield first_resource
+
+    worldwide_data = next(resources)
+    def process_rows(rows):
+        previous_row = None
+        for row in rows:
+            if previous_row:
+                row['Increase rate'] = (row['Confirmed'] - previous_row['Confirmed']) / previous_row['Confirmed'] * 100
+            previous_row = row
+            yield row
+    yield process_rows(worldwide_data)
+
 
 Flow(
       load(f'{BASE_URL}{CONFIRMED}'),
@@ -202,6 +225,8 @@ Flow(
         }
       ]),
       checkpoint('processed_worldwide_data'),
+      # Add daily increase rate field in the worldwide data
+      calculate_increase_rate,
       # Create another resource with key countries pivoted
       duplicate(
         source='time-series-19-covid-combined',
@@ -300,7 +325,7 @@ Flow(
                 }
             },
             {
-                "title": "Mortality rate",
+                "title": "Mortality rate in percentage",
                 "resources": [
                     {
                         "name": "worldwide-aggregated",
@@ -319,6 +344,16 @@ Flow(
                 "spec": {
                     "group": "Date",
                     "series": ["Mortality rate"],
+                    "type": "bar"
+                }
+            },
+            {
+                "title": "Increase rate from previous day in confirmed cases worldwide",
+                "resources": ["worldwide-aggregated"],
+                "specType": "simple",
+                "spec": {
+                    "group": "Date",
+                    "series": ["Increase rate"],
                     "type": "bar"
                 }
             }
