@@ -298,6 +298,29 @@ Flow(
                     "series": ["China", "US", "United_Kingdom", "Italy", "France", "Germany", "Spain", "Iran"],
                     "type": "line"
                 }
+            },
+            {
+                "title": "Mortality rate",
+                "resources": [
+                    {
+                        "name": "worldwide-aggregated",
+                        "transform": [
+                            {
+                                "type": "formula",
+                                "expressions": [
+                                    "data['Deaths'] / data['Confirmed'] * 100 + '%'"
+                                ],
+                                "asFields": ["Mortality rate"]
+                            }
+                        ]
+                    }
+                ],
+                "specType": "simple",
+                "spec": {
+                    "group": "Date",
+                    "series": ["Mortality rate"],
+                    "type": "bar"
+                }
             }
         ]
       ),
