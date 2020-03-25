@@ -29,6 +29,7 @@ kvfile==0.0.7
 linear-tsv==1.1.0
 MarkupSafe==1.1.1
 openpyxl==3.0.3
+plyvel==1.2.0
 pybloom-live==3.0.0
 pyrsistent==0.15.7
 python-dateutil==2.8.1
