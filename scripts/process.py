@@ -3,7 +3,6 @@ from dataflows import Flow, load, unpivot, find_replace, set_type, dump_to_path,
 BASE_URL = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/'
 CONFIRMED = 'time_series_covid19_confirmed_global.csv'
 DEATH = 'time_series_covid19_deaths_global.csv'
-RECOVERED = 'time_series_19-covid-Recovered.csv'
 
 def to_normal_date(row):
     old_date = row['Date']
@@ -79,7 +78,6 @@ def calculate_increase_rate(package):
 
 Flow(
       load(f'{BASE_URL}{CONFIRMED}'),
-      load(f'{BASE_URL}{RECOVERED}'),
       load(f'{BASE_URL}{DEATH}'),
       checkpoint('load_data'),
       unpivot(unpivoting_fields, extra_keys, extra_value),
@@ -94,17 +92,6 @@ Flow(
         target_name='time_series_covid19_deaths_global',
         target_key=['Province/State', 'Country/Region', 'Date'],
         fields=dict(Confirmed={
-            'name': 'Case',
-            'aggregate': 'first'
-        })
-      ),
-      join(
-        source_name='time_series_19-covid-Recovered',
-        source_key=['Province/State', 'Country/Region', 'Date'],
-        source_delete=True,
-        target_name='time_series_covid19_deaths_global',
-        target_key=['Province/State', 'Country/Region', 'Date'],
-        fields=dict(Recovered={
             'name': 'Case',
             'aggregate': 'first'
         })
@@ -156,13 +143,6 @@ Flow(
         {
           "format": "default",
           "groupChar": "",
-          "name": "Recovered",
-          "title": "Cumulative total recovered cases to date",
-          "type": "integer"
-        },
-        {
-          "format": "default",
-          "groupChar": "",
           "name": "Deaths",
           "title": "Cumulative total deaths to date",
           "type": "integer"
@@ -186,10 +166,6 @@ Flow(
                 'name': 'Confirmed',
                 'aggregate': 'sum'
             },
-            Recovered={
-                'name': 'Recovered',
-                'aggregate': 'sum'
-            },
             Deaths={
                 'name': 'Deaths',
                 'aggregate': 'sum'
@@ -207,13 +183,6 @@ Flow(
           "groupChar": "",
           "name": "Confirmed",
           "title": "Cumulative total confirmed cases to date",
-          "type": "integer"
-        },
-        {
-          "format": "default",
-          "groupChar": "",
-          "name": "Recovered",
-          "title": "Cumulative total recovered cases to date",
           "type": "integer"
         },
         {
@@ -247,10 +216,6 @@ Flow(
                 'name': 'Confirmed',
                 'aggregate': 'sum'
             },
-            Recovered={
-                'name': 'Recovered',
-                'aggregate': 'sum'
-            },
             Deaths={
                 'name': 'Deaths',
                 'aggregate': 'sum'
@@ -278,13 +243,6 @@ Flow(
         {
           "format": "default",
           "groupChar": "",
-          "name": "Recovered",
-          "title": "Cumulative total recovered cases to date",
-          "type": "integer"
-        },
-        {
-          "format": "default",
-          "groupChar": "",
           "name": "Deaths",
           "title": "Cumulative total deaths to date",
           "type": "integer"
@@ -298,7 +256,7 @@ Flow(
         target_path='data/countries-aggregated.csv'
       ),
       pivot_key_countries,
-      delete_fields(['Country', 'Confirmed', 'Recovered', 'Deaths'], resources='key-countries-pivoted'),
+      delete_fields(['Country', 'Confirmed', 'Deaths'], resources='key-countries-pivoted'),
       # Prepare data package (name, title) and add views
       update_package(
         name='covid-19',
@@ -310,7 +268,7 @@ Flow(
               "specType": "simple",
               "spec": {
                 "group": "Date",
-                "series": ["Confirmed", "Recovered", "Deaths"],
+                "series": ["Confirmed", "Deaths"],
                 "type": "line"
               }
             },
