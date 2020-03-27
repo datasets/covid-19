@@ -26,10 +26,9 @@ https://datahub.io/core/covid-19
 The upstream dataset currently lists the following upstream datasources:
 
 - World Health Organization (WHO): https://www.who.int/
-- DXY.cn. Pneumonia. 2020. http://3g.dxy.cn/newh5/view/pneumonia.
+- DXY.cn. Pneumonia. 2020. http://3g.dxy.cn/newh5/view/pneumonia
 - BNO News: https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/
-- National Health Commission of the People’s Republic of China (NHC):
-- http://www.nhc.gov.cn/xcs/yqtb/list_gzbd.shtml
+- National Health Commission of the People’s Republic of China (NHC): http://www.nhc.gov.cn/xcs/yqtb/list_gzbd.shtml
 - China CDC (CCDC): http://weekly.chinacdc.cn/news/TrackingtheEpidemic.htm
 - Hong Kong Department of Health: https://www.chp.gov.hk/en/features/102465.html
 - Macau Government: https://www.ssm.gov.mo/portal/
@@ -70,5 +69,5 @@ This dataset is licensed under the Open Data Commons [Public Domain and Dedicati
 
 [pddl]: https://www.opendatacommons.org/licenses/pddl/1-0/
 
-The data comes from a variety public sources and was collated in the first instance via John Hopkins University on GitHub. We have used that data and processed it further. Given the public sources and factual nature we believe that there the data is public domain and are therefore releasing the results under the Public Domain Dedication and License. We are also, of course, explicitly licensing any contribution of ours under that license.
+The data comes from a variety public sources and was collated in the first instance via Johns Hopkins University on GitHub. We have used that data and processed it further. Given the public sources and factual nature we believe that there the data is public domain and are therefore releasing the results under the Public Domain Dedication and License. We are also, of course, explicitly licensing any contribution of ours under that license.
 
