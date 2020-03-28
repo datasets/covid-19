@@ -1,12 +1,12 @@
 {
-  "bytes": 1045647,
+  "bytes": 1106410,
   "count_of_rows": 28182,
-  "hash": "0ae8471c87cba4ba32d7256e7e0aeaf8",
+  "hash": "d70be1ff40c68b1763c281177cde7ddb",
   "name": "covid-19",
   "profile": "data-package",
   "resources": [
     {
-      "bytes": 739607,
+      "bytes": 775432,
       "dialect": {
         "caseSensitiveHeader": false,
         "delimiter": ",",
@@ -18,7 +18,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "7fb187b2489770071ff1a95441100d4f",
+      "hash": "b4f06f27e821953eefa6709ebfede5b8",
       "name": "time-series-19-covid-combined",
       "path": "data/time-series-19-covid-combined.csv",
       "profile": "tabular-data-resource",
@@ -58,6 +58,13 @@
             "groupChar": "",
             "name": "Confirmed",
             "title": "Cumulative total confirmed cases to date",
+            "type": "integer"
+          },
+          {
+            "format": "default",
+            "groupChar": "",
+            "name": "Recovered",
+            "title": "Cumulative total recovered cases to date",
             "type": "integer"
           },
           {
@@ -144,7 +151,7 @@
       }
     },
     {
-      "bytes": 300427,
+      "bytes": 325000,
       "dialect": {
         "delimiter": ",",
         "doubleQuote": true,
@@ -154,7 +161,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "a75fb16a33d38976723d1b9dbddda1b9",
+      "hash": "a935edc52366c454854a576add9e6674",
       "name": "countries-aggregated",
       "path": "data/countries-aggregated.csv",
       "profile": "data-resource",
@@ -180,6 +187,13 @@
           {
             "format": "default",
             "groupChar": "",
+            "name": "Recovered",
+            "title": "Cumulative total recovered cases to date",
+            "type": "integer"
+          },
+          {
+            "format": "default",
+            "groupChar": "",
             "name": "Deaths",
             "title": "Cumulative total deaths to date",
             "type": "integer"
@@ -192,7 +206,7 @@
       }
     },
     {
-      "bytes": 2744,
+      "bytes": 3109,
       "dialect": {
         "delimiter": ",",
         "doubleQuote": true,
@@ -202,7 +216,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "53a9130a1d63b30d05d84a69a7d31594",
+      "hash": "b2a703cf71c8c8577c0ab751a806dda0",
       "name": "worldwide-aggregated",
       "path": "data/worldwide-aggregated.csv",
       "profile": "data-resource",
@@ -218,6 +232,13 @@
             "groupChar": "",
             "name": "Confirmed",
             "title": "Cumulative total confirmed cases to date",
+            "type": "integer"
+          },
+          {
+            "format": "default",
+            "groupChar": "",
+            "name": "Recovered",
+            "title": "Cumulative total recovered cases to date",
             "type": "integer"
           },
           {
