@@ -29,7 +29,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-01-22,Cabo Verde,0,0,0
 2020-01-22,Cambodia,0,0,0
 2020-01-22,Cameroon,0,0,0
-2020-01-22,Canada,0,,0
+2020-01-22,Canada,0,0,0
 2020-01-22,Central African Republic,0,0,0
 2020-01-22,Chad,0,0,0
 2020-01-22,Chile,0,0,0
@@ -206,7 +206,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-01-23,Cabo Verde,0,0,0
 2020-01-23,Cambodia,0,0,0
 2020-01-23,Cameroon,0,0,0
-2020-01-23,Canada,0,,0
+2020-01-23,Canada,0,0,0
 2020-01-23,Central African Republic,0,0,0
 2020-01-23,Chad,0,0,0
 2020-01-23,Chile,0,0,0
@@ -383,7 +383,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-01-24,Cabo Verde,0,0,0
 2020-01-24,Cambodia,0,0,0
 2020-01-24,Cameroon,0,0,0
-2020-01-24,Canada,0,,0
+2020-01-24,Canada,0,0,0
 2020-01-24,Central African Republic,0,0,0
 2020-01-24,Chad,0,0,0
 2020-01-24,Chile,0,0,0
@@ -560,7 +560,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-01-25,Cabo Verde,0,0,0
 2020-01-25,Cambodia,0,0,0
 2020-01-25,Cameroon,0,0,0
-2020-01-25,Canada,0,,0
+2020-01-25,Canada,0,0,0
 2020-01-25,Central African Republic,0,0,0
 2020-01-25,Chad,0,0,0
 2020-01-25,Chile,0,0,0
@@ -737,7 +737,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-01-26,Cabo Verde,0,0,0
 2020-01-26,Cambodia,0,0,0
 2020-01-26,Cameroon,0,0,0
-2020-01-26,Canada,1,,0
+2020-01-26,Canada,1,0,0
 2020-01-26,Central African Republic,0,0,0
 2020-01-26,Chad,0,0,0
 2020-01-26,Chile,0,0,0
@@ -914,7 +914,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-01-27,Cabo Verde,0,0,0
 2020-01-27,Cambodia,1,0,0
 2020-01-27,Cameroon,0,0,0
-2020-01-27,Canada,1,,0
+2020-01-27,Canada,1,0,0
 2020-01-27,Central African Republic,0,0,0
 2020-01-27,Chad,0,0,0
 2020-01-27,Chile,0,0,0
@@ -1091,7 +1091,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-01-28,Cabo Verde,0,0,0
 2020-01-28,Cambodia,1,0,0
 2020-01-28,Cameroon,0,0,0
-2020-01-28,Canada,2,,0
+2020-01-28,Canada,2,0,0
 2020-01-28,Central African Republic,0,0,0
 2020-01-28,Chad,0,0,0
 2020-01-28,Chile,0,0,0
@@ -1268,7 +1268,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-01-29,Cabo Verde,0,0,0
 2020-01-29,Cambodia,1,0,0
 2020-01-29,Cameroon,0,0,0
-2020-01-29,Canada,2,,0
+2020-01-29,Canada,2,0,0
 2020-01-29,Central African Republic,0,0,0
 2020-01-29,Chad,0,0,0
 2020-01-29,Chile,0,0,0
@@ -1445,7 +1445,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-01-30,Cabo Verde,0,0,0
 2020-01-30,Cambodia,1,0,0
 2020-01-30,Cameroon,0,0,0
-2020-01-30,Canada,2,,0
+2020-01-30,Canada,2,0,0
 2020-01-30,Central African Republic,0,0,0
 2020-01-30,Chad,0,0,0
 2020-01-30,Chile,0,0,0
@@ -1622,7 +1622,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-01-31,Cabo Verde,0,0,0
 2020-01-31,Cambodia,1,0,0
 2020-01-31,Cameroon,0,0,0
-2020-01-31,Canada,4,,0
+2020-01-31,Canada,4,0,0
 2020-01-31,Central African Republic,0,0,0
 2020-01-31,Chad,0,0,0
 2020-01-31,Chile,0,0,0
@@ -1799,7 +1799,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-01,Cabo Verde,0,0,0
 2020-02-01,Cambodia,1,0,0
 2020-02-01,Cameroon,0,0,0
-2020-02-01,Canada,4,,0
+2020-02-01,Canada,4,0,0
 2020-02-01,Central African Republic,0,0,0
 2020-02-01,Chad,0,0,0
 2020-02-01,Chile,0,0,0
@@ -1976,7 +1976,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-02,Cabo Verde,0,0,0
 2020-02-02,Cambodia,1,0,0
 2020-02-02,Cameroon,0,0,0
-2020-02-02,Canada,4,,0
+2020-02-02,Canada,4,0,0
 2020-02-02,Central African Republic,0,0,0
 2020-02-02,Chad,0,0,0
 2020-02-02,Chile,0,0,0
@@ -2153,7 +2153,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-03,Cabo Verde,0,0,0
 2020-02-03,Cambodia,1,0,0
 2020-02-03,Cameroon,0,0,0
-2020-02-03,Canada,4,,0
+2020-02-03,Canada,4,0,0
 2020-02-03,Central African Republic,0,0,0
 2020-02-03,Chad,0,0,0
 2020-02-03,Chile,0,0,0
@@ -2330,7 +2330,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-04,Cabo Verde,0,0,0
 2020-02-04,Cambodia,1,0,0
 2020-02-04,Cameroon,0,0,0
-2020-02-04,Canada,4,,0
+2020-02-04,Canada,4,0,0
 2020-02-04,Central African Republic,0,0,0
 2020-02-04,Chad,0,0,0
 2020-02-04,Chile,0,0,0
@@ -2507,7 +2507,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-05,Cabo Verde,0,0,0
 2020-02-05,Cambodia,1,0,0
 2020-02-05,Cameroon,0,0,0
-2020-02-05,Canada,5,,0
+2020-02-05,Canada,5,0,0
 2020-02-05,Central African Republic,0,0,0
 2020-02-05,Chad,0,0,0
 2020-02-05,Chile,0,0,0
@@ -2684,7 +2684,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-06,Cabo Verde,0,0,0
 2020-02-06,Cambodia,1,0,0
 2020-02-06,Cameroon,0,0,0
-2020-02-06,Canada,5,,0
+2020-02-06,Canada,5,0,0
 2020-02-06,Central African Republic,0,0,0
 2020-02-06,Chad,0,0,0
 2020-02-06,Chile,0,0,0
@@ -2861,7 +2861,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-07,Cabo Verde,0,0,0
 2020-02-07,Cambodia,1,0,0
 2020-02-07,Cameroon,0,0,0
-2020-02-07,Canada,7,,0
+2020-02-07,Canada,7,0,0
 2020-02-07,Central African Republic,0,0,0
 2020-02-07,Chad,0,0,0
 2020-02-07,Chile,0,0,0
@@ -3038,7 +3038,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-08,Cabo Verde,0,0,0
 2020-02-08,Cambodia,1,0,0
 2020-02-08,Cameroon,0,0,0
-2020-02-08,Canada,7,,0
+2020-02-08,Canada,7,0,0
 2020-02-08,Central African Republic,0,0,0
 2020-02-08,Chad,0,0,0
 2020-02-08,Chile,0,0,0
@@ -3215,7 +3215,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-09,Cabo Verde,0,0,0
 2020-02-09,Cambodia,1,0,0
 2020-02-09,Cameroon,0,0,0
-2020-02-09,Canada,7,,0
+2020-02-09,Canada,7,0,0
 2020-02-09,Central African Republic,0,0,0
 2020-02-09,Chad,0,0,0
 2020-02-09,Chile,0,0,0
@@ -3392,7 +3392,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-10,Cabo Verde,0,0,0
 2020-02-10,Cambodia,1,0,0
 2020-02-10,Cameroon,0,0,0
-2020-02-10,Canada,7,,0
+2020-02-10,Canada,7,0,0
 2020-02-10,Central African Republic,0,0,0
 2020-02-10,Chad,0,0,0
 2020-02-10,Chile,0,0,0
@@ -3569,7 +3569,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-11,Cabo Verde,0,0,0
 2020-02-11,Cambodia,1,0,0
 2020-02-11,Cameroon,0,0,0
-2020-02-11,Canada,7,,0
+2020-02-11,Canada,7,0,0
 2020-02-11,Central African Republic,0,0,0
 2020-02-11,Chad,0,0,0
 2020-02-11,Chile,0,0,0
@@ -3746,7 +3746,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-12,Cabo Verde,0,0,0
 2020-02-12,Cambodia,1,1,0
 2020-02-12,Cameroon,0,0,0
-2020-02-12,Canada,7,,0
+2020-02-12,Canada,7,1,0
 2020-02-12,Central African Republic,0,0,0
 2020-02-12,Chad,0,0,0
 2020-02-12,Chile,0,0,0
@@ -3923,7 +3923,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-13,Cabo Verde,0,0,0
 2020-02-13,Cambodia,1,1,0
 2020-02-13,Cameroon,0,0,0
-2020-02-13,Canada,7,,0
+2020-02-13,Canada,7,1,0
 2020-02-13,Central African Republic,0,0,0
 2020-02-13,Chad,0,0,0
 2020-02-13,Chile,0,0,0
@@ -4100,7 +4100,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-14,Cabo Verde,0,0,0
 2020-02-14,Cambodia,1,1,0
 2020-02-14,Cameroon,0,0,0
-2020-02-14,Canada,7,,0
+2020-02-14,Canada,7,1,0
 2020-02-14,Central African Republic,0,0,0
 2020-02-14,Chad,0,0,0
 2020-02-14,Chile,0,0,0
@@ -4277,7 +4277,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-15,Cabo Verde,0,0,0
 2020-02-15,Cambodia,1,1,0
 2020-02-15,Cameroon,0,0,0
-2020-02-15,Canada,7,,0
+2020-02-15,Canada,7,1,0
 2020-02-15,Central African Republic,0,0,0
 2020-02-15,Chad,0,0,0
 2020-02-15,Chile,0,0,0
@@ -4454,7 +4454,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-16,Cabo Verde,0,0,0
 2020-02-16,Cambodia,1,1,0
 2020-02-16,Cameroon,0,0,0
-2020-02-16,Canada,7,,0
+2020-02-16,Canada,7,1,0
 2020-02-16,Central African Republic,0,0,0
 2020-02-16,Chad,0,0,0
 2020-02-16,Chile,0,0,0
@@ -4631,7 +4631,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-17,Cabo Verde,0,0,0
 2020-02-17,Cambodia,1,1,0
 2020-02-17,Cameroon,0,0,0
-2020-02-17,Canada,8,,0
+2020-02-17,Canada,8,1,0
 2020-02-17,Central African Republic,0,0,0
 2020-02-17,Chad,0,0,0
 2020-02-17,Chile,0,0,0
@@ -4808,7 +4808,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-18,Cabo Verde,0,0,0
 2020-02-18,Cambodia,1,1,0
 2020-02-18,Cameroon,0,0,0
-2020-02-18,Canada,8,,0
+2020-02-18,Canada,8,1,0
 2020-02-18,Central African Republic,0,0,0
 2020-02-18,Chad,0,0,0
 2020-02-18,Chile,0,0,0
@@ -4985,7 +4985,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-19,Cabo Verde,0,0,0
 2020-02-19,Cambodia,1,1,0
 2020-02-19,Cameroon,0,0,0
-2020-02-19,Canada,8,,0
+2020-02-19,Canada,8,1,0
 2020-02-19,Central African Republic,0,0,0
 2020-02-19,Chad,0,0,0
 2020-02-19,Chile,0,0,0
@@ -5162,7 +5162,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-20,Cabo Verde,0,0,0
 2020-02-20,Cambodia,1,1,0
 2020-02-20,Cameroon,0,0,0
-2020-02-20,Canada,8,,0
+2020-02-20,Canada,8,1,0
 2020-02-20,Central African Republic,0,0,0
 2020-02-20,Chad,0,0,0
 2020-02-20,Chile,0,0,0
@@ -5339,7 +5339,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-21,Cabo Verde,0,0,0
 2020-02-21,Cambodia,1,1,0
 2020-02-21,Cameroon,0,0,0
-2020-02-21,Canada,9,,0
+2020-02-21,Canada,9,3,0
 2020-02-21,Central African Republic,0,0,0
 2020-02-21,Chad,0,0,0
 2020-02-21,Chile,0,0,0
@@ -5516,7 +5516,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-22,Cabo Verde,0,0,0
 2020-02-22,Cambodia,1,1,0
 2020-02-22,Cameroon,0,0,0
-2020-02-22,Canada,9,,0
+2020-02-22,Canada,9,3,0
 2020-02-22,Central African Republic,0,0,0
 2020-02-22,Chad,0,0,0
 2020-02-22,Chile,0,0,0
@@ -5693,7 +5693,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-23,Cabo Verde,0,0,0
 2020-02-23,Cambodia,1,1,0
 2020-02-23,Cameroon,0,0,0
-2020-02-23,Canada,9,,0
+2020-02-23,Canada,9,3,0
 2020-02-23,Central African Republic,0,0,0
 2020-02-23,Chad,0,0,0
 2020-02-23,Chile,0,0,0
@@ -5870,7 +5870,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-24,Cabo Verde,0,0,0
 2020-02-24,Cambodia,1,1,0
 2020-02-24,Cameroon,0,0,0
-2020-02-24,Canada,10,,0
+2020-02-24,Canada,10,3,0
 2020-02-24,Central African Republic,0,0,0
 2020-02-24,Chad,0,0,0
 2020-02-24,Chile,0,0,0
@@ -6047,7 +6047,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-25,Cabo Verde,0,0,0
 2020-02-25,Cambodia,1,1,0
 2020-02-25,Cameroon,0,0,0
-2020-02-25,Canada,11,,0
+2020-02-25,Canada,11,3,0
 2020-02-25,Central African Republic,0,0,0
 2020-02-25,Chad,0,0,0
 2020-02-25,Chile,0,0,0
@@ -6224,7 +6224,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-26,Cabo Verde,0,0,0
 2020-02-26,Cambodia,1,1,0
 2020-02-26,Cameroon,0,0,0
-2020-02-26,Canada,11,,0
+2020-02-26,Canada,11,3,0
 2020-02-26,Central African Republic,0,0,0
 2020-02-26,Chad,0,0,0
 2020-02-26,Chile,0,0,0
@@ -6401,7 +6401,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-27,Cabo Verde,0,0,0
 2020-02-27,Cambodia,1,1,0
 2020-02-27,Cameroon,0,0,0
-2020-02-27,Canada,13,,0
+2020-02-27,Canada,13,6,0
 2020-02-27,Central African Republic,0,0,0
 2020-02-27,Chad,0,0,0
 2020-02-27,Chile,0,0,0
@@ -6578,7 +6578,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-28,Cabo Verde,0,0,0
 2020-02-28,Cambodia,1,1,0
 2020-02-28,Cameroon,0,0,0
-2020-02-28,Canada,14,,0
+2020-02-28,Canada,14,6,0
 2020-02-28,Central African Republic,0,0,0
 2020-02-28,Chad,0,0,0
 2020-02-28,Chile,0,0,0
@@ -6755,7 +6755,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-29,Cabo Verde,0,0,0
 2020-02-29,Cambodia,1,1,0
 2020-02-29,Cameroon,0,0,0
-2020-02-29,Canada,20,,0
+2020-02-29,Canada,20,6,0
 2020-02-29,Central African Republic,0,0,0
 2020-02-29,Chad,0,0,0
 2020-02-29,Chile,0,0,0
@@ -6932,7 +6932,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-01,Cabo Verde,0,0,0
 2020-03-01,Cambodia,1,1,0
 2020-03-01,Cameroon,0,0,0
-2020-03-01,Canada,24,,0
+2020-03-01,Canada,24,6,0
 2020-03-01,Central African Republic,0,0,0
 2020-03-01,Chad,0,0,0
 2020-03-01,Chile,0,0,0
@@ -7109,7 +7109,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-02,Cabo Verde,0,0,0
 2020-03-02,Cambodia,1,1,0
 2020-03-02,Cameroon,0,0,0
-2020-03-02,Canada,27,,0
+2020-03-02,Canada,27,6,0
 2020-03-02,Central African Republic,0,0,0
 2020-03-02,Chad,0,0,0
 2020-03-02,Chile,0,0,0
@@ -7286,7 +7286,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-03,Cabo Verde,0,0,0
 2020-03-03,Cambodia,1,1,0
 2020-03-03,Cameroon,0,0,0
-2020-03-03,Canada,30,,0
+2020-03-03,Canada,30,6,0
 2020-03-03,Central African Republic,0,0,0
 2020-03-03,Chad,0,0,0
 2020-03-03,Chile,1,0,0
@@ -7463,7 +7463,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-04,Cabo Verde,0,0,0
 2020-03-04,Cambodia,1,1,0
 2020-03-04,Cameroon,0,0,0
-2020-03-04,Canada,33,,0
+2020-03-04,Canada,33,6,0
 2020-03-04,Central African Republic,0,0,0
 2020-03-04,Chad,0,0,0
 2020-03-04,Chile,1,0,0
@@ -7640,7 +7640,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-05,Cabo Verde,0,0,0
 2020-03-05,Cambodia,1,1,0
 2020-03-05,Cameroon,0,0,0
-2020-03-05,Canada,37,,0
+2020-03-05,Canada,37,6,0
 2020-03-05,Central African Republic,0,0,0
 2020-03-05,Chad,0,0,0
 2020-03-05,Chile,4,0,0
@@ -7817,7 +7817,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-06,Cabo Verde,0,0,0
 2020-03-06,Cambodia,1,1,0
 2020-03-06,Cameroon,1,0,0
-2020-03-06,Canada,49,,0
+2020-03-06,Canada,49,6,0
 2020-03-06,Central African Republic,0,0,0
 2020-03-06,Chad,0,0,0
 2020-03-06,Chile,4,0,0
@@ -7994,7 +7994,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-07,Cabo Verde,0,0,0
 2020-03-07,Cambodia,1,1,0
 2020-03-07,Cameroon,1,0,0
-2020-03-07,Canada,54,,0
+2020-03-07,Canada,54,8,0
 2020-03-07,Central African Republic,0,0,0
 2020-03-07,Chad,0,0,0
 2020-03-07,Chile,4,0,0
@@ -8171,7 +8171,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-08,Cabo Verde,0,0,0
 2020-03-08,Cambodia,2,1,0
 2020-03-08,Cameroon,2,0,0
-2020-03-08,Canada,64,,0
+2020-03-08,Canada,64,8,0
 2020-03-08,Central African Republic,0,0,0
 2020-03-08,Chad,0,0,0
 2020-03-08,Chile,8,0,0
@@ -8348,7 +8348,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-09,Cabo Verde,0,0,0
 2020-03-09,Cambodia,2,1,0
 2020-03-09,Cameroon,2,0,0
-2020-03-09,Canada,77,,1
+2020-03-09,Canada,77,8,1
 2020-03-09,Central African Republic,0,0,0
 2020-03-09,Chad,0,0,0
 2020-03-09,Chile,8,0,0
@@ -8525,7 +8525,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-10,Cabo Verde,0,0,0
 2020-03-10,Cambodia,2,1,0
 2020-03-10,Cameroon,2,0,0
-2020-03-10,Canada,79,,1
+2020-03-10,Canada,79,8,1
 2020-03-10,Central African Republic,0,0,0
 2020-03-10,Chad,0,0,0
 2020-03-10,Chile,13,0,0
@@ -8702,7 +8702,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-11,Cabo Verde,0,0,0
 2020-03-11,Cambodia,3,1,0
 2020-03-11,Cameroon,2,0,0
-2020-03-11,Canada,108,,1
+2020-03-11,Canada,108,8,1
 2020-03-11,Central African Republic,0,0,0
 2020-03-11,Chad,0,0,0
 2020-03-11,Chile,23,0,0
@@ -8879,7 +8879,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-12,Cabo Verde,0,0,0
 2020-03-12,Cambodia,3,1,0
 2020-03-12,Cameroon,2,0,0
-2020-03-12,Canada,117,,1
+2020-03-12,Canada,117,8,1
 2020-03-12,Central African Republic,0,0,0
 2020-03-12,Chad,0,0,0
 2020-03-12,Chile,23,0,0
@@ -9056,7 +9056,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-13,Cabo Verde,0,0,0
 2020-03-13,Cambodia,5,1,0
 2020-03-13,Cameroon,2,0,0
-2020-03-13,Canada,193,,1
+2020-03-13,Canada,193,8,1
 2020-03-13,Central African Republic,0,0,0
 2020-03-13,Chad,0,0,0
 2020-03-13,Chile,43,0,0
@@ -9233,7 +9233,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-14,Cabo Verde,0,0,0
 2020-03-14,Cambodia,7,1,0
 2020-03-14,Cameroon,2,0,0
-2020-03-14,Canada,198,,1
+2020-03-14,Canada,198,8,1
 2020-03-14,Central African Republic,0,0,0
 2020-03-14,Chad,0,0,0
 2020-03-14,Chile,61,0,0
@@ -9410,7 +9410,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-15,Cabo Verde,0,0,0
 2020-03-15,Cambodia,7,1,0
 2020-03-15,Cameroon,2,0,0
-2020-03-15,Canada,252,,1
+2020-03-15,Canada,252,8,1
 2020-03-15,Central African Republic,1,0,0
 2020-03-15,Chad,0,0,0
 2020-03-15,Chile,74,0,0
@@ -9587,7 +9587,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-16,Cabo Verde,0,0,0
 2020-03-16,Cambodia,7,1,0
 2020-03-16,Cameroon,4,0,0
-2020-03-16,Canada,415,,4
+2020-03-16,Canada,415,9,4
 2020-03-16,Central African Republic,1,0,0
 2020-03-16,Chad,0,0,0
 2020-03-16,Chile,155,0,0
@@ -9764,7 +9764,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-17,Cabo Verde,0,0,0
 2020-03-17,Cambodia,33,1,0
 2020-03-17,Cameroon,10,0,0
-2020-03-17,Canada,478,,5
+2020-03-17,Canada,478,9,5
 2020-03-17,Central African Republic,1,0,0
 2020-03-17,Chad,0,0,0
 2020-03-17,Chile,201,0,0
@@ -9941,7 +9941,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-18,Cabo Verde,0,0,0
 2020-03-18,Cambodia,35,1,0
 2020-03-18,Cameroon,10,0,0
-2020-03-18,Canada,657,,8
+2020-03-18,Canada,657,9,8
 2020-03-18,Central African Republic,1,0,0
 2020-03-18,Chad,0,0,0
 2020-03-18,Chile,238,0,0
@@ -10118,7 +10118,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-19,Cabo Verde,0,0,0
 2020-03-19,Cambodia,37,1,0
 2020-03-19,Cameroon,13,0,0
-2020-03-19,Canada,800,,9
+2020-03-19,Canada,800,9,9
 2020-03-19,Central African Republic,1,0,0
 2020-03-19,Chad,1,0,0
 2020-03-19,Chile,238,0,0
@@ -10295,7 +10295,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-20,Cabo Verde,1,0,0
 2020-03-20,Cambodia,51,1,0
 2020-03-20,Cameroon,20,0,0
-2020-03-20,Canada,943,,12
+2020-03-20,Canada,943,9,12
 2020-03-20,Central African Republic,3,0,0
 2020-03-20,Chad,1,0,0
 2020-03-20,Chile,434,6,0
@@ -10472,7 +10472,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-21,Cabo Verde,3,0,0
 2020-03-21,Cambodia,53,1,0
 2020-03-21,Cameroon,27,0,0
-2020-03-21,Canada,1277,,19
+2020-03-21,Canada,1277,10,19
 2020-03-21,Central African Republic,3,0,0
 2020-03-21,Chad,1,0,0
 2020-03-21,Chile,537,6,0
@@ -10649,7 +10649,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-22,Cabo Verde,3,0,0
 2020-03-22,Cambodia,84,1,0
 2020-03-22,Cameroon,40,0,0
-2020-03-22,Canada,1469,,21
+2020-03-22,Canada,1469,10,21
 2020-03-22,Central African Republic,3,0,0
 2020-03-22,Chad,1,0,0
 2020-03-22,Chile,632,8,1
@@ -10826,7 +10826,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-23,Cabo Verde,3,0,0
 2020-03-23,Cambodia,87,1,0
 2020-03-23,Cameroon,56,0,0
-2020-03-23,Canada,2088,,25
+2020-03-23,Canada,2088,10,25
 2020-03-23,Central African Republic,3,0,0
 2020-03-23,Chad,1,0,0
 2020-03-23,Chile,746,8,2
@@ -11003,7 +11003,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-24,Cabo Verde,3,0,1
 2020-03-24,Cambodia,91,4,0
 2020-03-24,Cameroon,66,0,0
-2020-03-24,Canada,2790,,26
+2020-03-24,Canada,2790,110,26
 2020-03-24,Central African Republic,3,0,0
 2020-03-24,Chad,3,0,0
 2020-03-24,Chile,922,17,2
@@ -11180,7 +11180,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-25,Cabo Verde,4,0,1
 2020-03-25,Cambodia,96,10,0
 2020-03-25,Cameroon,75,2,1
-2020-03-25,Canada,3251,,30
+2020-03-25,Canada,3251,183,30
 2020-03-25,Central African Republic,3,0,0
 2020-03-25,Chad,3,0,0
 2020-03-25,Chile,1142,22,3
@@ -11357,7 +11357,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-26,Cabo Verde,4,0,1
 2020-03-26,Cambodia,96,10,0
 2020-03-26,Cameroon,75,2,1
-2020-03-26,Canada,4042,,38
+2020-03-26,Canada,4042,184,38
 2020-03-26,Central African Republic,3,0,0
 2020-03-26,Chad,3,0,0
 2020-03-26,Chile,1306,22,4
@@ -11534,7 +11534,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-27,Cabo Verde,5,0,1
 2020-03-27,Cambodia,99,11,0
 2020-03-27,Cameroon,91,2,2
-2020-03-27,Canada,4682,,54
+2020-03-27,Canada,4682,256,54
 2020-03-27,Central African Republic,3,0,0
 2020-03-27,Chad,3,0,0
 2020-03-27,Chile,1610,43,5
@@ -11711,7 +11711,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-28,Cabo Verde,5,0,1
 2020-03-28,Cambodia,99,13,0
 2020-03-28,Cameroon,91,2,2
-2020-03-28,Canada,5576,,61
+2020-03-28,Canada,5576,466,61
 2020-03-28,Central African Republic,3,0,0
 2020-03-28,Chad,3,0,0
 2020-03-28,Chile,1909,61,6

@@ -1,4 +1,7 @@
-from dataflows import Flow, load, unpivot, find_replace, set_type, dump_to_path, update_package, update_resource, update_schema, join, join_with_self, add_computed_field, delete_fields, checkpoint, duplicate, filter_rows
+from dataflows import Flow, load, unpivot, find_replace, set_type, dump_to_path
+from dataflows import update_package, update_resource, update_schema, join
+from dataflows import join_with_self, add_computed_field, delete_fields
+from dataflows import checkpoint, duplicate, filter_rows, sort_rows, printer
 
 BASE_URL = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/'
 CONFIRMED = 'time_series_covid19_confirmed_global.csv'
@@ -76,6 +79,23 @@ def calculate_increase_rate(package):
             yield row
     yield process_rows(worldwide_data)
 
+def add_missing_columns(rows):
+    expected = {
+        'Date': None,
+        'Province/State': None,
+        'Country/Region': None,
+        'Lat': None,
+        'Long': None,
+        'Case': None,
+        'Confirmed': None,
+        'Recovered': None
+        }
+    for row in rows:
+        if row.get('Country/Region') == 'Canada' and not row.get('Province/State'):
+            row['Province/State'] = 'Recovery aggregated'
+            row['Lat'] = row.get('Lat', '56.1304')
+            row['Long'] = row.get('Long', '-106.3468')
+        yield {**expected, **row}
 
 Flow(
       load(f'{BASE_URL}{CONFIRMED}'),
@@ -107,8 +127,12 @@ Flow(
         fields=dict(Recovered={
             'name': 'Case',
             'aggregate': 'first'
-        })
+        }),
+        mode='full-outer'
       ),
+      # Add missing columns, e.g., after 'full-outer' join, the rows structure
+      # is inconsistent
+      add_missing_columns,
       add_computed_field(
         target={'name': 'Deaths', 'type': 'number'},
         operation='format',
@@ -169,6 +193,8 @@ Flow(
         }
       ]),
       checkpoint('processed_data'),
+      # Sort rows by date and country
+      sort_rows('{Country/Region}{Province/State}{Date}', resources='time-series-19-covid-combined'),
       # Duplicate the stream to create aggregated data
       duplicate(
         source='time-series-19-covid-combined',
