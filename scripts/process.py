@@ -79,7 +79,7 @@ def calculate_increase_rate(package):
             yield row
     yield process_rows(worldwide_data)
 
-def add_missing_columns(rows):
+def fix_canada_recovered_data(rows):
     expected = {
         'Date': None,
         'Province/State': None,
@@ -91,6 +91,10 @@ def add_missing_columns(rows):
         'Recovered': None
         }
     for row in rows:
+        if row.get('Country/Region') == 'Canada' and \
+            row.get('Province/State') == 'Recovered' and not \
+            row.get('Recovered'):
+            continue
         if row.get('Country/Region') == 'Canada' and not row.get('Province/State'):
             row['Province/State'] = 'Recovery aggregated'
             row['Lat'] = row.get('Lat', '56.1304')
@@ -132,7 +136,7 @@ Flow(
       ),
       # Add missing columns, e.g., after 'full-outer' join, the rows structure
       # is inconsistent
-      add_missing_columns,
+      fix_canada_recovered_data,
       add_computed_field(
         target={'name': 'Deaths', 'type': 'number'},
         operation='format',
