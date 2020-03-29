@@ -1,12 +1,12 @@
 {
-  "bytes": 1106410,
-  "count_of_rows": 28182,
-  "hash": "d70be1ff40c68b1763c281177cde7ddb",
+  "bytes": 1149933,
+  "count_of_rows": 28944,
+  "hash": "4619027a96f66812a7529aafd82eb9c8",
   "name": "covid-19",
   "profile": "data-package",
   "resources": [
     {
-      "bytes": 775432,
+      "bytes": 811609,
       "dialect": {
         "caseSensitiveHeader": false,
         "delimiter": ",",
@@ -18,7 +18,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "b4f06f27e821953eefa6709ebfede5b8",
+      "hash": "e45a3ad0a2f9f549f3f5eb3cedac2b35",
       "name": "time-series-19-covid-combined",
       "path": "data/time-series-19-covid-combined.csv",
       "profile": "tabular-data-resource",
@@ -82,7 +82,7 @@
       }
     },
     {
-      "bytes": 2869,
+      "bytes": 2930,
       "dialect": {
         "delimiter": ",",
         "doubleQuote": true,
@@ -92,7 +92,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "5ab4aa2ba34693bb39c244a96f93ecae",
+      "hash": "c7a44fa6376d9fddfc88e187505606b9",
       "name": "key-countries-pivoted",
       "path": "data/key-countries-pivoted.csv",
       "profile": "data-resource",
@@ -151,7 +151,7 @@
       }
     },
     {
-      "bytes": 325000,
+      "bytes": 332235,
       "dialect": {
         "delimiter": ",",
         "doubleQuote": true,
@@ -161,7 +161,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "a935edc52366c454854a576add9e6674",
+      "hash": "882ca245d90e7c660179640c74c6e66c",
       "name": "countries-aggregated",
       "path": "data/countries-aggregated.csv",
       "profile": "data-resource",
@@ -206,7 +206,7 @@
       }
     },
     {
-      "bytes": 3109,
+      "bytes": 3159,
       "dialect": {
         "delimiter": ",",
         "doubleQuote": true,
@@ -216,7 +216,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "b2a703cf71c8c8577c0ab751a806dda0",
+      "hash": "03b4e91cb77173eb4df2e58ee597834c",
       "name": "worldwide-aggregated",
       "path": "data/worldwide-aggregated.csv",
       "profile": "data-resource",
