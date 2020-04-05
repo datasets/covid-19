@@ -1,7 +1,7 @@
 {
-  "bytes": 1306618,
-  "count_of_rows": 32708,
-  "hash": "c66fc8a6af00e0ea0a06f10fd5324d76",
+  "bytes": 30055671,
+  "count_of_rows": 273430,
+  "hash": "3a89f437d2ca6c3da4c19272106e5f39",
   "name": "covid-19",
   "profile": "data-package",
   "resources": [
@@ -253,6 +253,117 @@
             "description": "Inrease rate from the previous day in percentage.",
             "groupChar": "",
             "name": "Increase rate",
+            "type": "number"
+          }
+        ],
+        "missingValues": [
+          "None",
+          ""
+        ]
+      }
+    },
+    {
+      "bytes": 28749053,
+      "dialect": {
+        "caseSensitiveHeader": false,
+        "delimiter": ",",
+        "doubleQuote": true,
+        "header": true,
+        "lineTerminator": "\r\n",
+        "quoteChar": "\"",
+        "skipInitialSpace": false
+      },
+      "encoding": "utf-8",
+      "format": "csv",
+      "hash": "1305959341d30e44dec52842dc42628b",
+      "name": "us",
+      "path": "data/us.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "format": "default",
+            "name": "UID",
+            "type": "integer"
+          },
+          {
+            "format": "default",
+            "name": "iso2",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "iso3",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "code3",
+            "type": "integer"
+          },
+          {
+            "decimalChar": ".",
+            "format": "default",
+            "groupChar": "",
+            "name": "FIPS",
+            "type": "number"
+          },
+          {
+            "format": "default",
+            "name": "Admin2",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "Province_State",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "Country_Region",
+            "type": "string"
+          },
+          {
+            "decimalChar": ".",
+            "format": "default",
+            "groupChar": "",
+            "name": "Lat",
+            "type": "number"
+          },
+          {
+            "decimalChar": ".",
+            "format": "default",
+            "groupChar": "",
+            "name": "Long_",
+            "type": "number"
+          },
+          {
+            "format": "default",
+            "name": "Combined_Key",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "Population",
+            "type": "integer"
+          },
+          {
+            "format": "%Y-%m-%d",
+            "name": "Date",
+            "type": "date"
+          },
+          {
+            "decimalChar": ".",
+            "format": "default",
+            "groupChar": "",
+            "name": "Confirmed",
+            "type": "number"
+          },
+          {
+            "decimalChar": ".",
+            "format": "default",
+            "groupChar": "",
+            "name": "Deaths",
             "type": "number"
           }
         ],

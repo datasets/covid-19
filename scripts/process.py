@@ -7,6 +7,8 @@ BASE_URL = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/css
 CONFIRMED = 'time_series_covid19_confirmed_global.csv'
 DEATH = 'time_series_covid19_deaths_global.csv'
 RECOVERED = 'time_series_covid19_recovered_global.csv'
+CONFIRMED_US = 'time_series_covid19_confirmed_US.csv'
+DEATH_US = 'time_series_covid19_deaths_US.csv'
 
 def to_normal_date(row):
     old_date = row['Date']
@@ -57,6 +59,9 @@ def pivot_key_countries(package):
     worldwide = next(resources)
     yield worldwide
 
+    us_data = next(resources)
+    yield us_data
+
 
 def calculate_increase_rate(package):
     package.pkg.descriptor['resources'][1]['schema']['fields'].append(dict(
@@ -78,6 +83,9 @@ def calculate_increase_rate(package):
             previous_row = row
             yield row
     yield process_rows(worldwide_data)
+
+    last_resource = next(resources)
+    yield last_resource
 
 def fix_canada_recovered_data(rows):
     expected = {
@@ -105,6 +113,8 @@ Flow(
       load(f'{BASE_URL}{CONFIRMED}'),
       load(f'{BASE_URL}{RECOVERED}'),
       load(f'{BASE_URL}{DEATH}'),
+      load(f'{BASE_URL}{CONFIRMED_US}'),
+      load(f'{BASE_URL}{DEATH_US}'),
       checkpoint('load_data'),
       unpivot(unpivoting_fields, extra_keys, extra_value),
       find_replace([{'name': 'Date', 'patterns': [{'find': '/', 'replace': '-'}]}]),
@@ -134,6 +144,17 @@ Flow(
         }),
         mode='full-outer'
       ),
+      join(
+        source_name='time_series_covid19_confirmed_US',
+        source_key=['Province_State', 'Country_Region', 'Date'],
+        source_delete=True,
+        target_name='time_series_covid19_deaths_US',
+        target_key=['Province_State', 'Country_Region', 'Date'],
+        fields=dict(Confirmed={
+            'name': 'Case',
+            'aggregate': 'first'
+        })
+      ),
       # Add missing columns, e.g., after 'full-outer' join, the rows structure
       # is inconsistent
       fix_canada_recovered_data,
@@ -144,6 +165,7 @@ Flow(
       ),
       delete_fields(['Case']),
       update_resource('time_series_covid19_deaths_global', name='time-series-19-covid-combined', path='data/time-series-19-covid-combined.csv'),
+      update_resource('time_series_covid19_deaths_US', name='us', path='data/us.csv'),
       update_schema('time-series-19-covid-combined', missingValues=['None', ''], fields=[
         {
         "format": "%Y-%m-%d",
@@ -196,6 +218,7 @@ Flow(
           "type": "integer"
         }
       ]),
+      update_schema('us', missingValues=['None', '']),
       checkpoint('processed_data'),
       # Sort rows by date and country
       sort_rows('{Country/Region}{Province/State}{Date}', resources='time-series-19-covid-combined'),
