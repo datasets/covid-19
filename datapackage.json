@@ -1,12 +1,12 @@
 {
-  "bytes": 30055671,
-  "count_of_rows": 273430,
-  "hash": "3a89f437d2ca6c3da4c19272106e5f39",
+  "bytes": 30897445,
+  "count_of_rows": 281352,
+  "hash": "ab42c7afb88d9b118dc90401925f686a",
   "name": "covid-19",
   "profile": "data-package",
   "resources": [
     {
-      "bytes": 921410,
+      "bytes": 965289,
       "dialect": {
         "caseSensitiveHeader": false,
         "delimiter": ",",
@@ -18,7 +18,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "f2461ec82aa171d10e0b755f533da118",
+      "hash": "cd2f442f8ec9dc6bce421ed1540f6b36",
       "name": "time-series-19-covid-combined",
       "path": "data/time-series-19-covid-combined.csv",
       "profile": "tabular-data-resource",
@@ -82,7 +82,7 @@
       }
     },
     {
-      "bytes": 3367,
+      "bytes": 3495,
       "dialect": {
         "delimiter": ",",
         "doubleQuote": true,
@@ -92,7 +92,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "194f725c21f0921f30e9cb6de7ba89f5",
+      "hash": "b3e24ff24d03f3e1458188502cf635f5",
       "name": "key-countries-pivoted",
       "path": "data/key-countries-pivoted.csv",
       "profile": "data-resource",
@@ -151,7 +151,7 @@
       }
     },
     {
-      "bytes": 378331,
+      "bytes": 397392,
       "dialect": {
         "delimiter": ",",
         "doubleQuote": true,
@@ -161,7 +161,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "754f4bb59631d3ea3f17a8a161509653",
+      "hash": "7e1dd2563e5c6d8a87e36493f91847bc",
       "name": "countries-aggregated",
       "path": "data/countries-aggregated.csv",
       "profile": "data-resource",
@@ -206,7 +206,7 @@
       }
     },
     {
-      "bytes": 3510,
+      "bytes": 3612,
       "dialect": {
         "delimiter": ",",
         "doubleQuote": true,
@@ -216,7 +216,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "85e6ae0416bda3a838c646ad36ced390",
+      "hash": "885a8edf4c965eb6f1f8c58876afc7c4",
       "name": "worldwide-aggregated",
       "path": "data/worldwide-aggregated.csv",
       "profile": "data-resource",
@@ -263,7 +263,7 @@
       }
     },
     {
-      "bytes": 28749053,
+      "bytes": 29527657,
       "dialect": {
         "caseSensitiveHeader": false,
         "delimiter": ",",
@@ -275,7 +275,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "1305959341d30e44dec52842dc42628b",
+      "hash": "e5caa483e47fd5ad0169b5bc2626971e",
       "name": "us",
       "path": "data/us.csv",
       "profile": "tabular-data-resource",
