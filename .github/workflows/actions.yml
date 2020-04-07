@@ -12,8 +12,11 @@ jobs:
       with:
         python-version: '3.6.10'
         architecture: x64
-    - run: |
+    - name: Install requirements
+      run: |
         pip install -r scripts/requirements.txt
+    - name: Process Data
+      run: |
         python scripts/process.py
     - name: Commit files
       run: |
