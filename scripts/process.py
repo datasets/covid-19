@@ -220,6 +220,7 @@ Flow(
       ]),
       update_schema('us', missingValues=['None', '']),
       checkpoint('processed_data'),
+      printer(),
       # Sort rows by date and country
       sort_rows('{Country/Region}{Province/State}{Date}', resources='time-series-19-covid-combined'),
       # Duplicate the stream to create aggregated data
@@ -249,6 +250,7 @@ Flow(
             }
         )
       ),
+      printer(),
       update_schema('worldwide-aggregated', missingValues=['None', ''], fields=[
         {
           "format": "%Y-%m-%d",
@@ -343,6 +345,7 @@ Flow(
           "type": "integer"
         }
       ]),
+      printer(),
       checkpoint('processed_country_data'),
       # All countries aggregated
       duplicate(
@@ -412,5 +415,6 @@ Flow(
             }
         ]
       ),
+      printer(),
       dump_to_path()
 ).results()[0]
