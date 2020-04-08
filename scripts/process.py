@@ -59,8 +59,10 @@ def pivot_key_countries(package):
     worldwide = next(resources)
     yield worldwide
 
-    us_data = next(resources)
-    yield us_data
+    us_confirmed = next(resources)
+    yield us_confirmed
+    us_deaths = next(resources)
+    yield us_deaths
 
 
 def calculate_increase_rate(package):
@@ -84,8 +86,10 @@ def calculate_increase_rate(package):
             yield row
     yield process_rows(worldwide_data)
 
-    last_resource = next(resources)
-    yield last_resource
+    us_confirmed = next(resources)
+    yield us_confirmed
+    us_deaths = next(resources)
+    yield us_deaths
 
 def fix_canada_recovered_data(rows):
     expected = {
@@ -144,28 +148,21 @@ Flow(
         }),
         mode='full-outer'
       ),
-      join(
-        source_name='time_series_covid19_confirmed_US',
-        source_key=['Province_State', 'Country_Region', 'Date'],
-        source_delete=True,
-        target_name='time_series_covid19_deaths_US',
-        target_key=['Province_State', 'Country_Region', 'Date'],
-        fields=dict(Confirmed={
-            'name': 'Case',
-            'aggregate': 'first'
-        })
-      ),
       # Add missing columns, e.g., after 'full-outer' join, the rows structure
       # is inconsistent
       fix_canada_recovered_data,
       add_computed_field(
         target={'name': 'Deaths', 'type': 'number'},
         operation='format',
-        with_='{Case}'
+        with_='{Case}',
+        resources=['time_series_covid19_deaths_global']
       ),
-      delete_fields(['Case']),
+      delete_fields(['Case'], resources=['time_series_covid19_deaths_global']),
+      delete_fields(['UID','iso2','iso3','code3','FIPS','Admin2','Combined_Key'],
+        resources=['time_series_covid19_confirmed_US', 'time_series_covid19_deaths_US']),
       update_resource('time_series_covid19_deaths_global', name='time-series-19-covid-combined', path='data/time-series-19-covid-combined.csv'),
-      update_resource('time_series_covid19_deaths_US', name='us', path='data/us.csv'),
+      update_resource('time_series_covid19_confirmed_US', name='us_confirmed', path='data/us_confirmed.csv'),
+      update_resource('time_series_covid19_deaths_US', name='us_deaths', path='data/us_deaths.csv'),
       update_schema('time-series-19-covid-combined', missingValues=['None', ''], fields=[
         {
         "format": "%Y-%m-%d",
@@ -218,7 +215,27 @@ Flow(
           "type": "integer"
         }
       ]),
-      update_schema('us', missingValues=['None', '']),
+      update_schema('us_confirmed', missingValues=['None', '']),
+      update_schema('us_deaths', missingValues=['None', '']),
+      add_computed_field(
+        target={'name': 'Long', 'type': 'number'},
+        operation='format',
+        with_='{Long_}',
+        resources=['us_confirmed', 'us_deaths']
+      ),
+      add_computed_field(
+        target={'name': 'Country/Region', 'type': 'string'},
+        operation='format',
+        with_='{Country_Region}',
+        resources=['us_confirmed', 'us_deaths']
+      ),
+      add_computed_field(
+        target={'name': 'Province/State', 'type': 'string'},
+        operation='format',
+        with_='{Province_State}',
+        resources=['us_confirmed', 'us_deaths']
+      ),
+      delete_fields(['Long_','Country_Region','Province_State'], resources=['us_confirmed','us_deaths']),
       checkpoint('processed_data'),
       printer(),
       # Sort rows by date and country
