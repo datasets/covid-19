@@ -1,7 +1,7 @@
 {
-  "bytes": 30675011,
+  "bytes": 30675009,
   "count_of_rows": 577431,
-  "hash": "45fcb00b25b821ba87ed1ae438f03a91",
+  "hash": "f22f73dccf057c85285277e642379879",
   "name": "covid-19",
   "profile": "data-package",
   "resources": [
@@ -18,7 +18,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "9e579246bcb820c015b2399b389ade0c",
+      "hash": "1d7af0ff855f929bb1b09cfe0f079e65",
       "name": "time-series-19-covid-combined",
       "path": "data/time-series-19-covid-combined.csv",
       "profile": "tabular-data-resource",
@@ -92,7 +92,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "64d9518ad55df1017ef222fac04db004",
+      "hash": "f9bd7d4b0899e007a9261ccad78366d8",
       "name": "key-countries-pivoted",
       "path": "data/key-countries-pivoted.csv",
       "profile": "data-resource",
@@ -161,7 +161,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "09a2d4c30af78a6e32aa48c43ca09e6c",
+      "hash": "a709cbd51957472c5d3b3ee99d67f953",
       "name": "countries-aggregated",
       "path": "data/countries-aggregated.csv",
       "profile": "data-resource",
@@ -206,7 +206,7 @@
       }
     },
     {
-      "bytes": 3970,
+      "bytes": 3971,
       "dialect": {
         "delimiter": ",",
         "doubleQuote": true,
@@ -216,7 +216,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "c17197befff8e0bfa1268f75ad52493e",
+      "hash": "d1c7b3ee790db1ab0565cf9fde3fe2f3",
       "name": "worldwide-aggregated",
       "path": "data/worldwide-aggregated.csv",
       "profile": "data-resource",
@@ -263,7 +263,7 @@
       }
     },
     {
-      "bytes": 13893511,
+      "bytes": 13893508,
       "dialect": {
         "caseSensitiveHeader": false,
         "delimiter": ",",
@@ -275,7 +275,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "510ce8ab5f392c3c762542afe0ab2f05",
+      "hash": "6a79a62ab391f41ba7cafed0dd7efc28",
       "name": "us_confirmed",
       "path": "data/us_confirmed.csv",
       "profile": "tabular-data-resource",
