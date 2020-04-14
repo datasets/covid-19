@@ -1,7 +1,7 @@
 {
-  "bytes": 63168105,
-  "count_of_rows": 577431,
-  "hash": "41bd5ddc42946fde7b8f903ed163c6ca",
+  "bytes": 63520113,
+  "count_of_rows": 581005,
+  "hash": "fd3ca3aac844e6e899d4b45d73da452d",
   "name": "covid-19",
   "profile": "data-package",
   "resources": [
@@ -461,6 +461,95 @@
         ],
         "missingValues": [
           "None",
+          ""
+        ]
+      }
+    },
+    {
+      "bytes": 352008,
+      "dialect": {
+        "caseSensitiveHeader": false,
+        "delimiter": ",",
+        "doubleQuote": true,
+        "header": true,
+        "lineTerminator": "\r\n",
+        "quoteChar": "\"",
+        "skipInitialSpace": false
+      },
+      "encoding": "utf-8",
+      "format": "csv",
+      "hash": "a5d1774b5afef4fcdae73ebce1b8c576",
+      "name": "reference",
+      "path": "data/reference.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "format": "default",
+            "name": "UID",
+            "type": "integer"
+          },
+          {
+            "format": "default",
+            "name": "iso2",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "iso3",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "code3",
+            "type": "integer"
+          },
+          {
+            "format": "default",
+            "name": "FIPS",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "Admin2",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "Province_State",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "Country_Region",
+            "type": "string"
+          },
+          {
+            "decimalChar": ".",
+            "format": "default",
+            "groupChar": "",
+            "name": "Lat",
+            "type": "number"
+          },
+          {
+            "decimalChar": ".",
+            "format": "default",
+            "groupChar": "",
+            "name": "Long_",
+            "type": "number"
+          },
+          {
+            "format": "default",
+            "name": "Combined_Key",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "Population",
+            "type": "integer"
+          }
+        ],
+        "missingValues": [
           ""
         ]
       }

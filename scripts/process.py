@@ -9,6 +9,7 @@ DEATH = 'time_series_covid19_deaths_global.csv'
 RECOVERED = 'time_series_covid19_recovered_global.csv'
 CONFIRMED_US = 'time_series_covid19_confirmed_US.csv'
 DEATH_US = 'time_series_covid19_deaths_US.csv'
+REFERENCE = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/UID_ISO_FIPS_LookUp_Table.csv'
 
 def to_normal_date(row):
     old_date = row['Date']
@@ -370,6 +371,8 @@ Flow(
       ),
       pivot_key_countries,
       delete_fields(['Country', 'Confirmed', 'Recovered', 'Deaths'], resources='key-countries-pivoted'),
+      load(f'{REFERENCE}', name='reference'),
+      update_resource('reference', path='data/reference.csv'),
       # Prepare data package (name, title) and add views
       update_package(
         name='covid-19',
