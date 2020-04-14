@@ -1,7 +1,7 @@
 {
-  "bytes": 30675009,
+  "bytes": 63168105,
   "count_of_rows": 577431,
-  "hash": "f22f73dccf057c85285277e642379879",
+  "hash": "41bd5ddc42946fde7b8f903ed163c6ca",
   "name": "covid-19",
   "profile": "data-package",
   "resources": [
@@ -263,7 +263,7 @@
       }
     },
     {
-      "bytes": 13893508,
+      "bytes": 30140056,
       "dialect": {
         "caseSensitiveHeader": false,
         "delimiter": ",",
@@ -275,18 +275,55 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "6a79a62ab391f41ba7cafed0dd7efc28",
+      "hash": "3a52436b147ffe72ed0a2bb476cb20d0",
       "name": "us_confirmed",
       "path": "data/us_confirmed.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [
           {
+            "format": "default",
+            "name": "UID",
+            "type": "integer"
+          },
+          {
+            "format": "default",
+            "name": "iso2",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "iso3",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "code3",
+            "type": "integer"
+          },
+          {
+            "decimalChar": ".",
+            "format": "default",
+            "groupChar": "",
+            "name": "FIPS",
+            "type": "number"
+          },
+          {
+            "format": "default",
+            "name": "Admin2",
+            "type": "string"
+          },
+          {
             "decimalChar": ".",
             "format": "default",
             "groupChar": "",
             "name": "Lat",
             "type": "number"
+          },
+          {
+            "format": "default",
+            "name": "Combined_Key",
+            "type": "string"
           },
           {
             "format": "%Y-%m-%d",
@@ -325,7 +362,7 @@
       }
     },
     {
-      "bytes": 15262110,
+      "bytes": 31508658,
       "dialect": {
         "caseSensitiveHeader": false,
         "delimiter": ",",
@@ -337,18 +374,55 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "ebef3900045ee90dbca69510b1cbf3e0",
+      "hash": "e7338fff981878777dd91e55840fa3e2",
       "name": "us_deaths",
       "path": "data/us_deaths.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [
           {
+            "format": "default",
+            "name": "UID",
+            "type": "integer"
+          },
+          {
+            "format": "default",
+            "name": "iso2",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "iso3",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "code3",
+            "type": "integer"
+          },
+          {
+            "decimalChar": ".",
+            "format": "default",
+            "groupChar": "",
+            "name": "FIPS",
+            "type": "number"
+          },
+          {
+            "format": "default",
+            "name": "Admin2",
+            "type": "string"
+          },
+          {
             "decimalChar": ".",
             "format": "default",
             "groupChar": "",
             "name": "Lat",
             "type": "number"
+          },
+          {
+            "format": "default",
+            "name": "Combined_Key",
+            "type": "string"
           },
           {
             "format": "default",
