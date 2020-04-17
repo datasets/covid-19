@@ -1,7 +1,7 @@
 {
-  "bytes": 67002989,
-  "count_of_rows": 602392,
-  "hash": "6111bff0edbba954ba00274d12e3cf00",
+  "bytes": 64282799,
+  "count_of_rows": 602229,
+  "hash": "f7e72f7489015be45f57ebcb361d56ce",
   "name": "covid-19",
   "profile": "data-package",
   "resources": [
@@ -263,7 +263,7 @@
       }
     },
     {
-      "bytes": 31643698,
+      "bytes": 30380195,
       "dialect": {
         "caseSensitiveHeader": false,
         "delimiter": ",",
@@ -275,18 +275,16 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "76a5c0bdc46aaef910dae58a9f5e40ef",
+      "hash": "d6f5431a6f1dee0359d8bbf7eb939108",
       "name": "us_confirmed",
       "path": "data/us_confirmed.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [
           {
-            "decimalChar": ".",
             "format": "default",
-            "groupChar": "",
             "name": "UID",
-            "type": "number"
+            "type": "integer"
           },
           {
             "format": "default",
@@ -304,11 +302,9 @@
             "type": "integer"
           },
           {
-            "decimalChar": ".",
             "format": "default",
-            "groupChar": "",
             "name": "FIPS",
-            "type": "number"
+            "type": "integer"
           },
           {
             "format": "default",
@@ -364,7 +360,7 @@
       }
     },
     {
-      "bytes": 33438875,
+      "bytes": 31981457,
       "dialect": {
         "caseSensitiveHeader": false,
         "delimiter": ",",
@@ -376,18 +372,16 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "d7b3ab1acd5decb1c5d7cc0308d26a09",
+      "hash": "95931ba0f8dc75283e5aac48655e982a",
       "name": "us_deaths",
       "path": "data/us_deaths.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [
           {
-            "decimalChar": ".",
             "format": "default",
-            "groupChar": "",
             "name": "UID",
-            "type": "number"
+            "type": "integer"
           },
           {
             "format": "default",
@@ -405,11 +399,9 @@
             "type": "integer"
           },
           {
-            "decimalChar": ".",
             "format": "default",
-            "groupChar": "",
             "name": "FIPS",
-            "type": "number"
+            "type": "integer"
           },
           {
             "format": "default",
@@ -470,7 +462,7 @@
       }
     },
     {
-      "bytes": 352008,
+      "bytes": 352739,
       "dialect": {
         "caseSensitiveHeader": false,
         "delimiter": ",",
@@ -482,7 +474,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "a5d1774b5afef4fcdae73ebce1b8c576",
+      "hash": "319fbd09d51a0107e2aed7a905bd8a27",
       "name": "reference",
       "path": "data/reference.csv",
       "profile": "tabular-data-resource",
