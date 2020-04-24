@@ -832,9 +832,9 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-04-17,Australia,Australian Capital Territory,-35.4735,149.0124,103,81,3
 2020-04-18,Australia,Australian Capital Territory,-35.4735,149.0124,103,88,3
 2020-04-19,Australia,Australian Capital Territory,-35.4735,149.0124,103,88,3
-2020-04-20,Australia,Australian Capital Territory,-35.4735,149.0124,103,88,3
-2020-04-21,Australia,Australian Capital Territory,-35.4735,149.0124,103,88,3
-2020-04-22,Australia,Australian Capital Territory,-35.4735,149.0124,103,88,3
+2020-04-20,Australia,Australian Capital Territory,-35.4735,149.0124,104,88,3
+2020-04-21,Australia,Australian Capital Territory,-35.4735,149.0124,104,88,3
+2020-04-22,Australia,Australian Capital Territory,-35.4735,149.0124,104,88,3
 2020-04-23,Australia,Australian Capital Territory,-35.4735,149.0124,104,88,3
 2020-01-22,Australia,New South Wales,-33.8688,151.2093,0,0,0
 2020-01-23,Australia,New South Wales,-33.8688,151.2093,0,0,0
@@ -923,11 +923,11 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-04-15,Australia,New South Wales,-33.8688,151.2093,2886,4,25
 2020-04-16,Australia,New South Wales,-33.8688,151.2093,2897,4,25
 2020-04-17,Australia,New South Wales,-33.8688,151.2093,2926,1379,26
-2020-04-18,Australia,New South Wales,-33.8688,151.2093,2926,1379,26
-2020-04-19,Australia,New South Wales,-33.8688,151.2093,2926,1379,26
-2020-04-20,Australia,New South Wales,-33.8688,151.2093,2926,1379,26
-2020-04-21,Australia,New South Wales,-33.8688,151.2093,2926,1379,26
-2020-04-22,Australia,New South Wales,-33.8688,151.2093,2926,1379,26
+2020-04-18,Australia,New South Wales,-33.8688,151.2093,2936,1379,26
+2020-04-19,Australia,New South Wales,-33.8688,151.2093,2957,1379,26
+2020-04-20,Australia,New South Wales,-33.8688,151.2093,2963,1379,26
+2020-04-21,Australia,New South Wales,-33.8688,151.2093,2969,1379,26
+2020-04-22,Australia,New South Wales,-33.8688,151.2093,2971,1379,26
 2020-04-23,Australia,New South Wales,-33.8688,151.2093,2976,1379,31
 2020-01-22,Australia,Northern Territory,-12.4634,130.8456,0,0,0
 2020-01-23,Australia,Northern Territory,-12.4634,130.8456,0,0,0
@@ -1021,7 +1021,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-04-20,Australia,Northern Territory,-12.4634,130.8456,28,9,0
 2020-04-21,Australia,Northern Territory,-12.4634,130.8456,28,9,0
 2020-04-22,Australia,Northern Territory,-12.4634,130.8456,28,9,0
-2020-04-23,Australia,Northern Territory,-12.4634,130.8456,27,9,0
+2020-04-23,Australia,Northern Territory,-12.4634,130.8456,28,9,0
 2020-01-22,Australia,Queensland,-28.0167,153.4,0,0,0
 2020-01-23,Australia,Queensland,-28.0167,153.4,0,0,0
 2020-01-24,Australia,Queensland,-28.0167,153.4,0,0,0
@@ -1110,10 +1110,10 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-04-16,Australia,Queensland,-28.0167,153.4,1001,442,5
 2020-04-17,Australia,Queensland,-28.0167,153.4,1007,442,5
 2020-04-18,Australia,Queensland,-28.0167,153.4,1015,738,6
-2020-04-19,Australia,Queensland,-28.0167,153.4,1015,738,6
-2020-04-20,Australia,Queensland,-28.0167,153.4,1015,738,6
-2020-04-21,Australia,Queensland,-28.0167,153.4,1015,738,6
-2020-04-22,Australia,Queensland,-28.0167,153.4,1015,738,6
+2020-04-19,Australia,Queensland,-28.0167,153.4,1019,738,6
+2020-04-20,Australia,Queensland,-28.0167,153.4,1019,738,6
+2020-04-21,Australia,Queensland,-28.0167,153.4,1024,738,6
+2020-04-22,Australia,Queensland,-28.0167,153.4,1024,738,6
 2020-04-23,Australia,Queensland,-28.0167,153.4,1026,738,6
 2020-01-22,Australia,South Australia,-34.9285,138.6007,0,0,0
 2020-01-23,Australia,South Australia,-34.9285,138.6007,0,0,0
@@ -1205,8 +1205,8 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-04-18,Australia,South Australia,-34.9285,138.6007,435,331,4
 2020-04-19,Australia,South Australia,-34.9285,138.6007,435,331,4
 2020-04-20,Australia,South Australia,-34.9285,138.6007,435,331,4
-2020-04-21,Australia,South Australia,-34.9285,138.6007,435,331,4
-2020-04-22,Australia,South Australia,-34.9285,138.6007,435,331,4
+2020-04-21,Australia,South Australia,-34.9285,138.6007,437,331,4
+2020-04-22,Australia,South Australia,-34.9285,138.6007,438,331,4
 2020-04-23,Australia,South Australia,-34.9285,138.6007,438,331,4
 2020-01-22,Australia,Tasmania,-41.4545,145.9707,0,0,0
 2020-01-23,Australia,Tasmania,-41.4545,145.9707,0,0,0
@@ -1295,11 +1295,11 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-04-15,Australia,Tasmania,-41.4545,145.9707,165,53,6
 2020-04-16,Australia,Tasmania,-41.4545,145.9707,169,67,6
 2020-04-17,Australia,Tasmania,-41.4545,145.9707,180,67,7
-2020-04-18,Australia,Tasmania,-41.4545,145.9707,180,67,7
-2020-04-19,Australia,Tasmania,-41.4545,145.9707,180,67,7
-2020-04-20,Australia,Tasmania,-41.4545,145.9707,180,67,7
-2020-04-21,Australia,Tasmania,-41.4545,145.9707,180,67,7
-2020-04-22,Australia,Tasmania,-41.4545,145.9707,180,67,7
+2020-04-18,Australia,Tasmania,-41.4545,145.9707,188,67,7
+2020-04-19,Australia,Tasmania,-41.4545,145.9707,195,67,7
+2020-04-20,Australia,Tasmania,-41.4545,145.9707,200,67,7
+2020-04-21,Australia,Tasmania,-41.4545,145.9707,201,67,7
+2020-04-22,Australia,Tasmania,-41.4545,145.9707,205,67,7
 2020-04-23,Australia,Tasmania,-41.4545,145.9707,207,67,8
 2020-01-22,Australia,Victoria,-37.8136,144.9631,0,0,0
 2020-01-23,Australia,Victoria,-37.8136,144.9631,0,0,0
@@ -1389,10 +1389,10 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-04-16,Australia,Victoria,-37.8136,144.9631,1299,1137,14
 2020-04-17,Australia,Victoria,-37.8136,144.9631,1302,1159,14
 2020-04-18,Australia,Victoria,-37.8136,144.9631,1319,1172,14
-2020-04-19,Australia,Victoria,-37.8136,144.9631,1319,1172,14
-2020-04-20,Australia,Victoria,-37.8136,144.9631,1319,1172,14
-2020-04-21,Australia,Victoria,-37.8136,144.9631,1319,1172,14
-2020-04-22,Australia,Victoria,-37.8136,144.9631,1319,1172,14
+2020-04-19,Australia,Victoria,-37.8136,144.9631,1328,1172,14
+2020-04-20,Australia,Victoria,-37.8136,144.9631,1329,1172,14
+2020-04-21,Australia,Victoria,-37.8136,144.9631,1336,1172,14
+2020-04-22,Australia,Victoria,-37.8136,144.9631,1336,1172,14
 2020-04-23,Australia,Victoria,-37.8136,144.9631,1337,1172,16
 2020-01-22,Australia,Western Australia,-31.9505,115.8605,0,0,0
 2020-01-23,Australia,Western Australia,-31.9505,115.8605,0,0,0
@@ -1481,11 +1481,11 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-04-15,Australia,Western Australia,-31.9505,115.8605,527,251,6
 2020-04-16,Australia,Western Australia,-31.9505,115.8605,532,338,6
 2020-04-17,Australia,Western Australia,-31.9505,115.8605,541,340,7
-2020-04-18,Australia,Western Australia,-31.9505,115.8605,541,340,7
-2020-04-19,Australia,Western Australia,-31.9505,115.8605,541,340,7
-2020-04-20,Australia,Western Australia,-31.9505,115.8605,541,340,7
-2020-04-21,Australia,Western Australia,-31.9505,115.8605,541,340,7
-2020-04-22,Australia,Western Australia,-31.9505,115.8605,541,340,7
+2020-04-18,Australia,Western Australia,-31.9505,115.8605,544,340,7
+2020-04-19,Australia,Western Australia,-31.9505,115.8605,545,340,7
+2020-04-20,Australia,Western Australia,-31.9505,115.8605,545,340,7
+2020-04-21,Australia,Western Australia,-31.9505,115.8605,546,340,7
+2020-04-22,Australia,Western Australia,-31.9505,115.8605,546,340,7
 2020-04-23,Australia,Western Australia,-31.9505,115.8605,546,340,7
 2020-01-22,Austria,,47.5162,14.5501,0,0,0
 2020-01-23,Austria,,47.5162,14.5501,0,0,0
