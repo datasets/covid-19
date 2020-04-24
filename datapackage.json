@@ -1,12 +1,12 @@
 {
-  "bytes": 70785980,
-  "count_of_rows": 645106,
-  "hash": "9e6fd008e94bee3906a86a60e3d8a733",
+  "bytes": 72359559,
+  "count_of_rows": 652265,
+  "hash": "3cd9a651e49f92ead0e91c7d10ebeb00",
   "name": "covid-19",
   "profile": "data-package",
   "resources": [
     {
-      "bytes": 1194579,
+      "bytes": 1197519,
       "dialect": {
         "caseSensitiveHeader": false,
         "delimiter": ",",
@@ -18,7 +18,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "64b8b690a69f889b4356a9e0bb059a53",
+      "hash": "c5b860a0db7a14de2a3bdd84cab6a84a",
       "name": "time-series-19-covid-combined",
       "path": "data/time-series-19-covid-combined.csv",
       "profile": "tabular-data-resource",
@@ -82,7 +82,7 @@
       }
     },
     {
-      "bytes": 4537,
+      "bytes": 4603,
       "dialect": {
         "delimiter": ",",
         "doubleQuote": true,
@@ -92,7 +92,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "0cf89055fff9a2c0115bb666436aaa91",
+      "hash": "86b9ed0fb21ecf0e2066ed35a2d3139c",
       "name": "key-countries-pivoted",
       "path": "data/key-countries-pivoted.csv",
       "profile": "data-resource",
@@ -151,7 +151,7 @@
       }
     },
     {
-      "bytes": 493294,
+      "bytes": 499290,
       "dialect": {
         "delimiter": ",",
         "doubleQuote": true,
@@ -161,7 +161,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "9b142f6bbe2a57017d90809fb2d062c2",
+      "hash": "17cbe23dd31af58e9f700c8aa2a5a33d",
       "name": "countries-aggregated",
       "path": "data/countries-aggregated.csv",
       "profile": "data-resource",
@@ -206,7 +206,7 @@
       }
     },
     {
-      "bytes": 4446,
+      "bytes": 4498,
       "dialect": {
         "delimiter": ",",
         "doubleQuote": true,
@@ -216,7 +216,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "f72786f5f2a1fea89959b4f55d30b844",
+      "hash": "22fa7b0b479d8446896b42de8cb34344",
       "name": "worldwide-aggregated",
       "path": "data/worldwide-aggregated.csv",
       "profile": "data-resource",
@@ -263,7 +263,7 @@
       }
     },
     {
-      "bytes": 33515681,
+      "bytes": 34289394,
       "dialect": {
         "caseSensitiveHeader": false,
         "delimiter": ",",
@@ -275,16 +275,18 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "ade27e829789dcfe4af5f43495c532de",
+      "hash": "acece5aced0317ef887e4be531b6e4f7",
       "name": "us_confirmed",
       "path": "data/us_confirmed.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [
           {
+            "decimalChar": ".",
             "format": "default",
+            "groupChar": "",
             "name": "UID",
-            "type": "integer"
+            "type": "number"
           },
           {
             "format": "default",
@@ -362,7 +364,7 @@
       }
     },
     {
-      "bytes": 35220038,
+      "bytes": 36010850,
       "dialect": {
         "caseSensitiveHeader": false,
         "delimiter": ",",
@@ -374,16 +376,18 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "fc7ca774f4c5f19a0192d07f5ecaab0a",
+      "hash": "f2651778abb86cc596e992b3f1b5c70d",
       "name": "us_deaths",
       "path": "data/us_deaths.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [
           {
+            "decimalChar": ".",
             "format": "default",
+            "groupChar": "",
             "name": "UID",
-            "type": "integer"
+            "type": "number"
           },
           {
             "format": "default",
