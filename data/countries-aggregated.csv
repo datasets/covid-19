@@ -9545,7 +9545,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-13,Malta,12,1,0
 2020-03-13,Mauritania,0,0,0
 2020-03-13,Mauritius,0,0,0
-2020-03-13,Mexico,12,4,0
+2020-03-13,Mexico,26,4,0
 2020-03-13,Moldova,6,0,0
 2020-03-13,Monaco,2,0,0
 2020-03-13,Mongolia,1,0,0
@@ -9730,7 +9730,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-14,Malta,18,1,0
 2020-03-14,Mauritania,1,0,0
 2020-03-14,Mauritius,0,0,0
-2020-03-14,Mexico,26,4,0
+2020-03-14,Mexico,41,4,0
 2020-03-14,Moldova,12,0,0
 2020-03-14,Monaco,2,0,0
 2020-03-14,Mongolia,1,0,0
@@ -9915,7 +9915,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-15,Malta,21,1,0
 2020-03-15,Mauritania,1,0,0
 2020-03-15,Mauritius,0,0,0
-2020-03-15,Mexico,41,4,0
+2020-03-15,Mexico,53,4,0
 2020-03-15,Moldova,23,0,0
 2020-03-15,Monaco,2,0,0
 2020-03-15,Mongolia,1,0,0
@@ -10100,7 +10100,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-16,Malta,30,2,0
 2020-03-16,Mauritania,1,0,0
 2020-03-16,Mauritius,0,0,0
-2020-03-16,Mexico,53,4,0
+2020-03-16,Mexico,82,4,0
 2020-03-16,Moldova,23,0,0
 2020-03-16,Monaco,7,0,0
 2020-03-16,Mongolia,1,0,0
@@ -10285,7 +10285,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-17,Malta,38,2,0
 2020-03-17,Mauritania,1,0,0
 2020-03-17,Mauritius,0,0,0
-2020-03-17,Mexico,82,4,0
+2020-03-17,Mexico,93,4,0
 2020-03-17,Moldova,30,1,0
 2020-03-17,Monaco,7,0,0
 2020-03-17,Mongolia,5,0,0
@@ -10470,7 +10470,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-18,Malta,38,2,0
 2020-03-18,Mauritania,1,0,0
 2020-03-18,Mauritius,3,0,0
-2020-03-18,Mexico,93,4,0
+2020-03-18,Mexico,118,4,0
 2020-03-18,Moldova,30,1,1
 2020-03-18,Monaco,7,0,0
 2020-03-18,Mongolia,6,0,0
@@ -10655,7 +10655,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-19,Malta,53,2,0
 2020-03-19,Mauritania,2,0,0
 2020-03-19,Mauritius,3,0,0
-2020-03-19,Mexico,118,4,1
+2020-03-19,Mexico,164,4,1
 2020-03-19,Moldova,49,1,1
 2020-03-19,Monaco,7,0,0
 2020-03-19,Mongolia,6,0,0
@@ -10840,7 +10840,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-20,Malta,64,2,0
 2020-03-20,Mauritania,2,0,0
 2020-03-20,Mauritius,12,0,0
-2020-03-20,Mexico,164,4,1
+2020-03-20,Mexico,203,4,2
 2020-03-20,Moldova,66,1,1
 2020-03-20,Monaco,11,0,0
 2020-03-20,Mongolia,6,0,0
@@ -11025,7 +11025,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-21,Malta,73,2,0
 2020-03-21,Mauritania,2,0,0
 2020-03-21,Mauritius,14,0,1
-2020-03-21,Mexico,203,4,2
+2020-03-21,Mexico,251,4,2
 2020-03-21,Moldova,80,1,1
 2020-03-21,Monaco,11,0,0
 2020-03-21,Mongolia,10,0,0
@@ -11210,7 +11210,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-22,Malta,90,2,0
 2020-03-22,Mauritania,2,0,0
 2020-03-22,Mauritius,28,0,2
-2020-03-22,Mexico,251,4,2
+2020-03-22,Mexico,316,4,3
 2020-03-22,Moldova,94,1,1
 2020-03-22,Monaco,23,1,0
 2020-03-22,Mongolia,10,0,0
@@ -11395,7 +11395,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-23,Malta,107,2,0
 2020-03-23,Mauritania,2,0,0
 2020-03-23,Mauritius,36,0,2
-2020-03-23,Mexico,316,4,3
+2020-03-23,Mexico,367,4,4
 2020-03-23,Moldova,109,1,1
 2020-03-23,Monaco,23,1,0
 2020-03-23,Mongolia,10,0,0
@@ -11580,7 +11580,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-24,Malta,110,2,0
 2020-03-24,Mauritania,2,0,0
 2020-03-24,Mauritius,42,0,2
-2020-03-24,Mexico,367,4,4
+2020-03-24,Mexico,405,4,5
 2020-03-24,Moldova,125,2,1
 2020-03-24,Monaco,23,1,0
 2020-03-24,Mongolia,10,0,0
@@ -11765,7 +11765,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-25,Malta,129,2,0
 2020-03-25,Mauritania,2,0,0
 2020-03-25,Mauritius,48,0,2
-2020-03-25,Mexico,405,4,5
+2020-03-25,Mexico,475,4,6
 2020-03-25,Moldova,149,2,1
 2020-03-25,Monaco,31,1,0
 2020-03-25,Mongolia,10,0,0
@@ -11950,7 +11950,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-26,Malta,134,2,0
 2020-03-26,Mauritania,3,0,0
 2020-03-26,Mauritius,81,0,2
-2020-03-26,Mexico,475,4,6
+2020-03-26,Mexico,585,4,8
 2020-03-26,Moldova,177,2,1
 2020-03-26,Monaco,33,1,0
 2020-03-26,Mongolia,11,0,0
@@ -12135,7 +12135,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-27,Malta,139,2,0
 2020-03-27,Mauritania,3,0,0
 2020-03-27,Mauritius,94,0,2
-2020-03-27,Mexico,585,4,8
+2020-03-27,Mexico,717,4,12
 2020-03-27,Moldova,199,2,2
 2020-03-27,Monaco,42,1,0
 2020-03-27,Mongolia,11,0,0
@@ -12320,7 +12320,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-28,Malta,149,2,0
 2020-03-28,Mauritania,5,0,0
 2020-03-28,Mauritius,102,0,2
-2020-03-28,Mexico,717,4,12
+2020-03-28,Mexico,848,4,16
 2020-03-28,Moldova,231,2,2
 2020-03-28,Monaco,42,1,0
 2020-03-28,Mongolia,12,0,0
@@ -12505,7 +12505,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-29,Malta,151,2,0
 2020-03-29,Mauritania,5,2,0
 2020-03-29,Mauritius,107,0,3
-2020-03-29,Mexico,848,4,16
+2020-03-29,Mexico,993,4,20
 2020-03-29,Moldova,263,2,2
 2020-03-29,Monaco,46,1,1
 2020-03-29,Mongolia,12,0,0
@@ -12690,7 +12690,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-30,Malta,156,2,0
 2020-03-30,Mauritania,5,2,1
 2020-03-30,Mauritius,128,0,3
-2020-03-30,Mexico,993,35,20
+2020-03-30,Mexico,1094,35,28
 2020-03-30,Moldova,298,15,2
 2020-03-30,Monaco,49,1,1
 2020-03-30,Mongolia,12,2,0
@@ -12875,7 +12875,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-31,Malta,169,2,0
 2020-03-31,Mauritania,6,2,1
 2020-03-31,Mauritius,143,0,5
-2020-03-31,Mexico,1094,35,28
+2020-03-31,Mexico,1215,35,29
 2020-03-31,Moldova,353,18,4
 2020-03-31,Monaco,52,2,1
 2020-03-31,Mongolia,12,2,0
@@ -13060,7 +13060,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-01,Malta,188,2,0
 2020-04-01,Mauritania,6,2,1
 2020-04-01,Mauritius,161,0,6
-2020-04-01,Mexico,1215,35,29
+2020-04-01,Mexico,1378,35,37
 2020-04-01,Moldova,423,23,5
 2020-04-01,Monaco,55,2,1
 2020-04-01,Mongolia,14,2,0
@@ -13245,7 +13245,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-02,Malta,196,2,0
 2020-04-02,Mauritania,6,2,1
 2020-04-02,Mauritius,169,0,7
-2020-04-02,Mexico,1378,35,37
+2020-04-02,Mexico,1510,35,50
 2020-04-02,Moldova,505,23,6
 2020-04-02,Monaco,60,2,1
 2020-04-02,Mongolia,14,2,0
@@ -13430,7 +13430,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-03,Malta,202,2,0
 2020-04-03,Mauritania,6,2,1
 2020-04-03,Mauritius,186,0,7
-2020-04-03,Mexico,1510,633,50
+2020-04-03,Mexico,1688,633,60
 2020-04-03,Moldova,591,26,8
 2020-04-03,Monaco,64,3,1
 2020-04-03,Mongolia,14,2,0
@@ -13615,7 +13615,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-04,Malta,213,2,0
 2020-04-04,Mauritania,6,2,1
 2020-04-04,Mauritius,196,7,7
-2020-04-04,Mexico,1688,633,60
+2020-04-04,Mexico,1890,633,79
 2020-04-04,Moldova,752,29,12
 2020-04-04,Monaco,66,3,1
 2020-04-04,Mongolia,14,2,0
@@ -13800,7 +13800,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-05,Malta,227,5,0
 2020-04-05,Mauritania,6,2,1
 2020-04-05,Mauritius,227,7,7
-2020-04-05,Mexico,1890,633,79
+2020-04-05,Mexico,2143,633,94
 2020-04-05,Moldova,864,30,15
 2020-04-05,Monaco,73,3,1
 2020-04-05,Mongolia,14,2,0
@@ -13985,7 +13985,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-06,Malta,241,5,0
 2020-04-06,Mauritania,6,2,1
 2020-04-06,Mauritius,244,7,7
-2020-04-06,Mexico,2143,633,94
+2020-04-06,Mexico,2439,633,125
 2020-04-06,Moldova,965,37,19
 2020-04-06,Monaco,77,4,1
 2020-04-06,Mongolia,15,2,0
@@ -14170,7 +14170,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-07,Malta,293,5,0
 2020-04-07,Mauritania,6,2,1
 2020-04-07,Mauritius,268,8,7
-2020-04-07,Mexico,2439,633,125
+2020-04-07,Mexico,2785,633,141
 2020-04-07,Moldova,1056,40,22
 2020-04-07,Monaco,79,4,1
 2020-04-07,Mongolia,15,4,0
@@ -14355,7 +14355,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-08,Malta,299,16,1
 2020-04-08,Mauritania,6,2,1
 2020-04-08,Mauritius,273,19,7
-2020-04-08,Mexico,2785,633,141
+2020-04-08,Mexico,3181,633,174
 2020-04-08,Moldova,1174,40,27
 2020-04-08,Monaco,81,4,1
 2020-04-08,Mongolia,16,4,0
@@ -14540,7 +14540,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-09,Malta,337,16,2
 2020-04-09,Mauritania,7,2,1
 2020-04-09,Mauritius,314,23,7
-2020-04-09,Mexico,3181,633,174
+2020-04-09,Mexico,3441,633,194
 2020-04-09,Moldova,1289,50,29
 2020-04-09,Monaco,84,5,1
 2020-04-09,Mongolia,16,4,0
@@ -14725,7 +14725,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-10,Malta,350,16,2
 2020-04-10,Mauritania,7,2,1
 2020-04-10,Mauritius,318,23,9
-2020-04-10,Mexico,3441,633,194
+2020-04-10,Mexico,3844,633,233
 2020-04-10,Moldova,1438,56,29
 2020-04-10,Monaco,90,5,1
 2020-04-10,Mongolia,16,4,0
@@ -14910,7 +14910,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-11,Malta,370,16,3
 2020-04-11,Mauritania,7,2,1
 2020-04-11,Mauritius,319,28,9
-2020-04-11,Mexico,3844,633,233
+2020-04-11,Mexico,4219,633,273
 2020-04-11,Moldova,1560,75,30
 2020-04-11,Monaco,92,5,1
 2020-04-11,Mongolia,16,4,0
@@ -15095,7 +15095,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-12,Malta,378,44,3
 2020-04-12,Mauritania,7,2,1
 2020-04-12,Mauritius,324,42,9
-2020-04-12,Mexico,4219,1772,273
+2020-04-12,Mexico,4661,1772,296
 2020-04-12,Moldova,1662,94,31
 2020-04-12,Monaco,93,6,1
 2020-04-12,Mongolia,16,4,0
@@ -15280,7 +15280,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-13,Malta,384,44,3
 2020-04-13,Mauritania,7,2,1
 2020-04-13,Mauritius,324,42,9
-2020-04-13,Mexico,4661,1843,296
+2020-04-13,Mexico,5014,1843,332
 2020-04-13,Moldova,1712,107,35
 2020-04-13,Monaco,93,6,1
 2020-04-13,Mongolia,17,4,0
@@ -15465,7 +15465,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-14,Malta,393,44,3
 2020-04-14,Mauritania,7,2,1
 2020-04-14,Mauritius,324,51,9
-2020-04-14,Mexico,5014,1964,332
+2020-04-14,Mexico,5399,1964,406
 2020-04-14,Moldova,1934,134,40
 2020-04-14,Monaco,93,6,1
 2020-04-14,Mongolia,30,5,0
@@ -15650,7 +15650,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-15,Malta,399,44,3
 2020-04-15,Mauritania,7,2,1
 2020-04-15,Mauritius,324,65,9
-2020-04-15,Mexico,5399,2125,406
+2020-04-15,Mexico,5847,2125,449
 2020-04-15,Moldova,2049,171,46
 2020-04-15,Monaco,93,12,3
 2020-04-15,Mongolia,30,5,0
@@ -15835,7 +15835,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-16,Malta,412,82,3
 2020-04-16,Mauritania,7,2,1
 2020-04-16,Mauritius,324,81,9
-2020-04-16,Mexico,5847,2125,449
+2020-04-16,Mexico,6297,2125,486
 2020-04-16,Moldova,2154,235,54
 2020-04-16,Monaco,93,12,3
 2020-04-16,Mongolia,31,5,0
@@ -16020,7 +16020,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-17,Malta,422,91,3
 2020-04-17,Mauritania,7,2,1
 2020-04-17,Mauritius,324,108,9
-2020-04-17,Mexico,6297,2125,486
+2020-04-17,Mexico,6875,2125,546
 2020-04-17,Moldova,2264,276,56
 2020-04-17,Monaco,94,20,3
 2020-04-17,Mongolia,31,5,0
@@ -16205,7 +16205,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-18,Malta,426,99,3
 2020-04-18,Mauritania,7,2,1
 2020-04-18,Mauritius,325,180,9
-2020-04-18,Mexico,6875,2125,546
+2020-04-18,Mexico,7497,2125,650
 2020-04-18,Moldova,2378,391,57
 2020-04-18,Monaco,94,22,3
 2020-04-18,Mongolia,31,5,0
@@ -16390,7 +16390,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-19,Malta,427,118,3
 2020-04-19,Mauritania,7,6,1
 2020-04-19,Mauritius,328,208,9
-2020-04-19,Mexico,7497,2627,650
+2020-04-19,Mexico,8261,2627,686
 2020-04-19,Moldova,2472,457,67
 2020-04-19,Monaco,94,22,3
 2020-04-19,Mongolia,32,7,0
@@ -16575,7 +16575,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-20,Malta,431,126,3
 2020-04-20,Mauritania,7,6,1
 2020-04-20,Mauritius,328,224,9
-2020-04-20,Mexico,8261,2627,686
+2020-04-20,Mexico,8772,2627,712
 2020-04-20,Moldova,2548,457,70
 2020-04-20,Monaco,94,23,3
 2020-04-20,Mongolia,33,7,0
@@ -16760,7 +16760,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-21,Malta,443,150,3
 2020-04-21,Mauritania,7,6,1
 2020-04-21,Mauritius,328,243,9
-2020-04-21,Mexico,8772,2627,712
+2020-04-21,Mexico,9501,2627,857
 2020-04-21,Moldova,2614,505,72
 2020-04-21,Monaco,94,26,3
 2020-04-21,Mongolia,34,8,0
@@ -16945,7 +16945,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-22,Malta,444,165,3
 2020-04-22,Mauritania,7,6,1
 2020-04-22,Mauritius,329,261,9
-2020-04-22,Mexico,9501,2627,857
+2020-04-22,Mexico,10544,2627,970
 2020-04-22,Moldova,2778,560,75
 2020-04-22,Monaco,94,26,3
 2020-04-22,Mongolia,35,8,0
@@ -17315,7 +17315,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-24,Malta,447,223,3
 2020-04-24,Mauritania,7,6,1
 2020-04-24,Mauritius,331,285,9
-2020-04-24,Mexico,11633,2627,1069
+2020-04-24,Mexico,12872,2627,1221
 2020-04-24,Moldova,3110,755,84
 2020-04-24,Monaco,94,41,4
 2020-04-24,Mongolia,37,9,0
@@ -17759,3 +17759,188 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-26,Yemen,1,1,0
 2020-04-26,Zambia,88,42,3
 2020-04-26,Zimbabwe,31,2,4
+2020-04-27,Afghanistan,1703,220,57
+2020-04-27,Albania,736,422,28
+2020-04-27,Algeria,3517,1558,432
+2020-04-27,Andorra,743,385,40
+2020-04-27,Angola,27,6,2
+2020-04-27,Antigua and Barbuda,24,11,3
+2020-04-27,Argentina,4003,1140,197
+2020-04-27,Armenia,1808,848,29
+2020-04-27,Australia,6721,5588,83
+2020-04-27,Austria,15274,12362,549
+2020-04-27,Azerbaijan,1678,1162,22
+2020-04-27,Bahamas,80,22,11
+2020-04-27,Bahrain,2723,1218,8
+2020-04-27,Bangladesh,5913,131,152
+2020-04-27,Barbados,80,39,6
+2020-04-27,Belarus,11289,1740,75
+2020-04-27,Belgium,46687,10878,7207
+2020-04-27,Belize,18,6,2
+2020-04-27,Benin,64,33,1
+2020-04-27,Bhutan,7,4,0
+2020-04-27,Bolivia,1014,98,53
+2020-04-27,Bosnia and Herzegovina,1565,659,60
+2020-04-27,Botswana,22,0,1
+2020-04-27,Brazil,67446,31142,4603
+2020-04-27,Brunei,138,124,1
+2020-04-27,Bulgaria,1363,206,58
+2020-04-27,Burkina Faso,635,469,42
+2020-04-27,Burma,146,16,5
+2020-04-27,Burundi,11,4,1
+2020-04-27,Cabo Verde,109,1,1
+2020-04-27,Cambodia,122,119,0
+2020-04-27,Cameroon,1705,805,58
+2020-04-27,Canada,49616,18268,2841
+2020-04-27,Central African Republic,19,10,0
+2020-04-27,Chad,46,15,0
+2020-04-27,Chile,13813,7327,198
+2020-04-27,China,83918,78374,4637
+2020-04-27,Colombia,5597,1210,253
+2020-04-27,Congo (Brazzaville),200,19,6
+2020-04-27,Congo (Kinshasa),459,50,28
+2020-04-27,Costa Rica,697,287,6
+2020-04-27,Cote d'Ivoire,1164,499,14
+2020-04-27,Croatia,2039,1166,59
+2020-04-27,Cuba,1389,525,56
+2020-04-27,Cyprus,822,148,15
+2020-04-27,Czechia,7445,2826,223
+2020-04-27,Denmark,8896,6148,427
+2020-04-27,Diamond Princess,712,645,13
+2020-04-27,Djibouti,1035,477,2
+2020-04-27,Dominica,16,13,0
+2020-04-27,Dominican Republic,6293,993,282
+2020-04-27,Ecuador,23240,1557,663
+2020-04-27,Egypt,4782,1236,337
+2020-04-27,El Salvador,323,89,8
+2020-04-27,Equatorial Guinea,258,9,1
+2020-04-27,Eritrea,39,13,0
+2020-04-27,Estonia,1647,233,50
+2020-04-27,Eswatini,65,10,1
+2020-04-27,Ethiopia,124,50,3
+2020-04-27,Fiji,18,12,0
+2020-04-27,Finland,4695,2500,193
+2020-04-27,France,165963,46293,23327
+2020-04-27,Gabon,211,43,3
+2020-04-27,Gambia,10,8,1
+2020-04-27,Georgia,497,156,6
+2020-04-27,Germany,158758,114500,6126
+2020-04-27,Ghana,1550,155,11
+2020-04-27,Greece,2534,577,136
+2020-04-27,Grenada,18,7,0
+2020-04-27,Guatemala,530,49,15
+2020-04-27,Guinea,1163,246,7
+2020-04-27,Guinea-Bissau,73,18,1
+2020-04-27,Guyana,74,15,8
+2020-04-27,Haiti,76,8,6
+2020-04-27,Holy See,9,2,0
+2020-04-27,Honduras,661,79,61
+2020-04-27,Hungary,2583,498,280
+2020-04-27,Iceland,1792,1624,10
+2020-04-27,India,29451,7137,939
+2020-04-27,Indonesia,9096,1151,765
+2020-04-27,Iran,91472,70933,5806
+2020-04-27,Iraq,1847,1286,88
+2020-04-27,Ireland,19648,9233,1102
+2020-04-27,Israel,15555,7200,204
+2020-04-27,Italy,199414,66624,26977
+2020-04-27,Jamaica,364,29,7
+2020-04-27,Japan,14153,1899,385
+2020-04-27,Jordan,449,342,7
+2020-04-27,Kazakhstan,2835,720,25
+2020-04-27,Kenya,363,114,14
+2020-04-27,"Korea, South",10752,8854,244
+2020-04-27,Kosovo,510,93,12
+2020-04-27,Kuwait,3288,1012,22
+2020-04-27,Kyrgyzstan,695,395,8
+2020-04-27,Laos,19,7,0
+2020-04-27,Latvia,818,267,13
+2020-04-27,Lebanon,710,145,24
+2020-04-27,Liberia,124,25,12
+2020-04-27,Libya,61,18,2
+2020-04-27,Liechtenstein,82,55,1
+2020-04-27,Lithuania,1449,474,41
+2020-04-27,Luxembourg,3729,3123,88
+2020-04-27,MS Zaandam,9,0,2
+2020-04-27,Madagascar,128,75,0
+2020-04-27,Malawi,36,4,3
+2020-04-27,Malaysia,5820,3957,99
+2020-04-27,Maldives,226,17,0
+2020-04-27,Mali,408,113,23
+2020-04-27,Malta,450,286,4
+2020-04-27,Mauritania,7,6,1
+2020-04-27,Mauritius,334,302,10
+2020-04-27,Mexico,15529,9086,1434
+2020-04-27,Moldova,3481,925,102
+2020-04-27,Monaco,95,42,4
+2020-04-27,Mongolia,38,10,0
+2020-04-27,Montenegro,321,189,7
+2020-04-27,Morocco,4120,695,162
+2020-04-27,Mozambique,76,12,0
+2020-04-27,Namibia,16,8,0
+2020-04-27,Nepal,52,16,0
+2020-04-27,Netherlands,38440,117,4534
+2020-04-27,New Zealand,1472,1214,19
+2020-04-27,Nicaragua,13,7,3
+2020-04-27,Niger,701,385,29
+2020-04-27,Nigeria,1337,255,40
+2020-04-27,North Macedonia,1399,553,65
+2020-04-27,Norway,7599,32,205
+2020-04-27,Oman,2049,364,10
+2020-04-27,Pakistan,13915,3029,292
+2020-04-27,Panama,6021,455,167
+2020-04-27,Papua New Guinea,8,0,0
+2020-04-27,Paraguay,228,93,9
+2020-04-27,Peru,28699,8425,782
+2020-04-27,Philippines,7777,932,511
+2020-04-27,Poland,11902,2466,562
+2020-04-27,Portugal,24027,1357,928
+2020-04-27,Qatar,11244,1066,10
+2020-04-27,Romania,11339,3141,641
+2020-04-27,Russia,87147,7346,794
+2020-04-27,Rwanda,207,93,0
+2020-04-27,Saint Kitts and Nevis,15,2,0
+2020-04-27,Saint Lucia,15,15,0
+2020-04-27,Saint Vincent and the Grenadines,15,8,0
+2020-04-27,San Marino,538,64,41
+2020-04-27,Sao Tome and Principe,4,0,0
+2020-04-27,Saudi Arabia,18811,2531,144
+2020-04-27,Senegal,736,284,9
+2020-04-27,Serbia,6630,870,125
+2020-04-27,Seychelles,11,6,0
+2020-04-27,Sierra Leone,93,10,4
+2020-04-27,Singapore,14423,1095,14
+2020-04-27,Slovakia,1381,403,18
+2020-04-27,Slovenia,1402,221,83
+2020-04-27,Somalia,480,10,26
+2020-04-27,South Africa,4793,1473,90
+2020-04-27,South Sudan,6,0,0
+2020-04-27,Spain,229422,120832,23521
+2020-04-27,Sri Lanka,588,126,7
+2020-04-27,Sudan,275,21,22
+2020-04-27,Suriname,10,7,1
+2020-04-27,Sweden,18926,1005,2274
+2020-04-27,Switzerland,29164,22200,1665
+2020-04-27,Syria,43,19,3
+2020-04-27,Taiwan*,429,290,6
+2020-04-27,Tanzania,299,48,10
+2020-04-27,Thailand,2931,2609,52
+2020-04-27,Timor-Leste,24,2,0
+2020-04-27,Togo,98,62,6
+2020-04-27,Trinidad and Tobago,116,59,8
+2020-04-27,Tunisia,967,279,39
+2020-04-27,Turkey,112261,33791,2900
+2020-04-27,US,988197,111424,56259
+2020-04-27,Uganda,79,47,0
+2020-04-27,Ukraine,9009,864,220
+2020-04-27,United Arab Emirates,10839,2090,82
+2020-04-27,United Kingdom,158348,807,21157
+2020-04-27,Uruguay,620,386,15
+2020-04-27,Uzbekistan,1904,892,8
+2020-04-27,Venezuela,329,142,10
+2020-04-27,Vietnam,270,225,0
+2020-04-27,West Bank and Gaza,342,83,2
+2020-04-27,Western Sahara,6,5,0
+2020-04-27,Yemen,1,1,0
+2020-04-27,Zambia,88,42,3
+2020-04-27,Zimbabwe,32,5,4
