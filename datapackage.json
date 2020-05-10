@@ -1,12 +1,12 @@
 {
-  "bytes": 81651879,
+  "bytes": 81651878,
   "count_of_rows": 764104,
-  "hash": "4adb04e870c7a6d7b5e366cbd5318486",
+  "hash": "5d0e8e7f162d53a41a6dd3af83408d81",
   "name": "covid-19",
   "profile": "data-package",
   "resources": [
     {
-      "bytes": 1440606,
+      "bytes": 1440609,
       "dialect": {
         "caseSensitiveHeader": false,
         "delimiter": ",",
@@ -18,7 +18,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "a453a47d86281d75a278e786f170611a",
+      "hash": "c4dfd5dda6256bce5c7768d2e29d9dff",
       "name": "time-series-19-covid-combined",
       "path": "data/time-series-19-covid-combined.csv",
       "profile": "tabular-data-resource",
@@ -151,7 +151,7 @@
       }
     },
     {
-      "bytes": 602752,
+      "bytes": 602755,
       "dialect": {
         "delimiter": ",",
         "doubleQuote": true,
@@ -161,7 +161,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "d494e44ace44ab69399e08188d8b8db5",
+      "hash": "8281227b5b349bc97253a6c829716d86",
       "name": "countries-aggregated",
       "path": "data/countries-aggregated.csv",
       "profile": "data-resource",
@@ -206,7 +206,7 @@
       }
     },
     {
-      "bytes": 5351,
+      "bytes": 5344,
       "dialect": {
         "delimiter": ",",
         "doubleQuote": true,
@@ -216,7 +216,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "b90ef35d382cb26460298cffda01fd54",
+      "hash": "f1265b8f771769f96c6f280284107b2f",
       "name": "worldwide-aggregated",
       "path": "data/worldwide-aggregated.csv",
       "profile": "data-resource",

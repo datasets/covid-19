@@ -9714,7 +9714,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-13,Ukraine,3,0,1
 2020-03-13,United Arab Emirates,85,17,0
 2020-03-13,United Kingdom,802,19,10
-2020-03-13,Uruguay,0,0,0
+2020-03-13,Uruguay,4,0,0
 2020-03-13,Uzbekistan,0,0,0
 2020-03-13,Venezuela,0,0,0
 2020-03-13,Vietnam,47,16,0
@@ -9901,7 +9901,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-14,Ukraine,3,0,1
 2020-03-14,United Arab Emirates,85,17,0
 2020-03-14,United Kingdom,1144,19,28
-2020-03-14,Uruguay,4,0,0
+2020-03-14,Uruguay,6,0,0
 2020-03-14,Uzbekistan,0,0,0
 2020-03-14,Venezuela,2,0,0
 2020-03-14,Vietnam,53,16,0
@@ -10088,7 +10088,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-15,Ukraine,3,0,1
 2020-03-15,United Arab Emirates,98,23,0
 2020-03-15,United Kingdom,1145,19,43
-2020-03-15,Uruguay,4,0,0
+2020-03-15,Uruguay,8,0,0
 2020-03-15,Uzbekistan,1,0,0
 2020-03-15,Venezuela,10,0,0
 2020-03-15,Vietnam,56,16,0
@@ -10275,7 +10275,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-16,Ukraine,7,0,1
 2020-03-16,United Arab Emirates,98,23,0
 2020-03-16,United Kingdom,1551,21,66
-2020-03-16,Uruguay,8,0,0
+2020-03-16,Uruguay,29,0,0
 2020-03-16,Uzbekistan,6,0,0
 2020-03-16,Venezuela,17,0,0
 2020-03-16,Vietnam,61,16,0
@@ -10462,7 +10462,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-17,Ukraine,14,0,2
 2020-03-17,United Arab Emirates,98,23,0
 2020-03-17,United Kingdom,1960,53,82
-2020-03-17,Uruguay,29,0,0
+2020-03-17,Uruguay,50,0,0
 2020-03-17,Uzbekistan,10,0,0
 2020-03-17,Venezuela,33,0,0
 2020-03-17,Vietnam,66,16,0
@@ -10649,7 +10649,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-18,Ukraine,14,0,2
 2020-03-18,United Arab Emirates,113,26,0
 2020-03-18,United Kingdom,2642,67,116
-2020-03-18,Uruguay,50,0,0
+2020-03-18,Uruguay,79,0,0
 2020-03-18,Uzbekistan,15,0,0
 2020-03-18,Venezuela,36,0,0
 2020-03-18,Vietnam,75,16,0
@@ -10836,7 +10836,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-19,Ukraine,16,0,2
 2020-03-19,United Arab Emirates,140,31,0
 2020-03-19,United Kingdom,2716,67,159
-2020-03-19,Uruguay,79,0,0
+2020-03-19,Uruguay,94,0,0
 2020-03-19,Uzbekistan,23,0,0
 2020-03-19,Venezuela,42,0,0
 2020-03-19,Vietnam,85,16,0
@@ -11023,7 +11023,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-20,Ukraine,29,0,3
 2020-03-20,United Arab Emirates,140,31,2
 2020-03-20,United Kingdom,4014,67,195
-2020-03-20,Uruguay,94,0,0
+2020-03-20,Uruguay,110,0,0
 2020-03-20,Uzbekistan,33,0,0
 2020-03-20,Venezuela,42,0,0
 2020-03-20,Vietnam,91,16,0
@@ -11210,7 +11210,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-21,Ukraine,47,1,3
 2020-03-21,United Arab Emirates,153,38,2
 2020-03-21,United Kingdom,5067,67,251
-2020-03-21,Uruguay,110,0,0
+2020-03-21,Uruguay,135,0,0
 2020-03-21,Uzbekistan,43,0,0
 2020-03-21,Venezuela,70,0,0
 2020-03-21,Vietnam,94,17,0
@@ -11771,7 +11771,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-24,Ukraine,97,1,3
 2020-03-24,United Arab Emirates,248,45,2
 2020-03-24,United Kingdom,8164,140,509
-2020-03-24,Uruguay,162,0,0
+2020-03-24,Uruguay,189,0,0
 2020-03-24,Uzbekistan,50,0,0
 2020-03-24,Venezuela,84,15,0
 2020-03-24,Vietnam,134,17,0
@@ -11958,7 +11958,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-25,Ukraine,145,1,5
 2020-03-25,United Arab Emirates,333,52,2
 2020-03-25,United Kingdom,9640,140,695
-2020-03-25,Uruguay,189,0,0
+2020-03-25,Uruguay,217,0,0
 2020-03-25,Uzbekistan,60,0,0
 2020-03-25,Venezuela,91,15,0
 2020-03-25,Vietnam,141,17,0
@@ -12145,7 +12145,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-26,Ukraine,196,1,5
 2020-03-26,United Arab Emirates,333,52,2
 2020-03-26,United Kingdom,11812,150,879
-2020-03-26,Uruguay,217,0,0
+2020-03-26,Uruguay,238,0,0
 2020-03-26,Uzbekistan,75,0,0
 2020-03-26,Venezuela,107,15,0
 2020-03-26,Vietnam,153,20,0
@@ -12332,7 +12332,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-27,Ukraine,310,5,5
 2020-03-27,United Arab Emirates,405,52,2
 2020-03-27,United Kingdom,14745,151,1163
-2020-03-27,Uruguay,238,0,0
+2020-03-27,Uruguay,274,0,0
 2020-03-27,Uzbekistan,88,5,1
 2020-03-27,Venezuela,107,31,1
 2020-03-27,Vietnam,163,20,0
@@ -12519,7 +12519,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-28,Ukraine,356,5,9
 2020-03-28,United Arab Emirates,468,52,2
 2020-03-28,United Kingdom,17312,151,1457
-2020-03-28,Uruguay,274,0,0
+2020-03-28,Uruguay,303,0,1
 2020-03-28,Uzbekistan,104,5,2
 2020-03-28,Venezuela,119,39,2
 2020-03-28,Vietnam,174,21,0
@@ -12706,7 +12706,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-29,Ukraine,475,6,10
 2020-03-29,United Arab Emirates,570,58,3
 2020-03-29,United Kingdom,19780,151,1672
-2020-03-29,Uruguay,304,0,1
+2020-03-29,Uruguay,309,0,1
 2020-03-29,Uzbekistan,144,7,2
 2020-03-29,Venezuela,119,39,2
 2020-03-29,Vietnam,188,25,0
@@ -12893,7 +12893,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-30,Ukraine,548,8,13
 2020-03-30,United Arab Emirates,611,61,5
 2020-03-30,United Kingdom,22453,171,2046
-2020-03-30,Uruguay,310,0,1
+2020-03-30,Uruguay,320,0,1
 2020-03-30,Uzbekistan,149,7,2
 2020-03-30,Venezuela,135,39,3
 2020-03-30,Vietnam,203,55,0
@@ -13267,7 +13267,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-01,Ukraine,794,13,20
 2020-04-01,United Arab Emirates,814,61,8
 2020-04-01,United Kingdom,29865,179,3100
-2020-04-01,Uruguay,338,41,2
+2020-04-01,Uruguay,350,62,2
 2020-04-01,Uzbekistan,181,12,2
 2020-04-01,Venezuela,143,41,3
 2020-04-01,Vietnam,218,63,0
@@ -13454,7 +13454,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-02,Ukraine,897,19,22
 2020-04-02,United Arab Emirates,1024,96,8
 2020-04-02,United Kingdom,34173,192,3752
-2020-04-02,Uruguay,350,62,4
+2020-04-02,Uruguay,369,68,4
 2020-04-02,Uzbekistan,205,25,2
 2020-04-02,Venezuela,146,43,5
 2020-04-02,Vietnam,233,75,0
@@ -13641,7 +13641,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-03,Ukraine,1072,22,27
 2020-04-03,United Arab Emirates,1264,108,9
 2020-04-03,United Kingdom,38689,208,4467
-2020-04-03,Uruguay,369,68,4
+2020-04-03,Uruguay,386,86,4
 2020-04-03,Uzbekistan,227,25,2
 2020-04-03,Venezuela,153,52,7
 2020-04-03,Vietnam,237,85,0
@@ -14015,7 +14015,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-05,Ukraine,1308,28,37
 2020-04-05,United Arab Emirates,1799,144,10
 2020-04-05,United Kingdom,48436,229,5874
-2020-04-05,Uruguay,400,93,5
+2020-04-05,Uruguay,406,104,6
 2020-04-05,Uzbekistan,342,30,2
 2020-04-05,Venezuela,159,52,7
 2020-04-05,Vietnam,241,90,0
@@ -14202,7 +14202,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-06,Ukraine,1319,28,38
 2020-04-06,United Arab Emirates,2076,167,11
 2020-04-06,United Kingdom,52279,287,6445
-2020-04-06,Uruguay,406,104,6
+2020-04-06,Uruguay,415,123,6
 2020-04-06,Uzbekistan,457,30,2
 2020-04-06,Venezuela,165,65,7
 2020-04-06,Vietnam,245,95,0
@@ -14576,7 +14576,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-08,Ukraine,1668,35,52
 2020-04-08,United Arab Emirates,2659,239,12
 2020-04-08,United Kingdom,61474,345,8519
-2020-04-08,Uruguay,424,150,7
+2020-04-08,Uruguay,456,192,7
 2020-04-08,Uzbekistan,545,30,3
 2020-04-08,Venezuela,167,65,9
 2020-04-08,Vietnam,251,126,0
@@ -14763,7 +14763,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-09,Ukraine,1892,45,57
 2020-04-09,United Arab Emirates,2990,268,14
 2020-04-09,United Kingdom,65872,359,9623
-2020-04-09,Uruguay,456,192,7
+2020-04-09,Uruguay,473,206,7
 2020-04-09,Uzbekistan,582,38,3
 2020-04-09,Venezuela,171,84,9
 2020-04-09,Vietnam,255,128,0
@@ -14950,7 +14950,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-10,Ukraine,2203,61,69
 2020-04-10,United Arab Emirates,3360,418,16
 2020-04-10,United Kingdom,74605,588,10776
-2020-04-10,Uruguay,473,206,7
+2020-04-10,Uruguay,494,214,7
 2020-04-10,Uzbekistan,624,42,3
 2020-04-10,Venezuela,171,84,9
 2020-04-10,Vietnam,257,144,0
@@ -15137,7 +15137,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-11,Ukraine,2511,79,73
 2020-04-11,United Arab Emirates,3736,588,20
 2020-04-11,United Kingdom,79874,622,11616
-2020-04-11,Uruguay,494,214,7
+2020-04-11,Uruguay,501,224,7
 2020-04-11,Uzbekistan,767,42,4
 2020-04-11,Venezuela,175,93,9
 2020-04-11,Vietnam,258,144,0
@@ -15511,7 +15511,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-13,Ukraine,3102,97,93
 2020-04-13,United Arab Emirates,4521,852,25
 2020-04-13,United Kingdom,89570,304,13047
-2020-04-13,Uruguay,480,231,8
+2020-04-13,Uruguay,483,248,8
 2020-04-13,Uzbekistan,998,85,4
 2020-04-13,Venezuela,189,110,9
 2020-04-13,Vietnam,265,146,0
@@ -15698,7 +15698,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-14,Ukraine,3372,119,98
 2020-04-14,United Arab Emirates,4933,933,28
 2020-04-14,United Kingdom,94845,323,14095
-2020-04-14,Uruguay,483,248,8
+2020-04-14,Uruguay,492,260,8
 2020-04-14,Uzbekistan,1165,99,4
 2020-04-14,Venezuela,189,110,9
 2020-04-14,Vietnam,266,169,0
@@ -15885,7 +15885,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-15,Ukraine,3764,143,108
 2020-04-15,United Arab Emirates,5365,1034,33
 2020-04-15,United Kingdom,99483,368,14941
-2020-04-15,Uruguay,492,260,8
+2020-04-15,Uruguay,493,272,9
 2020-04-15,Uzbekistan,1302,107,4
 2020-04-15,Venezuela,197,111,9
 2020-04-15,Vietnam,267,171,0
@@ -16259,7 +16259,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-17,Ukraine,4662,246,125
 2020-04-17,United Arab Emirates,6302,1188,37
 2020-04-17,United Kingdom,109769,394,16910
-2020-04-17,Uruguay,502,286,9
+2020-04-17,Uruguay,508,294,9
 2020-04-17,Uzbekistan,1405,156,4
 2020-04-17,Venezuela,204,111,9
 2020-04-17,Vietnam,268,198,0
@@ -16446,7 +16446,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-18,Ukraine,5106,275,133
 2020-04-18,United Arab Emirates,6302,1188,37
 2020-04-18,United Kingdom,115314,414,18028
-2020-04-18,Uruguay,508,294,9
+2020-04-18,Uruguay,517,298,9
 2020-04-18,Uzbekistan,1490,194,5
 2020-04-18,Venezuela,227,113,9
 2020-04-18,Vietnam,268,201,0
@@ -16633,7 +16633,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-19,Ukraine,5449,347,141
 2020-04-19,United Arab Emirates,6781,1286,41
 2020-04-19,United Kingdom,121172,436,18527
-2020-04-19,Uruguay,517,298,10
+2020-04-19,Uruguay,528,298,10
 2020-04-19,Uzbekistan,1565,225,5
 2020-04-19,Venezuela,256,117,9
 2020-04-19,Vietnam,268,202,0
@@ -17007,7 +17007,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-21,Ukraine,6125,367,161
 2020-04-21,United Arab Emirates,7755,1443,46
 2020-04-21,United Kingdom,130172,638,20264
-2020-04-21,Uruguay,535,313,11
+2020-04-21,Uruguay,543,324,12
 2020-04-21,Uzbekistan,1678,357,6
 2020-04-21,Venezuela,285,117,10
 2020-04-21,Vietnam,268,216,0
@@ -17194,7 +17194,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-22,Ukraine,6592,424,174
 2020-04-22,United Arab Emirates,8238,1546,52
 2020-04-22,United Kingdom,134638,683,21111
-2020-04-22,Uruguay,543,324,12
+2020-04-22,Uruguay,549,337,12
 2020-04-22,Uzbekistan,1716,450,7
 2020-04-22,Venezuela,288,122,10
 2020-04-22,Vietnam,268,223,0
