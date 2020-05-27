@@ -9897,7 +9897,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-14,Mozambique,0,0,0
 2020-03-14,Namibia,2,0,0
 2020-03-14,Nepal,1,1,0
-2020-03-14,Netherlands,962,2,12
+2020-03-14,Netherlands,962,0,12
 2020-03-14,New Zealand,6,0,0
 2020-03-14,Nicaragua,0,0,0
 2020-03-14,Niger,0,0,0
@@ -10085,7 +10085,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-15,Mozambique,0,0,0
 2020-03-15,Namibia,2,0,0
 2020-03-15,Nepal,1,1,0
-2020-03-15,Netherlands,1138,2,20
+2020-03-15,Netherlands,1138,0,20
 2020-03-15,New Zealand,8,0,0
 2020-03-15,Nicaragua,0,0,0
 2020-03-15,Niger,0,0,0
@@ -10273,7 +10273,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-16,Mozambique,0,0,0
 2020-03-16,Namibia,2,0,0
 2020-03-16,Nepal,1,1,0
-2020-03-16,Netherlands,1416,2,24
+2020-03-16,Netherlands,1416,0,24
 2020-03-16,New Zealand,8,0,0
 2020-03-16,Nicaragua,0,0,0
 2020-03-16,Niger,0,0,0
@@ -10461,7 +10461,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-17,Mozambique,0,0,0
 2020-03-17,Namibia,2,0,0
 2020-03-17,Nepal,1,1,0
-2020-03-17,Netherlands,1711,2,43
+2020-03-17,Netherlands,1711,0,43
 2020-03-17,New Zealand,12,0,0
 2020-03-17,Nicaragua,0,0,0
 2020-03-17,Niger,0,0,0
@@ -10649,7 +10649,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-18,Mozambique,0,0,0
 2020-03-18,Namibia,2,0,0
 2020-03-18,Nepal,1,1,0
-2020-03-18,Netherlands,2058,2,58
+2020-03-18,Netherlands,2058,0,58
 2020-03-18,New Zealand,20,0,0
 2020-03-18,Nicaragua,0,0,0
 2020-03-18,Niger,0,0,0
@@ -10837,7 +10837,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-19,Mozambique,0,0,0
 2020-03-19,Namibia,3,0,0
 2020-03-19,Nepal,1,1,0
-2020-03-19,Netherlands,2467,2,77
+2020-03-19,Netherlands,2467,0,77
 2020-03-19,New Zealand,28,0,0
 2020-03-19,Nicaragua,1,0,0
 2020-03-19,Niger,0,0,0
@@ -11025,7 +11025,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-20,Mozambique,0,0,0
 2020-03-20,Namibia,3,0,0
 2020-03-20,Nepal,1,1,0
-2020-03-20,Netherlands,3003,2,107
+2020-03-20,Netherlands,3003,0,107
 2020-03-20,New Zealand,39,0,0
 2020-03-20,Nicaragua,1,0,0
 2020-03-20,Niger,1,0,0
@@ -11213,7 +11213,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-21,Mozambique,0,0,0
 2020-03-21,Namibia,3,0,0
 2020-03-21,Nepal,1,1,0
-2020-03-21,Netherlands,3640,2,137
+2020-03-21,Netherlands,3640,0,137
 2020-03-21,New Zealand,52,0,0
 2020-03-21,Nicaragua,2,0,0
 2020-03-21,Niger,1,0,0
@@ -11401,7 +11401,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-22,Mozambique,1,0,0
 2020-03-22,Namibia,3,0,0
 2020-03-22,Nepal,1,1,0
-2020-03-22,Netherlands,4217,2,180
+2020-03-22,Netherlands,4217,0,180
 2020-03-22,New Zealand,102,0,0
 2020-03-22,Nicaragua,2,0,0
 2020-03-22,Niger,2,0,0
@@ -11589,7 +11589,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-23,Mozambique,1,0,0
 2020-03-23,Namibia,4,0,0
 2020-03-23,Nepal,2,1,0
-2020-03-23,Netherlands,4764,2,214
+2020-03-23,Netherlands,4764,0,214
 2020-03-23,New Zealand,102,0,0
 2020-03-23,Nicaragua,2,0,0
 2020-03-23,Niger,3,0,0
@@ -11777,7 +11777,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-24,Mozambique,3,0,0
 2020-03-24,Namibia,7,2,0
 2020-03-24,Nepal,2,1,0
-2020-03-24,Netherlands,5580,3,277
+2020-03-24,Netherlands,5580,1,277
 2020-03-24,New Zealand,155,12,0
 2020-03-24,Nicaragua,2,0,0
 2020-03-24,Niger,3,0,0
@@ -11965,7 +11965,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-25,Mozambique,5,0,0
 2020-03-25,Namibia,7,2,0
 2020-03-25,Nepal,3,1,0
-2020-03-25,Netherlands,6438,4,357
+2020-03-25,Netherlands,6438,1,357
 2020-03-25,New Zealand,205,22,0
 2020-03-25,Nicaragua,2,0,0
 2020-03-25,Niger,7,0,1
@@ -12153,7 +12153,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-26,Mozambique,7,0,0
 2020-03-26,Namibia,8,2,0
 2020-03-26,Nepal,3,1,0
-2020-03-26,Netherlands,7468,6,435
+2020-03-26,Netherlands,7468,3,435
 2020-03-26,New Zealand,283,27,0
 2020-03-26,Nicaragua,2,0,0
 2020-03-26,Niger,10,0,1
@@ -12341,7 +12341,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-27,Mozambique,7,0,0
 2020-03-27,Namibia,8,2,0
 2020-03-27,Nepal,4,1,0
-2020-03-27,Netherlands,8647,6,547
+2020-03-27,Netherlands,8647,3,547
 2020-03-27,New Zealand,368,37,0
 2020-03-27,Nicaragua,2,0,1
 2020-03-27,Niger,10,0,1
@@ -12529,7 +12529,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-28,Mozambique,8,0,0
 2020-03-28,Namibia,8,2,0
 2020-03-28,Nepal,5,1,0
-2020-03-28,Netherlands,9819,6,640
+2020-03-28,Netherlands,9819,3,640
 2020-03-28,New Zealand,451,50,0
 2020-03-28,Nicaragua,4,0,1
 2020-03-28,Niger,10,0,1
@@ -12717,7 +12717,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-29,Mozambique,8,0,0
 2020-03-29,Namibia,11,2,0
 2020-03-29,Nepal,5,1,0
-2020-03-29,Netherlands,10930,253,772
+2020-03-29,Netherlands,10930,3,772
 2020-03-29,New Zealand,514,56,1
 2020-03-29,Nicaragua,4,0,1
 2020-03-29,Niger,18,0,1
@@ -12905,7 +12905,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-30,Mozambique,8,0,0
 2020-03-30,Namibia,11,2,0
 2020-03-30,Nepal,5,1,0
-2020-03-30,Netherlands,11817,253,865
+2020-03-30,Netherlands,11817,3,865
 2020-03-30,New Zealand,589,63,1
 2020-03-30,Nicaragua,4,0,1
 2020-03-30,Niger,27,0,3
@@ -13093,7 +13093,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-31,Mozambique,8,0,0
 2020-03-31,Namibia,11,2,0
 2020-03-31,Nepal,5,1,0
-2020-03-31,Netherlands,12667,253,1040
+2020-03-31,Netherlands,12667,3,1040
 2020-03-31,New Zealand,647,74,1
 2020-03-31,Nicaragua,5,0,1
 2020-03-31,Niger,27,0,3
@@ -13281,7 +13281,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-01,Mozambique,10,0,0
 2020-04-01,Namibia,14,2,0
 2020-04-01,Nepal,5,1,0
-2020-04-01,Netherlands,13696,260,1175
+2020-04-01,Netherlands,13696,10,1175
 2020-04-01,New Zealand,708,83,1
 2020-04-01,Nicaragua,5,0,1
 2020-04-01,Niger,74,0,5
@@ -13469,7 +13469,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-02,Mozambique,10,0,0
 2020-04-02,Namibia,14,3,0
 2020-04-02,Nepal,6,1,0
-2020-04-02,Netherlands,14788,260,1341
+2020-04-02,Netherlands,14788,10,1341
 2020-04-02,New Zealand,797,92,1
 2020-04-02,Nicaragua,5,0,1
 2020-04-02,Niger,98,0,5
@@ -13657,7 +13657,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-03,Mozambique,10,0,0
 2020-04-03,Namibia,14,3,0
 2020-04-03,Nepal,6,1,0
-2020-04-03,Netherlands,15821,260,1490
+2020-04-03,Netherlands,15821,10,1490
 2020-04-03,New Zealand,868,103,1
 2020-04-03,Nicaragua,5,0,1
 2020-04-03,Niger,120,0,5
@@ -13845,7 +13845,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-04,Mozambique,10,1,0
 2020-04-04,Namibia,14,3,0
 2020-04-04,Nepal,9,1,0
-2020-04-04,Netherlands,16727,262,1656
+2020-04-04,Netherlands,16727,12,1656
 2020-04-04,New Zealand,950,127,1
 2020-04-04,Nicaragua,5,0,1
 2020-04-04,Niger,144,0,8
@@ -14033,7 +14033,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-05,Mozambique,10,1,0
 2020-04-05,Namibia,16,3,0
 2020-04-05,Nepal,9,1,0
-2020-04-05,Netherlands,17953,257,1771
+2020-04-05,Netherlands,17953,7,1771
 2020-04-05,New Zealand,1039,156,1
 2020-04-05,Nicaragua,6,0,1
 2020-04-05,Niger,184,13,10
@@ -14221,7 +14221,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-06,Mozambique,10,1,0
 2020-04-06,Namibia,16,3,0
 2020-04-06,Nepal,9,1,0
-2020-04-06,Netherlands,18926,258,1874
+2020-04-06,Netherlands,18926,8,1874
 2020-04-06,New Zealand,1106,176,1
 2020-04-06,Nicaragua,6,0,1
 2020-04-06,Niger,253,26,10
@@ -14409,7 +14409,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-07,Mozambique,10,1,0
 2020-04-07,Namibia,16,3,0
 2020-04-07,Nepal,9,1,0
-2020-04-07,Netherlands,19709,272,2108
+2020-04-07,Netherlands,19709,22,2108
 2020-04-07,New Zealand,1160,241,1
 2020-04-07,Nicaragua,6,0,1
 2020-04-07,Niger,278,26,11
@@ -14597,7 +14597,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-08,Mozambique,17,1,0
 2020-04-08,Namibia,16,3,0
 2020-04-08,Nepal,9,1,0
-2020-04-08,Netherlands,20682,272,2255
+2020-04-08,Netherlands,20682,22,2255
 2020-04-08,New Zealand,1210,282,1
 2020-04-08,Nicaragua,6,0,1
 2020-04-08,Niger,342,28,11
@@ -14785,7 +14785,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-09,Mozambique,17,1,0
 2020-04-09,Namibia,16,3,0
 2020-04-09,Nepal,9,1,0
-2020-04-09,Netherlands,21903,278,2403
+2020-04-09,Netherlands,21903,28,2403
 2020-04-09,New Zealand,1239,317,1
 2020-04-09,Nicaragua,7,0,1
 2020-04-09,Niger,410,40,11
@@ -14973,7 +14973,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-10,Mozambique,20,2,0
 2020-04-10,Namibia,16,3,0
 2020-04-10,Nepal,9,1,0
-2020-04-10,Netherlands,23249,287,2520
+2020-04-10,Netherlands,23249,37,2520
 2020-04-10,New Zealand,1283,373,2
 2020-04-10,Nicaragua,7,0,1
 2020-04-10,Niger,438,41,11
@@ -15161,7 +15161,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-11,Mozambique,20,2,0
 2020-04-11,Namibia,16,3,0
 2020-04-11,Nepal,9,1,0
-2020-04-11,Netherlands,24571,291,2653
+2020-04-11,Netherlands,24571,41,2653
 2020-04-11,New Zealand,1312,422,4
 2020-04-11,Nicaragua,8,0,1
 2020-04-11,Niger,491,41,11
@@ -15349,7 +15349,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-12,Mozambique,21,2,0
 2020-04-12,Namibia,16,3,0
 2020-04-12,Nepal,12,1,0
-2020-04-12,Netherlands,25746,295,2747
+2020-04-12,Netherlands,25746,45,2747
 2020-04-12,New Zealand,1330,471,4
 2020-04-12,Nicaragua,9,4,1
 2020-04-12,Niger,529,75,12
@@ -15537,7 +15537,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-13,Mozambique,21,2,0
 2020-04-13,Namibia,16,3,0
 2020-04-13,Nepal,14,1,0
-2020-04-13,Netherlands,26710,295,2833
+2020-04-13,Netherlands,26710,45,2833
 2020-04-13,New Zealand,1349,546,5
 2020-04-13,Nicaragua,9,4,1
 2020-04-13,Niger,529,75,12
@@ -15725,7 +15725,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-14,Mozambique,28,2,0
 2020-04-14,Namibia,16,3,0
 2020-04-14,Nepal,16,1,0
-2020-04-14,Netherlands,27580,297,2955
+2020-04-14,Netherlands,27580,47,2955
 2020-04-14,New Zealand,1366,628,9
 2020-04-14,Nicaragua,9,4,1
 2020-04-14,Niger,570,90,14
@@ -15913,7 +15913,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-15,Mozambique,29,2,0
 2020-04-15,Namibia,16,3,0
 2020-04-15,Nepal,16,1,0
-2020-04-15,Netherlands,28316,304,3145
+2020-04-15,Netherlands,28316,54,3145
 2020-04-15,New Zealand,1386,728,9
 2020-04-15,Nicaragua,9,4,1
 2020-04-15,Niger,584,90,14
@@ -16101,7 +16101,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-16,Mozambique,31,2,0
 2020-04-16,Namibia,16,4,0
 2020-04-16,Nepal,16,2,0
-2020-04-16,Netherlands,29383,311,3327
+2020-04-16,Netherlands,29383,61,3327
 2020-04-16,New Zealand,1401,770,9
 2020-04-16,Nicaragua,9,4,1
 2020-04-16,Niger,584,90,14
@@ -16289,7 +16289,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-17,Mozambique,34,2,0
 2020-04-17,Namibia,16,4,0
 2020-04-17,Nepal,30,2,0
-2020-04-17,Netherlands,30619,315,3471
+2020-04-17,Netherlands,30619,65,3471
 2020-04-17,New Zealand,1409,816,11
 2020-04-17,Nicaragua,9,4,1
 2020-04-17,Niger,627,110,18
@@ -16477,7 +16477,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-18,Mozambique,35,4,0
 2020-04-18,Namibia,16,6,0
 2020-04-18,Nepal,31,2,0
-2020-04-18,Netherlands,31766,317,3613
+2020-04-18,Netherlands,31766,67,3613
 2020-04-18,New Zealand,1422,867,11
 2020-04-18,Nicaragua,9,6,2
 2020-04-18,Niger,639,113,19
@@ -16665,7 +16665,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-19,Mozambique,39,8,0
 2020-04-19,Namibia,16,6,0
 2020-04-19,Nepal,31,4,0
-2020-04-19,Netherlands,32838,322,3697
+2020-04-19,Netherlands,32838,72,3697
 2020-04-19,New Zealand,1431,912,12
 2020-04-19,Nicaragua,10,6,2
 2020-04-19,Niger,648,117,20
@@ -16853,7 +16853,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-20,Mozambique,39,8,0
 2020-04-20,Namibia,16,6,0
 2020-04-20,Nepal,31,4,0
-2020-04-20,Netherlands,33588,322,3764
+2020-04-20,Netherlands,33588,72,3764
 2020-04-20,New Zealand,1440,974,12
 2020-04-20,Nicaragua,10,6,2
 2020-04-20,Niger,648,117,20
@@ -22809,7 +22809,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-22,Ethiopia,433,128,5
 2020-05-22,Fiji,18,15,0
 2020-05-22,Finland,6537,4800,306
-2020-05-22,France,182015,63986,28218
+2020-05-22,France,182354,64327,28292
 2020-05-22,Gabon,1728,402,12
 2020-05-22,Gambia,25,13,1
 2020-05-22,Georgia,723,495,12
@@ -22997,7 +22997,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-23,Ethiopia,494,151,5
 2020-05-23,Fiji,18,15,0
 2020-05-23,Finland,6568,4800,306
-2020-05-23,France,182036,63988,28218
+2020-05-23,France,182694,64665,28335
 2020-05-23,Gabon,1934,459,12
 2020-05-23,Gambia,25,13,1
 2020-05-23,Georgia,728,509,12
