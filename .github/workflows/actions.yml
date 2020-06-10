@@ -1,10 +1,11 @@
 on:
   schedule:
-    - cron:  '0 */6 * * *'
+    - cron:  '0 */3 * * *'
 
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 25
     steps:
     - uses: actions/checkout@master
     - name: Build the data and create local changes
