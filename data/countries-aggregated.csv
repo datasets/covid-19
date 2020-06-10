@@ -6521,7 +6521,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-25,North Macedonia,0,0,0
 2020-02-25,Norway,0,0,0
 2020-02-25,Oman,2,0,0
-2020-02-25,Pakistan,0,0,0
+2020-02-25,Pakistan,2,0,0
 2020-02-25,Panama,0,0,0
 2020-02-25,Papua New Guinea,0,0,0
 2020-02-25,Paraguay,0,0,0
@@ -7085,7 +7085,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-28,North Macedonia,1,0,0
 2020-02-28,Norway,6,0,0
 2020-02-28,Oman,4,0,0
-2020-02-28,Pakistan,2,0,0
+2020-02-28,Pakistan,4,0,0
 2020-02-28,Panama,0,0,0
 2020-02-28,Papua New Guinea,0,0,0
 2020-02-28,Paraguay,0,0,0
@@ -7649,7 +7649,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-02,North Macedonia,1,0,0
 2020-03-02,Norway,25,0,0
 2020-03-02,Oman,6,1,0
-2020-03-02,Pakistan,4,0,0
+2020-03-02,Pakistan,5,0,0
 2020-03-02,Panama,0,0,0
 2020-03-02,Papua New Guinea,0,0,0
 2020-03-02,Paraguay,0,0,0
@@ -8213,7 +8213,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-05,North Macedonia,1,0,0
 2020-03-05,Norway,87,0,0
 2020-03-05,Oman,16,2,0
-2020-03-05,Pakistan,5,0,0
+2020-03-05,Pakistan,6,0,0
 2020-03-05,Panama,0,0,0
 2020-03-05,Papua New Guinea,0,0,0
 2020-03-05,Paraguay,0,0,0
@@ -8589,7 +8589,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-07,North Macedonia,3,0,0
 2020-03-07,Norway,147,0,0
 2020-03-07,Oman,16,2,0
-2020-03-07,Pakistan,6,0,0
+2020-03-07,Pakistan,6,1,0
 2020-03-07,Panama,0,0,0
 2020-03-07,Papua New Guinea,0,0,0
 2020-03-07,Paraguay,0,0,0
@@ -8965,7 +8965,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-09,North Macedonia,3,0,0
 2020-03-09,Norway,205,1,0
 2020-03-09,Oman,16,2,0
-2020-03-09,Pakistan,6,1,0
+2020-03-09,Pakistan,16,1,0
 2020-03-09,Panama,0,0,0
 2020-03-09,Papua New Guinea,0,0,0
 2020-03-09,Paraguay,1,0,0
@@ -9153,7 +9153,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-10,North Macedonia,7,0,0
 2020-03-10,Norway,400,1,0
 2020-03-10,Oman,18,9,0
-2020-03-10,Pakistan,16,1,0
+2020-03-10,Pakistan,19,2,0
 2020-03-10,Panama,1,0,0
 2020-03-10,Papua New Guinea,0,0,0
 2020-03-10,Paraguay,1,0,0
@@ -9341,7 +9341,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-11,North Macedonia,7,0,0
 2020-03-11,Norway,598,1,0
 2020-03-11,Oman,18,9,0
-2020-03-11,Pakistan,19,2,0
+2020-03-11,Pakistan,20,2,0
 2020-03-11,Panama,8,0,1
 2020-03-11,Papua New Guinea,0,0,0
 2020-03-11,Paraguay,5,0,0
@@ -9529,7 +9529,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-12,North Macedonia,7,0,0
 2020-03-12,Norway,702,1,0
 2020-03-12,Oman,18,9,0
-2020-03-12,Pakistan,20,2,0
+2020-03-12,Pakistan,28,2,0
 2020-03-12,Panama,11,0,1
 2020-03-12,Papua New Guinea,0,0,0
 2020-03-12,Paraguay,5,0,0
@@ -9717,7 +9717,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-13,North Macedonia,14,1,0
 2020-03-13,Norway,996,1,0
 2020-03-13,Oman,19,9,0
-2020-03-13,Pakistan,28,2,0
+2020-03-13,Pakistan,31,2,0
 2020-03-13,Panama,27,0,1
 2020-03-13,Papua New Guinea,0,0,0
 2020-03-13,Paraguay,6,0,0
@@ -9905,7 +9905,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-14,North Macedonia,14,1,0
 2020-03-14,Norway,1090,1,3
 2020-03-14,Oman,19,9,0
-2020-03-14,Pakistan,31,2,0
+2020-03-14,Pakistan,53,2,0
 2020-03-14,Panama,36,0,1
 2020-03-14,Papua New Guinea,0,0,0
 2020-03-14,Paraguay,6,0,0
@@ -10093,7 +10093,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-15,North Macedonia,14,1,0
 2020-03-15,Norway,1221,1,3
 2020-03-15,Oman,22,9,0
-2020-03-15,Pakistan,53,2,0
+2020-03-15,Pakistan,136,2,0
 2020-03-15,Panama,43,0,1
 2020-03-15,Papua New Guinea,0,0,0
 2020-03-15,Paraguay,6,0,0
@@ -10281,7 +10281,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-16,North Macedonia,18,1,0
 2020-03-16,Norway,1333,1,3
 2020-03-16,Oman,22,9,0
-2020-03-16,Pakistan,136,2,0
+2020-03-16,Pakistan,236,2,0
 2020-03-16,Panama,55,0,1
 2020-03-16,Papua New Guinea,0,0,0
 2020-03-16,Paraguay,8,0,0
@@ -10469,7 +10469,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-17,North Macedonia,26,1,0
 2020-03-17,Norway,1463,1,3
 2020-03-17,Oman,24,9,0
-2020-03-17,Pakistan,236,2,0
+2020-03-17,Pakistan,299,2,0
 2020-03-17,Panama,69,0,1
 2020-03-17,Papua New Guinea,0,0,0
 2020-03-17,Paraguay,9,0,0
@@ -10657,7 +10657,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-18,North Macedonia,35,1,0
 2020-03-18,Norway,1550,1,6
 2020-03-18,Oman,39,12,0
-2020-03-18,Pakistan,299,2,0
+2020-03-18,Pakistan,454,13,2
 2020-03-18,Panama,86,0,1
 2020-03-18,Papua New Guinea,0,0,0
 2020-03-18,Paraguay,11,0,0
@@ -10845,7 +10845,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-19,North Macedonia,48,1,0
 2020-03-19,Norway,1746,1,7
 2020-03-19,Oman,48,12,0
-2020-03-19,Pakistan,454,13,2
+2020-03-19,Pakistan,501,13,3
 2020-03-19,Panama,109,0,1
 2020-03-19,Papua New Guinea,0,0,0
 2020-03-19,Paraguay,11,0,0
@@ -11033,7 +11033,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-20,North Macedonia,67,1,0
 2020-03-20,Norway,1914,1,7
 2020-03-20,Oman,48,12,0
-2020-03-20,Pakistan,501,13,3
+2020-03-20,Pakistan,730,13,3
 2020-03-20,Panama,137,0,1
 2020-03-20,Papua New Guinea,1,0,0
 2020-03-20,Paraguay,13,0,0
@@ -11221,7 +11221,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-21,North Macedonia,85,1,0
 2020-03-21,Norway,2118,1,7
 2020-03-21,Oman,52,12,0
-2020-03-21,Pakistan,730,13,3
+2020-03-21,Pakistan,776,5,5
 2020-03-21,Panama,200,0,1
 2020-03-21,Papua New Guinea,1,0,0
 2020-03-21,Paraguay,18,0,1
@@ -11409,7 +11409,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-22,North Macedonia,115,1,1
 2020-03-22,Norway,2385,1,7
 2020-03-22,Oman,55,17,0
-2020-03-22,Pakistan,776,5,5
+2020-03-22,Pakistan,875,5,6
 2020-03-22,Panama,313,0,3
 2020-03-22,Papua New Guinea,1,0,0
 2020-03-22,Paraguay,22,0,1
@@ -11597,7 +11597,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-23,North Macedonia,136,1,2
 2020-03-23,Norway,2621,1,10
 2020-03-23,Oman,66,17,0
-2020-03-23,Pakistan,875,5,6
+2020-03-23,Pakistan,972,18,7
 2020-03-23,Panama,345,0,6
 2020-03-23,Papua New Guinea,1,0,0
 2020-03-23,Paraguay,22,0,1
@@ -11785,7 +11785,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-24,North Macedonia,148,1,2
 2020-03-24,Norway,2863,6,12
 2020-03-24,Oman,84,17,0
-2020-03-24,Pakistan,972,18,7
+2020-03-24,Pakistan,1063,21,8
 2020-03-24,Panama,345,1,6
 2020-03-24,Papua New Guinea,1,0,0
 2020-03-24,Paraguay,27,0,2
@@ -11973,7 +11973,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-25,North Macedonia,177,1,3
 2020-03-25,Norway,3084,6,14
 2020-03-25,Oman,99,17,0
-2020-03-25,Pakistan,1063,21,8
+2020-03-25,Pakistan,1201,21,9
 2020-03-25,Panama,443,1,8
 2020-03-25,Papua New Guinea,1,0,0
 2020-03-25,Paraguay,37,0,3
@@ -12161,7 +12161,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-26,North Macedonia,201,3,3
 2020-03-26,Norway,3369,6,14
 2020-03-26,Oman,109,23,0
-2020-03-26,Pakistan,1201,21,9
+2020-03-26,Pakistan,1373,23,11
 2020-03-26,Panama,558,2,8
 2020-03-26,Papua New Guinea,1,0,0
 2020-03-26,Paraguay,41,0,3
@@ -12349,7 +12349,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-27,North Macedonia,219,3,3
 2020-03-27,Norway,3755,6,19
 2020-03-27,Oman,131,23,0
-2020-03-27,Pakistan,1373,23,11
+2020-03-27,Pakistan,1495,29,12
 2020-03-27,Panama,674,2,9
 2020-03-27,Papua New Guinea,1,0,0
 2020-03-27,Paraguay,52,1,3
@@ -12537,7 +12537,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-28,North Macedonia,241,3,4
 2020-03-28,Norway,4015,7,23
 2020-03-28,Oman,152,23,0
-2020-03-28,Pakistan,1495,29,12
+2020-03-28,Pakistan,1597,29,14
 2020-03-28,Panama,786,2,14
 2020-03-28,Papua New Guinea,1,0,0
 2020-03-28,Paraguay,56,1,3
@@ -12725,7 +12725,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-29,North Macedonia,259,3,6
 2020-03-29,Norway,4284,7,25
 2020-03-29,Oman,167,23,0
-2020-03-29,Pakistan,1597,29,14
+2020-03-29,Pakistan,1717,76,21
 2020-03-29,Panama,901,4,17
 2020-03-29,Papua New Guinea,1,0,0
 2020-03-29,Paraguay,59,1,3
@@ -12913,7 +12913,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-30,North Macedonia,285,12,7
 2020-03-30,Norway,4445,12,32
 2020-03-30,Oman,179,29,0
-2020-03-30,Pakistan,1717,76,21
+2020-03-30,Pakistan,1938,76,26
 2020-03-30,Panama,989,4,24
 2020-03-30,Papua New Guinea,1,0,0
 2020-03-30,Paraguay,64,1,3
@@ -13101,7 +13101,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-31,North Macedonia,329,12,9
 2020-03-31,Norway,4641,13,39
 2020-03-31,Oman,192,34,1
-2020-03-31,Pakistan,1938,76,26
+2020-03-31,Pakistan,2118,94,27
 2020-03-31,Panama,1181,9,30
 2020-03-31,Papua New Guinea,1,0,0
 2020-03-31,Paraguay,65,1,3
@@ -13289,7 +13289,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-01,North Macedonia,354,17,11
 2020-04-01,Norway,4863,13,44
 2020-04-01,Oman,210,34,1
-2020-04-01,Pakistan,2118,94,27
+2020-04-01,Pakistan,2421,125,34
 2020-04-01,Panama,1181,9,30
 2020-04-01,Papua New Guinea,1,0,0
 2020-04-01,Paraguay,69,1,3
@@ -13477,7 +13477,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-02,North Macedonia,384,17,11
 2020-04-02,Norway,5147,32,50
 2020-04-02,Oman,231,57,1
-2020-04-02,Pakistan,2421,125,34
+2020-04-02,Pakistan,2686,126,40
 2020-04-02,Panama,1317,9,32
 2020-04-02,Papua New Guinea,1,0,0
 2020-04-02,Paraguay,77,2,3
@@ -13665,7 +13665,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-03,North Macedonia,430,20,12
 2020-04-03,Norway,5370,32,59
 2020-04-03,Oman,252,57,1
-2020-04-03,Pakistan,2686,126,40
+2020-04-03,Pakistan,2818,131,41
 2020-04-03,Panama,1475,10,37
 2020-04-03,Papua New Guinea,1,0,0
 2020-04-03,Paraguay,92,6,3
@@ -13853,7 +13853,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-04,North Macedonia,483,20,17
 2020-04-04,Norway,5550,32,62
 2020-04-04,Oman,277,61,2
-2020-04-04,Pakistan,2818,131,41
+2020-04-04,Pakistan,3157,211,47
 2020-04-04,Panama,1673,13,41
 2020-04-04,Papua New Guinea,1,0,0
 2020-04-04,Paraguay,96,12,3
@@ -14041,7 +14041,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-05,North Macedonia,555,23,18
 2020-04-05,Norway,5687,32,71
 2020-04-05,Oman,298,61,2
-2020-04-05,Pakistan,3157,211,47
+2020-04-05,Pakistan,3766,259,53
 2020-04-05,Panama,1801,13,46
 2020-04-05,Papua New Guinea,1,0,0
 2020-04-05,Paraguay,104,12,3
@@ -14229,7 +14229,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-06,North Macedonia,570,30,23
 2020-04-06,Norway,5865,32,76
 2020-04-06,Oman,331,61,2
-2020-04-06,Pakistan,3766,259,53
+2020-04-06,Pakistan,4035,429,57
 2020-04-06,Panama,1988,13,54
 2020-04-06,Papua New Guinea,2,0,0
 2020-04-06,Paraguay,113,12,5
@@ -14417,7 +14417,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-07,North Macedonia,599,30,26
 2020-04-07,Norway,6086,32,89
 2020-04-07,Oman,371,67,2
-2020-04-07,Pakistan,4035,429,57
+2020-04-07,Pakistan,4263,467,61
 2020-04-07,Panama,2100,14,55
 2020-04-07,Papua New Guinea,2,0,0
 2020-04-07,Paraguay,115,15,5
@@ -14605,7 +14605,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-08,North Macedonia,617,35,29
 2020-04-08,Norway,6086,32,101
 2020-04-08,Oman,419,72,2
-2020-04-08,Pakistan,4263,467,61
+2020-04-08,Pakistan,4489,572,65
 2020-04-08,Panama,2249,16,59
 2020-04-08,Papua New Guinea,2,0,0
 2020-04-08,Paraguay,119,15,5
@@ -14793,7 +14793,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-09,North Macedonia,663,37,30
 2020-04-09,Norway,6211,32,108
 2020-04-09,Oman,457,109,3
-2020-04-09,Pakistan,4489,572,65
+2020-04-09,Pakistan,4695,727,66
 2020-04-09,Panama,2528,16,63
 2020-04-09,Papua New Guinea,2,0,0
 2020-04-09,Paraguay,124,18,5
@@ -14981,7 +14981,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-10,North Macedonia,711,41,32
 2020-04-10,Norway,6314,32,113
 2020-04-10,Oman,484,109,3
-2020-04-10,Pakistan,4695,727,66
+2020-04-10,Pakistan,5011,762,86
 2020-04-10,Panama,2752,16,66
 2020-04-10,Papua New Guinea,2,0,0
 2020-04-10,Paraguay,129,18,6
@@ -15169,7 +15169,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-11,North Macedonia,760,41,34
 2020-04-11,Norway,6409,32,119
 2020-04-11,Oman,546,109,3
-2020-04-11,Pakistan,5011,762,86
+2020-04-11,Pakistan,5230,1028,91
 2020-04-11,Panama,2974,17,74
 2020-04-11,Papua New Guinea,2,0,0
 2020-04-11,Paraguay,133,18,6
@@ -15357,7 +15357,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-12,North Macedonia,828,41,34
 2020-04-12,Norway,6525,32,128
 2020-04-12,Oman,599,109,4
-2020-04-12,Pakistan,5230,1028,91
+2020-04-12,Pakistan,5496,1095,93
 2020-04-12,Panama,3234,23,79
 2020-04-12,Papua New Guinea,2,0,0
 2020-04-12,Paraguay,134,22,6
@@ -15545,7 +15545,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-13,North Macedonia,854,44,38
 2020-04-13,Norway,6603,32,134
 2020-04-13,Oman,727,124,4
-2020-04-13,Pakistan,5496,1095,93
+2020-04-13,Pakistan,5837,1378,96
 2020-04-13,Panama,3400,29,87
 2020-04-13,Papua New Guinea,2,0,0
 2020-04-13,Paraguay,147,22,6
@@ -15733,7 +15733,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-14,North Macedonia,908,86,44
 2020-04-14,Norway,6623,32,139
 2020-04-14,Oman,813,130,4
-2020-04-14,Pakistan,5837,1378,96
+2020-04-14,Pakistan,6383,1446,111
 2020-04-14,Panama,3472,61,94
 2020-04-14,Papua New Guinea,2,0,0
 2020-04-14,Paraguay,159,22,7
@@ -15921,7 +15921,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-15,North Macedonia,974,98,45
 2020-04-15,Norway,6740,32,150
 2020-04-15,Oman,910,131,4
-2020-04-15,Pakistan,6383,1446,111
+2020-04-15,Pakistan,6919,1645,128
 2020-04-15,Panama,3574,72,95
 2020-04-15,Papua New Guinea,2,0,0
 2020-04-15,Paraguay,161,23,8
@@ -16109,7 +16109,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-16,North Macedonia,1081,121,46
 2020-04-16,Norway,6896,32,152
 2020-04-16,Oman,1019,176,4
-2020-04-16,Pakistan,6919,1645,128
+2020-04-16,Pakistan,7025,1765,135
 2020-04-16,Panama,3751,75,103
 2020-04-16,Papua New Guinea,7,0,0
 2020-04-16,Paraguay,174,30,8
@@ -16297,7 +16297,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-17,North Macedonia,1117,139,49
 2020-04-17,Norway,6937,32,161
 2020-04-17,Oman,1069,176,6
-2020-04-17,Pakistan,7025,1765,135
+2020-04-17,Pakistan,7638,1832,143
 2020-04-17,Panama,4016,98,109
 2020-04-17,Papua New Guinea,7,0,0
 2020-04-17,Paraguay,199,30,8
@@ -16485,7 +16485,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-18,North Macedonia,1170,164,49
 2020-04-18,Norway,7036,32,164
 2020-04-18,Oman,1180,176,6
-2020-04-18,Pakistan,7638,1832,143
+2020-04-18,Pakistan,8348,1868,168
 2020-04-18,Panama,4210,122,116
 2020-04-18,Papua New Guinea,7,0,0
 2020-04-18,Paraguay,202,35,8
@@ -16673,7 +16673,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-19,North Macedonia,1207,179,51
 2020-04-19,Norway,7078,32,165
 2020-04-19,Oman,1266,233,7
-2020-04-19,Pakistan,8348,1868,168
+2020-04-19,Pakistan,8418,1970,176
 2020-04-19,Panama,4273,140,120
 2020-04-19,Papua New Guinea,7,0,0
 2020-04-19,Paraguay,206,41,8
@@ -16861,7 +16861,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-20,North Macedonia,1225,200,54
 2020-04-20,Norway,7156,32,181
 2020-04-20,Oman,1410,238,7
-2020-04-20,Pakistan,8418,1970,176
+2020-04-20,Pakistan,9565,2073,201
 2020-04-20,Panama,4467,165,126
 2020-04-20,Papua New Guinea,7,0,0
 2020-04-20,Paraguay,208,46,8
@@ -17049,7 +17049,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-21,North Macedonia,1231,224,55
 2020-04-21,Norway,7191,32,182
 2020-04-21,Oman,1508,238,8
-2020-04-21,Pakistan,9565,2073,201
+2020-04-21,Pakistan,10076,2156,212
 2020-04-21,Panama,4658,204,136
 2020-04-21,Papua New Guinea,7,0,0
 2020-04-21,Paraguay,208,53,8
@@ -17237,7 +17237,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-22,North Macedonia,1259,272,56
 2020-04-22,Norway,7338,32,187
 2020-04-22,Oman,1614,238,8
-2020-04-22,Pakistan,10076,2156,212
+2020-04-22,Pakistan,11155,2527,237
 2020-04-22,Panama,4821,231,141
 2020-04-22,Papua New Guinea,8,0,0
 2020-04-22,Paraguay,213,62,9
@@ -17425,7 +17425,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-23,North Macedonia,1300,301,56
 2020-04-23,Norway,7401,32,194
 2020-04-23,Oman,1716,307,9
-2020-04-23,Pakistan,11155,2527,237
+2020-04-23,Pakistan,11940,2755,253
 2020-04-23,Panama,5166,271,146
 2020-04-23,Papua New Guinea,8,0,0
 2020-04-23,Paraguay,213,67,9
@@ -17613,7 +17613,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-24,North Macedonia,1326,337,57
 2020-04-24,Norway,7463,32,199
 2020-04-24,Oman,1790,325,10
-2020-04-24,Pakistan,11940,2755,253
+2020-04-24,Pakistan,12723,2866,269
 2020-04-24,Panama,5338,319,154
 2020-04-24,Papua New Guinea,8,0,0
 2020-04-24,Paraguay,223,78,9
@@ -17801,7 +17801,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-25,North Macedonia,1367,374,59
 2020-04-25,Norway,7499,32,201
 2020-04-25,Oman,1905,329,10
-2020-04-25,Pakistan,12723,2866,269
+2020-04-25,Pakistan,13328,2936,281
 2020-04-25,Panama,5538,338,159
 2020-04-25,Papua New Guinea,8,0,0
 2020-04-25,Paraguay,228,85,9
@@ -17989,7 +17989,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-26,North Macedonia,1386,500,61
 2020-04-26,Norway,7527,32,201
 2020-04-26,Oman,1998,333,10
-2020-04-26,Pakistan,13328,2936,281
+2020-04-26,Pakistan,13915,3029,292
 2020-04-26,Panama,5779,338,165
 2020-04-26,Papua New Guinea,8,0,0
 2020-04-26,Paraguay,228,85,9
@@ -18177,7 +18177,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-27,North Macedonia,1399,553,65
 2020-04-27,Norway,7599,32,205
 2020-04-27,Oman,2049,364,10
-2020-04-27,Pakistan,13915,3029,292
+2020-04-27,Pakistan,14612,3233,312
 2020-04-27,Panama,6021,455,167
 2020-04-27,Papua New Guinea,8,0,0
 2020-04-27,Paraguay,228,93,9
@@ -18365,7 +18365,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-28,North Macedonia,1421,589,71
 2020-04-28,Norway,7660,32,206
 2020-04-28,Oman,2131,364,10
-2020-04-28,Pakistan,14612,3233,312
+2020-04-28,Pakistan,15525,3425,343
 2020-04-28,Panama,6021,455,167
 2020-04-28,Papua New Guinea,8,0,0
 2020-04-28,Paraguay,239,102,9
@@ -18553,7 +18553,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-29,North Macedonia,1442,627,73
 2020-04-29,Norway,7710,32,207
 2020-04-29,Oman,2274,364,10
-2020-04-29,Pakistan,15525,3425,343
+2020-04-29,Pakistan,16817,4315,385
 2020-04-29,Panama,6378,527,178
 2020-04-29,Papua New Guinea,8,0,0
 2020-04-29,Paraguay,239,102,9
@@ -18741,7 +18741,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-30,North Macedonia,1465,738,77
 2020-04-30,Norway,7738,32,210
 2020-04-30,Oman,2348,495,11
-2020-04-30,Pakistan,16817,4315,385
+2020-04-30,Pakistan,18114,4715,417
 2020-04-30,Panama,6532,576,188
 2020-04-30,Papua New Guinea,8,0,0
 2020-04-30,Paraguay,266,113,10
@@ -18929,7 +18929,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-01,North Macedonia,1494,807,81
 2020-05-01,Norway,7783,32,210
 2020-05-01,Oman,2447,495,11
-2020-05-01,Pakistan,18114,4715,417
+2020-05-01,Pakistan,19103,4817,440
 2020-05-01,Panama,6720,622,192
 2020-05-01,Papua New Guinea,8,0,0
 2020-05-01,Paraguay,333,115,10
@@ -19117,7 +19117,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-02,North Macedonia,1506,852,82
 2020-05-02,Norway,7809,32,211
 2020-05-02,Oman,2483,750,12
-2020-05-02,Pakistan,19103,4817,440
+2020-05-02,Pakistan,20084,5114,457
 2020-05-02,Panama,7090,641,197
 2020-05-02,Papua New Guinea,8,0,0
 2020-05-02,Paraguay,370,119,10
@@ -19305,7 +19305,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-03,North Macedonia,1511,945,84
 2020-05-03,Norway,7847,32,211
 2020-05-03,Oman,2568,750,12
-2020-05-03,Pakistan,20084,5114,457
+2020-05-03,Pakistan,20941,5635,476
 2020-05-03,Panama,7090,641,197
 2020-05-03,Papua New Guinea,8,0,0
 2020-05-03,Paraguay,396,126,10
@@ -19493,7 +19493,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-04,North Macedonia,1518,992,85
 2020-05-04,Norway,7904,32,214
 2020-05-04,Oman,2637,816,12
-2020-05-04,Pakistan,20941,5635,476
+2020-05-04,Pakistan,22049,5801,514
 2020-05-04,Panama,7197,641,200
 2020-05-04,Papua New Guinea,8,8,0
 2020-05-04,Paraguay,415,130,10
@@ -19681,7 +19681,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-05,North Macedonia,1526,1013,86
 2020-05-05,Norway,7955,32,215
 2020-05-05,Oman,2735,858,13
-2020-05-05,Pakistan,22049,5801,514
+2020-05-05,Pakistan,24073,6464,564
 2020-05-05,Panama,7523,823,210
 2020-05-05,Papua New Guinea,8,8,0
 2020-05-05,Paraguay,431,135,10
@@ -19869,7 +19869,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-06,North Macedonia,1539,1057,88
 2020-05-06,Norway,7996,32,216
 2020-05-06,Oman,2903,888,13
-2020-05-06,Pakistan,24073,6464,564
+2020-05-06,Pakistan,24644,6464,585
 2020-05-06,Panama,7731,859,218
 2020-05-06,Papua New Guinea,8,8,0
 2020-05-06,Paraguay,440,142,10
@@ -20057,7 +20057,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-07,North Macedonia,1572,1079,89
 2020-05-07,Norway,8034,32,217
 2020-05-07,Oman,2958,980,15
-2020-05-07,Pakistan,24644,6464,585
+2020-05-07,Pakistan,26435,7530,599
 2020-05-07,Panama,7868,886,225
 2020-05-07,Papua New Guinea,8,8,0
 2020-05-07,Paraguay,462,148,10
@@ -20245,7 +20245,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-08,North Macedonia,1586,1099,90
 2020-05-08,Norway,8070,32,218
 2020-05-08,Oman,3112,1025,16
-2020-05-08,Pakistan,26435,7530,599
+2020-05-08,Pakistan,28736,7809,636
 2020-05-08,Panama,8070,886,231
 2020-05-08,Papua New Guinea,8,8,0
 2020-05-08,Paraguay,563,152,10
@@ -20433,7 +20433,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-09,North Macedonia,1622,1112,91
 2020-05-09,Norway,8099,32,219
 2020-05-09,Oman,3224,1068,17
-2020-05-09,Pakistan,28736,7809,636
+2020-05-09,Pakistan,30334,8063,659
 2020-05-09,Panama,8282,4501,237
 2020-05-09,Papua New Guinea,8,8,0
 2020-05-09,Paraguay,689,155,10
@@ -20621,7 +20621,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-10,North Macedonia,1642,1136,91
 2020-05-10,Norway,8105,32,219
 2020-05-10,Oman,3399,1117,17
-2020-05-10,Pakistan,30334,8063,659
+2020-05-10,Pakistan,32081,8555,706
 2020-05-10,Panama,8448,4687,244
 2020-05-10,Papua New Guinea,8,8,0
 2020-05-10,Paraguay,713,165,10
@@ -20809,7 +20809,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-11,North Macedonia,1664,1200,91
 2020-05-11,Norway,8132,32,224
 2020-05-11,Oman,3573,1250,17
-2020-05-11,Pakistan,32081,8555,706
+2020-05-11,Pakistan,34336,8812,737
 2020-05-11,Panama,8616,4687,249
 2020-05-11,Papua New Guinea,8,8,0
 2020-05-11,Paraguay,724,170,10
@@ -20997,7 +20997,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-12,North Macedonia,1674,1205,92
 2020-05-12,Norway,8157,32,228
 2020-05-12,Oman,3721,1250,17
-2020-05-12,Pakistan,34336,8812,737
+2020-05-12,Pakistan,35298,8899,761
 2020-05-12,Panama,8783,6021,252
 2020-05-12,Papua New Guinea,8,8,0
 2020-05-12,Paraguay,737,173,10
@@ -21185,7 +21185,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-13,North Macedonia,1694,1229,95
 2020-05-13,Norway,8175,32,229
 2020-05-13,Oman,4019,1289,17
-2020-05-13,Pakistan,35298,8899,761
+2020-05-13,Pakistan,35788,9695,770
 2020-05-13,Panama,8944,6067,256
 2020-05-13,Papua New Guinea,8,8,0
 2020-05-13,Paraguay,740,182,11
@@ -21373,7 +21373,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-14,North Macedonia,1723,1235,95
 2020-05-14,Norway,8196,32,232
 2020-05-14,Oman,4341,1303,18
-2020-05-14,Pakistan,35788,9695,770
+2020-05-14,Pakistan,38799,10880,834
 2020-05-14,Panama,9118,6080,260
 2020-05-14,Papua New Guinea,8,8,0
 2020-05-14,Paraguay,754,184,11
@@ -21749,7 +21749,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-16,North Macedonia,1762,1267,98
 2020-05-16,Norway,8237,32,232
 2020-05-16,Oman,5029,1436,21
-2020-05-16,Pakistan,38799,10880,834
+2020-05-16,Pakistan,40151,11341,873
 2020-05-16,Panama,9449,6080,269
 2020-05-16,Papua New Guinea,8,8,0
 2020-05-16,Paraguay,778,198,11
@@ -21937,7 +21937,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-17,North Macedonia,1792,1293,101
 2020-05-17,Norway,8249,32,232
 2020-05-17,Oman,5186,1465,22
-2020-05-17,Pakistan,40151,11341,873
+2020-05-17,Pakistan,42125,11922,903
 2020-05-17,Panama,9606,6081,275
 2020-05-17,Papua New Guinea,8,8,0
 2020-05-17,Paraguay,786,202,11
@@ -22125,7 +22125,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-18,North Macedonia,1817,1301,104
 2020-05-18,Norway,8257,32,233
 2020-05-18,Oman,5379,1496,25
-2020-05-18,Pakistan,42125,11922,903
+2020-05-18,Pakistan,43966,12489,939
 2020-05-18,Panama,9726,6081,279
 2020-05-18,Papua New Guinea,8,8,0
 2020-05-18,Paraguay,788,219,11
@@ -22313,7 +22313,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-19,North Macedonia,1839,1351,106
 2020-05-19,Norway,8267,32,233
 2020-05-19,Oman,5671,1574,27
-2020-05-19,Pakistan,43966,12489,939
+2020-05-19,Pakistan,45898,13101,985
 2020-05-19,Panama,9867,6194,281
 2020-05-19,Papua New Guinea,8,8,0
 2020-05-19,Paraguay,829,230,11
@@ -22501,7 +22501,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-20,North Macedonia,1858,1367,110
 2020-05-20,Norway,8281,32,234
 2020-05-20,Oman,6043,1661,30
-2020-05-20,Pakistan,45898,13101,985
+2020-05-20,Pakistan,48091,14155,1017
 2020-05-20,Panama,9977,6194,287
 2020-05-20,Papua New Guinea,8,8,0
 2020-05-20,Paraguay,833,242,11
@@ -22689,7 +22689,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-21,North Macedonia,1898,1378,111
 2020-05-21,Norway,8309,32,235
 2020-05-21,Oman,6370,1821,31
-2020-05-21,Pakistan,48091,14155,1017
+2020-05-21,Pakistan,50694,15201,1067
 2020-05-21,Panama,10116,6245,291
 2020-05-21,Papua New Guinea,8,8,0
 2020-05-21,Paraguay,836,256,11
@@ -22877,7 +22877,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-22,North Macedonia,1921,1387,112
 2020-05-22,Norway,8332,7727,235
 2020-05-22,Oman,6794,1821,34
-2020-05-22,Pakistan,50694,15201,1067
+2020-05-22,Pakistan,52437,16653,1101
 2020-05-22,Panama,10267,6275,295
 2020-05-22,Papua New Guinea,8,8,0
 2020-05-22,Paraguay,838,264,11
@@ -23065,7 +23065,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-23,North Macedonia,1941,1411,113
 2020-05-23,Norway,8346,7727,235
 2020-05-23,Oman,7257,1848,36
-2020-05-23,Pakistan,52437,16653,1101
+2020-05-23,Pakistan,54601,17198,1133
 2020-05-23,Panama,10577,6279,299
 2020-05-23,Papua New Guinea,8,8,0
 2020-05-23,Paraguay,850,298,11
@@ -23253,7 +23253,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-24,North Macedonia,1978,1422,113
 2020-05-24,Norway,8352,7727,235
 2020-05-24,Oman,7770,1933,37
-2020-05-24,Pakistan,54601,17198,1133
+2020-05-24,Pakistan,56349,17482,1167
 2020-05-24,Panama,10926,6279,306
 2020-05-24,Papua New Guinea,8,8,0
 2020-05-24,Paraguay,862,307,11
@@ -23441,7 +23441,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-25,North Macedonia,1999,1439,113
 2020-05-25,Norway,8364,7727,235
 2020-05-25,Oman,7770,1933,37
-2020-05-25,Pakistan,56349,17482,1167
+2020-05-25,Pakistan,57705,18314,1197
 2020-05-25,Panama,11183,6279,310
 2020-05-25,Papua New Guinea,8,8,0
 2020-05-25,Paraguay,865,344,11
@@ -23629,7 +23629,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-26,North Macedonia,2014,1453,116
 2020-05-26,Norway,8383,7727,235
 2020-05-26,Oman,8118,2067,37
-2020-05-26,Pakistan,57705,18314,1197
+2020-05-26,Pakistan,59151,19142,1225
 2020-05-26,Panama,11447,6379,313
 2020-05-26,Papua New Guinea,8,8,0
 2020-05-26,Paraguay,877,382,11
@@ -23817,7 +23817,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-27,North Macedonia,2039,1470,119
 2020-05-27,Norway,8401,7727,235
 2020-05-27,Oman,8373,2177,39
-2020-05-27,Pakistan,59151,19142,1225
+2020-05-27,Pakistan,61227,20231,1260
 2020-05-27,Panama,11728,7379,315
 2020-05-27,Papua New Guinea,8,8,0
 2020-05-27,Paraguay,884,392,11
@@ -24005,7 +24005,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-28,North Macedonia,2077,1486,121
 2020-05-28,Norway,8411,7727,236
 2020-05-28,Oman,9009,2177,40
-2020-05-28,Pakistan,61227,20231,1260
+2020-05-28,Pakistan,64028,22305,1317
 2020-05-28,Panama,12131,7379,320
 2020-05-28,Papua New Guinea,8,8,0
 2020-05-28,Paraguay,900,402,11
@@ -24193,7 +24193,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-29,North Macedonia,2129,1516,126
 2020-05-29,Norway,8422,7727,236
 2020-05-29,Oman,9820,2396,40
-2020-05-29,Pakistan,64028,22305,1317
+2020-05-29,Pakistan,66457,24131,1395
 2020-05-29,Panama,12531,7540,326
 2020-05-29,Papua New Guinea,8,8,0
 2020-05-29,Paraguay,917,413,11
@@ -24381,7 +24381,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-30,North Macedonia,2164,1535,131
 2020-05-30,Norway,8437,7727,236
 2020-05-30,Oman,10423,2396,42
-2020-05-30,Pakistan,66457,24131,1395
+2020-05-30,Pakistan,69496,25271,1483
 2020-05-30,Panama,13018,9414,330
 2020-05-30,Papua New Guinea,8,8,0
 2020-05-30,Paraguay,964,466,11
@@ -24569,7 +24569,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-31,North Macedonia,2226,1552,133
 2020-05-31,Norway,8440,7727,236
 2020-05-31,Oman,11437,2682,49
-2020-05-31,Pakistan,69496,25271,1483
+2020-05-31,Pakistan,72460,26083,1543
 2020-05-31,Panama,13463,9514,336
 2020-05-31,Papua New Guinea,8,8,0
 2020-05-31,Paraguay,986,477,11
@@ -24757,7 +24757,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-01,North Macedonia,2315,1569,140
 2020-06-01,Norway,8446,7727,236
 2020-06-01,Oman,12223,2682,50
-2020-06-01,Pakistan,72460,26083,1543
+2020-06-01,Pakistan,76398,27110,1621
 2020-06-01,Panama,13837,9514,344
 2020-06-01,Papua New Guinea,8,8,0
 2020-06-01,Paraguay,995,488,11
@@ -24945,7 +24945,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-02,North Macedonia,2391,1595,141
 2020-06-02,Norway,8455,7727,237
 2020-06-02,Oman,12799,2812,59
-2020-06-02,Pakistan,76398,27110,1621
+2020-06-02,Pakistan,80463,28923,1688
 2020-06-02,Panama,14095,9514,352
 2020-06-02,Papua New Guinea,8,8,0
 2020-06-02,Paraguay,1013,498,11
@@ -25133,7 +25133,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-03,North Macedonia,2492,1605,145
 2020-06-03,Norway,8477,7727,237
 2020-06-03,Oman,13537,2845,67
-2020-06-03,Pakistan,80463,28923,1688
+2020-06-03,Pakistan,85264,30128,1770
 2020-06-03,Panama,14609,9519,357
 2020-06-03,Papua New Guinea,8,8,0
 2020-06-03,Paraguay,1070,511,11
@@ -25321,7 +25321,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-04,North Macedonia,2611,1621,147
 2020-06-04,Norway,8504,8138,238
 2020-06-04,Oman,14316,3451,67
-2020-06-04,Pakistan,85264,30128,1770
+2020-06-04,Pakistan,89249,31198,1838
 2020-06-04,Panama,15044,9619,363
 2020-06-04,Papua New Guinea,8,8,0
 2020-06-04,Paraguay,1086,511,11
@@ -25509,7 +25509,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-05,North Macedonia,2790,1632,149
 2020-06-05,Norway,8522,8138,238
 2020-06-05,Oman,15086,3451,72
-2020-06-05,Pakistan,89249,31198,1838
+2020-06-05,Pakistan,93983,32581,1935
 2020-06-05,Panama,15463,9719,370
 2020-06-05,Papua New Guinea,8,8,0
 2020-06-05,Paraguay,1087,516,11
@@ -25553,7 +25553,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-05,Trinidad and Tobago,117,108,8
 2020-06-05,Tunisia,1087,969,49
 2020-06-05,Turkey,168340,133400,4648
-2020-06-05,US,1897380,491706,109118
+2020-06-05,US,1902632,491706,109359
 2020-06-05,Uganda,557,82,0
 2020-06-05,Ukraine,26542,11815,770
 2020-06-05,United Arab Emirates,37642,20337,274
@@ -25697,7 +25697,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-06,North Macedonia,2915,1640,151
 2020-06-06,Norway,8531,8138,238
 2020-06-06,Oman,16016,3451,72
-2020-06-06,Pakistan,93983,32581,1935
+2020-06-06,Pakistan,98943,33465,2002
 2020-06-06,Panama,16004,10118,386
 2020-06-06,Papua New Guinea,8,8,0
 2020-06-06,Paraguay,1090,532,11
@@ -25741,7 +25741,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-06,Trinidad and Tobago,117,108,8
 2020-06-06,Tunisia,1087,977,49
 2020-06-06,Turkey,169218,135322,4669
-2020-06-06,US,1920061,500849,109787
+2020-06-06,US,1925765,500849,110068
 2020-06-06,Uganda,593,82,0
 2020-06-06,Ukraine,27101,12265,785
 2020-06-06,United Arab Emirates,38268,21061,275
@@ -25885,7 +25885,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-07,North Macedonia,3025,1646,153
 2020-06-07,Norway,8547,8138,238
 2020-06-07,Oman,16882,3451,75
-2020-06-07,Pakistan,98943,33465,2002
+2020-06-07,Pakistan,103671,34355,2067
 2020-06-07,Panama,16425,10218,393
 2020-06-07,Papua New Guinea,8,8,0
 2020-06-07,Paraguay,1135,575,11
@@ -25929,7 +25929,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-07,Trinidad and Tobago,117,108,8
 2020-06-07,Tunisia,1087,982,49
 2020-06-07,Turkey,170132,137969,4692
-2020-06-07,US,1943647,506367,110508
+2020-06-07,US,1943882,506367,110511
 2020-06-07,Uganda,616,96,0
 2020-06-07,Ukraine,27599,12513,796
 2020-06-07,United Arab Emirates,38808,21806,276
@@ -26117,7 +26117,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-08,Trinidad and Tobago,117,109,8
 2020-06-08,Tunisia,1087,982,49
 2020-06-08,Turkey,171121,141380,4711
-2020-06-08,US,1960897,518522,110990
+2020-06-08,US,1961428,518522,111011
 2020-06-08,Uganda,646,103,0
 2020-06-08,Ukraine,28077,12657,805
 2020-06-08,United Arab Emirates,39376,22275,281
@@ -26131,3 +26131,191 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-08,Yemen,496,23,112
 2020-06-08,Zambia,1200,912,10
 2020-06-08,Zimbabwe,287,46,4
+2020-06-09,Afghanistan,21459,2651,384
+2020-06-09,Albania,1299,960,34
+2020-06-09,Algeria,10382,6951,724
+2020-06-09,Andorra,852,757,51
+2020-06-09,Angola,96,38,4
+2020-06-09,Antigua and Barbuda,26,20,3
+2020-06-09,Argentina,24761,7568,717
+2020-06-09,Armenia,13675,4451,217
+2020-06-09,Australia,7274,6740,102
+2020-06-09,Austria,16979,15875,672
+2020-06-09,Azerbaijan,8191,4606,98
+2020-06-09,Bahamas,103,64,11
+2020-06-09,Bahrain,15731,10606,29
+2020-06-09,Bangladesh,71675,15337,975
+2020-06-09,Barbados,92,81,7
+2020-06-09,Belarus,50265,24506,282
+2020-06-09,Belgium,59437,16324,9619
+2020-06-09,Belize,20,16,2
+2020-06-09,Benin,305,188,4
+2020-06-09,Bhutan,59,17,0
+2020-06-09,Bolivia,14644,2190,487
+2020-06-09,Bosnia and Herzegovina,2728,2049,160
+2020-06-09,Botswana,42,24,1
+2020-06-09,Brazil,739503,396737,38406
+2020-06-09,Brunei,141,138,2
+2020-06-09,Bulgaria,2889,1623,167
+2020-06-09,Burkina Faso,891,765,53
+2020-06-09,Burma,246,159,6
+2020-06-09,Burundi,83,45,1
+2020-06-09,Cabo Verde,585,270,5
+2020-06-09,Cambodia,126,125,0
+2020-06-09,Cameroon,8312,4794,212
+2020-06-09,Canada,98241,56117,7970
+2020-06-09,Central African Republic,1850,38,5
+2020-06-09,Chad,844,706,71
+2020-06-09,Chile,142759,117361,2283
+2020-06-09,China,84198,79451,4638
+2020-06-09,Colombia,40847,16459,1373
+2020-06-09,Comoros,141,67,2
+2020-06-09,Congo (Brazzaville),728,221,24
+2020-06-09,Congo (Kinshasa),4259,539,90
+2020-06-09,Costa Rica,1375,717,11
+2020-06-09,Cote d'Ivoire,3995,2045,38
+2020-06-09,Croatia,2247,2130,106
+2020-06-09,Cuba,2205,1880,83
+2020-06-09,Cyprus,972,807,18
+2020-06-09,Czechia,9751,7053,328
+2020-06-09,Denmark,12201,11049,593
+2020-06-09,Diamond Princess,712,651,13
+2020-06-09,Djibouti,4331,2139,34
+2020-06-09,Dominica,18,16,0
+2020-06-09,Dominican Republic,20415,12208,544
+2020-06-09,Ecuador,43917,21020,3690
+2020-06-09,Egypt,36829,9786,1306
+2020-06-09,El Salvador,3191,1419,60
+2020-06-09,Equatorial Guinea,1306,200,12
+2020-06-09,Eritrea,39,39,0
+2020-06-09,Estonia,1947,1684,69
+2020-06-09,Eswatini,371,232,3
+2020-06-09,Ethiopia,2336,379,32
+2020-06-09,Fiji,18,18,0
+2020-06-09,Finland,7025,5800,324
+2020-06-09,France,191523,71626,29299
+2020-06-09,Gabon,3247,938,21
+2020-06-09,Gambia,28,21,1
+2020-06-09,Georgia,818,686,13
+2020-06-09,Germany,186506,170129,8736
+2020-06-09,Ghana,10201,3755,48
+2020-06-09,Greece,3058,1374,183
+2020-06-09,Grenada,23,22,0
+2020-06-09,Guatemala,7866,1413,289
+2020-06-09,Guinea,4258,2942,23
+2020-06-09,Guinea-Bissau,1389,153,12
+2020-06-09,Guyana,156,86,12
+2020-06-09,Haiti,3662,24,56
+2020-06-09,Holy See,12,12,0
+2020-06-09,Honduras,6935,787,271
+2020-06-09,Hungary,4017,2324,550
+2020-06-09,Iceland,1807,1794,10
+2020-06-09,India,276146,134670,7750
+2020-06-09,Indonesia,33076,11414,1923
+2020-06-09,Iran,175927,138457,8425
+2020-06-09,Iraq,14268,5831,392
+2020-06-09,Ireland,25215,22698,1691
+2020-06-09,Israel,18180,15159,299
+2020-06-09,Italy,235561,168646,34043
+2020-06-09,Jamaica,605,405,10
+2020-06-09,Japan,17111,15141,920
+2020-06-09,Jordan,845,657,9
+2020-06-09,Kazakhstan,13074,8015,61
+2020-06-09,Kenya,2989,873,88
+2020-06-09,"Korea, South",11902,10611,276
+2020-06-09,Kosovo,1263,912,31
+2020-06-09,Kuwait,33140,22162,273
+2020-06-09,Kyrgyzstan,2055,1483,24
+2020-06-09,Laos,19,19,0
+2020-06-09,Latvia,1089,794,26
+2020-06-09,Lebanon,1368,795,30
+2020-06-09,Lesotho,4,2,0
+2020-06-09,Liberia,383,199,31
+2020-06-09,Libya,359,58,5
+2020-06-09,Liechtenstein,82,55,1
+2020-06-09,Lithuania,1727,1338,72
+2020-06-09,Luxembourg,4046,3902,110
+2020-06-09,MS Zaandam,9,0,2
+2020-06-09,Madagascar,1138,274,9
+2020-06-09,Malawi,455,55,4
+2020-06-09,Malaysia,8336,6975,117
+2020-06-09,Maldives,1942,1010,8
+2020-06-09,Mali,1586,931,94
+2020-06-09,Malta,632,597,9
+2020-06-09,Mauritania,1162,139,61
+2020-06-09,Mauritius,337,324,10
+2020-06-09,Mexico,124301,90748,14649
+2020-06-09,Moldova,10025,5797,365
+2020-06-09,Monaco,99,93,4
+2020-06-09,Mongolia,194,87,0
+2020-06-09,Montenegro,324,315,9
+2020-06-09,Morocco,8437,7493,210
+2020-06-09,Mozambique,453,136,2
+2020-06-09,Namibia,31,16,0
+2020-06-09,Nepal,4086,584,15
+2020-06-09,Netherlands,48109,181,6050
+2020-06-09,New Zealand,1504,1482,22
+2020-06-09,Nicaragua,1464,953,55
+2020-06-09,Niger,974,871,65
+2020-06-09,Nigeria,13464,4206,365
+2020-06-09,North Macedonia,3239,1658,157
+2020-06-09,Norway,8576,8138,239
+2020-06-09,Oman,18198,4152,83
+2020-06-09,Pakistan,113702,36308,2255
+2020-06-09,Panama,17233,10561,403
+2020-06-09,Papua New Guinea,8,8,0
+2020-06-09,Paraguay,1187,604,11
+2020-06-09,Peru,203736,92929,5738
+2020-06-09,Philippines,22992,4736,1017
+2020-06-09,Poland,27560,13196,1183
+2020-06-09,Portugal,35306,21339,1492
+2020-06-09,Qatar,71879,47569,62
+2020-06-09,Romania,20749,14910,1354
+2020-06-09,Russia,484630,241917,6134
+2020-06-09,Rwanda,463,300,2
+2020-06-09,Saint Kitts and Nevis,15,15,0
+2020-06-09,Saint Lucia,19,18,0
+2020-06-09,Saint Vincent and the Grenadines,27,25,0
+2020-06-09,San Marino,688,483,42
+2020-06-09,Sao Tome and Principe,514,76,12
+2020-06-09,Saudi Arabia,108571,76339,783
+2020-06-09,Senegal,4516,2809,52
+2020-06-09,Serbia,11965,11268,250
+2020-06-09,Seychelles,11,11,0
+2020-06-09,Sierra Leone,1025,621,50
+2020-06-09,Singapore,38514,25877,25
+2020-06-09,Slovakia,1531,1402,28
+2020-06-09,Slovenia,1486,1359,109
+2020-06-09,Somalia,2416,489,85
+2020-06-09,South Africa,52991,29006,1162
+2020-06-09,South Sudan,1604,15,19
+2020-06-09,Spain,241966,150376,27136
+2020-06-09,Sri Lanka,1859,1057,11
+2020-06-09,Sudan,6427,2127,389
+2020-06-09,Suriname,137,9,2
+2020-06-09,Sweden,45924,0,4717
+2020-06-09,Switzerland,30988,28700,1934
+2020-06-09,Syria,146,62,6
+2020-06-09,Taiwan*,443,431,7
+2020-06-09,Tajikistan,4690,2815,48
+2020-06-09,Tanzania,509,183,21
+2020-06-09,Thailand,3121,2973,58
+2020-06-09,Timor-Leste,24,24,0
+2020-06-09,Togo,501,260,13
+2020-06-09,Trinidad and Tobago,117,109,8
+2020-06-09,Tunisia,1087,982,49
+2020-06-09,Turkey,172114,144598,4729
+2020-06-09,US,1973230,524855,111989
+2020-06-09,Uganda,657,118,0
+2020-06-09,Ukraine,28479,12892,818
+2020-06-09,United Arab Emirates,39904,22740,283
+2020-06-09,United Kingdom,290581,1257,40968
+2020-06-09,Uruguay,846,754,23
+2020-06-09,Uzbekistan,4520,3459,18
+2020-06-09,Venezuela,2632,487,23
+2020-06-09,Vietnam,332,316,0
+2020-06-09,West Bank and Gaza,481,404,3
+2020-06-09,Western Sahara,9,6,1
+2020-06-09,Yemen,524,23,127
+2020-06-09,Zambia,1200,912,10
+2020-06-09,Zimbabwe,314,46,4
