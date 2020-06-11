@@ -1,7 +1,7 @@
 {
-  "bytes": 108616314,
+  "bytes": 108616319,
   "count_of_rows": 988060,
-  "hash": "95514b96cc27c6a299f475e84a44e5d0",
+  "hash": "4bff706303478d681512ebcb38414156",
   "name": "covid-19",
   "profile": "data-package",
   "resources": [
@@ -18,7 +18,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "8f136110429ee2c3bbb07af4d984076a",
+      "hash": "0b909bf73211fba09ed96242844ca5d7",
       "name": "time-series-19-covid-combined",
       "path": "data/time-series-19-covid-combined.csv",
       "profile": "tabular-data-resource",
@@ -92,7 +92,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "e1c2ea739f73b799e318bd31260a0786",
+      "hash": "0a81b78aee5a788bd9b439d4a4b12a73",
       "name": "key-countries-pivoted",
       "path": "data/key-countries-pivoted.csv",
       "profile": "data-resource",
@@ -161,7 +161,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "352f34a165936668caf9e5d38f037e56",
+      "hash": "5029a9f8deda279e3fbceac620b85ab3",
       "name": "countries-aggregated",
       "path": "data/countries-aggregated.csv",
       "profile": "data-resource",
@@ -206,7 +206,7 @@
       }
     },
     {
-      "bytes": 7073,
+      "bytes": 7074,
       "dialect": {
         "delimiter": ",",
         "doubleQuote": true,
@@ -216,7 +216,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "c8dda89cc0f686bae18810316afbf1c2",
+      "hash": "09fe94a1d32701441383df9c5f5f11a0",
       "name": "worldwide-aggregated",
       "path": "data/worldwide-aggregated.csv",
       "profile": "data-resource",
@@ -466,7 +466,7 @@
       }
     },
     {
-      "bytes": 390246,
+      "bytes": 390250,
       "dialect": {
         "caseSensitiveHeader": false,
         "delimiter": ",",
@@ -478,7 +478,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "b3ef43d3e462d4a24b7110136689c6ad",
+      "hash": "f83b2ca61159ada33471cbd6303383c4",
       "name": "reference",
       "path": "data/reference.csv",
       "profile": "tabular-data-resource",
