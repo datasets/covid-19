@@ -1,3 +1,9 @@
+'''
+This script will import and clean data from the JHU CSSE COVID-19 dataset.
+
+Dependencies: dataflows==0.0.71 (pip install dataflows)
+'''
+
 from dataflows import Flow, load, unpivot, find_replace, set_type, dump_to_path
 from dataflows import update_package, update_resource, update_schema, join
 from dataflows import join_with_self, add_computed_field, delete_fields
@@ -11,6 +17,9 @@ CONFIRMED_US = 'time_series_covid19_confirmed_US.csv'
 DEATH_US = 'time_series_covid19_deaths_US.csv'
 REFERENCE = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/UID_ISO_FIPS_LookUp_Table.csv'
 
+
+## Define functions to clean data
+
 def to_normal_date(row):
     old_date = row['Date']
     month, day, year = row['Date'].split('-')
@@ -18,14 +27,7 @@ def to_normal_date(row):
     month = f'0{month}' if len(month) == 1 else month
     row['Date'] = '-'.join([day, month, year])
 
-unpivoting_fields = [
-    { 'name': '([0-9]+\/[0-9]+\/[0-9]+)', 'keys': {'Date': r'\1'} }
-]
-
-extra_keys = [{'name': 'Date', 'type': 'string'} ]
-extra_value = {'name': 'Case', 'type': 'number'}
-
-
+    
 def pivot_key_countries(package):
     key_countries = ['China', 'US', 'United_Kingdom', 'Italy', 'France', 'Germany', 'Spain', 'Iran']
     for country in key_countries:
@@ -113,6 +115,19 @@ def fix_canada_recovered_data(rows):
             row['Lat'] = row.get('Lat', '56.1304')
             row['Long'] = row.get('Long', '-106.3468')
         yield {**expected, **row}
+
+        
+## Define parameters for cleaning
+        
+unpivoting_fields = [
+    { 'name': '([0-9]+\/[0-9]+\/[0-9]+)', 'keys': {'Date': r'\1'} }
+]
+
+extra_keys = [{'name': 'Date', 'type': 'string'} ]
+extra_value = {'name': 'Case', 'type': 'number'}
+
+
+## Use dataflow to call functions defiend above and clean data
 
 Flow(
       load(f'{BASE_URL}{CONFIRMED}'),
