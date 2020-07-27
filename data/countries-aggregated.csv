@@ -6050,7 +6050,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-23,Canada,9,3,0
 2020-02-23,Central African Republic,0,0,0
 2020-02-23,Chad,0,0,0
-2020-02-23,Chile,0,0,0
+2020-02-23,Chile,2,0,0
 2020-02-23,China,77022,23187,2445
 2020-02-23,Colombia,0,0,0
 2020-02-23,Comoros,0,0,0
@@ -6238,7 +6238,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-24,Canada,10,3,0
 2020-02-24,Central African Republic,0,0,0
 2020-02-24,Chad,0,0,0
-2020-02-24,Chile,0,0,0
+2020-02-24,Chile,2,0,0
 2020-02-24,China,77241,25015,2595
 2020-02-24,Colombia,0,0,0
 2020-02-24,Comoros,0,0,0
@@ -6426,7 +6426,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-25,Canada,11,3,0
 2020-02-25,Central African Republic,0,0,0
 2020-02-25,Chad,0,0,0
-2020-02-25,Chile,0,0,0
+2020-02-25,Chile,2,0,0
 2020-02-25,China,77754,27676,2665
 2020-02-25,Colombia,0,0,0
 2020-02-25,Comoros,0,0,0
@@ -6614,7 +6614,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-26,Canada,11,3,0
 2020-02-26,Central African Republic,0,0,0
 2020-02-26,Chad,0,0,0
-2020-02-26,Chile,0,0,0
+2020-02-26,Chile,2,0,0
 2020-02-26,China,78166,30084,2717
 2020-02-26,Colombia,0,0,0
 2020-02-26,Comoros,0,0,0
@@ -6802,7 +6802,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-27,Canada,13,6,0
 2020-02-27,Central African Republic,0,0,0
 2020-02-27,Chad,0,0,0
-2020-02-27,Chile,0,0,0
+2020-02-27,Chile,2,0,0
 2020-02-27,China,78600,32930,2746
 2020-02-27,Colombia,0,0,0
 2020-02-27,Comoros,0,0,0
@@ -6990,7 +6990,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-28,Canada,14,6,0
 2020-02-28,Central African Republic,0,0,0
 2020-02-28,Chad,0,0,0
-2020-02-28,Chile,0,0,0
+2020-02-28,Chile,2,0,0
 2020-02-28,China,78928,36329,2790
 2020-02-28,Colombia,0,0,0
 2020-02-28,Comoros,0,0,0
@@ -7178,7 +7178,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-29,Canada,20,6,0
 2020-02-29,Central African Republic,0,0,0
 2020-02-29,Chad,0,0,0
-2020-02-29,Chile,0,0,0
+2020-02-29,Chile,2,0,0
 2020-02-29,China,79356,39320,2837
 2020-02-29,Colombia,0,0,0
 2020-02-29,Comoros,0,0,0
@@ -7366,7 +7366,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-01,Canada,24,6,0
 2020-03-01,Central African Republic,0,0,0
 2020-03-01,Chad,0,0,0
-2020-03-01,Chile,0,0,0
+2020-03-01,Chile,9,0,0
 2020-03-01,China,79932,42162,2872
 2020-03-01,Colombia,0,0,0
 2020-03-01,Comoros,0,0,0
@@ -7554,7 +7554,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-02,Canada,27,6,0
 2020-03-02,Central African Republic,0,0,0
 2020-03-02,Chad,0,0,0
-2020-03-02,Chile,0,0,0
+2020-03-02,Chile,9,0,0
 2020-03-02,China,80136,44854,2914
 2020-03-02,Colombia,0,0,0
 2020-03-02,Comoros,0,0,0
@@ -7742,7 +7742,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-03,Canada,30,6,0
 2020-03-03,Central African Republic,0,0,0
 2020-03-03,Chad,0,0,0
-2020-03-03,Chile,1,0,0
+2020-03-03,Chile,10,0,0
 2020-03-03,China,80261,47450,2947
 2020-03-03,Colombia,0,0,0
 2020-03-03,Comoros,0,0,0
@@ -7930,7 +7930,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-04,Canada,33,6,0
 2020-03-04,Central African Republic,0,0,0
 2020-03-04,Chad,0,0,0
-2020-03-04,Chile,1,0,0
+2020-03-04,Chile,10,0,0
 2020-03-04,China,80386,50001,2983
 2020-03-04,Colombia,0,0,0
 2020-03-04,Comoros,0,0,0
@@ -8118,7 +8118,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-05,Canada,37,6,0
 2020-03-05,Central African Republic,0,0,0
 2020-03-05,Chad,0,0,0
-2020-03-05,Chile,4,0,0
+2020-03-05,Chile,13,0,0
 2020-03-05,China,80537,52292,3015
 2020-03-05,Colombia,0,0,0
 2020-03-05,Comoros,0,0,0
@@ -8306,7 +8306,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-06,Canada,49,6,0
 2020-03-06,Central African Republic,0,0,0
 2020-03-06,Chad,0,0,0
-2020-03-06,Chile,4,0,0
+2020-03-06,Chile,13,0,0
 2020-03-06,China,80690,53944,3044
 2020-03-06,Colombia,1,0,0
 2020-03-06,Comoros,0,0,0
@@ -8494,7 +8494,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-07,Canada,54,8,0
 2020-03-07,Central African Republic,0,0,0
 2020-03-07,Chad,0,0,0
-2020-03-07,Chile,4,0,0
+2020-03-07,Chile,13,0,0
 2020-03-07,China,80770,55539,3072
 2020-03-07,Colombia,1,0,0
 2020-03-07,Comoros,0,0,0
@@ -8682,7 +8682,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-08,Canada,64,8,0
 2020-03-08,Central African Republic,0,0,0
 2020-03-08,Chad,0,0,0
-2020-03-08,Chile,8,0,0
+2020-03-08,Chile,20,0,0
 2020-03-08,China,80823,57388,3100
 2020-03-08,Colombia,1,0,0
 2020-03-08,Comoros,0,0,0
@@ -8870,7 +8870,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-09,Canada,77,8,1
 2020-03-09,Central African Republic,0,0,0
 2020-03-09,Chad,0,0,0
-2020-03-09,Chile,8,0,0
+2020-03-09,Chile,20,0,0
 2020-03-09,China,80860,58804,3123
 2020-03-09,Colombia,1,0,0
 2020-03-09,Comoros,0,0,0
@@ -9058,7 +9058,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-10,Canada,79,8,1
 2020-03-10,Central African Republic,0,0,0
 2020-03-10,Chad,0,0,0
-2020-03-10,Chile,13,0,0
+2020-03-10,Chile,25,0,0
 2020-03-10,China,80887,60181,3139
 2020-03-10,Colombia,3,0,0
 2020-03-10,Comoros,0,0,0
@@ -9246,7 +9246,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-11,Canada,108,8,1
 2020-03-11,Central African Republic,0,0,0
 2020-03-11,Chad,0,0,0
-2020-03-11,Chile,23,0,0
+2020-03-11,Chile,35,0,0
 2020-03-11,China,80921,61644,3161
 2020-03-11,Colombia,9,0,0
 2020-03-11,Comoros,0,0,0
@@ -9434,7 +9434,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-12,Canada,117,8,1
 2020-03-12,Central African Republic,0,0,0
 2020-03-12,Chad,0,0,0
-2020-03-12,Chile,23,0,0
+2020-03-12,Chile,35,0,0
 2020-03-12,China,80932,62901,3172
 2020-03-12,Colombia,9,0,0
 2020-03-12,Comoros,0,0,0
@@ -9622,7 +9622,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-13,Canada,193,8,1
 2020-03-13,Central African Republic,0,0,0
 2020-03-13,Chad,0,0,0
-2020-03-13,Chile,43,0,0
+2020-03-13,Chile,55,0,0
 2020-03-13,China,80945,64196,3180
 2020-03-13,Colombia,13,0,0
 2020-03-13,Comoros,0,0,0
@@ -9810,7 +9810,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-14,Canada,198,8,1
 2020-03-14,Central African Republic,0,0,0
 2020-03-14,Chad,0,0,0
-2020-03-14,Chile,61,0,0
+2020-03-14,Chile,88,0,0
 2020-03-14,China,80977,65660,3193
 2020-03-14,Colombia,22,0,0
 2020-03-14,Comoros,0,0,0
@@ -9998,7 +9998,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-15,Canada,252,8,1
 2020-03-15,Central African Republic,1,0,0
 2020-03-15,Chad,0,0,0
-2020-03-15,Chile,74,0,0
+2020-03-15,Chile,101,0,0
 2020-03-15,China,81003,67017,3203
 2020-03-15,Colombia,34,0,0
 2020-03-15,Comoros,0,0,0
@@ -10186,7 +10186,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-16,Canada,415,9,4
 2020-03-16,Central African Republic,1,0,0
 2020-03-16,Chad,0,0,0
-2020-03-16,Chile,155,0,0
+2020-03-16,Chile,182,0,0
 2020-03-16,China,81033,67910,3217
 2020-03-16,Colombia,57,0,0
 2020-03-16,Comoros,0,0,0
@@ -10374,7 +10374,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-17,Canada,478,9,5
 2020-03-17,Central African Republic,1,0,0
 2020-03-17,Chad,0,0,0
-2020-03-17,Chile,201,0,0
+2020-03-17,Chile,228,0,0
 2020-03-17,China,81058,68798,3230
 2020-03-17,Colombia,75,1,0
 2020-03-17,Comoros,0,0,0
@@ -10562,7 +10562,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-18,Canada,657,9,8
 2020-03-18,Central African Republic,1,0,0
 2020-03-18,Chad,0,0,0
-2020-03-18,Chile,238,0,0
+2020-03-18,Chile,265,0,0
 2020-03-18,China,81102,69755,3241
 2020-03-18,Colombia,102,1,0
 2020-03-18,Comoros,0,0,0
@@ -10750,7 +10750,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-19,Canada,800,9,9
 2020-03-19,Central African Republic,1,0,0
 2020-03-19,Chad,1,0,0
-2020-03-19,Chile,238,0,0
+2020-03-19,Chile,265,0,0
 2020-03-19,China,81156,70535,3249
 2020-03-19,Colombia,108,1,0
 2020-03-19,Comoros,0,0,0
@@ -10938,7 +10938,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-20,Canada,943,9,12
 2020-03-20,Central African Republic,3,0,0
 2020-03-20,Chad,1,0,0
-2020-03-20,Chile,434,6,0
+2020-03-20,Chile,461,6,0
 2020-03-20,China,81250,71266,3253
 2020-03-20,Colombia,158,1,0
 2020-03-20,Comoros,0,0,0
@@ -11126,7 +11126,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-21,Canada,1277,10,19
 2020-03-21,Central African Republic,3,0,0
 2020-03-21,Chad,1,0,0
-2020-03-21,Chile,537,6,0
+2020-03-21,Chile,592,6,0
 2020-03-21,China,81305,71857,3259
 2020-03-21,Colombia,196,1,0
 2020-03-21,Comoros,0,0,0
@@ -11314,7 +11314,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-22,Canada,1469,10,21
 2020-03-22,Central African Republic,3,0,0
 2020-03-22,Chad,1,0,0
-2020-03-22,Chile,632,8,1
+2020-03-22,Chile,687,8,1
 2020-03-22,China,81435,72362,3274
 2020-03-22,Colombia,231,3,2
 2020-03-22,Comoros,0,0,0
@@ -11502,7 +11502,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-23,Canada,2088,10,25
 2020-03-23,Central African Republic,3,0,0
 2020-03-23,Chad,1,0,0
-2020-03-23,Chile,746,8,2
+2020-03-23,Chile,801,8,2
 2020-03-23,China,81498,72814,3274
 2020-03-23,Colombia,277,3,3
 2020-03-23,Comoros,0,0,0
@@ -11690,7 +11690,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-24,Canada,2790,110,26
 2020-03-24,Central African Republic,3,0,0
 2020-03-24,Chad,3,0,0
-2020-03-24,Chile,922,17,2
+2020-03-24,Chile,977,17,2
 2020-03-24,China,81591,73280,3281
 2020-03-24,Colombia,378,6,3
 2020-03-24,Comoros,0,0,0
@@ -11878,7 +11878,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-25,Canada,3251,183,30
 2020-03-25,Central African Republic,3,0,0
 2020-03-25,Chad,3,0,0
-2020-03-25,Chile,1142,22,3
+2020-03-25,Chile,1197,22,3
 2020-03-25,China,81661,73773,3285
 2020-03-25,Colombia,470,8,4
 2020-03-25,Comoros,0,0,0
@@ -12066,7 +12066,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-26,Canada,4042,184,38
 2020-03-26,Central African Republic,3,0,0
 2020-03-26,Chad,3,0,0
-2020-03-26,Chile,1306,22,4
+2020-03-26,Chile,1361,22,4
 2020-03-26,China,81782,74181,3291
 2020-03-26,Colombia,491,8,6
 2020-03-26,Comoros,0,0,0
@@ -12254,7 +12254,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-27,Canada,4682,256,54
 2020-03-27,Central African Republic,3,0,0
 2020-03-27,Chad,3,0,0
-2020-03-27,Chile,1610,43,5
+2020-03-27,Chile,1665,43,5
 2020-03-27,China,81897,74720,3296
 2020-03-27,Colombia,539,10,6
 2020-03-27,Comoros,0,0,0
@@ -12442,7 +12442,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-28,Canada,5576,466,61
 2020-03-28,Central African Republic,3,0,0
 2020-03-28,Chad,3,0,0
-2020-03-28,Chile,1909,61,6
+2020-03-28,Chile,2015,61,6
 2020-03-28,China,81999,75100,3299
 2020-03-28,Colombia,608,10,6
 2020-03-28,Comoros,0,0,0
@@ -12630,7 +12630,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-29,Canada,6280,466,64
 2020-03-29,Central African Republic,3,0,0
 2020-03-29,Chad,3,0,0
-2020-03-29,Chile,2139,75,7
+2020-03-29,Chile,2245,75,7
 2020-03-29,China,82122,75582,3304
 2020-03-29,Colombia,702,10,10
 2020-03-29,Comoros,0,0,0
@@ -12818,7 +12818,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-30,Canada,7398,466,80
 2020-03-30,Central African Republic,3,0,0
 2020-03-30,Chad,5,0,0
-2020-03-30,Chile,2449,156,8
+2020-03-30,Chile,2555,156,8
 2020-03-30,China,82198,75923,3308
 2020-03-30,Colombia,798,15,12
 2020-03-30,Comoros,0,0,0
@@ -13006,7 +13006,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-31,Canada,8527,1592,101
 2020-03-31,Central African Republic,3,0,0
 2020-03-31,Chad,7,0,0
-2020-03-31,Chile,2738,156,12
+2020-03-31,Chile,2844,156,12
 2020-03-31,China,82279,76206,3309
 2020-03-31,Colombia,906,31,16
 2020-03-31,Comoros,0,0,0
@@ -13194,7 +13194,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-01,Canada,9560,1324,109
 2020-04-01,Central African Republic,3,0,0
 2020-04-01,Chad,7,0,0
-2020-04-01,Chile,3031,234,16
+2020-04-01,Chile,3137,234,16
 2020-04-01,China,82361,76405,3316
 2020-04-01,Colombia,1065,39,17
 2020-04-01,Comoros,0,0,0
@@ -13382,7 +13382,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-02,Canada,11284,1735,139
 2020-04-02,Central African Republic,3,0,0
 2020-04-02,Chad,8,0,0
-2020-04-02,Chile,3404,335,18
+2020-04-02,Chile,3510,335,18
 2020-04-02,China,82432,76565,3322
 2020-04-02,Colombia,1161,55,19
 2020-04-02,Comoros,0,0,0
@@ -13570,7 +13570,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-03,Canada,12437,2175,179
 2020-04-03,Central African Republic,8,0,0
 2020-04-03,Chad,8,0,0
-2020-04-03,Chile,3737,427,22
+2020-04-03,Chile,3843,427,22
 2020-04-03,China,82511,76760,3326
 2020-04-03,Colombia,1267,55,25
 2020-04-03,Comoros,0,0,0
@@ -13758,7 +13758,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-04,Canada,12978,2577,218
 2020-04-04,Central African Republic,8,0,0
 2020-04-04,Chad,9,0,0
-2020-04-04,Chile,4161,528,27
+2020-04-04,Chile,4355,528,27
 2020-04-04,China,82543,76946,3330
 2020-04-04,Colombia,1406,85,32
 2020-04-04,Comoros,0,0,0
@@ -13946,7 +13946,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-05,Canada,15756,3012,259
 2020-04-05,Central African Republic,8,0,0
 2020-04-05,Chad,9,0,0
-2020-04-05,Chile,4471,618,34
+2020-04-05,Chile,4665,618,34
 2020-04-05,China,82602,77207,3333
 2020-04-05,Colombia,1485,88,35
 2020-04-05,Comoros,0,0,0
@@ -14134,7 +14134,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-06,Canada,16563,3256,339
 2020-04-06,Central African Republic,8,0,0
 2020-04-06,Chad,9,0,0
-2020-04-06,Chile,4815,728,37
+2020-04-06,Chile,5009,728,37
 2020-04-06,China,82665,77310,3335
 2020-04-06,Colombia,1579,88,46
 2020-04-06,Comoros,0,0,0
@@ -14322,7 +14322,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-07,Canada,17872,3791,375
 2020-04-07,Central African Republic,8,0,0
 2020-04-07,Chad,10,2,0
-2020-04-07,Chile,5116,898,43
+2020-04-07,Chile,5310,898,43
 2020-04-07,China,82718,77410,3335
 2020-04-07,Colombia,1780,100,50
 2020-04-07,Comoros,0,0,0
@@ -14510,7 +14510,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-08,Canada,19141,4154,407
 2020-04-08,Central African Republic,8,0,0
 2020-04-08,Chad,10,2,0
-2020-04-08,Chile,5546,1115,48
+2020-04-08,Chile,5740,1115,48
 2020-04-08,China,82809,77567,3337
 2020-04-08,Colombia,2054,123,54
 2020-04-08,Comoros,0,0,0
@@ -14698,7 +14698,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-09,Canada,20654,5162,503
 2020-04-09,Central African Republic,8,0,0
 2020-04-09,Chad,11,2,0
-2020-04-09,Chile,5972,1274,57
+2020-04-09,Chile,6166,1274,57
 2020-04-09,China,82883,77679,3339
 2020-04-09,Colombia,2223,174,69
 2020-04-09,Comoros,0,0,0
@@ -14886,7 +14886,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-10,Canada,22059,5855,557
 2020-04-10,Central African Republic,8,0,0
 2020-04-10,Chad,11,2,0
-2020-04-10,Chile,6501,1571,65
+2020-04-10,Chile,6695,1571,65
 2020-04-10,China,82941,77791,3340
 2020-04-10,Colombia,2473,197,80
 2020-04-10,Comoros,0,0,0
@@ -15074,7 +15074,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-11,Canada,23316,6589,654
 2020-04-11,Central African Republic,8,0,0
 2020-04-11,Chad,11,2,0
-2020-04-11,Chile,6927,1864,73
+2020-04-11,Chile,7366,1864,73
 2020-04-11,China,83014,77877,3343
 2020-04-11,Colombia,2709,214,100
 2020-04-11,Comoros,0,0,0
@@ -15262,7 +15262,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-12,Canada,24299,7123,714
 2020-04-12,Central African Republic,8,0,0
 2020-04-12,Chad,18,2,0
-2020-04-12,Chile,7213,2059,80
+2020-04-12,Chile,7652,2059,80
 2020-04-12,China,83134,77956,3343
 2020-04-12,Colombia,2776,270,109
 2020-04-12,Comoros,0,0,0
@@ -15450,7 +15450,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-13,Canada,25680,7758,781
 2020-04-13,Central African Republic,11,3,0
 2020-04-13,Chad,23,2,0
-2020-04-13,Chile,7525,2367,82
+2020-04-13,Chile,7964,2367,82
 2020-04-13,China,83213,78039,3345
 2020-04-13,Colombia,2852,319,112
 2020-04-13,Comoros,0,0,0
@@ -15638,7 +15638,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-14,Canada,27035,8210,901
 2020-04-14,Central African Republic,11,4,0
 2020-04-14,Chad,23,2,0
-2020-04-14,Chile,7917,2646,92
+2020-04-14,Chile,8356,2646,92
 2020-04-14,China,83306,78200,3345
 2020-04-14,Colombia,2979,354,127
 2020-04-14,Comoros,0,0,0
@@ -15826,7 +15826,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-15,Canada,28209,8966,1008
 2020-04-15,Central African Republic,12,4,0
 2020-04-15,Chad,23,2,0
-2020-04-15,Chile,8273,2937,94
+2020-04-15,Chile,8712,2937,94
 2020-04-15,China,83356,78311,3346
 2020-04-15,Colombia,3105,452,131
 2020-04-15,Comoros,0,0,0
@@ -16014,7 +16014,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-16,Canada,30809,9698,1259
 2020-04-16,Central African Republic,12,4,0
 2020-04-16,Chad,27,5,0
-2020-04-16,Chile,8807,3299,105
+2020-04-16,Chile,9246,3299,105
 2020-04-16,China,83403,78401,3346
 2020-04-16,Colombia,3233,550,144
 2020-04-16,Comoros,0,0,0
@@ -16202,7 +16202,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-17,Canada,32814,10545,1356
 2020-04-17,Central African Republic,12,4,0
 2020-04-17,Chad,27,5,0
-2020-04-17,Chile,9252,3621,116
+2020-04-17,Chile,9691,3621,116
 2020-04-17,China,83760,77552,4636
 2020-04-17,Colombia,3439,634,153
 2020-04-17,Comoros,0,0,0
@@ -16390,7 +16390,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-18,Canada,34356,10964,1401
 2020-04-18,Central African Republic,12,4,0
 2020-04-18,Chad,33,8,0
-2020-04-18,Chile,9730,4035,126
+2020-04-18,Chile,10598,4035,126
 2020-04-18,China,83787,77614,4636
 2020-04-18,Colombia,3621,634,166
 2020-04-18,Comoros,0,0,0
@@ -16578,7 +16578,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-19,Canada,35633,11847,1565
 2020-04-19,Central African Republic,12,4,0
 2020-04-19,Chad,33,8,0
-2020-04-19,Chile,10088,4338,133
+2020-04-19,Chile,10956,4338,133
 2020-04-19,China,83805,77690,4636
 2020-04-19,Colombia,3792,711,179
 2020-04-19,Comoros,0,0,0
@@ -16766,7 +16766,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-20,Canada,37658,12543,1727
 2020-04-20,Central African Republic,12,4,0
 2020-04-20,Chad,33,8,0
-2020-04-20,Chile,10507,4676,139
+2020-04-20,Chile,11375,4676,139
 2020-04-20,China,83817,77745,4636
 2020-04-20,Colombia,3977,804,189
 2020-04-20,Comoros,0,0,0
@@ -16954,7 +16954,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-21,Canada,39402,13188,1910
 2020-04-21,Central African Republic,14,10,0
 2020-04-21,Chad,33,8,0
-2020-04-21,Chile,10832,4969,147
+2020-04-21,Chile,11700,4969,147
 2020-04-21,China,83853,77799,4636
 2020-04-21,Colombia,4149,804,196
 2020-04-21,Comoros,0,0,0
@@ -17142,7 +17142,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-22,Canada,41663,14454,2078
 2020-04-22,Central African Republic,14,10,0
 2020-04-22,Chad,33,8,0
-2020-04-22,Chile,11296,5386,160
+2020-04-22,Chile,12164,5386,160
 2020-04-22,China,83868,77861,4636
 2020-04-22,Colombia,4356,870,206
 2020-04-22,Comoros,0,0,0
@@ -17330,7 +17330,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-23,Canada,43299,14761,2241
 2020-04-23,Central African Republic,16,10,0
 2020-04-23,Chad,33,8,0
-2020-04-23,Chile,11812,5804,168
+2020-04-23,Chile,12680,5804,168
 2020-04-23,China,83884,77983,4636
 2020-04-23,Colombia,4561,927,215
 2020-04-23,Comoros,0,0,0
@@ -17518,7 +17518,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-24,Canada,44919,15149,2402
 2020-04-24,Central African Republic,16,10,0
 2020-04-24,Chad,40,8,0
-2020-04-24,Chile,12306,6327,174
+2020-04-24,Chile,13174,6327,174
 2020-04-24,China,83899,78109,4636
 2020-04-24,Colombia,4881,1003,225
 2020-04-24,Comoros,0,0,0
@@ -17706,7 +17706,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-25,Canada,46371,16013,2571
 2020-04-25,Central African Republic,16,10,0
 2020-04-25,Chad,46,15,0
-2020-04-25,Chile,12858,6746,181
+2020-04-25,Chile,14537,6746,181
 2020-04-25,China,83909,78175,4636
 2020-04-25,Colombia,5142,1067,233
 2020-04-25,Comoros,0,0,0
@@ -17894,7 +17894,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-26,Canada,48033,16883,2687
 2020-04-26,Central African Republic,19,10,0
 2020-04-26,Chad,46,15,0
-2020-04-26,Chile,13331,7024,189
+2020-04-26,Chile,15010,7024,189
 2020-04-26,China,83912,78277,4637
 2020-04-26,Colombia,5379,1133,244
 2020-04-26,Comoros,0,0,0
@@ -18082,7 +18082,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-27,Canada,49616,18268,2841
 2020-04-27,Central African Republic,19,10,0
 2020-04-27,Chad,46,15,0
-2020-04-27,Chile,13813,7327,198
+2020-04-27,Chile,15492,7327,198
 2020-04-27,China,83918,78374,4637
 2020-04-27,Colombia,5597,1210,253
 2020-04-27,Comoros,0,0,0
@@ -18270,7 +18270,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-28,Canada,51150,19231,2983
 2020-04-28,Central African Republic,50,10,0
 2020-04-28,Chad,52,19,2
-2020-04-28,Chile,14365,7710,207
+2020-04-28,Chile,16044,7710,207
 2020-04-28,China,83940,78422,4637
 2020-04-28,Colombia,5949,1268,269
 2020-04-28,Comoros,0,0,0
@@ -18458,7 +18458,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-29,Canada,52865,20327,3155
 2020-04-29,Central African Republic,50,10,0
 2020-04-29,Chad,52,19,2
-2020-04-29,Chile,14885,8057,216
+2020-04-29,Chile,16564,8057,216
 2020-04-29,China,83944,78474,4637
 2020-04-29,Colombia,6207,1411,278
 2020-04-29,Comoros,0,0,0
@@ -18646,7 +18646,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-30,Canada,54457,21424,3310
 2020-04-30,Central African Republic,50,10,0
 2020-04-30,Chad,73,33,5
-2020-04-30,Chile,16023,8580,227
+2020-04-30,Chile,17702,8580,227
 2020-04-30,China,83956,78523,4637
 2020-04-30,Colombia,6507,1439,293
 2020-04-30,Comoros,1,0,0
@@ -18834,7 +18834,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-01,Canada,56343,22764,3537
 2020-05-01,Central African Republic,72,10,0
 2020-05-01,Chad,73,33,5
-2020-05-01,Chile,17008,9018,234
+2020-05-01,Chile,18687,9018,234
 2020-05-01,China,83959,78573,4637
 2020-05-01,Colombia,7006,1551,314
 2020-05-01,Comoros,1,0,0
@@ -19022,7 +19022,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-02,Canada,57926,23814,3684
 2020-05-02,Central African Republic,72,10,0
 2020-05-02,Chad,117,39,10
-2020-05-02,Chile,18435,9572,247
+2020-05-02,Chile,21213,9572,247
 2020-05-02,China,83959,78586,4637
 2020-05-02,Colombia,7285,1666,324
 2020-05-02,Comoros,3,0,0
@@ -19210,7 +19210,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-03,Canada,60504,24921,3795
 2020-05-03,Central African Republic,72,10,0
 2020-05-03,Chad,117,39,10
-2020-05-03,Chile,19663,10041,260
+2020-05-03,Chile,22441,10041,260
 2020-05-03,China,83964,78684,4637
 2020-05-03,Colombia,7668,1722,340
 2020-05-03,Comoros,3,0,0
@@ -19398,7 +19398,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-04,Canada,61957,26030,4003
 2020-05-04,Central African Republic,85,10,0
 2020-05-04,Chad,117,39,10
-2020-05-04,Chile,20643,10415,270
+2020-05-04,Chile,23421,10415,270
 2020-05-04,China,83966,78792,4637
 2020-05-04,Colombia,7973,1807,358
 2020-05-04,Comoros,3,0,0
@@ -19586,7 +19586,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-05,Canada,63215,27006,4190
 2020-05-05,Central African Republic,85,10,0
 2020-05-05,Chad,170,43,17
-2020-05-05,Chile,22016,10710,275
+2020-05-05,Chile,24794,10710,275
 2020-05-05,China,83968,78870,4637
 2020-05-05,Colombia,8613,2013,378
 2020-05-05,Comoros,3,0,0
@@ -19774,7 +19774,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-06,Canada,64694,28184,4366
 2020-05-06,Central African Republic,94,10,0
 2020-05-06,Chad,170,43,17
-2020-05-06,Chile,23048,11189,281
+2020-05-06,Chile,25826,11189,281
 2020-05-06,China,83970,78929,4637
 2020-05-06,Colombia,8959,2148,397
 2020-05-06,Comoros,8,0,1
@@ -19962,7 +19962,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-07,Canada,66201,29260,4541
 2020-05-07,Central African Republic,94,10,0
 2020-05-07,Chad,253,50,27
-2020-05-07,Chile,24581,11664,285
+2020-05-07,Chile,27359,11664,285
 2020-05-07,China,83975,78977,4637
 2020-05-07,Colombia,9456,2300,407
 2020-05-07,Comoros,8,0,1
@@ -20150,7 +20150,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-08,Canada,67674,30239,4697
 2020-05-08,Central African Republic,143,10,0
 2020-05-08,Chad,260,50,28
-2020-05-08,Chile,25972,12160,294
+2020-05-08,Chile,28750,12160,294
 2020-05-08,China,83976,78993,4637
 2020-05-08,Colombia,10051,2424,428
 2020-05-08,Comoros,8,0,1
@@ -20338,7 +20338,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-09,Canada,68918,31262,4823
 2020-05-09,Central African Republic,143,10,0
 2020-05-09,Chad,322,53,31
-2020-05-09,Chile,27219,12667,304
+2020-05-09,Chile,32208,12667,304
 2020-05-09,China,83990,79127,4637
 2020-05-09,Colombia,10495,2569,445
 2020-05-09,Comoros,11,0,1
@@ -20526,7 +20526,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-10,Canada,70091,32109,4991
 2020-05-10,Central African Republic,143,10,0
 2020-05-10,Chad,322,53,31
-2020-05-10,Chile,28866,13112,312
+2020-05-10,Chile,33855,13112,312
 2020-05-10,China,84010,79167,4637
 2020-05-10,Colombia,11063,2705,463
 2020-05-10,Comoros,11,0,1
@@ -20714,7 +20714,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-11,Canada,71264,33007,5115
 2020-05-11,Central African Republic,143,10,0
 2020-05-11,Chad,322,53,31
-2020-05-11,Chile,30063,13605,323
+2020-05-11,Chile,35052,13605,323
 2020-05-11,China,84011,79198,4637
 2020-05-11,Colombia,11613,2825,479
 2020-05-11,Comoros,11,0,1
@@ -20902,7 +20902,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-12,Canada,72419,34055,5300
 2020-05-12,Central African Republic,143,10,0
 2020-05-12,Chad,357,76,40
-2020-05-12,Chile,31721,14125,335
+2020-05-12,Chile,36710,14125,335
 2020-05-12,China,84018,79222,4637
 2020-05-12,Colombia,12272,2971,493
 2020-05-12,Comoros,11,0,1
@@ -21090,7 +21090,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-13,Canada,73568,35177,5425
 2020-05-13,Central African Republic,143,10,0
 2020-05-13,Chad,372,78,42
-2020-05-13,Chile,34381,14865,346
+2020-05-13,Chile,39370,14865,346
 2020-05-13,China,84024,79246,4637
 2020-05-13,Colombia,12930,3133,509
 2020-05-13,Comoros,11,0,1
@@ -21278,7 +21278,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-14,Canada,74781,36104,5592
 2020-05-14,Central African Republic,143,10,0
 2020-05-14,Chad,399,83,46
-2020-05-14,Chile,37040,15655,368
+2020-05-14,Chile,42029,15655,368
 2020-05-14,China,84029,79261,4637
 2020-05-14,Colombia,13610,3358,525
 2020-05-14,Comoros,11,3,1
@@ -21466,7 +21466,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-15,Canada,75959,36908,5679
 2020-05-15,Central African Republic,301,13,0
 2020-05-15,Chad,428,88,48
-2020-05-15,Chile,39542,16614,394
+2020-05-15,Chile,44531,16614,394
 2020-05-15,China,84038,79281,4637
 2020-05-15,Colombia,14216,3460,546
 2020-05-15,Comoros,11,3,1
@@ -21654,7 +21654,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-16,Canada,77206,37832,5800
 2020-05-16,Central African Republic,327,13,0
 2020-05-16,Chad,474,111,50
-2020-05-16,Chile,41428,18014,421
+2020-05-16,Chile,50016,18014,421
 2020-05-16,China,84044,79293,4638
 2020-05-16,Colombia,14939,3587,562
 2020-05-16,Comoros,11,3,1
@@ -21842,7 +21842,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-17,Canada,78332,38563,5903
 2020-05-17,Central African Republic,327,13,0
 2020-05-17,Chad,503,117,53
-2020-05-17,Chile,43781,19213,450
+2020-05-17,Chile,52369,19213,450
 2020-05-17,China,84054,79306,4638
 2020-05-17,Colombia,15574,3751,574
 2020-05-17,Comoros,11,3,1
@@ -22030,7 +22030,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-18,Canada,79411,39251,5960
 2020-05-18,Central African Republic,327,13,0
 2020-05-18,Chad,519,117,53
-2020-05-18,Chile,46059,20165,478
+2020-05-18,Chile,54647,20165,478
 2020-05-18,China,84063,79310,4638
 2020-05-18,Colombia,16295,3903,592
 2020-05-18,Comoros,11,3,1
@@ -22218,7 +22218,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-19,Canada,80493,40069,6028
 2020-05-19,Central African Republic,366,18,0
 2020-05-19,Chad,545,139,56
-2020-05-19,Chile,49579,21507,509
+2020-05-19,Chile,58167,21507,509
 2020-05-19,China,84063,79310,4638
 2020-05-19,Colombia,16935,4050,613
 2020-05-19,Comoros,11,3,1
@@ -22406,7 +22406,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-20,Canada,81575,40793,6150
 2020-05-20,Central African Republic,418,18,0
 2020-05-20,Chad,565,177,57
-2020-05-20,Chile,53617,22504,544
+2020-05-20,Chile,62205,22504,544
 2020-05-20,China,84063,79310,4638
 2020-05-20,Colombia,17687,4256,630
 2020-05-20,Comoros,34,8,1
@@ -22594,7 +22594,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-21,Canada,82742,41731,6267
 2020-05-21,Central African Republic,436,18,0
 2020-05-21,Chad,588,186,58
-2020-05-21,Chile,57581,23992,589
+2020-05-21,Chile,66169,23992,589
 2020-05-21,China,84063,79310,4638
 2020-05-21,Colombia,18330,4431,652
 2020-05-21,Comoros,34,8,1
@@ -22782,7 +22782,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-22,Canada,83947,42608,6360
 2020-05-22,Central African Republic,479,18,0
 2020-05-22,Chad,611,196,58
-2020-05-22,Chile,61857,25342,630
+2020-05-22,Chile,70445,25342,630
 2020-05-22,China,84081,79332,4638
 2020-05-22,Colombia,19131,4575,682
 2020-05-22,Comoros,78,18,1
@@ -22970,7 +22970,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-23,Canada,85151,43318,6466
 2020-05-23,Central African Republic,552,18,1
 2020-05-23,Chad,648,204,60
-2020-05-23,Chile,65393,26546,673
+2020-05-23,Chile,80287,26546,673
 2020-05-23,China,84084,79335,4638
 2020-05-23,Colombia,20177,4718,705
 2020-05-23,Comoros,78,18,1
@@ -23158,7 +23158,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-24,Canada,86106,43998,6534
 2020-05-24,Central African Republic,604,22,1
 2020-05-24,Chad,675,215,60
-2020-05-24,Chile,69102,28148,718
+2020-05-24,Chile,83996,28148,718
 2020-05-24,China,84095,79343,4638
 2020-05-24,Colombia,21175,5016,727
 2020-05-24,Comoros,87,21,1
@@ -23346,7 +23346,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-25,Canada,87119,44651,6655
 2020-05-25,Central African Republic,652,22,1
 2020-05-25,Chad,687,244,61
-2020-05-25,Chile,73997,29302,761
+2020-05-25,Chile,88891,29302,761
 2020-05-25,China,84102,79352,4638
 2020-05-25,Colombia,21981,5265,750
 2020-05-25,Comoros,87,21,1
@@ -23534,7 +23534,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-26,Canada,88090,45352,6753
 2020-05-26,Central African Republic,671,22,1
 2020-05-26,Chad,700,303,62
-2020-05-26,Chile,77961,30915,806
+2020-05-26,Chile,92855,30915,806
 2020-05-26,China,84103,79358,4638
 2020-05-26,Colombia,23003,5511,776
 2020-05-26,Comoros,87,21,1
@@ -23722,7 +23722,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-27,Canada,88989,46248,6876
 2020-05-27,Central African Republic,702,23,1
 2020-05-27,Chad,715,359,64
-2020-05-27,Chile,82289,33540,841
+2020-05-27,Chile,97183,33540,841
 2020-05-27,China,84106,79367,4638
 2020-05-27,Colombia,24104,6111,803
 2020-05-27,Comoros,87,24,2
@@ -23910,7 +23910,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-28,Canada,89976,46961,6982
 2020-05-28,Central African Republic,755,23,1
 2020-05-28,Chad,726,413,65
-2020-05-28,Chile,86943,36115,890
+2020-05-28,Chile,101837,36115,890
 2020-05-28,China,84106,79371,4638
 2020-05-28,Colombia,25366,6132,822
 2020-05-28,Comoros,87,24,2
@@ -24098,7 +24098,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-29,Canada,90909,47905,7063
 2020-05-29,Central African Republic,874,23,1
 2020-05-29,Chad,759,444,65
-2020-05-29,Chile,90638,38598,944
+2020-05-29,Chile,105532,38598,944
 2020-05-29,China,84123,79382,4638
 2020-05-29,Colombia,26688,6687,853
 2020-05-29,Comoros,87,24,2
@@ -24286,7 +24286,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-30,Canada,91681,48517,7159
 2020-05-30,Central African Republic,962,23,1
 2020-05-30,Chad,759,470,65
-2020-05-30,Chile,94858,40431,997
+2020-05-30,Chile,118720,40431,997
 2020-05-30,China,84128,79386,4638
 2020-05-30,Colombia,28236,6935,890
 2020-05-30,Comoros,106,26,2
@@ -24474,7 +24474,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-31,Canada,92479,49213,7374
 2020-05-31,Central African Republic,1011,23,2
 2020-05-31,Chad,778,491,65
-2020-05-31,Chile,99688,42727,1054
+2020-05-31,Chile,123550,42727,1054
 2020-05-31,China,84146,79389,4638
 2020-05-31,Colombia,29383,7032,939
 2020-05-31,Comoros,106,26,2
@@ -24662,7 +24662,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-01,Canada,93288,50091,7404
 2020-06-01,Central African Republic,1069,23,4
 2020-06-01,Chad,790,539,66
-2020-06-01,Chile,105158,44946,1113
+2020-06-01,Chile,129020,44946,1113
 2020-06-01,China,84154,79398,4638
 2020-06-01,Colombia,30493,8384,969
 2020-06-01,Comoros,106,26,2
@@ -24850,7 +24850,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-02,Canada,93960,50725,7478
 2020-06-02,Central African Republic,1069,23,4
 2020-06-02,Chad,803,562,66
-2020-06-02,Chile,108686,86173,1188
+2020-06-02,Chile,132548,86173,1188
 2020-06-02,China,84161,79400,4638
 2020-06-02,Colombia,31833,9689,1009
 2020-06-02,Comoros,132,27,2
@@ -25038,7 +25038,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-03,Canada,94641,51506,7579
 2020-06-03,Central African Republic,1173,23,4
 2020-06-03,Chad,820,590,66
-2020-06-03,Chile,113628,90748,1275
+2020-06-03,Chile,137490,90748,1275
 2020-06-03,China,84160,79404,4638
 2020-06-03,Colombia,33354,11171,1045
 2020-06-03,Comoros,132,27,2
@@ -25226,7 +25226,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-04,Canada,95269,52184,7717
 2020-06-04,Central African Republic,1288,23,4
 2020-06-04,Chad,828,633,66
-2020-06-04,Chile,118292,95631,1356
+2020-06-04,Chile,142154,95631,1356
 2020-06-04,China,84171,79415,4638
 2020-06-04,Colombia,35120,12319,1087
 2020-06-04,Comoros,132,55,2
@@ -25414,7 +25414,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-05,Canada,95947,53074,7778
 2020-06-05,Central African Republic,1451,29,4
 2020-06-05,Chad,836,657,68
-2020-06-05,Chile,122499,99358,1448
+2020-06-05,Chile,146361,99358,1448
 2020-06-05,China,84177,79420,4638
 2020-06-05,Colombia,36635,13670,1145
 2020-06-05,Comoros,132,55,2
@@ -25602,7 +25602,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-06,Canada,96475,54087,7850
 2020-06-06,Central African Republic,1570,37,5
 2020-06-06,Chad,836,672,69
-2020-06-06,Chile,127745,103817,1541
+2020-06-06,Chile,160351,103817,1541
 2020-06-06,China,84186,79424,4638
 2020-06-06,Colombia,38027,13670,1205
 2020-06-06,Comoros,141,67,2
@@ -25790,7 +25790,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-07,Canada,97178,54675,7877
 2020-06-07,Central African Republic,1634,38,5
 2020-06-07,Chad,837,672,69
-2020-06-07,Chile,134150,108150,1637
+2020-06-07,Chile,166756,108150,1637
 2020-06-07,China,84191,79434,4638
 2020-06-07,Colombia,39236,14414,1259
 2020-06-07,Comoros,141,67,2
@@ -25978,7 +25978,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-08,Canada,97779,55343,7910
 2020-06-08,Central African Republic,1850,38,5
 2020-06-08,Chad,839,685,70
-2020-06-08,Chile,138846,112248,2264
+2020-06-08,Chile,171452,112248,2264
 2020-06-08,China,84195,79444,4638
 2020-06-08,Colombia,40719,16459,1308
 2020-06-08,Comoros,141,67,2
@@ -26166,7 +26166,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-09,Canada,98241,56117,7970
 2020-06-09,Central African Republic,1850,38,5
 2020-06-09,Chad,844,706,71
-2020-06-09,Chile,142759,117361,2283
+2020-06-09,Chile,175365,117361,2283
 2020-06-09,China,84198,79451,4638
 2020-06-09,Colombia,42078,16459,1372
 2020-06-09,Comoros,141,67,2
@@ -26354,7 +26354,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-10,Canada,98720,57215,8038
 2020-06-10,Central African Republic,1888,38,5
 2020-06-10,Chad,846,706,72
-2020-06-10,Chile,148456,121780,2475
+2020-06-10,Chile,181062,121780,2475
 2020-06-10,China,84209,79456,4638
 2020-06-10,Colombia,43682,16566,1433
 2020-06-10,Comoros,162,97,2
@@ -26542,7 +26542,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-11,Canada,99159,58131,8071
 2020-06-11,Central African Republic,1952,38,5
 2020-06-11,Chad,848,706,72
-2020-06-11,Chile,154092,126444,2648
+2020-06-11,Chile,186698,126444,2648
 2020-06-11,China,84216,79464,4638
 2020-06-11,Colombia,45212,17366,1488
 2020-06-11,Comoros,162,97,2
@@ -26730,7 +26730,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-12,Canada,99595,59034,8125
 2020-06-12,Central African Republic,2044,360,7
 2020-06-12,Chad,848,711,72
-2020-06-12,Chile,160846,131358,2870
+2020-06-12,Chile,193452,131358,2870
 2020-06-12,China,84228,79472,4638
 2020-06-12,Colombia,46858,17823,1545
 2020-06-12,Comoros,163,97,2
@@ -26918,7 +26918,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-13,Canada,100043,59851,8183
 2020-06-13,Central African Republic,2057,363,7
 2020-06-13,Chad,848,718,72
-2020-06-13,Chile,167355,137296,3101
+2020-06-13,Chile,201634,137296,3101
 2020-06-13,China,84286,79475,4638
 2020-06-13,Colombia,48746,18749,1592
 2020-06-13,Comoros,176,114,2
@@ -27106,7 +27106,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-14,Canada,100404,60668,8218
 2020-06-14,Central African Republic,2057,363,7
 2020-06-14,Chad,850,720,73
-2020-06-14,Chile,174293,143704,3323
+2020-06-14,Chile,208572,143704,3323
 2020-06-14,China,84335,79482,4638
 2020-06-14,Colombia,50939,19460,1667
 2020-06-14,Comoros,176,114,2
@@ -27294,7 +27294,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-15,Canada,100763,61466,8228
 2020-06-15,Central African Republic,2222,369,7
 2020-06-15,Chad,850,720,73
-2020-06-15,Chile,179436,148792,3362
+2020-06-15,Chile,213715,148792,3362
 2020-06-15,China,84378,79489,4638
 2020-06-15,Colombia,53063,19985,1726
 2020-06-15,Comoros,176,114,2
@@ -27482,7 +27482,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-16,Canada,101087,61899,8271
 2020-06-16,Central African Republic,2410,396,14
 2020-06-16,Chad,853,720,74
-2020-06-16,Chile,184449,156232,3383
+2020-06-16,Chile,218728,156232,3383
 2020-06-16,China,84422,79493,4638
 2020-06-16,Colombia,54931,19986,1801
 2020-06-16,Comoros,197,127,3
