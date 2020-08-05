@@ -1,7 +1,7 @@
 {
-  "bytes": 153765244,
+  "bytes": 152906087,
   "count_of_rows": 1395868,
-  "hash": "8af96bf6e6708747ab54a47b04a46e69",
+  "hash": "23c02786b334d0c125ba32e2cb33b047",
   "name": "covid-19",
   "profile": "data-package",
   "resources": [
@@ -362,7 +362,7 @@
       }
     },
     {
-      "bytes": 76187989,
+      "bytes": 75328832,
       "dialect": {
         "caseSensitiveHeader": false,
         "delimiter": ",",
@@ -374,7 +374,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "a0a348ca81a4b3ff836011099a4d3723",
+      "hash": "b4feaab9a5c9f765f19ee3ed6e07d266",
       "name": "us_deaths",
       "path": "data/us_deaths.csv",
       "profile": "tabular-data-resource",
@@ -401,11 +401,9 @@
             "type": "integer"
           },
           {
-            "decimalChar": ".",
             "format": "default",
-            "groupChar": "",
             "name": "FIPS",
-            "type": "number"
+            "type": "integer"
           },
           {
             "format": "default",
