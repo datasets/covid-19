@@ -1,7 +1,7 @@
 {
-  "bytes": 162150304,
-  "count_of_rows": 1467238,
-  "hash": "93f3a061b640c8773b0bc8c266623f33",
+  "bytes": 146439995,
+  "count_of_rows": 1326198,
+  "hash": "801fe256c362326921d2f61a75da8453",
   "name": "covid-19",
   "profile": "data-package",
   "resources": [
@@ -263,7 +263,7 @@
       }
     },
     {
-      "bytes": 77001156,
+      "bytes": 61290847,
       "dialect": {
         "caseSensitiveHeader": false,
         "delimiter": ",",
@@ -275,7 +275,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "5283fd3d2228d82b8c18e34a9b1daec3",
+      "hash": "2b2bb4053ab200b3016e118beb2a4552",
       "name": "us_confirmed",
       "path": "data/us_confirmed.csv",
       "profile": "tabular-data-resource",
