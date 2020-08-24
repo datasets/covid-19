@@ -114,12 +114,11 @@ def fix_canada_recovered_data(rows):
             row['Long'] = row.get('Long', '-106.3468')
         yield {**expected, **row}
 
+# Flow to process worldwide data
 Flow(
       load(f'{BASE_URL}{CONFIRMED}'),
       load(f'{BASE_URL}{RECOVERED}'),
       load(f'{BASE_URL}{DEATH}'),
-      load(f'{BASE_URL}{CONFIRMED_US}'),
-      load(f'{BASE_URL}{DEATH_US}'),
       checkpoint('load_data'),
       unpivot(unpivoting_fields, extra_keys, extra_value),
       find_replace([{'name': 'Date', 'patterns': [{'find': '/', 'replace': '-'}]}]),
@@ -160,8 +159,6 @@ Flow(
       ),
       delete_fields(['Case'], resources=['time_series_covid19_deaths_global']),
       update_resource('time_series_covid19_deaths_global', name='time-series-19-covid-combined', path='data/time-series-19-covid-combined.csv'),
-      update_resource('time_series_covid19_confirmed_US', name='us_confirmed', path='data/us_confirmed.csv'),
-      update_resource('time_series_covid19_deaths_US', name='us_deaths', path='data/us_deaths.csv'),
       update_schema('time-series-19-covid-combined', missingValues=['None', ''], fields=[
         {
         "format": "%Y-%m-%d",
@@ -214,27 +211,6 @@ Flow(
           "type": "integer"
         }
       ]),
-      update_schema('us_confirmed', missingValues=['None', '']),
-      update_schema('us_deaths', missingValues=['None', '']),
-      add_computed_field(
-        target={'name': 'Long', 'type': 'number'},
-        operation='format',
-        with_='{Long_}',
-        resources=['us_confirmed', 'us_deaths']
-      ),
-      add_computed_field(
-        target={'name': 'Country/Region', 'type': 'string'},
-        operation='format',
-        with_='{Country_Region}',
-        resources=['us_confirmed', 'us_deaths']
-      ),
-      add_computed_field(
-        target={'name': 'Province/State', 'type': 'string'},
-        operation='format',
-        with_='{Province_State}',
-        resources=['us_confirmed', 'us_deaths']
-      ),
-      delete_fields(['Long_','Country_Region','Province_State'], resources=['us_confirmed','us_deaths']),
       checkpoint('processed_data'),
       printer(),
       # Sort rows by date and country
@@ -371,8 +347,6 @@ Flow(
       ),
       pivot_key_countries,
       delete_fields(['Country', 'Confirmed', 'Recovered', 'Deaths'], resources='key-countries-pivoted'),
-      load(f'{REFERENCE}', name='reference'),
-      update_resource('reference', path='data/reference.csv'),
       # Prepare data package (name, title) and add views
       update_package(
         name='covid-19',
@@ -436,3 +410,51 @@ Flow(
       printer(),
       dump_to_path()
 ).results()[0]
+
+
+"""
+# Flow to process US data
+Flow(
+    load(f'{BASE_URL}{CONFIRMED_US}'),
+    load(f'{BASE_URL}{DEATH_US}'),
+    unpivot(unpivoting_fields, extra_keys, extra_value),
+    find_replace([{'name': 'Date', 'patterns': [{'find': '/', 'replace': '-'}]}]),
+    to_normal_date,
+    set_type('Date', type='date', format='%d-%m-%y', resources=None),
+    set_type('Case', type='number', resources=None),
+    update_resource('time_series_covid19_confirmed_US', name='us_confirmed', path='data/us_confirmed.csv'),
+    update_resource('time_series_covid19_deaths_US', name='us_deaths', path='data/us_deaths.csv'),
+          update_schema('us_confirmed', missingValues=['None', '']),
+      update_schema('us_deaths', missingValues=['None', '']),
+      add_computed_field(
+        target={'name': 'Long', 'type': 'number'},
+        operation='format',
+        with_='{Long_}',
+        resources=['us_confirmed', 'us_deaths']
+      ),
+      add_computed_field(
+        target={'name': 'Country/Region', 'type': 'string'},
+        operation='format',
+        with_='{Country_Region}',
+        resources=['us_confirmed', 'us_deaths']
+      ),
+      add_computed_field(
+        target={'name': 'Province/State', 'type': 'string'},
+        operation='format',
+        with_='{Province_State}',
+        resources=['us_confirmed', 'us_deaths']
+      ),
+      delete_fields(['Long_','Country_Region','Province_State'], resources=['us_confirmed','us_deaths']),
+      printer(),
+      dump_to_path()
+).results()[0]
+"""
+
+"""
+# Flow to update reference
+Flow(
+      load(f'{REFERENCE}', name='reference'),
+      update_resource('reference', path='data/reference.csv'),
+      dump_to_path()
+).results()[0]
+"""
