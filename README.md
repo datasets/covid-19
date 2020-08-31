@@ -1,1 +1,1 @@
-"#COVID Simplified Data" 
+# COVID Simplified Data
