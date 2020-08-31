@@ -1853,7 +1853,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-01-31,Sri Lanka,1,0,0
 2020-01-31,Sudan,0,0,0
 2020-01-31,Suriname,0,0,0
-2020-01-31,Sweden,1,0,0
+2020-01-31,Sweden,0,0,0
 2020-01-31,Switzerland,0,0,0
 2020-01-31,Syria,0,0,0
 2020-01-31,Taiwan*,10,0,0
@@ -6929,7 +6929,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-27,Sri Lanka,1,1,0
 2020-02-27,Sudan,0,0,0
 2020-02-27,Suriname,0,0,0
-2020-02-27,Sweden,7,0,0
+2020-02-27,Sweden,3,0,0
 2020-02-27,Switzerland,8,0,0
 2020-02-27,Syria,0,0,0
 2020-02-27,Taiwan*,32,5,1
@@ -7117,7 +7117,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-28,Sri Lanka,1,1,0
 2020-02-28,Sudan,0,0,0
 2020-02-28,Suriname,0,0,0
-2020-02-28,Sweden,7,0,0
+2020-02-28,Sweden,11,0,0
 2020-02-28,Switzerland,8,0,0
 2020-02-28,Syria,0,0,0
 2020-02-28,Taiwan*,34,6,1
@@ -7305,7 +7305,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-02-29,Sri Lanka,1,1,0
 2020-02-29,Sudan,0,0,0
 2020-02-29,Suriname,0,0,0
-2020-02-29,Sweden,12,0,0
+2020-02-29,Sweden,14,0,0
 2020-02-29,Switzerland,18,0,0
 2020-02-29,Syria,0,0,0
 2020-02-29,Taiwan*,39,9,1
@@ -7681,7 +7681,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-02,Sri Lanka,1,1,0
 2020-03-02,Sudan,0,0,0
 2020-03-02,Suriname,0,0,0
-2020-03-02,Sweden,15,0,0
+2020-03-02,Sweden,19,0,0
 2020-03-02,Switzerland,42,0,0
 2020-03-02,Syria,0,0,0
 2020-03-02,Taiwan*,41,12,1
@@ -7869,7 +7869,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-03,Sri Lanka,1,1,0
 2020-03-03,Sudan,0,0,0
 2020-03-03,Suriname,0,0,0
-2020-03-03,Sweden,21,0,0
+2020-03-03,Sweden,32,0,0
 2020-03-03,Switzerland,56,2,0
 2020-03-03,Syria,0,0,0
 2020-03-03,Taiwan*,42,12,1
@@ -8057,7 +8057,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-04,Sri Lanka,1,1,0
 2020-03-04,Sudan,0,0,0
 2020-03-04,Suriname,0,0,0
-2020-03-04,Sweden,35,0,0
+2020-03-04,Sweden,62,0,0
 2020-03-04,Switzerland,90,3,0
 2020-03-04,Syria,0,0,0
 2020-03-04,Taiwan*,42,12,1
@@ -8245,7 +8245,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-05,Sri Lanka,1,1,0
 2020-03-05,Sudan,0,0,0
 2020-03-05,Suriname,0,0,0
-2020-03-05,Sweden,94,0,0
+2020-03-05,Sweden,87,0,0
 2020-03-05,Switzerland,114,3,1
 2020-03-05,Syria,0,0,0
 2020-03-05,Taiwan*,44,12,1
@@ -8433,7 +8433,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-06,Sri Lanka,1,1,0
 2020-03-06,Sudan,0,0,0
 2020-03-06,Suriname,0,0,0
-2020-03-06,Sweden,101,0,0
+2020-03-06,Sweden,146,0,0
 2020-03-06,Switzerland,214,3,1
 2020-03-06,Syria,0,0,0
 2020-03-06,Taiwan*,45,12,1
@@ -8621,7 +8621,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-07,Sri Lanka,1,1,0
 2020-03-07,Sudan,0,0,0
 2020-03-07,Suriname,0,0,0
-2020-03-07,Sweden,161,0,0
+2020-03-07,Sweden,179,0,0
 2020-03-07,Switzerland,268,3,1
 2020-03-07,Syria,0,0,0
 2020-03-07,Taiwan*,45,12,1
@@ -8809,7 +8809,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-08,Sri Lanka,1,1,0
 2020-03-08,Sudan,0,0,0
 2020-03-08,Suriname,0,0,0
-2020-03-08,Sweden,203,0,0
+2020-03-08,Sweden,225,0,0
 2020-03-08,Switzerland,337,3,2
 2020-03-08,Syria,0,0,0
 2020-03-08,Taiwan*,45,13,1
@@ -8997,7 +8997,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-09,Sri Lanka,1,1,0
 2020-03-09,Sudan,0,0,0
 2020-03-09,Suriname,0,0,0
-2020-03-09,Sweden,248,0,0
+2020-03-09,Sweden,326,0,0
 2020-03-09,Switzerland,374,3,2
 2020-03-09,Syria,0,0,0
 2020-03-09,Taiwan*,45,15,1
@@ -9185,7 +9185,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-10,Sri Lanka,1,1,0
 2020-03-10,Sudan,0,0,0
 2020-03-10,Suriname,0,0,0
-2020-03-10,Sweden,355,0,0
+2020-03-10,Sweden,424,0,1
 2020-03-10,Switzerland,491,3,3
 2020-03-10,Syria,0,0,0
 2020-03-10,Taiwan*,47,17,1
@@ -9373,7 +9373,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-11,Sri Lanka,2,1,0
 2020-03-11,Sudan,0,0,0
 2020-03-11,Suriname,0,0,0
-2020-03-11,Sweden,500,0,1
+2020-03-11,Sweden,620,0,1
 2020-03-11,Switzerland,652,4,4
 2020-03-11,Syria,0,0,0
 2020-03-11,Taiwan*,48,17,1
@@ -9561,7 +9561,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-12,Sri Lanka,2,1,0
 2020-03-12,Sudan,0,0,0
 2020-03-12,Suriname,0,0,0
-2020-03-12,Sweden,599,0,1
+2020-03-12,Sweden,771,0,2
 2020-03-12,Switzerland,652,4,4
 2020-03-12,Syria,0,0,0
 2020-03-12,Taiwan*,49,20,1
@@ -9749,7 +9749,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-13,Sri Lanka,6,1,0
 2020-03-13,Sudan,1,0,1
 2020-03-13,Suriname,0,0,0
-2020-03-13,Sweden,814,0,1
+2020-03-13,Sweden,923,0,3
 2020-03-13,Switzerland,1139,4,11
 2020-03-13,Syria,0,0,0
 2020-03-13,Taiwan*,50,20,1
@@ -9937,7 +9937,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-14,Sri Lanka,10,1,0
 2020-03-14,Sudan,1,0,1
 2020-03-14,Suriname,1,0,0
-2020-03-14,Sweden,961,0,2
+2020-03-14,Sweden,994,0,5
 2020-03-14,Switzerland,1359,4,13
 2020-03-14,Syria,0,0,0
 2020-03-14,Taiwan*,53,20,1
@@ -10125,7 +10125,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-15,Sri Lanka,18,1,0
 2020-03-15,Sudan,1,0,1
 2020-03-15,Suriname,1,0,0
-2020-03-15,Sweden,1022,0,3
+2020-03-15,Sweden,1063,0,7
 2020-03-15,Switzerland,2200,4,14
 2020-03-15,Syria,0,0,0
 2020-03-15,Taiwan*,59,20,1
@@ -10313,7 +10313,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-16,Sri Lanka,28,1,0
 2020-03-16,Sudan,1,0,1
 2020-03-16,Suriname,1,0,0
-2020-03-16,Sweden,1103,0,6
+2020-03-16,Sweden,1146,0,8
 2020-03-16,Switzerland,2200,4,14
 2020-03-16,Syria,0,0,0
 2020-03-16,Taiwan*,67,20,1
@@ -10501,7 +10501,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-17,Sri Lanka,44,1,0
 2020-03-17,Sudan,1,0,1
 2020-03-17,Suriname,1,0,0
-2020-03-17,Sweden,1190,0,7
+2020-03-17,Sweden,1265,0,14
 2020-03-17,Switzerland,2700,4,27
 2020-03-17,Syria,0,0,0
 2020-03-17,Taiwan*,77,22,1
@@ -10689,7 +10689,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-18,Sri Lanka,51,1,0
 2020-03-18,Sudan,2,0,1
 2020-03-18,Suriname,1,0,0
-2020-03-18,Sweden,1279,0,10
+2020-03-18,Sweden,1410,0,21
 2020-03-18,Switzerland,3028,15,28
 2020-03-18,Syria,0,0,0
 2020-03-18,Taiwan*,100,22,1
@@ -10877,7 +10877,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-19,Sri Lanka,60,3,0
 2020-03-19,Sudan,2,0,1
 2020-03-19,Suriname,1,0,0
-2020-03-19,Sweden,1439,0,11
+2020-03-19,Sweden,1553,0,30
 2020-03-19,Switzerland,4075,15,41
 2020-03-19,Syria,0,0,0
 2020-03-19,Taiwan*,108,26,1
@@ -11065,7 +11065,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-20,Sri Lanka,73,3,0
 2020-03-20,Sudan,2,0,1
 2020-03-20,Suriname,4,0,0
-2020-03-20,Sweden,1639,0,16
+2020-03-20,Sweden,1733,0,38
 2020-03-20,Switzerland,5294,15,54
 2020-03-20,Syria,0,0,0
 2020-03-20,Taiwan*,135,26,2
@@ -11253,7 +11253,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-21,Sri Lanka,77,1,0
 2020-03-21,Sudan,2,0,1
 2020-03-21,Suriname,4,0,0
-2020-03-21,Sweden,1763,0,20
+2020-03-21,Sweden,1868,0,49
 2020-03-21,Switzerland,6575,15,75
 2020-03-21,Syria,0,0,0
 2020-03-21,Taiwan*,153,28,2
@@ -11441,7 +11441,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-22,Sri Lanka,82,3,0
 2020-03-22,Sudan,2,0,1
 2020-03-22,Suriname,5,0,0
-2020-03-22,Sweden,1934,0,21
+2020-03-22,Sweden,1986,0,60
 2020-03-22,Switzerland,7474,131,98
 2020-03-22,Syria,1,0,0
 2020-03-22,Taiwan*,169,28,2
@@ -11629,7 +11629,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-23,Sri Lanka,97,3,0
 2020-03-23,Sudan,2,0,1
 2020-03-23,Suriname,5,0,0
-2020-03-23,Sweden,2046,0,25
+2020-03-23,Sweden,2168,0,81
 2020-03-23,Switzerland,8795,131,120
 2020-03-23,Syria,1,0,0
 2020-03-23,Taiwan*,195,28,2
@@ -11817,7 +11817,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-24,Sri Lanka,102,2,0
 2020-03-24,Sudan,3,0,1
 2020-03-24,Suriname,7,0,0
-2020-03-24,Sweden,2286,0,36
+2020-03-24,Sweden,2398,0,103
 2020-03-24,Switzerland,9877,131,122
 2020-03-24,Syria,1,0,0
 2020-03-24,Taiwan*,215,29,2
@@ -12005,7 +12005,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-25,Sri Lanka,102,3,0
 2020-03-25,Sudan,3,0,1
 2020-03-25,Suriname,8,0,0
-2020-03-25,Sweden,2526,0,62
+2020-03-25,Sweden,2712,0,134
 2020-03-25,Switzerland,10897,131,153
 2020-03-25,Syria,5,0,0
 2020-03-25,Taiwan*,235,29,2
@@ -12193,7 +12193,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-26,Sri Lanka,106,7,0
 2020-03-26,Sudan,3,0,1
 2020-03-26,Suriname,8,0,0
-2020-03-26,Sweden,2840,0,77
+2020-03-26,Sweden,2998,0,166
 2020-03-26,Switzerland,11811,131,191
 2020-03-26,Syria,5,0,0
 2020-03-26,Taiwan*,252,29,2
@@ -12381,7 +12381,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-27,Sri Lanka,106,7,0
 2020-03-27,Sudan,3,0,1
 2020-03-27,Suriname,8,0,0
-2020-03-27,Sweden,3069,0,105
+2020-03-27,Sweden,3363,0,201
 2020-03-27,Switzerland,12928,1530,231
 2020-03-27,Syria,5,0,0
 2020-03-27,Taiwan*,267,29,2
@@ -12569,7 +12569,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-28,Sri Lanka,113,9,1
 2020-03-28,Sudan,5,0,1
 2020-03-28,Suriname,8,0,0
-2020-03-28,Sweden,3447,0,105
+2020-03-28,Sweden,3663,0,239
 2020-03-28,Switzerland,14076,1530,264
 2020-03-28,Syria,5,0,0
 2020-03-28,Taiwan*,283,30,2
@@ -12757,7 +12757,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-29,Sri Lanka,117,11,1
 2020-03-29,Sudan,6,0,1
 2020-03-29,Suriname,8,0,0
-2020-03-29,Sweden,3700,0,110
+2020-03-29,Sweden,3943,0,284
 2020-03-29,Switzerland,14829,1595,300
 2020-03-29,Syria,9,0,1
 2020-03-29,Taiwan*,298,30,2
@@ -12945,7 +12945,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-30,Sri Lanka,122,15,2
 2020-03-30,Sudan,6,0,2
 2020-03-30,Suriname,8,0,0
-2020-03-30,Sweden,4028,0,146
+2020-03-30,Sweden,4359,0,332
 2020-03-30,Switzerland,15922,1823,359
 2020-03-30,Syria,10,0,2
 2020-03-30,Taiwan*,306,39,5
@@ -13133,7 +13133,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-03-31,Sri Lanka,143,17,2
 2020-03-31,Sudan,7,1,2
 2020-03-31,Suriname,9,0,0
-2020-03-31,Sweden,4435,0,180
+2020-03-31,Sweden,4834,0,385
 2020-03-31,Switzerland,16605,1823,433
 2020-03-31,Syria,10,0,2
 2020-03-31,Taiwan*,322,39,5
@@ -13321,7 +13321,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-01,Sri Lanka,146,21,3
 2020-04-01,Sudan,7,2,2
 2020-04-01,Suriname,10,0,0
-2020-04-01,Sweden,4947,0,239
+2020-04-01,Sweden,5320,0,455
 2020-04-01,Switzerland,17768,2967,488
 2020-04-01,Syria,10,0,2
 2020-04-01,Taiwan*,329,39,5
@@ -13509,7 +13509,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-02,Sri Lanka,151,21,4
 2020-04-02,Sudan,8,2,2
 2020-04-02,Suriname,10,0,0
-2020-04-02,Sweden,5568,0,308
+2020-04-02,Sweden,5874,0,535
 2020-04-02,Switzerland,18827,4013,536
 2020-04-02,Syria,16,0,2
 2020-04-02,Taiwan*,339,45,5
@@ -13697,7 +13697,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-03,Sri Lanka,159,24,4
 2020-04-03,Sudan,10,2,2
 2020-04-03,Suriname,10,0,1
-2020-04-03,Sweden,6131,0,358
+2020-04-03,Sweden,6475,0,605
 2020-04-03,Switzerland,19606,4846,591
 2020-04-03,Syria,16,0,2
 2020-04-03,Taiwan*,348,50,5
@@ -13885,7 +13885,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-04,Sri Lanka,166,27,5
 2020-04-04,Sudan,10,2,2
 2020-04-04,Suriname,10,0,1
-2020-04-04,Sweden,6443,0,373
+2020-04-04,Sweden,6832,0,690
 2020-04-04,Switzerland,20505,6415,666
 2020-04-04,Syria,16,2,2
 2020-04-04,Taiwan*,355,50,5
@@ -14073,7 +14073,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-05,Sri Lanka,176,33,5
 2020-04-05,Sudan,12,2,2
 2020-04-05,Suriname,10,0,1
-2020-04-05,Sweden,6830,0,401
+2020-04-05,Sweden,7172,0,780
 2020-04-05,Switzerland,21100,6415,715
 2020-04-05,Syria,19,2,2
 2020-04-05,Taiwan*,363,50,5
@@ -14261,7 +14261,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-06,Sri Lanka,178,38,5
 2020-04-06,Sudan,12,2,2
 2020-04-06,Suriname,10,0,1
-2020-04-06,Sweden,7206,0,477
+2020-04-06,Sweden,7561,0,864
 2020-04-06,Switzerland,21657,8056,765
 2020-04-06,Syria,19,2,2
 2020-04-06,Taiwan*,373,57,5
@@ -14449,7 +14449,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-07,Sri Lanka,185,42,6
 2020-04-07,Sudan,14,2,2
 2020-04-07,Suriname,10,0,1
-2020-04-07,Sweden,7693,0,591
+2020-04-07,Sweden,8299,0,979
 2020-04-07,Switzerland,22253,8704,821
 2020-04-07,Syria,19,3,2
 2020-04-07,Taiwan*,376,57,5
@@ -14637,7 +14637,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-08,Sri Lanka,189,44,7
 2020-04-08,Sudan,14,2,2
 2020-04-08,Suriname,10,3,1
-2020-04-08,Sweden,8419,0,687
+2020-04-08,Sweden,8954,0,1065
 2020-04-08,Switzerland,23280,9800,895
 2020-04-08,Syria,19,4,2
 2020-04-08,Taiwan*,379,61,5
@@ -14825,7 +14825,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-09,Sri Lanka,190,49,7
 2020-04-09,Sudan,15,2,2
 2020-04-09,Suriname,10,4,1
-2020-04-09,Sweden,9141,0,793
+2020-04-09,Sweden,9599,0,1155
 2020-04-09,Switzerland,24051,10600,948
 2020-04-09,Syria,19,4,2
 2020-04-09,Taiwan*,380,67,5
@@ -15013,7 +15013,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-10,Sri Lanka,190,54,7
 2020-04-10,Sudan,17,2,2
 2020-04-10,Suriname,10,4,1
-2020-04-10,Sweden,9685,0,870
+2020-04-10,Sweden,10053,0,1258
 2020-04-10,Switzerland,24551,11100,1002
 2020-04-10,Syria,19,4,2
 2020-04-10,Taiwan*,382,91,6
@@ -15201,7 +15201,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-11,Sri Lanka,198,54,7
 2020-04-11,Sudan,19,2,2
 2020-04-11,Suriname,10,4,1
-2020-04-11,Sweden,10151,0,887
+2020-04-11,Sweden,10448,0,1355
 2020-04-11,Switzerland,25107,12100,1036
 2020-04-11,Syria,25,5,2
 2020-04-11,Taiwan*,385,99,6
@@ -15389,7 +15389,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-12,Sri Lanka,210,56,7
 2020-04-12,Sudan,19,2,2
 2020-04-12,Suriname,10,4,1
-2020-04-12,Sweden,10483,0,899
+2020-04-12,Sweden,10912,0,1440
 2020-04-12,Switzerland,25415,12700,1106
 2020-04-12,Syria,25,5,2
 2020-04-12,Taiwan*,388,109,6
@@ -15577,7 +15577,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-13,Sri Lanka,217,56,7
 2020-04-13,Sudan,29,4,4
 2020-04-13,Suriname,10,6,1
-2020-04-13,Sweden,10948,0,919
+2020-04-13,Sweden,11349,0,1531
 2020-04-13,Switzerland,25688,13700,1138
 2020-04-13,Syria,25,5,2
 2020-04-13,Taiwan*,393,109,6
@@ -15765,7 +15765,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-14,Sri Lanka,233,61,7
 2020-04-14,Sudan,32,4,5
 2020-04-14,Suriname,10,6,1
-2020-04-14,Sweden,11445,0,1033
+2020-04-14,Sweden,11828,0,1646
 2020-04-14,Switzerland,25936,13700,1174
 2020-04-14,Syria,29,5,2
 2020-04-14,Taiwan*,393,124,6
@@ -15953,7 +15953,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-15,Sri Lanka,238,63,7
 2020-04-15,Sudan,32,4,5
 2020-04-15,Suriname,10,6,1
-2020-04-15,Sweden,11927,0,1203
+2020-04-15,Sweden,12432,0,1757
 2020-04-15,Switzerland,26336,15400,1239
 2020-04-15,Syria,33,5,2
 2020-04-15,Taiwan*,395,124,6
@@ -16141,7 +16141,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-16,Sri Lanka,238,68,7
 2020-04-16,Sudan,32,4,5
 2020-04-16,Suriname,10,6,1
-2020-04-16,Sweden,12540,0,1333
+2020-04-16,Sweden,13055,0,1839
 2020-04-16,Switzerland,26732,15900,1281
 2020-04-16,Syria,33,5,2
 2020-04-16,Taiwan*,395,155,6
@@ -16329,7 +16329,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-17,Sri Lanka,244,77,7
 2020-04-17,Sudan,33,4,6
 2020-04-17,Suriname,10,6,1
-2020-04-17,Sweden,13216,0,1400
+2020-04-17,Sweden,13743,0,1925
 2020-04-17,Switzerland,27078,16400,1327
 2020-04-17,Syria,38,5,2
 2020-04-17,Taiwan*,395,166,6
@@ -16517,7 +16517,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-18,Sri Lanka,254,86,7
 2020-04-18,Sudan,66,6,10
 2020-04-18,Suriname,10,6,1
-2020-04-18,Sweden,13822,0,1511
+2020-04-18,Sweden,14275,0,2013
 2020-04-18,Switzerland,27404,17100,1368
 2020-04-18,Syria,38,5,2
 2020-04-18,Taiwan*,398,178,6
@@ -16705,7 +16705,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-19,Sri Lanka,271,96,7
 2020-04-19,Sudan,66,6,10
 2020-04-19,Suriname,10,6,1
-2020-04-19,Sweden,14385,0,1540
+2020-04-19,Sweden,14663,0,2097
 2020-04-19,Switzerland,27740,17800,1393
 2020-04-19,Syria,39,5,3
 2020-04-19,Taiwan*,420,189,6
@@ -16893,7 +16893,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-20,Sri Lanka,304,98,7
 2020-04-20,Sudan,107,8,12
 2020-04-20,Suriname,10,6,1
-2020-04-20,Sweden,14777,0,1580
+2020-04-20,Sweden,15124,0,2159
 2020-04-20,Switzerland,27944,18600,1429
 2020-04-20,Syria,39,5,3
 2020-04-20,Taiwan*,422,203,6
@@ -17081,7 +17081,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-21,Sri Lanka,310,102,7
 2020-04-21,Sudan,107,8,12
 2020-04-21,Suriname,10,6,1
-2020-04-21,Sweden,15322,0,1765
+2020-04-21,Sweden,15831,0,2236
 2020-04-21,Switzerland,28063,19400,1478
 2020-04-21,Syria,42,6,3
 2020-04-21,Taiwan*,425,217,6
@@ -17269,7 +17269,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-22,Sri Lanka,330,105,7
 2020-04-22,Sudan,140,12,13
 2020-04-22,Suriname,10,6,1
-2020-04-22,Sweden,16004,0,1937
+2020-04-22,Sweden,16553,0,2322
 2020-04-22,Switzerland,28268,19900,1509
 2020-04-22,Syria,42,6,3
 2020-04-22,Taiwan*,426,236,6
@@ -17457,7 +17457,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-23,Sri Lanka,368,107,7
 2020-04-23,Sudan,174,14,16
 2020-04-23,Suriname,10,6,1
-2020-04-23,Sweden,16755,0,2021
+2020-04-23,Sweden,17311,0,2411
 2020-04-23,Switzerland,28496,20600,1549
 2020-04-23,Syria,42,6,3
 2020-04-23,Taiwan*,427,253,6
@@ -17645,7 +17645,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-24,Sri Lanka,420,109,7
 2020-04-24,Sudan,174,14,16
 2020-04-24,Suriname,10,7,1
-2020-04-24,Sweden,17567,0,2152
+2020-04-24,Sweden,18090,0,2484
 2020-04-24,Switzerland,28677,21000,1589
 2020-04-24,Syria,42,6,3
 2020-04-24,Taiwan*,428,264,6
@@ -17833,7 +17833,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-25,Sri Lanka,460,118,7
 2020-04-25,Sudan,213,19,17
 2020-04-25,Suriname,10,7,1
-2020-04-25,Sweden,18177,0,2192
+2020-04-25,Sweden,18563,0,2559
 2020-04-25,Switzerland,28894,21300,1599
 2020-04-25,Syria,42,11,3
 2020-04-25,Taiwan*,429,275,6
@@ -18021,7 +18021,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-26,Sri Lanka,523,120,7
 2020-04-26,Sudan,237,20,21
 2020-04-26,Suriname,10,7,1
-2020-04-26,Sweden,18640,0,2194
+2020-04-26,Sweden,18863,0,2632
 2020-04-26,Switzerland,29061,21800,1610
 2020-04-26,Syria,43,14,3
 2020-04-26,Taiwan*,429,281,6
@@ -18209,7 +18209,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-27,Sri Lanka,588,126,7
 2020-04-27,Sudan,275,21,22
 2020-04-27,Suriname,10,7,1
-2020-04-27,Sweden,18926,0,2274
+2020-04-27,Sweden,19426,0,2714
 2020-04-27,Switzerland,29164,22200,1665
 2020-04-27,Syria,43,19,3
 2020-04-27,Taiwan*,429,290,6
@@ -18397,7 +18397,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-28,Sri Lanka,619,134,7
 2020-04-28,Sudan,318,31,25
 2020-04-28,Suriname,10,7,1
-2020-04-28,Sweden,19621,0,2355
+2020-04-28,Sweden,20168,0,2798
 2020-04-28,Switzerland,29264,22600,1699
 2020-04-28,Syria,43,21,3
 2020-04-28,Taiwan*,429,307,6
@@ -18585,7 +18585,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-29,Sri Lanka,649,136,7
 2020-04-29,Sudan,375,32,28
 2020-04-29,Suriname,10,8,1
-2020-04-29,Sweden,20302,0,2462
+2020-04-29,Sweden,20966,0,2876
 2020-04-29,Switzerland,29407,22600,1716
 2020-04-29,Syria,43,21,3
 2020-04-29,Taiwan*,429,311,6
@@ -18773,7 +18773,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-04-30,Sri Lanka,663,154,7
 2020-04-30,Sudan,442,39,31
 2020-04-30,Suriname,10,8,1
-2020-04-30,Sweden,21092,0,2586
+2020-04-30,Sweden,21601,0,2954
 2020-04-30,Switzerland,29586,23400,1737
 2020-04-30,Syria,43,21,3
 2020-04-30,Taiwan*,429,322,6
@@ -18961,7 +18961,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-01,Sri Lanka,690,162,7
 2020-05-01,Sudan,533,46,36
 2020-05-01,Suriname,10,8,1
-2020-05-01,Sweden,21520,0,2653
+2020-05-01,Sweden,22133,0,3027
 2020-05-01,Switzerland,29705,23900,1754
 2020-05-01,Syria,44,27,3
 2020-05-01,Taiwan*,429,324,6
@@ -19149,7 +19149,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-02,Sri Lanka,705,172,7
 2020-05-02,Sudan,592,52,41
 2020-05-02,Suriname,10,8,1
-2020-05-02,Sweden,22082,0,2669
+2020-05-02,Sweden,22432,0,3102
 2020-05-02,Switzerland,29817,24200,1762
 2020-05-02,Syria,44,27,3
 2020-05-02,Taiwan*,432,324,6
@@ -19337,7 +19337,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-03,Sri Lanka,718,184,7
 2020-05-03,Sudan,592,52,41
 2020-05-03,Suriname,10,9,1
-2020-05-03,Sweden,22317,0,2679
+2020-05-03,Sweden,22693,0,3186
 2020-05-03,Switzerland,29905,24500,1762
 2020-05-03,Syria,44,27,3
 2020-05-03,Taiwan*,436,332,6
@@ -19525,7 +19525,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-04,Sri Lanka,751,194,8
 2020-05-04,Sudan,678,61,41
 2020-05-04,Suriname,10,9,1
-2020-05-04,Sweden,22721,0,2769
+2020-05-04,Sweden,23169,0,3258
 2020-05-04,Switzerland,29981,25200,1784
 2020-05-04,Syria,44,27,3
 2020-05-04,Taiwan*,438,334,6
@@ -19713,7 +19713,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-05,Sri Lanka,771,213,9
 2020-05-05,Sudan,778,70,45
 2020-05-05,Suriname,10,9,1
-2020-05-05,Sweden,23216,0,2854
+2020-05-05,Sweden,23826,0,3331
 2020-05-05,Switzerland,30009,25400,1795
 2020-05-05,Syria,44,27,3
 2020-05-05,Taiwan*,438,334,6
@@ -19901,7 +19901,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-06,Sri Lanka,797,215,9
 2020-05-06,Sudan,852,80,49
 2020-05-06,Suriname,10,9,1
-2020-05-06,Sweden,23918,0,2941
+2020-05-06,Sweden,24572,0,3411
 2020-05-06,Switzerland,30060,25700,1805
 2020-05-06,Syria,45,27,3
 2020-05-06,Taiwan*,439,339,6
@@ -20089,7 +20089,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-07,Sri Lanka,824,232,9
 2020-05-07,Sudan,930,92,52
 2020-05-07,Suriname,10,9,1
-2020-05-07,Sweden,24623,0,3040
+2020-05-07,Sweden,25359,0,3471
 2020-05-07,Switzerland,30126,25900,1810
 2020-05-07,Syria,45,27,3
 2020-05-07,Taiwan*,440,347,6
@@ -20277,7 +20277,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-08,Sri Lanka,835,240,9
 2020-05-08,Sudan,1111,102,59
 2020-05-08,Suriname,10,9,1
-2020-05-08,Sweden,25265,0,3175
+2020-05-08,Sweden,26059,0,3540
 2020-05-08,Switzerland,30207,26100,1823
 2020-05-08,Syria,47,29,3
 2020-05-08,Taiwan*,440,355,6
@@ -20465,7 +20465,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-09,Sri Lanka,847,260,9
 2020-05-09,Sudan,1164,119,64
 2020-05-09,Suriname,10,9,1
-2020-05-09,Sweden,25921,0,3220
+2020-05-09,Sweden,26568,0,3614
 2020-05-09,Switzerland,30251,26400,1830
 2020-05-09,Syria,47,29,3
 2020-05-09,Taiwan*,440,361,6
@@ -20653,7 +20653,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-10,Sri Lanka,863,321,9
 2020-05-10,Sudan,1365,149,70
 2020-05-10,Suriname,10,9,1
-2020-05-10,Sweden,26322,0,3225
+2020-05-10,Sweden,26846,0,3678
 2020-05-10,Switzerland,30305,26600,1833
 2020-05-10,Syria,47,29,3
 2020-05-10,Taiwan*,440,366,6
@@ -20841,7 +20841,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-11,Sri Lanka,869,343,9
 2020-05-11,Sudan,1526,162,74
 2020-05-11,Suriname,10,9,1
-2020-05-11,Sweden,26670,0,3256
+2020-05-11,Sweden,27301,0,3739
 2020-05-11,Switzerland,30344,26800,1845
 2020-05-11,Syria,47,29,3
 2020-05-11,Taiwan*,440,368,7
@@ -21029,7 +21029,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-12,Sri Lanka,889,366,9
 2020-05-12,Sudan,1661,173,80
 2020-05-12,Suriname,10,9,1
-2020-05-12,Sweden,27272,0,3313
+2020-05-12,Sweden,28055,0,3789
 2020-05-12,Switzerland,30380,26800,1867
 2020-05-12,Syria,47,29,3
 2020-05-12,Taiwan*,440,372,7
@@ -21217,7 +21217,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-13,Sri Lanka,915,382,9
 2020-05-13,Sudan,1818,198,90
 2020-05-13,Suriname,10,9,1
-2020-05-13,Sweden,27909,0,3460
+2020-05-13,Sweden,28755,0,3835
 2020-05-13,Switzerland,30413,27100,1870
 2020-05-13,Syria,48,29,3
 2020-05-13,Taiwan*,440,375,7
@@ -21405,7 +21405,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-14,Sri Lanka,925,445,9
 2020-05-14,Sudan,1818,198,90
 2020-05-14,Suriname,10,9,1
-2020-05-14,Sweden,28582,0,3529
+2020-05-14,Sweden,29415,0,3893
 2020-05-14,Switzerland,30463,27100,1872
 2020-05-14,Syria,48,29,3
 2020-05-14,Taiwan*,440,383,7
@@ -21593,7 +21593,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-15,Sri Lanka,935,477,9
 2020-05-15,Sudan,1964,205,91
 2020-05-15,Suriname,10,9,1
-2020-05-15,Sweden,29207,0,3646
+2020-05-15,Sweden,30103,0,3942
 2020-05-15,Switzerland,30514,27100,1878
 2020-05-15,Syria,50,36,3
 2020-05-15,Taiwan*,440,387,7
@@ -21781,7 +21781,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-16,Sri Lanka,960,520,9
 2020-05-16,Sudan,2289,222,97
 2020-05-16,Suriname,10,9,1
-2020-05-16,Sweden,29677,0,3674
+2020-05-16,Sweden,30461,0,3995
 2020-05-16,Switzerland,30572,27400,1879
 2020-05-16,Syria,51,36,3
 2020-05-16,Taiwan*,440,389,7
@@ -21969,7 +21969,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-17,Sri Lanka,981,538,9
 2020-05-17,Sudan,2289,222,97
 2020-05-17,Suriname,10,9,1
-2020-05-17,Sweden,30143,0,3679
+2020-05-17,Sweden,30720,0,4056
 2020-05-17,Switzerland,30587,27500,1881
 2020-05-17,Syria,58,36,3
 2020-05-17,Taiwan*,440,395,7
@@ -22157,7 +22157,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-18,Sri Lanka,992,559,9
 2020-05-18,Sudan,2591,247,105
 2020-05-18,Suriname,11,9,1
-2020-05-18,Sweden,30377,0,3698
+2020-05-18,Sweden,31151,0,4096
 2020-05-18,Switzerland,30597,27600,1886
 2020-05-18,Syria,58,36,3
 2020-05-18,Taiwan*,440,398,7
@@ -22345,7 +22345,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-19,Sri Lanka,1027,569,9
 2020-05-19,Sudan,2728,286,111
 2020-05-19,Suriname,11,9,1
-2020-05-19,Sweden,30799,0,3743
+2020-05-19,Sweden,31818,0,4150
 2020-05-19,Switzerland,30618,27700,1891
 2020-05-19,Syria,58,36,3
 2020-05-19,Taiwan*,440,398,7
@@ -22533,7 +22533,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-20,Sri Lanka,1028,584,9
 2020-05-20,Sudan,2728,286,111
 2020-05-20,Suriname,11,9,1
-2020-05-20,Sweden,31523,0,3831
+2020-05-20,Sweden,32626,0,4204
 2020-05-20,Switzerland,30658,27800,1892
 2020-05-20,Syria,58,36,3
 2020-05-20,Taiwan*,440,398,7
@@ -22721,7 +22721,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-21,Sri Lanka,1055,604,9
 2020-05-21,Sudan,3138,309,121
 2020-05-21,Suriname,11,9,1
-2020-05-21,Sweden,32172,0,3871
+2020-05-21,Sweden,33236,0,4260
 2020-05-21,Switzerland,30694,27900,1898
 2020-05-21,Syria,58,36,3
 2020-05-21,Taiwan*,440,398,7
@@ -22909,7 +22909,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-22,Sri Lanka,1068,620,9
 2020-05-22,Sudan,3378,372,137
 2020-05-22,Suriname,11,9,1
-2020-05-22,Sweden,32809,0,3925
+2020-05-22,Sweden,33768,0,4316
 2020-05-22,Switzerland,30707,27900,1903
 2020-05-22,Syria,59,37,4
 2020-05-22,Taiwan*,441,408,7
@@ -23097,7 +23097,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-23,Sri Lanka,1089,660,9
 2020-05-23,Sudan,3628,424,146
 2020-05-23,Suriname,11,9,1
-2020-05-23,Sweden,33188,0,3992
+2020-05-23,Sweden,34171,0,4360
 2020-05-23,Switzerland,30725,28000,1905
 2020-05-23,Syria,70,37,4
 2020-05-23,Taiwan*,441,411,7
@@ -23285,7 +23285,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-24,Sri Lanka,1141,674,9
 2020-05-24,Sudan,3820,458,165
 2020-05-24,Suriname,11,9,1
-2020-05-24,Sweden,33459,0,3998
+2020-05-24,Sweden,34381,0,4402
 2020-05-24,Switzerland,30736,28100,1906
 2020-05-24,Syria,86,41,4
 2020-05-24,Taiwan*,441,414,7
@@ -23473,7 +23473,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-25,Sri Lanka,1182,695,10
 2020-05-25,Sudan,3976,503,170
 2020-05-25,Suriname,11,9,1
-2020-05-25,Sweden,33843,0,4029
+2020-05-25,Sweden,34871,0,4430
 2020-05-25,Switzerland,30746,28200,1913
 2020-05-25,Syria,106,41,4
 2020-05-25,Taiwan*,441,415,7
@@ -23661,7 +23661,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-26,Sri Lanka,1319,712,10
 2020-05-26,Sudan,3976,503,170
 2020-05-26,Suriname,11,9,1
-2020-05-26,Sweden,34440,0,4125
+2020-05-26,Sweden,35617,0,4469
 2020-05-26,Switzerland,30761,28200,1915
 2020-05-26,Syria,121,41,4
 2020-05-26,Taiwan*,441,416,7
@@ -23849,7 +23849,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-27,Sri Lanka,1469,732,10
 2020-05-27,Sudan,4346,749,195
 2020-05-27,Suriname,12,9,1
-2020-05-27,Sweden,35088,0,4220
+2020-05-27,Sweden,36417,0,4509
 2020-05-27,Switzerland,30776,28300,1917
 2020-05-27,Syria,121,43,4
 2020-05-27,Taiwan*,441,419,7
@@ -24037,7 +24037,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-28,Sri Lanka,1530,745,10
 2020-05-28,Sudan,4346,749,195
 2020-05-28,Suriname,12,9,1
-2020-05-28,Sweden,35727,0,4266
+2020-05-28,Sweden,37191,0,4549
 2020-05-28,Switzerland,30796,28300,1919
 2020-05-28,Syria,122,43,4
 2020-05-28,Taiwan*,441,420,7
@@ -24225,7 +24225,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-29,Sri Lanka,1558,754,10
 2020-05-29,Sudan,4521,816,233
 2020-05-29,Suriname,12,9,1
-2020-05-29,Sweden,36476,0,4350
+2020-05-29,Sweden,37964,0,4588
 2020-05-29,Switzerland,30828,28300,1919
 2020-05-29,Syria,122,43,4
 2020-05-29,Taiwan*,442,420,7
@@ -24413,7 +24413,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-30,Sri Lanka,1620,781,10
 2020-05-30,Sudan,4800,1272,262
 2020-05-30,Suriname,14,9,1
-2020-05-30,Sweden,37113,0,4395
+2020-05-30,Sweden,38396,0,4633
 2020-05-30,Switzerland,30845,28400,1919
 2020-05-30,Syria,122,43,4
 2020-05-30,Taiwan*,442,421,7
@@ -24601,7 +24601,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-05-31,Sri Lanka,1633,801,10
 2020-05-31,Sudan,5026,1423,286
 2020-05-31,Suriname,23,9,1
-2020-05-31,Sweden,37542,0,4395
+2020-05-31,Sweden,38661,0,4673
 2020-05-31,Switzerland,30862,28500,1920
 2020-05-31,Syria,122,46,5
 2020-05-31,Taiwan*,442,423,7
@@ -24789,7 +24789,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-01,Sri Lanka,1643,811,11
 2020-06-01,Sudan,5173,1522,298
 2020-06-01,Suriname,44,9,1
-2020-06-01,Sweden,37814,0,4403
+2020-06-01,Sweden,39309,0,4710
 2020-06-01,Switzerland,30871,28500,1920
 2020-06-01,Syria,123,46,5
 2020-06-01,Taiwan*,443,427,7
@@ -24977,7 +24977,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-02,Sri Lanka,1683,823,11
 2020-06-02,Sudan,5310,1625,307
 2020-06-02,Suriname,54,9,1
-2020-06-02,Sweden,38589,0,4468
+2020-06-02,Sweden,40210,0,4736
 2020-06-02,Switzerland,30874,28500,1920
 2020-06-02,Syria,123,50,6
 2020-06-02,Taiwan*,443,427,7
@@ -25165,7 +25165,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-03,Sri Lanka,1749,836,11
 2020-06-03,Sudan,5499,1711,314
 2020-06-03,Suriname,74,9,1
-2020-06-03,Sweden,40803,0,4542
+2020-06-03,Sweden,41256,0,4781
 2020-06-03,Switzerland,30893,28600,1921
 2020-06-03,Syria,123,53,6
 2020-06-03,Taiwan*,443,428,7
@@ -25353,7 +25353,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-04,Sri Lanka,1797,839,11
 2020-06-04,Sudan,5714,1825,333
 2020-06-04,Suriname,82,9,1
-2020-06-04,Sweden,41883,0,4562
+2020-06-04,Sweden,42295,0,4819
 2020-06-04,Switzerland,30913,28600,1921
 2020-06-04,Syria,124,53,6
 2020-06-04,Taiwan*,443,428,7
@@ -25541,7 +25541,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-05,Sri Lanka,1801,858,11
 2020-06-05,Sudan,5865,1924,347
 2020-06-05,Suriname,90,9,1
-2020-06-05,Sweden,42939,0,4639
+2020-06-05,Sweden,43441,0,4850
 2020-06-05,Switzerland,30936,28600,1921
 2020-06-05,Syria,124,53,6
 2020-06-05,Taiwan*,443,429,7
@@ -25729,7 +25729,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-06,Sri Lanka,1814,891,11
 2020-06-06,Sudan,6081,2014,359
 2020-06-06,Suriname,100,9,1
-2020-06-06,Sweden,43887,0,4656
+2020-06-06,Sweden,44224,0,4883
 2020-06-06,Switzerland,30956,28700,1921
 2020-06-06,Syria,125,58,6
 2020-06-06,Taiwan*,443,429,7
@@ -25917,7 +25917,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-07,Sri Lanka,1835,941,11
 2020-06-07,Sudan,6081,2014,359
 2020-06-07,Suriname,122,9,1
-2020-06-07,Sweden,44730,0,4659
+2020-06-07,Sweden,44686,0,4921
 2020-06-07,Switzerland,30965,28700,1921
 2020-06-07,Syria,141,58,6
 2020-06-07,Taiwan*,443,430,7
@@ -26105,7 +26105,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-08,Sri Lanka,1857,990,11
 2020-06-08,Sudan,6242,2059,372
 2020-06-08,Suriname,128,9,2
-2020-06-08,Sweden,45133,0,4694
+2020-06-08,Sweden,45363,0,4954
 2020-06-08,Switzerland,30972,28700,1923
 2020-06-08,Syria,144,62,6
 2020-06-08,Taiwan*,443,430,7
@@ -26293,7 +26293,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-09,Sri Lanka,1859,1057,11
 2020-06-09,Sudan,6427,2127,389
 2020-06-09,Suriname,137,9,2
-2020-06-09,Sweden,45924,0,4717
+2020-06-09,Sweden,46299,0,4994
 2020-06-09,Switzerland,30988,28700,1934
 2020-06-09,Syria,146,62,6
 2020-06-09,Taiwan*,443,431,7
@@ -26481,7 +26481,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-10,Sri Lanka,1869,1122,11
 2020-06-10,Sudan,6582,2202,401
 2020-06-10,Suriname,144,9,2
-2020-06-10,Sweden,46814,0,4795
+2020-06-10,Sweden,47736,0,5030
 2020-06-10,Switzerland,31011,28700,1936
 2020-06-10,Syria,152,68,6
 2020-06-10,Taiwan*,443,431,7
@@ -26669,7 +26669,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-11,Sri Lanka,1877,1150,11
 2020-06-11,Sudan,6730,2278,413
 2020-06-11,Suriname,168,9,2
-2020-06-11,Sweden,48288,0,4814
+2020-06-11,Sweden,49030,0,5060
 2020-06-11,Switzerland,31044,28800,1937
 2020-06-11,Syria,164,68,6
 2020-06-11,Taiwan*,443,431,7
@@ -26857,7 +26857,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-12,Sri Lanka,1880,1196,11
 2020-06-12,Sudan,6879,2416,433
 2020-06-12,Suriname,187,9,3
-2020-06-12,Sweden,49684,0,4854
+2020-06-12,Sweden,50367,0,5093
 2020-06-12,Switzerland,31063,28800,1938
 2020-06-12,Syria,164,68,6
 2020-06-12,Taiwan*,443,431,7
@@ -27045,7 +27045,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-13,Sri Lanka,1884,1252,11
 2020-06-13,Sudan,7007,2556,447
 2020-06-13,Suriname,196,9,3
-2020-06-13,Sweden,50931,0,4874
+2020-06-13,Sweden,51409,0,5120
 2020-06-13,Switzerland,31094,28800,1938
 2020-06-13,Syria,170,71,6
 2020-06-13,Taiwan*,443,431,7
@@ -27233,7 +27233,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-14,Sri Lanka,1889,1287,11
 2020-06-14,Sudan,7220,2610,459
 2020-06-14,Suriname,208,9,3
-2020-06-14,Sweden,51614,0,4874
+2020-06-14,Sweden,51827,0,5151
 2020-06-14,Switzerland,31117,28800,1938
 2020-06-14,Syria,177,74,6
 2020-06-14,Taiwan*,443,431,7
@@ -27421,7 +27421,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-15,Sri Lanka,1905,1342,11
 2020-06-15,Sudan,7435,2720,468
 2020-06-15,Suriname,229,48,5
-2020-06-15,Sweden,52383,0,4891
+2020-06-15,Sweden,52511,0,5179
 2020-06-15,Switzerland,31131,28900,1939
 2020-06-15,Syria,177,78,6
 2020-06-15,Taiwan*,445,433,7
@@ -27609,7 +27609,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-16,Sri Lanka,1915,1371,11
 2020-06-16,Sudan,7740,2820,477
 2020-06-16,Suriname,236,48,6
-2020-06-16,Sweden,53323,0,4939
+2020-06-16,Sweden,53729,0,5212
 2020-06-16,Switzerland,31154,28900,1954
 2020-06-16,Syria,177,78,6
 2020-06-16,Taiwan*,445,433,7
@@ -27797,7 +27797,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-17,Sri Lanka,1924,1397,11
 2020-06-17,Sudan,8020,2966,487
 2020-06-17,Suriname,261,48,6
-2020-06-17,Sweden,54562,0,5041
+2020-06-17,Sweden,55186,0,5241
 2020-06-17,Switzerland,31187,28900,1956
 2020-06-17,Syria,178,78,7
 2020-06-17,Taiwan*,445,434,7
@@ -27985,7 +27985,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-18,Sri Lanka,1947,1421,11
 2020-06-18,Sudan,8020,2966,487
 2020-06-18,Suriname,277,74,7
-2020-06-18,Sweden,56043,0,5053
+2020-06-18,Sweden,56682,0,5270
 2020-06-18,Switzerland,31200,28900,1956
 2020-06-18,Syria,187,78,7
 2020-06-18,Taiwan*,446,434,7
@@ -28173,7 +28173,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-19,Sri Lanka,1950,1446,11
 2020-06-19,Sudan,8316,3086,506
 2020-06-19,Suriname,293,74,8
-2020-06-19,Sweden,58076,0,5105
+2020-06-19,Sweden,57895,0,5299
 2020-06-19,Switzerland,31235,28900,1956
 2020-06-19,Syria,187,78,7
 2020-06-19,Taiwan*,446,434,7
@@ -28361,7 +28361,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-20,Sri Lanka,1950,1472,11
 2020-06-20,Sudan,8580,3325,521
 2020-06-20,Suriname,303,74,8
-2020-06-20,Sweden,58591,0,5109
+2020-06-20,Sweden,58597,0,5320
 2020-06-20,Switzerland,31243,28900,1956
 2020-06-20,Syria,198,83,7
 2020-06-20,Taiwan*,446,434,7
@@ -28549,7 +28549,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-21,Sri Lanka,1950,1498,11
 2020-06-21,Sudan,8580,3325,521
 2020-06-21,Suriname,314,106,8
-2020-06-21,Sweden,58848,0,5111
+2020-06-21,Sweden,58918,0,5341
 2020-06-21,Switzerland,31292,29000,1956
 2020-06-21,Syria,204,83,7
 2020-06-21,Taiwan*,446,434,7
@@ -28737,7 +28737,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-22,Sri Lanka,1951,1526,11
 2020-06-22,Sudan,8698,3460,533
 2020-06-22,Suriname,319,132,8
-2020-06-22,Sweden,58932,0,5122
+2020-06-22,Sweden,59718,0,5366
 2020-06-22,Switzerland,31310,29000,1956
 2020-06-22,Syria,219,83,7
 2020-06-22,Taiwan*,446,435,7
@@ -28925,7 +28925,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-23,Sri Lanka,1991,1548,11
 2020-06-23,Sudan,8889,3699,548
 2020-06-23,Suriname,319,132,9
-2020-06-23,Sweden,60837,0,5161
+2020-06-23,Sweden,61030,0,5388
 2020-06-23,Switzerland,31332,29000,1956
 2020-06-23,Syria,231,94,7
 2020-06-23,Taiwan*,446,435,7
@@ -29113,7 +29113,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-24,Sri Lanka,2001,1562,11
 2020-06-24,Sudan,8889,3699,548
 2020-06-24,Suriname,357,154,10
-2020-06-24,Sweden,62324,0,5209
+2020-06-24,Sweden,62728,0,5412
 2020-06-24,Switzerland,31376,29000,1958
 2020-06-24,Syria,231,94,7
 2020-06-24,Taiwan*,446,435,7
@@ -29301,7 +29301,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-25,Sri Lanka,2010,1602,11
 2020-06-25,Sudan,8984,3806,556
 2020-06-25,Suriname,373,176,10
-2020-06-25,Sweden,63890,0,5230
+2020-06-25,Sweden,64009,0,5424
 2020-06-25,Switzerland,31428,29000,1958
 2020-06-25,Syria,242,96,7
 2020-06-25,Taiwan*,447,435,7
@@ -29489,7 +29489,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-26,Sri Lanka,2014,1619,11
 2020-06-26,Sudan,9257,4014,572
 2020-06-26,Suriname,389,181,10
-2020-06-26,Sweden,65137,0,5280
+2020-06-26,Sweden,65212,0,5438
 2020-06-26,Switzerland,31486,29000,1962
 2020-06-26,Syria,255,102,8
 2020-06-26,Taiwan*,447,435,7
@@ -29677,7 +29677,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-27,Sri Lanka,2033,1639,11
 2020-06-27,Sudan,9257,4014,572
 2020-06-27,Suriname,467,191,11
-2020-06-27,Sweden,65137,0,5280
+2020-06-27,Sweden,65972,0,5460
 2020-06-27,Switzerland,31555,29100,1962
 2020-06-27,Syria,256,102,9
 2020-06-27,Taiwan*,447,435,7
@@ -29865,7 +29865,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-28,Sri Lanka,2037,1661,11
 2020-06-28,Sudan,9257,4014,572
 2020-06-28,Suriname,490,199,11
-2020-06-28,Sweden,65137,0,5280
+2020-06-28,Sweden,66392,0,5478
 2020-06-28,Switzerland,31617,29100,1962
 2020-06-28,Syria,256,102,9
 2020-06-28,Taiwan*,447,435,7
@@ -30053,7 +30053,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-29,Sri Lanka,2039,1678,11
 2020-06-29,Sudan,9257,4014,572
 2020-06-29,Suriname,501,217,13
-2020-06-29,Sweden,67667,0,5310
+2020-06-29,Sweden,67119,0,5498
 2020-06-29,Switzerland,31652,29100,1962
 2020-06-29,Syria,269,102,9
 2020-06-29,Taiwan*,447,435,7
@@ -30241,7 +30241,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-06-30,Sri Lanka,2047,1711,11
 2020-06-30,Sudan,9257,4014,572
 2020-06-30,Suriname,515,227,13
-2020-06-30,Sweden,68451,0,5333
+2020-06-30,Sweden,67924,0,5515
 2020-06-30,Switzerland,31714,29200,1963
 2020-06-30,Syria,279,105,9
 2020-06-30,Taiwan*,447,437,7
@@ -30429,7 +30429,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-07-01,Sri Lanka,2054,1748,11
 2020-07-01,Sudan,9573,4606,602
 2020-07-01,Suriname,535,242,13
-2020-07-01,Sweden,69692,0,5370
+2020-07-01,Sweden,68608,0,5530
 2020-07-01,Switzerland,31851,29200,1965
 2020-07-01,Syria,293,110,9
 2020-07-01,Taiwan*,447,438,7
@@ -30617,7 +30617,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-07-02,Sri Lanka,2066,1827,11
 2020-07-02,Sudan,9573,4606,602
 2020-07-02,Suriname,547,252,13
-2020-07-02,Sweden,70639,0,5411
+2020-07-02,Sweden,69297,0,5538
 2020-07-02,Switzerland,31967,29200,1965
 2020-07-02,Syria,312,113,9
 2020-07-02,Taiwan*,448,438,7
@@ -30805,7 +30805,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-07-03,Sri Lanka,2069,1863,11
 2020-07-03,Sudan,9663,4624,604
 2020-07-03,Suriname,561,267,13
-2020-07-03,Sweden,71419,0,5420
+2020-07-03,Sweden,69996,0,5553
 2020-07-03,Switzerland,32101,29200,1965
 2020-07-03,Syria,328,123,10
 2020-07-03,Taiwan*,449,438,7
@@ -30993,7 +30993,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-07-04,Sri Lanka,2074,1885,11
 2020-07-04,Sudan,9767,4673,608
 2020-07-04,Suriname,565,276,14
-2020-07-04,Sweden,71419,0,5420
+2020-07-04,Sweden,70366,0,5562
 2020-07-04,Switzerland,32198,29200,1965
 2020-07-04,Syria,338,123,10
 2020-07-04,Taiwan*,449,438,7
@@ -31181,7 +31181,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-07-05,Sri Lanka,2076,1903,11
 2020-07-05,Sudan,9767,4673,608
 2020-07-05,Suriname,594,292,14
-2020-07-05,Sweden,71419,0,5420
+2020-07-05,Sweden,70681,0,5578
 2020-07-05,Switzerland,32268,29300,1965
 2020-07-05,Syria,358,126,13
 2020-07-05,Taiwan*,449,438,7
@@ -31369,7 +31369,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-07-06,Sri Lanka,2077,1917,11
 2020-07-06,Sudan,9894,4899,616
 2020-07-06,Suriname,614,315,14
-2020-07-06,Sweden,73061,0,5433
+2020-07-06,Sweden,70932,0,5590
 2020-07-06,Switzerland,32315,29300,1965
 2020-07-06,Syria,372,126,14
 2020-07-06,Taiwan*,449,438,7
@@ -31557,7 +31557,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-07-07,Sri Lanka,2081,1955,11
 2020-07-07,Sudan,9997,5034,622
 2020-07-07,Suriname,634,405,15
-2020-07-07,Sweden,73344,0,5447
+2020-07-07,Sweden,71210,0,5601
 2020-07-07,Switzerland,32369,29300,1966
 2020-07-07,Syria,372,126,14
 2020-07-07,Taiwan*,449,438,7
@@ -31745,7 +31745,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-07-08,Sri Lanka,2094,1967,11
 2020-07-08,Sudan,10084,5074,636
 2020-07-08,Suriname,665,434,17
-2020-07-08,Sweden,73858,0,5482
+2020-07-08,Sweden,71747,0,5616
 2020-07-08,Switzerland,32498,29400,1966
 2020-07-08,Syria,372,126,14
 2020-07-08,Taiwan*,449,438,7
@@ -31933,7 +31933,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-07-09,Sri Lanka,2154,1979,11
 2020-07-09,Sudan,10158,5200,641
 2020-07-09,Suriname,694,456,17
-2020-07-09,Sweden,74333,0,5500
+2020-07-09,Sweden,72082,0,5630
 2020-07-09,Switzerland,32586,29400,1966
 2020-07-09,Syria,372,126,14
 2020-07-09,Taiwan*,449,438,7
@@ -32121,7 +32121,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-07-10,Sri Lanka,2454,1980,11
 2020-07-10,Sudan,10204,5277,649
 2020-07-10,Suriname,726,481,18
-2020-07-10,Sweden,74898,0,5526
+2020-07-10,Sweden,72459,0,5641
 2020-07-10,Switzerland,32690,29400,1966
 2020-07-10,Syria,394,126,16
 2020-07-10,Taiwan*,449,438,7
@@ -32309,7 +32309,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-07-11,Sri Lanka,2511,1980,11
 2020-07-11,Sudan,10250,5341,650
 2020-07-11,Suriname,741,495,18
-2020-07-11,Sweden,74898,0,5526
+2020-07-11,Sweden,72773,0,5650
 2020-07-11,Switzerland,32817,29500,1968
 2020-07-11,Syria,394,126,16
 2020-07-11,Taiwan*,451,438,7
@@ -32497,7 +32497,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-07-12,Sri Lanka,2617,1981,11
 2020-07-12,Sudan,10250,5341,650
 2020-07-12,Suriname,741,495,18
-2020-07-12,Sweden,74898,0,5526
+2020-07-12,Sweden,72879,0,5664
 2020-07-12,Switzerland,32883,29600,1968
 2020-07-12,Syria,394,126,16
 2020-07-12,Taiwan*,451,438,7
@@ -32685,7 +32685,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-07-13,Sri Lanka,2646,1981,11
 2020-07-13,Sudan,10316,5403,657
 2020-07-13,Suriname,780,526,18
-2020-07-13,Sweden,75826,0,5536
+2020-07-13,Sweden,73049,0,5672
 2020-07-13,Switzerland,32946,29600,1968
 2020-07-13,Syria,417,136,19
 2020-07-13,Taiwan*,451,438,7
@@ -32873,7 +32873,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-07-14,Sri Lanka,2665,1988,11
 2020-07-14,Sudan,10417,5579,659
 2020-07-14,Suriname,801,543,18
-2020-07-14,Sweden,76001,0,5545
+2020-07-14,Sweden,73364,0,5678
 2020-07-14,Switzerland,33016,29800,1968
 2020-07-14,Syria,439,138,21
 2020-07-14,Taiwan*,451,440,7
@@ -33061,7 +33061,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-07-15,Sri Lanka,2671,2001,11
 2020-07-15,Sudan,10527,5601,668
 2020-07-15,Suriname,837,573,18
-2020-07-15,Sweden,76492,0,5572
+2020-07-15,Sweden,73663,0,5686
 2020-07-15,Switzerland,33148,29800,1968
 2020-07-15,Syria,458,140,22
 2020-07-15,Taiwan*,451,440,7
@@ -33249,7 +33249,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-07-16,Sri Lanka,2687,2007,11
 2020-07-16,Sudan,10527,5601,668
 2020-07-16,Suriname,904,581,18
-2020-07-16,Sweden,76877,0,5593
+2020-07-16,Sweden,73936,0,5694
 2020-07-16,Switzerland,33290,29900,1969
 2020-07-16,Syria,477,140,22
 2020-07-16,Taiwan*,451,440,7
@@ -33437,7 +33437,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-07-17,Sri Lanka,2697,2012,11
 2020-07-17,Sudan,10527,5601,668
 2020-07-17,Suriname,943,600,19
-2020-07-17,Sweden,77281,0,5619
+2020-07-17,Sweden,74235,0,5705
 2020-07-17,Switzerland,33382,29900,1969
 2020-07-17,Syria,496,144,25
 2020-07-17,Taiwan*,451,440,7
@@ -33625,7 +33625,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-07-18,Sri Lanka,2703,2023,11
 2020-07-18,Sudan,10682,5637,673
 2020-07-18,Suriname,1001,610,20
-2020-07-18,Sweden,77281,0,5619
+2020-07-18,Sweden,74435,0,5715
 2020-07-18,Switzerland,33492,29900,1969
 2020-07-18,Syria,496,144,25
 2020-07-18,Taiwan*,451,440,7
@@ -33813,7 +33813,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-07-19,Sri Lanka,2724,2035,11
 2020-07-19,Sudan,10992,5707,693
 2020-07-19,Suriname,1029,627,21
-2020-07-19,Sweden,77281,0,5619
+2020-07-19,Sweden,74545,0,5722
 2020-07-19,Switzerland,33591,30300,1969
 2020-07-19,Syria,496,144,25
 2020-07-19,Taiwan*,451,440,7
@@ -34001,7 +34001,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-07-20,Sri Lanka,2730,2041,11
 2020-07-20,Sudan,10992,5707,693
 2020-07-20,Suriname,1079,656,21
-2020-07-20,Sweden,78048,0,5639
+2020-07-20,Sweden,74676,0,5729
 2020-07-20,Switzerland,33634,30300,1971
 2020-07-20,Syria,522,154,29
 2020-07-20,Taiwan*,451,440,7
@@ -34189,7 +34189,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-07-21,Sri Lanka,2730,2048,11
 2020-07-21,Sudan,10992,5707,693
 2020-07-21,Suriname,1131,705,21
-2020-07-21,Sweden,78166,0,5646
+2020-07-21,Sweden,74902,0,5736
 2020-07-21,Switzerland,33742,30300,1972
 2020-07-21,Syria,540,160,31
 2020-07-21,Taiwan*,451,440,7
@@ -34377,7 +34377,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-07-22,Sri Lanka,2752,2064,11
 2020-07-22,Sudan,11237,5835,708
 2020-07-22,Suriname,1176,739,21
-2020-07-22,Sweden,78504,0,5667
+2020-07-22,Sweden,75199,0,5742
 2020-07-22,Switzerland,33883,30500,1972
 2020-07-22,Syria,561,165,32
 2020-07-22,Taiwan*,455,440,7
@@ -34565,7 +34565,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-07-23,Sri Lanka,2753,2077,11
 2020-07-23,Sudan,11237,5835,708
 2020-07-23,Suriname,1234,774,23
-2020-07-23,Sweden,78763,0,5676
+2020-07-23,Sweden,75419,0,5746
 2020-07-23,Switzerland,34000,30500,1975
 2020-07-23,Syria,584,174,35
 2020-07-23,Taiwan*,455,440,7
@@ -34753,7 +34753,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-07-24,Sri Lanka,2764,2094,11
 2020-07-24,Sudan,11302,5855,715
 2020-07-24,Suriname,1305,804,23
-2020-07-24,Sweden,78997,0,5697
+2020-07-24,Sweden,75681,0,5747
 2020-07-24,Switzerland,34154,30500,1977
 2020-07-24,Syria,608,184,35
 2020-07-24,Taiwan*,458,440,7
@@ -34941,7 +34941,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-07-25,Sri Lanka,2770,2103,11
 2020-07-25,Sudan,11385,5890,717
 2020-07-25,Suriname,1381,853,23
-2020-07-25,Sweden,78997,0,5697
+2020-07-25,Sweden,75819,0,5749
 2020-07-25,Switzerland,34302,30500,1977
 2020-07-25,Syria,627,191,36
 2020-07-25,Taiwan*,458,440,7
@@ -35129,7 +35129,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-07-26,Sri Lanka,2782,2106,11
 2020-07-26,Sudan,11385,5890,717
 2020-07-26,Suriname,1439,890,23
-2020-07-26,Sweden,78997,0,5697
+2020-07-26,Sweden,75861,0,5755
 2020-07-26,Switzerland,34412,30700,1977
 2020-07-26,Syria,650,200,38
 2020-07-26,Taiwan*,458,440,7
@@ -35317,7 +35317,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-07-27,Sri Lanka,2805,2121,11
 2020-07-27,Sudan,11424,5939,720
 2020-07-27,Suriname,1483,925,24
-2020-07-27,Sweden,79395,0,5700
+2020-07-27,Sweden,75932,0,5759
 2020-07-27,Switzerland,34477,30900,1978
 2020-07-27,Syria,674,210,40
 2020-07-27,Taiwan*,462,440,7
@@ -35505,7 +35505,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-07-28,Sri Lanka,2810,2296,11
 2020-07-28,Sudan,11496,6001,725
 2020-07-28,Suriname,1510,965,24
-2020-07-28,Sweden,79494,0,5702
+2020-07-28,Sweden,76215,0,5760
 2020-07-28,Switzerland,34609,31000,1978
 2020-07-28,Syria,694,220,40
 2020-07-28,Taiwan*,467,440,7
@@ -35693,7 +35693,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-07-29,Sri Lanka,2810,2317,11
 2020-07-29,Sudan,11496,6001,725
 2020-07-29,Suriname,1607,1003,26
-2020-07-29,Sweden,79782,0,5730
+2020-07-29,Sweden,76516,0,5760
 2020-07-29,Switzerland,34802,31100,1979
 2020-07-29,Syria,717,229,40
 2020-07-29,Taiwan*,467,440,7
@@ -35881,7 +35881,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-07-30,Sri Lanka,2814,2333,11
 2020-07-30,Sudan,11496,6001,725
 2020-07-30,Suriname,1607,1003,26
-2020-07-30,Sweden,80100,0,5739
+2020-07-30,Sweden,76818,0,5763
 2020-07-30,Switzerland,35022,31100,1980
 2020-07-30,Syria,738,229,41
 2020-07-30,Taiwan*,467,440,7
@@ -36069,7 +36069,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-07-31,Sri Lanka,2815,2391,11
 2020-07-31,Sudan,11644,6119,746
 2020-07-31,Suriname,1650,1080,26
-2020-07-31,Sweden,80422,0,5743
+2020-07-31,Sweden,77076,0,5766
 2020-07-31,Switzerland,35232,31100,1981
 2020-07-31,Syria,757,237,43
 2020-07-31,Taiwan*,467,440,7
@@ -36257,7 +36257,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-08-01,Sri Lanka,2815,2439,11
 2020-08-01,Sudan,11738,6137,752
 2020-08-01,Suriname,1760,1161,26
-2020-08-01,Sweden,80422,0,5743
+2020-08-01,Sweden,77379,0,5767
 2020-08-01,Switzerland,35412,31300,1981
 2020-08-01,Syria,780,237,43
 2020-08-01,Taiwan*,474,441,7
@@ -36445,7 +36445,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-08-02,Sri Lanka,2823,2514,11
 2020-08-02,Sudan,11738,6137,752
 2020-08-02,Suriname,1849,1194,27
-2020-08-02,Sweden,80422,0,5743
+2020-08-02,Sweden,77417,0,5772
 2020-08-02,Switzerland,35550,31500,1981
 2020-08-02,Syria,809,256,44
 2020-08-02,Taiwan*,475,441,7
@@ -36633,7 +36633,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-08-03,Sri Lanka,2828,2517,11
 2020-08-03,Sudan,11738,6137,752
 2020-08-03,Suriname,1893,1227,27
-2020-08-03,Sweden,81012,0,5744
+2020-08-03,Sweden,77582,0,5774
 2020-08-03,Switzerland,35616,31500,1981
 2020-08-03,Syria,847,268,46
 2020-08-03,Taiwan*,474,441,7
@@ -36821,7 +36821,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-08-04,Sri Lanka,2834,2524,11
 2020-08-04,Sudan,11780,6194,763
 2020-08-04,Suriname,1981,1278,27
-2020-08-04,Sweden,81181,0,5747
+2020-08-04,Sweden,77916,0,5775
 2020-08-04,Switzerland,35746,31600,1981
 2020-08-04,Syria,892,283,46
 2020-08-04,Taiwan*,476,441,7
@@ -37009,7 +37009,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-08-05,Sri Lanka,2839,2537,11
 2020-08-05,Sudan,11780,6194,763
 2020-08-05,Suriname,2050,1327,27
-2020-08-05,Sweden,81540,0,5760
+2020-08-05,Sweden,78341,0,5780
 2020-08-05,Switzerland,35927,31600,1984
 2020-08-05,Syria,944,296,48
 2020-08-05,Taiwan*,476,441,7
@@ -37197,7 +37197,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-08-06,Sri Lanka,2839,2541,11
 2020-08-06,Sudan,11780,6194,763
 2020-08-06,Suriname,2096,1446,29
-2020-08-06,Sweden,81967,0,5766
+2020-08-06,Sweden,78719,0,5783
 2020-08-06,Switzerland,36108,31600,1985
 2020-08-06,Syria,999,311,48
 2020-08-06,Taiwan*,477,441,7
@@ -37385,7 +37385,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-08-07,Sri Lanka,2839,2564,11
 2020-08-07,Sudan,11894,6243,773
 2020-08-07,Suriname,2203,1505,29
-2020-08-07,Sweden,82323,0,5763
+2020-08-07,Sweden,79099,0,5785
 2020-08-07,Switzerland,36269,31600,1986
 2020-08-07,Syria,1060,311,48
 2020-08-07,Taiwan*,477,441,7
@@ -37573,7 +37573,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-08-08,Sri Lanka,2841,2576,11
 2020-08-08,Sudan,11894,6243,773
 2020-08-08,Suriname,2306,1558,29
-2020-08-08,Sweden,82323,0,5763
+2020-08-08,Sweden,79359,0,5789
 2020-08-08,Switzerland,36451,31900,1986
 2020-08-08,Syria,1125,331,50
 2020-08-08,Taiwan*,479,441,7
@@ -37761,7 +37761,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-08-09,Sri Lanka,2844,2579,11
 2020-08-09,Sudan,11956,6266,781
 2020-08-09,Suriname,2391,1635,29
-2020-08-09,Sweden,82323,0,5763
+2020-08-09,Sweden,79432,0,5791
 2020-08-09,Switzerland,36603,32300,1986
 2020-08-09,Syria,1188,346,52
 2020-08-09,Taiwan*,477,441,7
@@ -37949,7 +37949,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-08-10,Sri Lanka,2871,2593,11
 2020-08-10,Sudan,11956,6266,781
 2020-08-10,Suriname,2489,1674,30
-2020-08-10,Sweden,82972,0,5766
+2020-08-10,Sweden,79628,0,5795
 2020-08-10,Switzerland,36708,32400,1987
 2020-08-10,Syria,1255,364,52
 2020-08-10,Taiwan*,477,441,7
@@ -38137,7 +38137,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-08-11,Sri Lanka,2880,2622,11
 2020-08-11,Sudan,12033,6282,786
 2020-08-11,Suriname,2559,1712,39
-2020-08-11,Sweden,83126,0,5770
+2020-08-11,Sweden,80045,0,5798
 2020-08-11,Switzerland,36895,32400,1990
 2020-08-11,Syria,1327,385,53
 2020-08-11,Taiwan*,480,443,7
@@ -38325,7 +38325,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-08-12,Sri Lanka,2881,2638,11
 2020-08-12,Sudan,12033,6282,786
 2020-08-12,Suriname,2653,1789,39
-2020-08-12,Sweden,83455,0,5774
+2020-08-12,Sweden,80489,0,5803
 2020-08-12,Switzerland,37169,32700,1991
 2020-08-12,Syria,1327,385,53
 2020-08-12,Taiwan*,481,450,7
@@ -38513,7 +38513,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-08-13,Sri Lanka,2882,2646,11
 2020-08-13,Sudan,12115,6305,792
 2020-08-13,Suriname,2761,1830,40
-2020-08-13,Sweden,83852,0,5776
+2020-08-13,Sweden,80851,0,5803
 2020-08-13,Switzerland,37403,32700,1991
 2020-08-13,Syria,1432,395,55
 2020-08-13,Taiwan*,481,450,7
@@ -38701,7 +38701,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-08-14,Sri Lanka,2886,2658,11
 2020-08-14,Sudan,12162,6325,793
 2020-08-14,Suriname,2838,1894,41
-2020-08-14,Sweden,84294,0,5783
+2020-08-14,Sweden,81195,0,5804
 2020-08-14,Switzerland,37671,32900,1991
 2020-08-14,Syria,1515,403,58
 2020-08-14,Taiwan*,481,450,7
@@ -38889,7 +38889,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-08-15,Sri Lanka,2890,2666,11
 2020-08-15,Sudan,12211,6340,796
 2020-08-15,Suriname,2961,1990,42
-2020-08-15,Sweden,84294,0,5783
+2020-08-15,Sweden,81421,0,5804
 2020-08-15,Switzerland,37924,33200,1991
 2020-08-15,Syria,1593,408,60
 2020-08-15,Taiwan*,482,450,7
@@ -39077,7 +39077,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-08-16,Sri Lanka,2893,2670,11
 2020-08-16,Sudan,12314,6350,798
 2020-08-16,Suriname,3016,2036,47
-2020-08-16,Sweden,84294,0,5783
+2020-08-16,Sweden,81484,0,5806
 2020-08-16,Switzerland,38124,33300,1991
 2020-08-16,Syria,1677,417,64
 2020-08-16,Taiwan*,484,450,7
@@ -39265,7 +39265,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-08-17,Sri Lanka,2900,2676,11
 2020-08-17,Sudan,12410,6385,803
 2020-08-17,Suriname,3077,2138,48
-2020-08-17,Sweden,85045,0,5787
+2020-08-17,Sweden,81658,0,5812
 2020-08-17,Switzerland,38252,33300,1991
 2020-08-17,Syria,1764,425,68
 2020-08-17,Taiwan*,485,450,7
@@ -39453,7 +39453,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-08-18,Sri Lanka,2902,2755,11
 2020-08-18,Sudan,12485,6398,805
 2020-08-18,Suriname,3216,2196,54
-2020-08-18,Sweden,85219,0,5790
+2020-08-18,Sweden,81972,0,5813
 2020-08-18,Switzerland,38449,33500,1992
 2020-08-18,Syria,1844,425,73
 2020-08-18,Taiwan*,486,450,7
@@ -39465,7 +39465,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-08-18,Trinidad and Tobago,629,140,12
 2020-08-18,Tunisia,2314,1370,57
 2020-08-18,Turkey,251805,232913,6016
-2020-08-18,US,5482416,1898159,171821
+2020-08-18,US,5483388,1898159,171821
 2020-08-18,Uganda,1603,1165,15
 2020-08-18,Ukraine,96653,50508,2152
 2020-08-18,United Arab Emirates,64906,57909,366
@@ -39479,3 +39479,2259 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-08-18,Yemen,1889,1052,537
 2020-08-18,Zambia,9981,8776,264
 2020-08-18,Zimbabwe,5378,4105,141
+2020-08-19,Afghanistan,37599,27166,1375
+2020-08-19,Albania,7812,3928,234
+2020-08-19,Algeria,39847,27971,1402
+2020-08-19,Andorra,1024,875,53
+2020-08-19,Angola,2015,698,92
+2020-08-19,Antigua and Barbuda,94,88,3
+2020-08-19,Argentina,312659,228725,6330
+2020-08-19,Armenia,42056,35226,833
+2020-08-19,Australia,24236,15247,463
+2020-08-19,Austria,24084,20958,729
+2020-08-19,Azerbaijan,34620,32363,510
+2020-08-19,Bahamas,1531,209,22
+2020-08-19,Bahrain,47950,44278,178
+2020-08-19,Bangladesh,285091,165738,3781
+2020-08-19,Barbados,155,123,7
+2020-08-19,Belarus,69801,67647,622
+2020-08-19,Belgium,79479,18078,9969
+2020-08-19,Belize,553,38,4
+2020-08-19,Benin,2095,1690,39
+2020-08-19,Bhutan,147,103,0
+2020-08-19,Bolivia,105050,39965,4233
+2020-08-19,Bosnia and Herzegovina,16691,10711,507
+2020-08-19,Botswana,1308,136,3
+2020-08-19,Brazil,3456652,2801931,111100
+2020-08-19,Brunei,143,139,3
+2020-08-19,Bulgaria,14820,9931,527
+2020-08-19,Burkina Faso,1285,1023,55
+2020-08-19,Burma,394,333,6
+2020-08-19,Burundi,422,336,1
+2020-08-19,Cabo Verde,3321,2442,36
+2020-08-19,Cambodia,273,253,0
+2020-08-19,Cameroon,18624,16540,406
+2020-08-19,Canada,125408,111559,9095
+2020-08-19,Central African Republic,4679,1755,61
+2020-08-19,Chad,971,868,76
+2020-08-19,Chile,390037,364285,10578
+2020-08-19,China,89527,83566,4706
+2020-08-19,Colombia,502178,326298,15979
+2020-08-19,Comoros,406,393,7
+2020-08-19,Congo (Brazzaville),3850,1625,77
+2020-08-19,Congo (Kinshasa),9741,8895,246
+2020-08-19,Costa Rica,30409,9660,321
+2020-08-19,Cote d'Ivoire,17232,14422,111
+2020-08-19,Croatia,7074,5386,168
+2020-08-19,Cuba,3482,2863,88
+2020-08-19,Cyprus,1385,878,20
+2020-08-19,Czechia,20798,15615,404
+2020-08-19,Denmark,16336,13921,621
+2020-08-19,Diamond Princess,712,651,13
+2020-08-19,Djibouti,5374,5216,59
+2020-08-19,Dominica,18,18,0
+2020-08-19,Dominican Republic,88127,56760,1501
+2020-08-19,Ecuador,104475,87277,6146
+2020-08-19,Egypt,96914,62553,5197
+2020-08-19,El Salvador,23717,11388,633
+2020-08-19,Equatorial Guinea,4892,2713,83
+2020-08-19,Eritrea,304,261,0
+2020-08-19,Estonia,2207,2002,63
+2020-08-19,Eswatini,4058,2611,79
+2020-08-19,Ethiopia,34058,13308,600
+2020-08-19,Fiji,28,20,1
+2020-08-19,Finland,7805,7100,334
+2020-08-19,France,256534,84214,30434
+2020-08-19,Gabon,8319,6614,53
+2020-08-19,Gambia,2288,435,77
+2020-08-19,Georgia,1361,1098,17
+2020-08-19,Germany,229706,204454,9249
+2020-08-19,Ghana,43094,40963,256
+2020-08-19,Greece,7684,1347,235
+2020-08-19,Grenada,24,24,0
+2020-08-19,Guatemala,64881,53362,2467
+2020-08-19,Guinea,8792,7574,53
+2020-08-19,Guinea-Bissau,2117,1015,33
+2020-08-19,Guyana,776,381,27
+2020-08-19,Haiti,7949,5337,196
+2020-08-19,Holy See,12,12,0
+2020-08-19,Honduras,52298,7867,1608
+2020-08-19,Hungary,5002,3665,609
+2020-08-19,Iceland,2035,1903,10
+2020-08-19,India,2836925,2096664,53866
+2020-08-19,Indonesia,144945,98657,6346
+2020-08-19,Iran,350279,302528,20125
+2020-08-19,Iraq,188802,134369,6121
+2020-08-19,Ireland,27547,23364,1775
+2020-08-19,Israel,97969,73092,781
+2020-08-19,Italy,255278,204506,35412
+2020-08-19,Jamaica,1192,772,14
+2020-08-19,Japan,58728,43786,1148
+2020-08-19,Jordan,1482,1259,11
+2020-08-19,Kazakhstan,103815,86450,1415
+2020-08-19,Kenya,31015,17612,506
+2020-08-19,"Korea, South",16346,14063,307
+2020-08-19,Kosovo,11545,7343,390
+2020-08-19,Kuwait,78145,69771,507
+2020-08-19,Kyrgyzstan,42325,35197,1498
+2020-08-19,Laos,22,19,0
+2020-08-19,Latvia,1326,1093,33
+2020-08-19,Lebanon,10347,2928,109
+2020-08-19,Lesotho,946,271,30
+2020-08-19,Liberia,1282,803,82
+2020-08-19,Libya,9463,1018,169
+2020-08-19,Liechtenstein,98,88,1
+2020-08-19,Lithuania,2496,1739,81
+2020-08-19,Luxembourg,7566,6813,124
+2020-08-19,MS Zaandam,9,0,2
+2020-08-19,Madagascar,14074,12921,173
+2020-08-19,Malawi,5240,2857,164
+2020-08-19,Malaysia,9235,8925,125
+2020-08-19,Maldives,6225,3788,24
+2020-08-19,Mali,2667,1993,125
+2020-08-19,Malta,1470,784,9
+2020-08-19,Mauritania,6829,6094,158
+2020-08-19,Mauritius,346,334,10
+2020-08-19,Mexico,537031,438375,58481
+2020-08-19,Moldova,31415,21885,914
+2020-08-19,Monaco,148,114,4
+2020-08-19,Mongolia,298,281,0
+2020-08-19,Montenegro,4174,3127,80
+2020-08-19,Morocco,46313,31576,743
+2020-08-19,Mozambique,3045,1291,19
+2020-08-19,Namibia,4665,2426,39
+2020-08-19,Nepal,28938,17700,120
+2020-08-19,Netherlands,66218,448,6204
+2020-08-19,New Zealand,1654,1531,22
+2020-08-19,Nicaragua,4311,2913,133
+2020-08-19,Niger,1167,1079,69
+2020-08-19,Nigeria,50488,37304,985
+2020-08-19,North Macedonia,13076,9625,551
+2020-08-19,Norway,10162,8857,262
+2020-08-19,Oman,83606,78188,603
+2020-08-19,Pakistan,290445,272128,6201
+2020-08-19,Panama,83754,58274,1827
+2020-08-19,Papua New Guinea,347,110,3
+2020-08-19,Paraguay,11133,6582,165
+2020-08-19,Peru,549321,377453,26658
+2020-08-19,Philippines,173774,113481,2795
+2020-08-19,Poland,58611,40099,1913
+2020-08-19,Portugal,54701,40129,1786
+2020-08-19,Qatar,115956,112658,193
+2020-08-19,Romania,73617,33566,3106
+2020-08-19,Russia,935066,747802,15951
+2020-08-19,Rwanda,2644,1698,10
+2020-08-19,Saint Kitts and Nevis,17,17,0
+2020-08-19,Saint Lucia,26,25,0
+2020-08-19,Saint Vincent and the Grenadines,58,56,0
+2020-08-19,San Marino,704,657,42
+2020-08-19,Sao Tome and Principe,885,826,15
+2020-08-19,Saudi Arabia,302686,274091,3506
+2020-08-19,Senegal,12446,7877,258
+2020-08-19,Serbia,30048,0,684
+2020-08-19,Seychelles,132,126,0
+2020-08-19,Sierra Leone,1961,1531,69
+2020-08-19,Singapore,56031,52810,27
+2020-08-19,Slovakia,3022,1997,33
+2020-08-19,Slovenia,2493,2079,129
+2020-08-19,Somalia,3265,2396,93
+2020-08-19,South Africa,596060,491441,12423
+2020-08-19,South Sudan,2494,1290,47
+2020-08-19,Spain,370867,150376,28797
+2020-08-19,Sri Lanka,2902,2760,11
+2020-08-19,Sudan,12546,6429,808
+2020-08-19,Suriname,3295,2227,54
+2020-08-19,Sweden,82323,0,5814
+2020-08-19,Switzerland,38760,33500,1996
+2020-08-19,Syria,1927,445,78
+2020-08-19,Taiwan*,486,457,7
+2020-08-19,Tajikistan,8166,6971,65
+2020-08-19,Tanzania,509,183,21
+2020-08-19,Thailand,3382,3199,58
+2020-08-19,Timor-Leste,25,25,0
+2020-08-19,Togo,1190,875,27
+2020-08-19,Trinidad and Tobago,686,140,12
+2020-08-19,Tunisia,2427,1395,60
+2020-08-19,Turkey,253108,233915,6039
+2020-08-19,US,5529824,1925049,173177
+2020-08-19,Uganda,1656,1188,16
+2020-08-19,Ukraine,98658,51358,2182
+2020-08-19,United Arab Emirates,65341,58022,367
+2020-08-19,United Kingdom,323008,1495,41483
+2020-08-19,Uruguay,1493,1228,40
+2020-08-19,Uzbekistan,37112,32944,248
+2020-08-19,Venezuela,36868,25416,303
+2020-08-19,Vietnam,994,533,25
+2020-08-19,West Bank and Gaza,17606,10312,119
+2020-08-19,Western Sahara,10,8,1
+2020-08-19,Yemen,1892,1055,539
+2020-08-19,Zambia,10218,9126,269
+2020-08-19,Zimbabwe,5643,4442,150
+2020-08-20,Afghanistan,37856,27681,1385
+2020-08-20,Albania,7967,3986,238
+2020-08-20,Algeria,40258,28281,1411
+2020-08-20,Andorra,1024,875,53
+2020-08-20,Angola,2044,742,93
+2020-08-20,Antigua and Barbuda,94,89,3
+2020-08-20,Argentina,320884,233651,6517
+2020-08-20,Armenia,42319,35476,836
+2020-08-20,Australia,24407,17852,472
+2020-08-20,Austria,24431,21093,729
+2020-08-20,Azerbaijan,34759,32511,510
+2020-08-20,Bahamas,1610,211,23
+2020-08-20,Bahrain,48303,44628,179
+2020-08-20,Bangladesh,287959,168991,3822
+2020-08-20,Barbados,156,123,7
+2020-08-20,Belarus,69950,67929,627
+2020-08-20,Belgium,80178,18131,9976
+2020-08-20,Belize,605,38,5
+2020-08-20,Benin,2095,1705,39
+2020-08-20,Bhutan,153,108,0
+2020-08-20,Bolivia,106065,41111,4305
+2020-08-20,Bosnia and Herzegovina,17029,10881,515
+2020-08-20,Botswana,1308,136,3
+2020-08-20,Brazil,3501975,2844318,112304
+2020-08-20,Brunei,143,139,3
+2020-08-20,Bulgaria,14962,10087,532
+2020-08-20,Burkina Faso,1297,1034,55
+2020-08-20,Burma,399,333,6
+2020-08-20,Burundi,422,336,1
+2020-08-20,Cabo Verde,3368,2462,37
+2020-08-20,Cambodia,273,253,0
+2020-08-20,Cameroon,18762,16540,408
+2020-08-20,Canada,125625,111811,9097
+2020-08-20,Central African Republic,4679,1755,61
+2020-08-20,Chad,972,869,76
+2020-08-20,Chile,391849,366063,10671
+2020-08-20,China,89567,83663,4709
+2020-08-20,Colombia,513719,339124,16183
+2020-08-20,Comoros,417,396,7
+2020-08-20,Congo (Brazzaville),3850,1625,77
+2020-08-20,Congo (Kinshasa),9757,8895,247
+2020-08-20,Costa Rica,31075,9939,333
+2020-08-20,Cote d'Ivoire,17249,14611,112
+2020-08-20,Croatia,7329,5472,168
+2020-08-20,Cuba,3565,2894,88
+2020-08-20,Cyprus,1395,878,20
+2020-08-20,Czechia,21045,15886,406
+2020-08-20,Denmark,16453,14057,621
+2020-08-20,Diamond Princess,712,651,13
+2020-08-20,Djibouti,5374,5216,59
+2020-08-20,Dominica,18,18,0
+2020-08-20,Dominican Republic,89010,57734,1505
+2020-08-20,Ecuador,105508,87660,6200
+2020-08-20,Egypt,97025,63462,5212
+2020-08-20,El Salvador,23964,11558,640
+2020-08-20,Equatorial Guinea,4892,2713,83
+2020-08-20,Eritrea,306,274,0
+2020-08-20,Estonia,2227,2009,63
+2020-08-20,Eswatini,4110,2643,81
+2020-08-20,Ethiopia,35836,13536,620
+2020-08-20,Fiji,28,20,1
+2020-08-20,Finland,7842,7100,334
+2020-08-20,France,256534,84214,30434
+2020-08-20,Gabon,8319,6614,53
+2020-08-20,Gambia,2401,435,81
+2020-08-20,Georgia,1370,1108,17
+2020-08-20,Germany,231292,205359,9263
+2020-08-20,Ghana,43260,41276,261
+2020-08-20,Greece,7934,1347,235
+2020-08-20,Grenada,24,24,0
+2020-08-20,Guatemala,65983,54351,2506
+2020-08-20,Guinea,8876,7628,53
+2020-08-20,Guinea-Bissau,2149,1015,33
+2020-08-20,Guyana,846,399,29
+2020-08-20,Haiti,7997,5447,196
+2020-08-20,Holy See,12,12,0
+2020-08-20,Honduras,52819,8082,1619
+2020-08-20,Hungary,5046,3678,609
+2020-08-20,Iceland,2040,1913,10
+2020-08-20,India,2905825,2158946,54849
+2020-08-20,Indonesia,147211,100674,6418
+2020-08-20,Iran,352558,304236,20264
+2020-08-20,Iraq,192797,137200,6208
+2020-08-20,Ireland,27676,23364,1776
+2020-08-20,Israel,99599,74579,795
+2020-08-20,Italy,256118,204686,35418
+2020-08-20,Jamaica,1290,788,15
+2020-08-20,Japan,59900,45110,1157
+2020-08-20,Jordan,1498,1261,11
+2020-08-20,Kazakhstan,104071,87920,1415
+2020-08-20,Kenya,31441,17869,516
+2020-08-20,"Korea, South",16670,14120,309
+2020-08-20,Kosovo,11545,7343,390
+2020-08-20,Kuwait,78767,70642,509
+2020-08-20,Kyrgyzstan,42507,35486,1498
+2020-08-20,Laos,22,19,0
+2020-08-20,Latvia,1327,1093,33
+2020-08-20,Lebanon,10952,3040,113
+2020-08-20,Lesotho,996,423,30
+2020-08-20,Liberia,1284,803,82
+2020-08-20,Libya,9707,1047,173
+2020-08-20,Liechtenstein,99,88,1
+2020-08-20,Lithuania,2528,1747,82
+2020-08-20,Luxembourg,7637,6903,124
+2020-08-20,MS Zaandam,9,0,2
+2020-08-20,Madagascar,14154,13038,177
+2020-08-20,Malawi,5282,2883,165
+2020-08-20,Malaysia,9240,8932,125
+2020-08-20,Maldives,6370,3915,24
+2020-08-20,Mali,2667,1993,125
+2020-08-20,Malta,1510,802,9
+2020-08-20,Mauritania,6848,6123,158
+2020-08-20,Mauritius,346,334,10
+2020-08-20,Mexico,543806,442782,59106
+2020-08-20,Moldova,31937,21885,921
+2020-08-20,Monaco,150,115,4
+2020-08-20,Mongolia,298,283,0
+2020-08-20,Montenegro,4229,3186,81
+2020-08-20,Morocco,47638,32806,775
+2020-08-20,Mozambique,3115,1380,20
+2020-08-20,Namibia,4912,2442,41
+2020-08-20,Nepal,29645,17964,126
+2020-08-20,Netherlands,66843,461,6215
+2020-08-20,New Zealand,1665,1538,22
+2020-08-20,Nicaragua,4311,2913,133
+2020-08-20,Niger,1169,1082,69
+2020-08-20,Nigeria,50964,37569,992
+2020-08-20,North Macedonia,13194,9752,554
+2020-08-20,Norway,10197,9150,264
+2020-08-20,Oman,83769,78386,609
+2020-08-20,Pakistan,290958,272804,6209
+2020-08-20,Panama,83855,59174,1844
+2020-08-20,Papua New Guinea,361,198,4
+2020-08-20,Paraguay,11817,6783,170
+2020-08-20,Peru,558420,380730,26834
+2020-08-20,Philippines,178022,114114,2883
+2020-08-20,Poland,59378,40481,1925
+2020-08-20,Portugal,54992,40264,1788
+2020-08-20,Qatar,116224,112924,193
+2020-08-20,Romania,74963,34196,3154
+2020-08-20,Russia,939833,753868,16058
+2020-08-20,Rwanda,2717,1705,11
+2020-08-20,Saint Kitts and Nevis,17,17,0
+2020-08-20,Saint Lucia,26,25,0
+2020-08-20,Saint Vincent and the Grenadines,58,56,0
+2020-08-20,San Marino,704,657,42
+2020-08-20,Sao Tome and Principe,888,829,15
+2020-08-20,Saudi Arabia,303973,275476,3548
+2020-08-20,Senegal,12559,8050,261
+2020-08-20,Serbia,30209,0,689
+2020-08-20,Seychelles,132,126,0
+2020-08-20,Sierra Leone,1969,1536,69
+2020-08-20,Singapore,56099,53119,27
+2020-08-20,Slovakia,3102,2014,33
+2020-08-20,Slovenia,2536,2079,129
+2020-08-20,Somalia,3265,2396,93
+2020-08-20,South Africa,599940,497169,12618
+2020-08-20,South Sudan,2494,1290,47
+2020-08-20,Spain,377906,150376,28813
+2020-08-20,Sri Lanka,2918,2765,11
+2020-08-20,Sudan,12582,6456,812
+2020-08-20,Suriname,3366,2383,55
+2020-08-20,Sweden,82656,0,5815
+2020-08-20,Switzerland,39026,33900,1998
+2020-08-20,Syria,2008,460,82
+2020-08-20,Taiwan*,486,457,7
+2020-08-20,Tajikistan,8203,7006,66
+2020-08-20,Tanzania,509,183,21
+2020-08-20,Thailand,3389,3218,58
+2020-08-20,Timor-Leste,25,25,0
+2020-08-20,Togo,1212,878,27
+2020-08-20,Trinidad and Tobago,767,140,12
+2020-08-20,Tunisia,2543,1397,63
+2020-08-20,Turkey,254520,234797,6058
+2020-08-20,US,5573847,1947035,174255
+2020-08-20,Uganda,1750,1194,19
+2020-08-20,Ukraine,100810,52086,2225
+2020-08-20,United Arab Emirates,65802,58153,369
+2020-08-20,United Kingdom,324203,1544,41489
+2020-08-20,Uruguay,1506,1242,41
+2020-08-20,Uzbekistan,37547,33261,252
+2020-08-20,Venezuela,37567,26330,311
+2020-08-20,Vietnam,1007,542,25
+2020-08-20,West Bank and Gaza,17989,10682,120
+2020-08-20,Western Sahara,10,8,1
+2020-08-20,Yemen,1899,1058,541
+2020-08-20,Zambia,10372,9126,274
+2020-08-20,Zimbabwe,5745,4525,151
+2020-08-21,Afghanistan,37894,28016,1385
+2020-08-21,Albania,8119,4096,240
+2020-08-21,Algeria,40667,28587,1418
+2020-08-21,Andorra,1045,875,53
+2020-08-21,Angola,2068,804,94
+2020-08-21,Antigua and Barbuda,94,89,3
+2020-08-21,Argentina,329043,239806,6730
+2020-08-21,Armenia,42477,35693,842
+2020-08-21,Australia,24602,18458,485
+2020-08-21,Austria,24762,21260,730
+2020-08-21,Azerbaijan,34921,32682,512
+2020-08-21,Bahamas,1703,221,27
+2020-08-21,Bahrain,48661,45166,181
+2020-08-21,Bangladesh,290360,172615,3861
+2020-08-21,Barbados,157,124,7
+2020-08-21,Belarus,70111,68256,632
+2020-08-21,Belgium,80894,18165,9985
+2020-08-21,Belize,648,43,5
+2020-08-21,Benin,2095,1705,39
+2020-08-21,Bhutan,154,110,0
+2020-08-21,Bolivia,107435,42141,4366
+2020-08-21,Bosnia and Herzegovina,17396,11157,526
+2020-08-21,Botswana,1308,136,3
+2020-08-21,Brazil,3532330,2855558,113358
+2020-08-21,Brunei,143,139,3
+2020-08-21,Bulgaria,15131,10282,539
+2020-08-21,Burkina Faso,1297,1034,55
+2020-08-21,Burma,435,337,6
+2020-08-21,Burundi,426,336,1
+2020-08-21,Cabo Verde,3412,2498,37
+2020-08-21,Cambodia,273,263,0
+2020-08-21,Cameroon,18762,16540,408
+2020-08-21,Canada,126319,112381,9110
+2020-08-21,Central African Republic,4679,1755,61
+2020-08-21,Chad,981,869,76
+2020-08-21,Chile,393769,367897,10723
+2020-08-21,China,89616,83793,4709
+2020-08-21,Colombia,522138,348940,16568
+2020-08-21,Comoros,417,396,7
+2020-08-21,Congo (Brazzaville),3850,1625,77
+2020-08-21,Congo (Kinshasa),9802,8920,248
+2020-08-21,Costa Rica,32134,10159,340
+2020-08-21,Cote d'Ivoire,17310,14820,112
+2020-08-21,Croatia,7594,5584,169
+2020-08-21,Cuba,3582,2951,89
+2020-08-21,Cyprus,1406,878,20
+2020-08-21,Czechia,21551,16040,411
+2020-08-21,Denmark,16525,14258,621
+2020-08-21,Diamond Princess,712,651,13
+2020-08-21,Djibouti,5382,5233,60
+2020-08-21,Dominica,18,18,0
+2020-08-21,Dominican Republic,89867,59132,1533
+2020-08-21,Ecuador,106481,87730,6248
+2020-08-21,Egypt,97148,64318,5231
+2020-08-21,El Salvador,24200,11781,646
+2020-08-21,Equatorial Guinea,4926,2713,83
+2020-08-21,Eritrea,306,274,0
+2020-08-21,Estonia,2244,2011,63
+2020-08-21,Eswatini,4128,2682,81
+2020-08-21,Ethiopia,37665,13913,637
+2020-08-21,Fiji,28,20,1
+2020-08-21,Finland,7871,7100,334
+2020-08-21,France,271960,84981,30508
+2020-08-21,Gabon,8388,6734,53
+2020-08-21,Gambia,2437,455,84
+2020-08-21,Georgia,1385,1128,17
+2020-08-21,Germany,233029,206656,9266
+2020-08-21,Ghana,43325,41408,261
+2020-08-21,Greece,8138,1347,238
+2020-08-21,Grenada,24,24,0
+2020-08-21,Guatemala,66941,55314,2532
+2020-08-21,Guinea,8932,7648,53
+2020-08-21,Guinea-Bissau,2149,1015,33
+2020-08-21,Guyana,881,433,30
+2020-08-21,Haiti,8016,5447,196
+2020-08-21,Holy See,12,12,0
+2020-08-21,Honduras,53381,8271,1632
+2020-08-21,Hungary,5098,3681,611
+2020-08-21,Iceland,2050,1920,10
+2020-08-21,India,2975701,2222577,55794
+2020-08-21,Indonesia,149408,102991,6500
+2020-08-21,Iran,354764,305866,20376
+2020-08-21,Iraq,197085,140446,6283
+2020-08-21,Ireland,27755,23364,1776
+2020-08-21,Israel,100716,77785,809
+2020-08-21,Italy,257065,204960,35427
+2020-08-21,Jamaica,1346,788,16
+2020-08-21,Japan,60949,46264,1175
+2020-08-21,Jordan,1532,1262,11
+2020-08-21,Kazakhstan,104313,89712,1415
+2020-08-21,Kenya,31763,18157,532
+2020-08-21,"Korea, South",17002,14169,309
+2020-08-21,Kosovo,12168,8149,448
+2020-08-21,Kuwait,79269,71264,511
+2020-08-21,Kyrgyzstan,42703,35831,1055
+2020-08-21,Laos,22,20,0
+2020-08-21,Latvia,1330,1093,33
+2020-08-21,Lebanon,11580,3204,116
+2020-08-21,Lesotho,1015,472,30
+2020-08-21,Liberia,1285,803,82
+2020-08-21,Libya,10121,1053,180
+2020-08-21,Liechtenstein,99,88,1
+2020-08-21,Lithuania,2564,1755,83
+2020-08-21,Luxembourg,7704,6969,124
+2020-08-21,MS Zaandam,9,0,2
+2020-08-21,Madagascar,14218,13206,178
+2020-08-21,Malawi,5322,2929,166
+2020-08-21,Malaysia,9249,8945,125
+2020-08-21,Maldives,6564,4012,26
+2020-08-21,Mali,2688,2007,125
+2020-08-21,Malta,1546,854,10
+2020-08-21,Mauritania,6885,6186,158
+2020-08-21,Mauritius,346,334,10
+2020-08-21,Mexico,549734,448344,59610
+2020-08-21,Moldova,32484,22683,929
+2020-08-21,Monaco,154,116,4
+2020-08-21,Mongolia,298,288,0
+2020-08-21,Montenegro,4277,3281,82
+2020-08-21,Morocco,49247,34199,817
+2020-08-21,Mozambique,3195,1406,20
+2020-08-21,Namibia,5227,2457,42
+2020-08-21,Nepal,30483,18214,137
+2020-08-21,Netherlands,67456,600,6219
+2020-08-21,New Zealand,1671,1538,22
+2020-08-21,Nicaragua,4311,2913,133
+2020-08-21,Niger,1172,1083,69
+2020-08-21,Nigeria,51304,37885,996
+2020-08-21,North Macedonia,13308,9977,557
+2020-08-21,Norway,10275,9150,264
+2020-08-21,Oman,83769,78386,609
+2020-08-21,Pakistan,291588,273579,6219
+2020-08-21,Panama,84392,59722,1859
+2020-08-21,Papua New Guinea,361,198,4
+2020-08-21,Paraguay,12536,7007,182
+2020-08-21,Peru,567059,380730,27034
+2020-08-21,Philippines,182365,114519,2940
+2020-08-21,Poland,60281,41029,1938
+2020-08-21,Portugal,55211,40473,1792
+2020-08-21,Qatar,116481,113216,193
+2020-08-21,Romania,76355,34523,3196
+2020-08-21,Russia,944671,759639,16148
+2020-08-21,Rwanda,2780,1712,11
+2020-08-21,Saint Kitts and Nevis,17,17,0
+2020-08-21,Saint Lucia,26,25,0
+2020-08-21,Saint Vincent and the Grenadines,58,56,0
+2020-08-21,San Marino,704,657,42
+2020-08-21,Sao Tome and Principe,891,830,15
+2020-08-21,Saudi Arabia,305186,277067,3580
+2020-08-21,Senegal,12689,8165,262
+2020-08-21,Serbia,30378,0,692
+2020-08-21,Seychelles,132,126,0
+2020-08-21,Sierra Leone,1972,1542,69
+2020-08-21,Singapore,56216,53651,27
+2020-08-21,Slovakia,3225,2045,33
+2020-08-21,Slovenia,2574,2079,130
+2020-08-21,Somalia,3265,2396,93
+2020-08-21,South Africa,603338,500102,12843
+2020-08-21,South Sudan,2497,1290,47
+2020-08-21,Spain,386054,150376,28838
+2020-08-21,Sri Lanka,2941,2789,11
+2020-08-21,Sudan,12623,6476,812
+2020-08-21,Suriname,3460,2498,56
+2020-08-21,Sweden,82954,0,5816
+2020-08-21,Switzerland,39332,33900,2000
+2020-08-21,Syria,2073,475,83
+2020-08-21,Taiwan*,487,457,7
+2020-08-21,Tajikistan,8241,7040,66
+2020-08-21,Tanzania,509,183,21
+2020-08-21,Thailand,3390,3219,58
+2020-08-21,Timor-Leste,25,25,0
+2020-08-21,Togo,1239,891,27
+2020-08-21,Trinidad and Tobago,864,162,12
+2020-08-21,Tunisia,2607,1420,64
+2020-08-21,Turkey,255723,235569,6080
+2020-08-21,US,5622470,1965056,175367
+2020-08-21,Uganda,1848,1199,19
+2020-08-21,Ukraine,102948,52769,2248
+2020-08-21,United Arab Emirates,66193,58296,370
+2020-08-21,United Kingdom,325263,1544,41491
+2020-08-21,Uruguay,1516,1249,42
+2020-08-21,Uzbekistan,38074,33989,260
+2020-08-21,Venezuela,38219,27306,317
+2020-08-21,Vietnam,1009,545,25
+2020-08-21,West Bank and Gaza,18313,11102,122
+2020-08-21,Western Sahara,10,8,1
+2020-08-21,Yemen,1906,1058,542
+2020-08-21,Zambia,10627,9126,277
+2020-08-21,Zimbabwe,5815,4587,152
+2020-08-22,Afghanistan,37953,28016,1385
+2020-08-22,Albania,8275,4184,245
+2020-08-22,Algeria,41068,28874,1424
+2020-08-22,Andorra,1045,875,53
+2020-08-22,Angola,2134,814,94
+2020-08-22,Antigua and Barbuda,94,89,3
+2020-08-22,Argentina,336802,245781,6848
+2020-08-22,Armenia,42616,35907,850
+2020-08-22,Australia,24811,18758,502
+2020-08-22,Austria,25062,21406,732
+2020-08-22,Azerbaijan,35105,32842,515
+2020-08-22,Bahamas,1703,221,27
+2020-08-22,Bahrain,49038,45589,183
+2020-08-22,Bangladesh,292625,175567,3907
+2020-08-22,Barbados,158,126,7
+2020-08-22,Belarus,70285,68577,637
+2020-08-22,Belgium,81468,18204,9988
+2020-08-22,Belize,668,44,6
+2020-08-22,Benin,2115,1705,39
+2020-08-22,Bhutan,155,112,0
+2020-08-22,Bolivia,108427,43887,4442
+2020-08-22,Bosnia and Herzegovina,17715,11329,532
+2020-08-22,Botswana,1308,136,3
+2020-08-22,Brazil,3582362,2913966,114250
+2020-08-22,Brunei,143,139,3
+2020-08-22,Bulgaria,15131,10282,539
+2020-08-22,Burkina Faso,1297,1034,55
+2020-08-22,Burma,441,338,6
+2020-08-22,Burundi,429,336,1
+2020-08-22,Cabo Verde,3455,2538,37
+2020-08-22,Cambodia,273,263,0
+2020-08-22,Cameroon,18762,16540,408
+2020-08-22,Canada,126560,112621,9117
+2020-08-22,Central African Republic,4679,1755,61
+2020-08-22,Chad,982,869,76
+2020-08-22,Chile,395708,369730,10792
+2020-08-22,China,89654,83924,4711
+2020-08-22,Colombia,522138,348940,16568
+2020-08-22,Comoros,417,396,7
+2020-08-22,Congo (Brazzaville),3850,1625,77
+2020-08-22,Congo (Kinshasa),9811,8920,251
+2020-08-22,Costa Rica,33084,10372,348
+2020-08-22,Cote d'Ivoire,17374,15106,113
+2020-08-22,Croatia,7900,5678,170
+2020-08-22,Cuba,3617,3006,89
+2020-08-22,Cyprus,1417,878,20
+2020-08-22,Czechia,21790,16087,411
+2020-08-22,Denmark,16637,14258,622
+2020-08-22,Diamond Princess,712,651,13
+2020-08-22,Djibouti,5382,5233,60
+2020-08-22,Dominica,19,18,0
+2020-08-22,Dominican Republic,90561,59949,1554
+2020-08-22,Ecuador,107089,87889,6277
+2020-08-22,Egypt,97237,65118,5243
+2020-08-22,El Salvador,24420,12021,654
+2020-08-22,Equatorial Guinea,4926,3795,83
+2020-08-22,Eritrea,306,274,0
+2020-08-22,Estonia,2265,2024,63
+2020-08-22,Eswatini,4189,2762,83
+2020-08-22,Ethiopia,39033,14480,662
+2020-08-22,Fiji,28,23,1
+2020-08-22,Finland,7906,7100,334
+2020-08-22,France,275562,85102,30517
+2020-08-22,Gabon,8388,6734,53
+2020-08-22,Gambia,2437,455,84
+2020-08-22,Georgia,1394,1132,17
+2020-08-22,Germany,233861,207606,9272
+2020-08-22,Ghana,43325,41408,261
+2020-08-22,Greece,8381,1347,240
+2020-08-22,Grenada,24,24,0
+2020-08-22,Guatemala,67856,56277,2580
+2020-08-22,Guinea,8932,7648,53
+2020-08-22,Guinea-Bissau,2149,1015,33
+2020-08-22,Guyana,925,433,31
+2020-08-22,Haiti,8050,5447,196
+2020-08-22,Holy See,12,12,0
+2020-08-22,Honduras,53983,8449,1643
+2020-08-22,Hungary,5133,3692,611
+2020-08-22,Iceland,2058,1936,10
+2020-08-22,India,3044940,2280566,56706
+2020-08-22,Indonesia,151498,105198,6594
+2020-08-22,Iran,356792,307702,20502
+2020-08-22,Iraq,201050,143393,6353
+2020-08-22,Ireland,27908,23364,1777
+2020-08-22,Israel,101933,78651,819
+2020-08-22,Italy,258136,205203,35430
+2020-08-22,Jamaica,1346,788,16
+2020-08-22,Japan,61916,47418,1179
+2020-08-22,Jordan,1576,1268,11
+2020-08-22,Kazakhstan,104543,91089,1415
+2020-08-22,Kenya,32118,18453,542
+2020-08-22,"Korea, South",17399,14200,309
+2020-08-22,Kosovo,12168,8149,448
+2020-08-22,Kuwait,79957,71770,513
+2020-08-22,Kyrgyzstan,42889,36056,1055
+2020-08-22,Laos,22,20,0
+2020-08-22,Latvia,1333,1093,33
+2020-08-22,Lebanon,12191,3346,121
+2020-08-22,Lesotho,1015,472,30
+2020-08-22,Liberia,1286,816,82
+2020-08-22,Libya,10437,1085,188
+2020-08-22,Liechtenstein,99,88,1
+2020-08-22,Lithuania,2594,1766,84
+2020-08-22,Luxembourg,7762,6969,124
+2020-08-22,MS Zaandam,9,0,2
+2020-08-22,Madagascar,14277,13332,178
+2020-08-22,Malawi,5382,2998,168
+2020-08-22,Malaysia,9257,8949,125
+2020-08-22,Maldives,6660,4113,26
+2020-08-22,Mali,2699,2010,125
+2020-08-22,Malta,1577,901,10
+2020-08-22,Mauritania,6894,6203,158
+2020-08-22,Mauritius,346,334,10
+2020-08-22,Mexico,556216,453104,60254
+2020-08-22,Moldova,33072,22683,935
+2020-08-22,Monaco,154,116,4
+2020-08-22,Mongolia,298,288,0
+2020-08-22,Montenegro,4313,3333,84
+2020-08-22,Morocco,50812,35040,858
+2020-08-22,Mozambique,3304,1474,20
+2020-08-22,Namibia,5538,2460,46
+2020-08-22,Nepal,31117,18350,146
+2020-08-22,Netherlands,68051,633,6225
+2020-08-22,New Zealand,1674,1538,22
+2020-08-22,Nicaragua,4311,2913,133
+2020-08-22,Niger,1172,1083,69
+2020-08-22,Nigeria,51905,38767,997
+2020-08-22,North Macedonia,13458,10052,563
+2020-08-22,Norway,10299,9150,264
+2020-08-22,Oman,83769,78386,609
+2020-08-22,Pakistan,292174,275317,6231
+2020-08-22,Panama,85480,60528,1878
+2020-08-22,Papua New Guinea,361,198,4
+2020-08-22,Paraguay,12974,7197,192
+2020-08-22,Peru,576067,380730,27245
+2020-08-22,Philippines,187249,114921,2966
+2020-08-22,Poland,61181,41661,1951
+2020-08-22,Portugal,55452,40652,1794
+2020-08-22,Qatar,116765,113531,193
+2020-08-22,Romania,77544,35079,3233
+2020-08-22,Russia,949531,765754,16268
+2020-08-22,Rwanda,2889,1754,11
+2020-08-22,Saint Kitts and Nevis,17,17,0
+2020-08-22,Saint Lucia,26,25,0
+2020-08-22,Saint Vincent and the Grenadines,58,56,0
+2020-08-22,San Marino,704,657,42
+2020-08-22,Sao Tome and Principe,892,831,15
+2020-08-22,Saudi Arabia,306370,278441,3619
+2020-08-22,Senegal,12850,8165,266
+2020-08-22,Serbia,30548,0,695
+2020-08-22,Seychelles,132,126,0
+2020-08-22,Sierra Leone,1980,1545,69
+2020-08-22,Singapore,56266,53920,27
+2020-08-22,Slovakia,3316,2147,33
+2020-08-22,Slovenia,2617,2079,131
+2020-08-22,Somalia,3269,2396,93
+2020-08-22,South Africa,607045,504127,12987
+2020-08-22,South Sudan,2497,1290,47
+2020-08-22,Spain,386054,150376,28838
+2020-08-22,Sri Lanka,2947,2798,12
+2020-08-22,Sudan,12682,6492,815
+2020-08-22,Suriname,3569,2559,57
+2020-08-22,Sweden,83114,0,5816
+2020-08-22,Switzerland,39627,34100,2000
+2020-08-22,Syria,2143,490,85
+2020-08-22,Taiwan*,487,457,7
+2020-08-22,Tajikistan,8277,7072,66
+2020-08-22,Tanzania,509,183,21
+2020-08-22,Thailand,3390,3220,58
+2020-08-22,Timor-Leste,26,25,0
+2020-08-22,Togo,1275,903,27
+2020-08-22,Trinidad and Tobago,930,165,13
+2020-08-22,Tunisia,2738,1434,68
+2020-08-22,Turkey,257032,236370,6102
+2020-08-22,US,5667070,1985484,176350
+2020-08-22,Uganda,2166,1199,20
+2020-08-22,Ukraine,105337,53458,2286
+2020-08-22,United Arab Emirates,66617,58408,372
+2020-08-22,United Kingdom,326595,1547,41509
+2020-08-22,Uruguay,1521,1264,42
+2020-08-22,Uzbekistan,38532,34576,267
+2020-08-22,Venezuela,38957,28453,323
+2020-08-22,Vietnam,1014,563,26
+2020-08-22,West Bank and Gaza,18476,11103,125
+2020-08-22,Western Sahara,10,8,1
+2020-08-22,Yemen,1907,1066,546
+2020-08-22,Zambia,10831,9942,279
+2020-08-22,Zimbabwe,5893,4629,153
+2020-08-23,Afghanistan,37999,28180,1387
+2020-08-23,Albania,8427,4332,250
+2020-08-23,Algeria,41460,29142,1435
+2020-08-23,Andorra,1045,875,53
+2020-08-23,Angola,2171,818,96
+2020-08-23,Antigua and Barbuda,94,89,3
+2020-08-23,Argentina,342154,251400,6985
+2020-08-23,Armenia,42792,35991,852
+2020-08-23,Australia,24915,19231,517
+2020-08-23,Austria,25253,21558,732
+2020-08-23,Azerbaijan,35274,32993,518
+2020-08-23,Bahamas,1765,227,29
+2020-08-23,Bahrain,49330,45981,184
+2020-08-23,Bangladesh,294598,179091,3941
+2020-08-23,Barbados,161,132,7
+2020-08-23,Belarus,70468,68839,642
+2020-08-23,Belgium,81936,18225,9992
+2020-08-23,Belize,686,44,6
+2020-08-23,Benin,2115,1705,39
+2020-08-23,Bhutan,155,112,0
+2020-08-23,Bolivia,109149,45396,4509
+2020-08-23,Bosnia and Herzegovina,17715,11329,532
+2020-08-23,Botswana,1308,136,3
+2020-08-23,Brazil,3605783,2947784,114744
+2020-08-23,Brunei,143,139,3
+2020-08-23,Bulgaria,15287,10338,545
+2020-08-23,Burkina Faso,1320,1043,55
+2020-08-23,Burma,450,341,6
+2020-08-23,Burundi,430,336,1
+2020-08-23,Cabo Verde,3509,2540,37
+2020-08-23,Cambodia,273,263,0
+2020-08-23,Cameroon,18762,16540,408
+2020-08-23,Canada,126817,112836,9119
+2020-08-23,Central African Republic,4679,1755,61
+2020-08-23,Chad,986,870,76
+2020-08-23,Chile,397665,371179,10852
+2020-08-23,China,89695,83988,4711
+2020-08-23,Colombia,541139,374024,17316
+2020-08-23,Comoros,417,396,7
+2020-08-23,Congo (Brazzaville),3850,1625,77
+2020-08-23,Congo (Kinshasa),9830,8934,251
+2020-08-23,Costa Rica,33820,10518,355
+2020-08-23,Cote d'Ivoire,17471,15301,113
+2020-08-23,Croatia,8175,5801,171
+2020-08-23,Cuba,3682,3044,91
+2020-08-23,Cyprus,1421,878,20
+2020-08-23,Czechia,21923,16125,412
+2020-08-23,Denmark,16715,14494,622
+2020-08-23,Diamond Princess,712,651,13
+2020-08-23,Djibouti,5382,5254,60
+2020-08-23,Dominica,19,18,0
+2020-08-23,Dominican Republic,91161,60670,1567
+2020-08-23,Ecuador,107769,94816,6310
+2020-08-23,Egypt,97340,65927,5262
+2020-08-23,El Salvador,24622,12246,661
+2020-08-23,Equatorial Guinea,4926,3795,83
+2020-08-23,Eritrea,306,274,0
+2020-08-23,Estonia,2272,2024,63
+2020-08-23,Eswatini,4225,2898,85
+2020-08-23,Ethiopia,40671,14995,678
+2020-08-23,Fiji,28,23,1
+2020-08-23,Finland,7920,7100,334
+2020-08-23,France,280459,85125,30518
+2020-08-23,Gabon,8388,6734,53
+2020-08-23,Gambia,2685,490,87
+2020-08-23,Georgia,1411,1132,17
+2020-08-23,Germany,234494,207985,9275
+2020-08-23,Ghana,43505,41532,261
+2020-08-23,Greece,8664,1347,242
+2020-08-23,Grenada,24,24,0
+2020-08-23,Guatemala,68188,56778,2594
+2020-08-23,Guinea,8967,7708,53
+2020-08-23,Guinea-Bissau,2149,1015,33
+2020-08-23,Guyana,955,490,31
+2020-08-23,Haiti,8082,5624,196
+2020-08-23,Holy See,12,12,0
+2020-08-23,Honduras,54511,8532,1654
+2020-08-23,Hungary,5155,3695,613
+2020-08-23,Iceland,2064,1939,10
+2020-08-23,India,3106348,2338035,57542
+2020-08-23,Indonesia,153535,107500,6680
+2020-08-23,Iran,358905,309464,20643
+2020-08-23,Iraq,204341,146409,6428
+2020-08-23,Ireland,27969,23364,1777
+2020-08-23,Israel,102663,79514,834
+2020-08-23,Italy,259345,205470,35437
+2020-08-23,Jamaica,1529,819,16
+2020-08-23,Japan,62658,48319,1188
+2020-08-23,Jordan,1609,1320,12
+2020-08-23,Kazakhstan,104718,92598,1415
+2020-08-23,Kenya,32364,18670,548
+2020-08-23,"Korea, South",17665,14219,309
+2020-08-23,Kosovo,12448,8505,467
+2020-08-23,Kuwait,80528,72307,515
+2020-08-23,Kyrgyzstan,43023,36397,1056
+2020-08-23,Laos,22,20,0
+2020-08-23,Latvia,1337,1093,33
+2020-08-23,Lebanon,12698,3625,123
+2020-08-23,Lesotho,1015,472,30
+2020-08-23,Liberia,1286,816,82
+2020-08-23,Libya,10437,1085,188
+2020-08-23,Liechtenstein,99,88,1
+2020-08-23,Lithuania,2635,1766,84
+2020-08-23,Luxembourg,7775,6969,124
+2020-08-23,MS Zaandam,9,0,2
+2020-08-23,Madagascar,14327,13355,178
+2020-08-23,Malawi,5414,3012,168
+2020-08-23,Malaysia,9267,8959,125
+2020-08-23,Maldives,6779,4222,26
+2020-08-23,Mali,2705,2018,125
+2020-08-23,Malta,1612,934,10
+2020-08-23,Mauritania,6905,6232,158
+2020-08-23,Mauritius,346,335,10
+2020-08-23,Mexico,560164,458123,60480
+2020-08-23,Moldova,33478,22683,940
+2020-08-23,Monaco,154,116,4
+2020-08-23,Mongolia,298,289,0
+2020-08-23,Montenegro,4343,3356,84
+2020-08-23,Morocco,52349,36343,888
+2020-08-23,Mozambique,3395,1503,20
+2020-08-23,Namibia,5854,2509,52
+2020-08-23,Nepal,31935,18631,149
+2020-08-23,Netherlands,68570,642,6225
+2020-08-23,New Zealand,1683,1538,22
+2020-08-23,Nicaragua,4311,2913,133
+2020-08-23,Niger,1172,1083,69
+2020-08-23,Nigeria,52227,38945,1002
+2020-08-23,North Macedonia,13595,10110,564
+2020-08-23,Norway,10323,9150,264
+2020-08-23,Oman,83769,78386,609
+2020-08-23,Pakistan,293261,276829,6244
+2020-08-23,Panama,86900,61420,1892
+2020-08-23,Papua New Guinea,401,232,4
+2020-08-23,Paraguay,13233,7417,205
+2020-08-23,Peru,585236,399357,27453
+2020-08-23,Philippines,189601,131367,2998
+2020-08-23,Poland,61762,42183,1955
+2020-08-23,Portugal,55597,40774,1796
+2020-08-23,Qatar,117008,113808,193
+2020-08-23,Romania,78505,35287,3272
+2020-08-23,Russia,954328,768906,16341
+2020-08-23,Rwanda,3089,1755,12
+2020-08-23,Saint Kitts and Nevis,17,17,0
+2020-08-23,Saint Lucia,26,25,0
+2020-08-23,Saint Vincent and the Grenadines,58,56,0
+2020-08-23,San Marino,704,657,42
+2020-08-23,Sao Tome and Principe,892,831,15
+2020-08-23,Saudi Arabia,307479,280143,3649
+2020-08-23,Senegal,12949,8455,269
+2020-08-23,Serbia,30657,0,698
+2020-08-23,Seychelles,132,126,0
+2020-08-23,Sierra Leone,1992,1550,69
+2020-08-23,Singapore,56353,54164,27
+2020-08-23,Slovakia,3356,2148,33
+2020-08-23,Slovenia,2651,2079,131
+2020-08-23,Somalia,3269,2396,93
+2020-08-23,South Africa,609773,506470,13059
+2020-08-23,South Sudan,2499,1290,47
+2020-08-23,Spain,386054,150376,28838
+2020-08-23,Sri Lanka,2953,2805,12
+2020-08-23,Sudan,12836,6497,815
+2020-08-23,Suriname,3607,2688,58
+2020-08-23,Sweden,83171,0,5816
+2020-08-23,Switzerland,39903,34400,2001
+2020-08-23,Syria,2217,505,89
+2020-08-23,Taiwan*,487,457,7
+2020-08-23,Tajikistan,8311,7108,66
+2020-08-23,Tanzania,509,183,21
+2020-08-23,Thailand,3395,3221,58
+2020-08-23,Timor-Leste,26,25,0
+2020-08-23,Togo,1277,910,27
+2020-08-23,Trinidad and Tobago,1007,165,14
+2020-08-23,Tunisia,2818,1443,71
+2020-08-23,Turkey,258249,237165,6121
+2020-08-23,US,5701645,1997761,176800
+2020-08-23,Uganda,2263,1199,20
+2020-08-23,Ukraine,107379,53968,2313
+2020-08-23,United Arab Emirates,67007,58488,375
+2020-08-23,United Kingdom,327643,1547,41515
+2020-08-23,Uruguay,1527,1276,42
+2020-08-23,Uzbekistan,38946,34987,273
+2020-08-23,Venezuela,39564,29966,329
+2020-08-23,Vietnam,1016,568,27
+2020-08-23,West Bank and Gaza,18802,11843,128
+2020-08-23,Western Sahara,10,8,1
+2020-08-23,Yemen,1911,1086,553
+2020-08-23,Zambia,11082,9942,280
+2020-08-23,Zimbabwe,5930,4872,155
+2020-08-24,Afghanistan,38054,28360,1389
+2020-08-24,Albania,8605,4413,254
+2020-08-24,Algeria,41858,29369,1446
+2020-08-24,Andorra,1060,877,53
+2020-08-24,Angola,2222,877,100
+2020-08-24,Antigua and Barbuda,94,89,3
+2020-08-24,Argentina,350867,256789,7366
+2020-08-24,Armenia,42825,36049,854
+2020-08-24,Australia,25053,19601,525
+2020-08-24,Austria,25495,21657,733
+2020-08-24,Azerbaijan,35426,33104,519
+2020-08-24,Bahamas,1765,227,29
+2020-08-24,Bahrain,49719,46311,185
+2020-08-24,Bangladesh,297083,182875,3983
+2020-08-24,Barbados,161,132,7
+2020-08-24,Belarus,70645,68925,646
+2020-08-24,Belgium,82092,18242,9996
+2020-08-24,Belize,713,45,10
+2020-08-24,Benin,2115,1705,39
+2020-08-24,Bhutan,156,117,0
+2020-08-24,Bolivia,110148,47050,4578
+2020-08-24,Bosnia and Herzegovina,18029,11861,547
+2020-08-24,Botswana,1562,199,3
+2020-08-24,Brazil,3622861,2976256,115309
+2020-08-24,Brunei,143,139,3
+2020-08-24,Bulgaria,15386,10497,563
+2020-08-24,Burkina Faso,1338,1050,55
+2020-08-24,Burma,474,341,6
+2020-08-24,Burundi,430,345,1
+2020-08-24,Cabo Verde,3532,2599,37
+2020-08-24,Cambodia,273,263,0
+2020-08-24,Cameroon,18762,16540,408
+2020-08-24,Canada,127594,113449,9129
+2020-08-24,Central African Republic,4679,1755,61
+2020-08-24,Chad,987,870,76
+2020-08-24,Chile,399568,372464,10916
+2020-08-24,China,89718,84058,4711
+2020-08-24,Colombia,551688,384165,17612
+2020-08-24,Comoros,417,396,7
+2020-08-24,Congo (Brazzaville),3979,1742,78
+2020-08-24,Congo (Kinshasa),9842,8953,251
+2020-08-24,Costa Rica,34463,12758,362
+2020-08-24,Cote d'Ivoire,17506,15633,114
+2020-08-24,Croatia,8311,5926,173
+2020-08-24,Cuba,3717,3079,91
+2020-08-24,Cyprus,1451,878,20
+2020-08-24,Czechia,22181,16376,415
+2020-08-24,Denmark,16821,14661,623
+2020-08-24,Diamond Princess,712,651,13
+2020-08-24,Djibouti,5383,5273,60
+2020-08-24,Dominica,20,18,0
+2020-08-24,Dominican Republic,91608,61558,1573
+2020-08-24,Ecuador,108289,94878,6322
+2020-08-24,Egypt,97478,66817,5280
+2020-08-24,El Salvador,24811,12492,669
+2020-08-24,Equatorial Guinea,4926,3795,83
+2020-08-24,Eritrea,306,274,0
+2020-08-24,Estonia,2275,2025,64
+2020-08-24,Eswatini,4304,2936,85
+2020-08-24,Ethiopia,42143,15262,692
+2020-08-24,Fiji,28,23,1
+2020-08-24,Finland,7938,7100,335
+2020-08-24,France,282414,85352,30533
+2020-08-24,Gabon,8409,6959,53
+2020-08-24,Gambia,2585,490,87
+2020-08-24,Georgia,1421,1137,18
+2020-08-24,Germany,236122,208653,9276
+2020-08-24,Ghana,43622,41695,263
+2020-08-24,Greece,8819,1347,242
+2020-08-24,Grenada,24,24,0
+2020-08-24,Guatemala,68533,57735,2611
+2020-08-24,Guinea,9076,7928,55
+2020-08-24,Guinea-Bissau,2149,1015,33
+2020-08-24,Guyana,1029,510,31
+2020-08-24,Haiti,8110,5624,196
+2020-08-24,Holy See,12,12,0
+2020-08-24,Honduras,55479,8556,1683
+2020-08-24,Hungary,5191,3695,613
+2020-08-24,Iceland,2073,1946,10
+2020-08-24,India,3167323,2404585,58390
+2020-08-24,Indonesia,155412,111060,6759
+2020-08-24,Iran,361150,311365,20776
+2020-08-24,Iraq,207985,150389,6519
+2020-08-24,Ireland,28116,23364,1777
+2020-08-24,Israel,104472,81642,847
+2020-08-24,Italy,260298,205662,35441
+2020-08-24,Jamaica,1612,819,16
+2020-08-24,Japan,63158,49089,1201
+2020-08-24,Jordan,1639,1335,14
+2020-08-24,Kazakhstan,104902,93405,1415
+2020-08-24,Kenya,32557,18895,554
+2020-08-24,"Korea, South",17945,14286,310
+2020-08-24,Kosovo,12448,8505,467
+2020-08-24,Kuwait,80960,72925,518
+2020-08-24,Kyrgyzstan,43126,36615,1057
+2020-08-24,Laos,22,20,0
+2020-08-24,Latvia,1337,1093,33
+2020-08-24,Lebanon,13155,3704,126
+2020-08-24,Lesotho,1015,472,30
+2020-08-24,Liberia,1290,819,82
+2020-08-24,Libya,11009,1096,199
+2020-08-24,Liechtenstein,100,90,1
+2020-08-24,Lithuania,2673,1766,85
+2020-08-24,Luxembourg,7794,7106,124
+2020-08-24,MS Zaandam,9,0,2
+2020-08-24,Madagascar,14402,13436,178
+2020-08-24,Malawi,5419,3059,169
+2020-08-24,Malaysia,9274,8965,125
+2020-08-24,Maldives,6912,4297,27
+2020-08-24,Mali,2708,2025,125
+2020-08-24,Malta,1667,977,10
+2020-08-24,Mauritania,6928,6282,158
+2020-08-24,Mauritius,347,335,10
+2020-08-24,Mexico,563705,466209,60800
+2020-08-24,Moldova,33828,23570,945
+2020-08-24,Monaco,154,116,4
+2020-08-24,Mongolia,298,289,0
+2020-08-24,Montenegro,4378,3420,84
+2020-08-24,Morocco,53252,37478,920
+2020-08-24,Mozambique,3440,1661,21
+2020-08-24,Namibia,6030,2563,56
+2020-08-24,Nepal,32678,18806,157
+2020-08-24,Netherlands,69224,649,6227
+2020-08-24,New Zealand,1690,1539,22
+2020-08-24,Nicaragua,4311,2913,133
+2020-08-24,Niger,1172,1084,69
+2020-08-24,Nigeria,52548,39257,1004
+2020-08-24,North Macedonia,13673,10150,568
+2020-08-24,Norway,10395,9150,264
+2020-08-24,Oman,84509,78912,637
+2020-08-24,Pakistan,293261,276829,6244
+2020-08-24,Panama,87485,62185,1906
+2020-08-24,Papua New Guinea,401,232,4
+2020-08-24,Paraguay,13602,7649,219
+2020-08-24,Peru,594326,399357,27663
+2020-08-24,Philippines,194252,132042,3010
+2020-08-24,Poland,62310,42448,1960
+2020-08-24,Portugal,55720,40880,1801
+2020-08-24,Qatar,117266,114099,194
+2020-08-24,Romania,79330,35517,3309
+2020-08-24,Russia,959016,771357,16406
+2020-08-24,Rwanda,3306,1785,14
+2020-08-24,Saint Kitts and Nevis,17,17,0
+2020-08-24,Saint Lucia,26,25,0
+2020-08-24,Saint Vincent and the Grenadines,58,56,0
+2020-08-24,San Marino,704,657,42
+2020-08-24,Sao Tome and Principe,892,832,15
+2020-08-24,Saudi Arabia,308654,282888,3691
+2020-08-24,Senegal,13013,8595,272
+2020-08-24,Serbia,30714,0,701
+2020-08-24,Seychelles,132,126,0
+2020-08-24,Sierra Leone,1997,1557,69
+2020-08-24,Singapore,56404,54587,27
+2020-08-24,Slovakia,3424,2153,33
+2020-08-24,Slovenia,2665,2122,133
+2020-08-24,Somalia,3269,2443,93
+2020-08-24,South Africa,611450,516494,13159
+2020-08-24,South Sudan,2504,1290,47
+2020-08-24,Spain,405436,150376,28872
+2020-08-24,Sri Lanka,2959,2811,12
+2020-08-24,Sudan,12903,6538,818
+2020-08-24,Suriname,3632,2758,60
+2020-08-24,Sweden,83353,0,5816
+2020-08-24,Switzerland,40060,34400,2001
+2020-08-24,Syria,2293,519,92
+2020-08-24,Taiwan*,487,457,7
+2020-08-24,Tajikistan,8346,7142,67
+2020-08-24,Tanzania,509,183,21
+2020-08-24,Thailand,3402,3229,58
+2020-08-24,Timor-Leste,26,25,0
+2020-08-24,Togo,1295,914,27
+2020-08-24,Trinidad and Tobago,1099,165,15
+2020-08-24,Tunisia,2893,1454,71
+2020-08-24,Turkey,259692,237908,6139
+2020-08-24,US,5739536,2020774,177245
+2020-08-24,Uganda,2362,1248,22
+2020-08-24,Ukraine,109234,54262,2335
+2020-08-24,United Arab Emirates,67282,58582,376
+2020-08-24,United Kingdom,328620,1550,41519
+2020-08-24,Uruguay,1533,1295,42
+2020-08-24,Uzbekistan,39348,35551,280
+2020-08-24,Venezuela,40338,31080,337
+2020-08-24,Vietnam,1022,587,27
+2020-08-24,West Bank and Gaza,19213,11870,133
+2020-08-24,Western Sahara,10,8,1
+2020-08-24,Yemen,1916,1090,555
+2020-08-24,Zambia,11148,10208,280
+2020-08-24,Zimbabwe,6070,4950,155
+2020-08-25,Afghanistan,38070,28440,1397
+2020-08-25,Albania,8759,4530,259
+2020-08-25,Algeria,42228,29587,1456
+2020-08-25,Andorra,1060,877,53
+2020-08-25,Angola,2283,977,102
+2020-08-25,Antigua and Barbuda,94,89,3
+2020-08-25,Argentina,359638,263202,7563
+2020-08-25,Armenia,42936,36475,858
+2020-08-25,Australia,25204,20098,549
+2020-08-25,Austria,25706,21888,733
+2020-08-25,Azerbaijan,35559,33190,521
+2020-08-25,Bahamas,1765,227,29
+2020-08-25,Bahrain,50076,46673,186
+2020-08-25,Bangladesh,299628,186756,4028
+2020-08-25,Barbados,164,132,7
+2020-08-25,Belarus,70727,69097,652
+2020-08-25,Belgium,82447,18291,9996
+2020-08-25,Belize,730,48,10
+2020-08-25,Benin,2115,1705,39
+2020-08-25,Bhutan,173,118,0
+2020-08-25,Bolivia,110999,48875,4664
+2020-08-25,Bosnia and Herzegovina,18326,12081,560
+2020-08-25,Botswana,1562,199,3
+2020-08-25,Brazil,3669995,3032551,116580
+2020-08-25,Brunei,144,139,3
+2020-08-25,Bulgaria,15589,10601,572
+2020-08-25,Burkina Faso,1338,1050,55
+2020-08-25,Burma,504,341,6
+2020-08-25,Burundi,430,345,1
+2020-08-25,Cabo Verde,3568,2673,37
+2020-08-25,Cambodia,273,264,0
+2020-08-25,Cameroon,18973,16540,410
+2020-08-25,Canada,127903,113809,9136
+2020-08-25,Central African Republic,4691,1773,61
+2020-08-25,Chad,995,871,77
+2020-08-25,Chile,400985,374463,10958
+2020-08-25,China,89752,84168,4712
+2020-08-25,Colombia,562113,395463,17889
+2020-08-25,Comoros,417,399,7
+2020-08-25,Congo (Brazzaville),3979,1742,78
+2020-08-25,Congo (Kinshasa),9891,8972,251
+2020-08-25,Costa Rica,35305,13073,376
+2020-08-25,Cote d'Ivoire,17562,15908,114
+2020-08-25,Croatia,8530,6124,175
+2020-08-25,Cuba,3744,3102,91
+2020-08-25,Cyprus,1474,935,20
+2020-08-25,Czechia,22548,16662,416
+2020-08-25,Denmark,16905,14823,623
+2020-08-25,Diamond Princess,712,651,13
+2020-08-25,Djibouti,5383,5282,60
+2020-08-25,Dominica,20,18,0
+2020-08-25,Dominican Republic,92217,62460,1585
+2020-08-25,Ecuador,109030,95025,6368
+2020-08-25,Egypt,97619,67717,5298
+2020-08-25,El Salvador,24986,12717,678
+2020-08-25,Equatorial Guinea,4926,3795,83
+2020-08-25,Eritrea,315,276,0
+2020-08-25,Estonia,2294,2038,64
+2020-08-25,Eswatini,4327,2959,86
+2020-08-25,Ethiopia,43688,15796,709
+2020-08-25,Fiji,28,23,1
+2020-08-25,Finland,7981,7100,335
+2020-08-25,France,285902,85757,30549
+2020-08-25,Gabon,8409,6959,53
+2020-08-25,Gambia,2686,601,90
+2020-08-25,Georgia,1429,1150,19
+2020-08-25,Germany,237583,210333,9281
+2020-08-25,Ghana,43717,41843,270
+2020-08-25,Greece,8987,1347,243
+2020-08-25,Grenada,24,24,0
+2020-08-25,Guatemala,69651,57891,2630
+2020-08-25,Guinea,9128,8040,57
+2020-08-25,Guinea-Bissau,2149,1015,33
+2020-08-25,Guyana,1060,523,31
+2020-08-25,Haiti,8112,5624,196
+2020-08-25,Holy See,12,12,0
+2020-08-25,Honduras,55877,9124,1703
+2020-08-25,Hungary,5215,3716,614
+2020-08-25,Iceland,2077,1953,10
+2020-08-25,India,3224547,2458339,59357
+2020-08-25,Indonesia,157859,112867,6858
+2020-08-25,Iran,363363,313058,20901
+2020-08-25,Iraq,211947,153761,6596
+2020-08-25,Ireland,28201,23364,1777
+2020-08-25,Israel,106460,83822,859
+2020-08-25,Italy,261174,206015,35445
+2020-08-25,Jamaica,1732,840,19
+2020-08-25,Japan,63888,50092,1219
+2020-08-25,Jordan,1716,1344,14
+2020-08-25,Kazakhstan,105075,93990,1523
+2020-08-25,Kenya,32803,19055,559
+2020-08-25,"Korea, South",18265,14368,312
+2020-08-25,Kosovo,12683,8788,488
+2020-08-25,Kuwait,81573,73402,519
+2020-08-25,Kyrgyzstan,43245,36925,1057
+2020-08-25,Laos,22,21,0
+2020-08-25,Latvia,1342,1135,33
+2020-08-25,Lebanon,13687,3723,138
+2020-08-25,Lesotho,1049,472,30
+2020-08-25,Liberia,1295,821,82
+2020-08-25,Libya,11281,1112,203
+2020-08-25,Liechtenstein,102,94,1
+2020-08-25,Lithuania,2694,1785,85
+2020-08-25,Luxembourg,7838,7114,124
+2020-08-25,MS Zaandam,9,0,2
+2020-08-25,Madagascar,14475,13492,178
+2020-08-25,Malawi,5423,3066,170
+2020-08-25,Malaysia,9285,8971,125
+2020-08-25,Maldives,7047,4439,28
+2020-08-25,Mali,2713,2041,125
+2020-08-25,Malta,1705,1029,10
+2020-08-25,Mauritania,6960,6321,158
+2020-08-25,Mauritius,348,335,10
+2020-08-25,Mexico,568621,469206,61450
+2020-08-25,Moldova,34358,23869,960
+2020-08-25,Monaco,154,116,4
+2020-08-25,Mongolia,300,289,0
+2020-08-25,Montenegro,4444,3480,87
+2020-08-25,Morocco,54528,38293,955
+2020-08-25,Mozambique,3508,1809,21
+2020-08-25,Namibia,6160,2732,57
+2020-08-25,Nepal,33533,19119,164
+2020-08-25,Netherlands,69683,753,6233
+2020-08-25,New Zealand,1695,1539,22
+2020-08-25,Nicaragua,4494,2913,137
+2020-08-25,Niger,1173,1084,69
+2020-08-25,Nigeria,52800,39964,1007
+2020-08-25,North Macedonia,13799,10210,573
+2020-08-25,Norway,10454,9150,264
+2020-08-25,Oman,84652,79147,642
+2020-08-25,Pakistan,293711,278425,6255
+2020-08-25,Panama,88381,62759,1919
+2020-08-25,Papua New Guinea,419,232,4
+2020-08-25,Paraguay,14228,7883,231
+2020-08-25,Peru,600438,414577,27813
+2020-08-25,Philippines,197164,132396,3038
+2020-08-25,Poland,63073,42784,1977
+2020-08-25,Portugal,55912,41021,1805
+2020-08-25,Qatar,117498,114318,194
+2020-08-25,Romania,80390,35816,3367
+2020-08-25,Russia,963655,777960,16524
+2020-08-25,Rwanda,3537,1806,15
+2020-08-25,Saint Kitts and Nevis,17,17,0
+2020-08-25,Saint Lucia,26,25,0
+2020-08-25,Saint Vincent and the Grenadines,58,57,0
+2020-08-25,San Marino,710,658,42
+2020-08-25,Sao Tome and Principe,892,833,15
+2020-08-25,Saudi Arabia,309768,283932,3722
+2020-08-25,Senegal,13056,8715,274
+2020-08-25,Serbia,30820,0,705
+2020-08-25,Seychelles,136,127,0
+2020-08-25,Sierra Leone,2001,1569,69
+2020-08-25,Singapore,56435,54816,27
+2020-08-25,Slovakia,3452,2167,33
+2020-08-25,Slovenia,2686,2139,133
+2020-08-25,Somalia,3275,2443,95
+2020-08-25,South Africa,613017,520381,13308
+2020-08-25,South Sudan,2507,1290,47
+2020-08-25,Spain,412553,150376,28924
+2020-08-25,Sri Lanka,2971,2816,12
+2020-08-25,Sudan,12974,6557,819
+2020-08-25,Suriname,3698,2818,61
+2020-08-25,Sweden,83578,0,5816
+2020-08-25,Switzerland,40262,34400,2002
+2020-08-25,Syria,2365,533,95
+2020-08-25,Taiwan*,487,457,7
+2020-08-25,Tajikistan,8379,7179,67
+2020-08-25,Tanzania,509,183,21
+2020-08-25,Thailand,3402,3229,58
+2020-08-25,Timor-Leste,26,25,0
+2020-08-25,Togo,1309,919,27
+2020-08-25,Trinidad and Tobago,1252,178,15
+2020-08-25,Tunisia,3069,1456,71
+2020-08-25,Turkey,261194,238795,6163
+2020-08-25,US,5777710,2053699,178486
+2020-08-25,Uganda,2426,1267,25
+2020-08-25,Ukraine,110949,54657,2362
+2020-08-25,United Arab Emirates,67621,58754,377
+2020-08-25,United Kingdom,329821,1551,41535
+2020-08-25,Uruguay,1536,1309,43
+2020-08-25,Uzbekistan,39641,35869,284
+2020-08-25,Venezuela,41158,32015,343
+2020-08-25,Vietnam,1029,592,27
+2020-08-25,West Bank and Gaza,19678,13162,133
+2020-08-25,Western Sahara,10,8,1
+2020-08-25,Yemen,1924,1091,557
+2020-08-25,Zambia,11285,10400,282
+2020-08-25,Zimbabwe,6196,4961,166
+2020-08-26,Afghanistan,38113,29042,1401
+2020-08-26,Albania,8927,4633,263
+2020-08-26,Algeria,42619,29886,1465
+2020-08-26,Andorra,1098,893,53
+2020-08-26,Angola,2332,977,103
+2020-08-26,Antigua and Barbuda,94,89,3
+2020-08-26,Argentina,370188,268801,7839
+2020-08-26,Armenia,43067,36726,861
+2020-08-26,Australia,25322,20099,572
+2020-08-26,Austria,26033,22145,733
+2020-08-26,Azerbaijan,35707,33281,522
+2020-08-26,Bahamas,1765,227,29
+2020-08-26,Bahrain,50393,47049,186
+2020-08-26,Bangladesh,302147,190183,4082
+2020-08-26,Barbados,165,139,7
+2020-08-26,Belarus,70974,69378,657
+2020-08-26,Belgium,83030,18331,9879
+2020-08-26,Belize,760,54,11
+2020-08-26,Benin,2145,1738,40
+2020-08-26,Bhutan,173,118,0
+2020-08-26,Bolivia,112094,50397,4726
+2020-08-26,Bosnia and Herzegovina,18609,12336,571
+2020-08-26,Botswana,1562,199,3
+2020-08-26,Brazil,3717156,3082447,117665
+2020-08-26,Brunei,144,139,3
+2020-08-26,Bulgaria,15751,10750,586
+2020-08-26,Burkina Faso,1352,1058,55
+2020-08-26,Burma,580,345,6
+2020-08-26,Burundi,430,345,1
+2020-08-26,Cabo Verde,3630,2713,38
+2020-08-26,Cambodia,273,264,0
+2020-08-26,Cameroon,18973,16540,410
+2020-08-26,Canada,128380,114220,9141
+2020-08-26,Central African Republic,4698,1778,61
+2020-08-26,Chad,998,873,77
+2020-08-26,Chile,402365,376268,10990
+2020-08-26,China,89784,84251,4713
+2020-08-26,Colombia,572243,407114,18184
+2020-08-26,Comoros,417,399,7
+2020-08-26,Congo (Brazzaville),3979,1742,78
+2020-08-26,Congo (Kinshasa),9912,8987,254
+2020-08-26,Costa Rica,36307,13317,386
+2020-08-26,Cote d'Ivoire,17603,15941,114
+2020-08-26,Croatia,8888,6362,175
+2020-08-26,Cuba,3759,3159,92
+2020-08-26,Cyprus,1484,935,20
+2020-08-26,Czechia,22951,16954,418
+2020-08-26,Denmark,16962,14974,623
+2020-08-26,Diamond Princess,712,651,13
+2020-08-26,Djibouti,5383,5297,60
+2020-08-26,Dominica,20,18,0
+2020-08-26,Dominican Republic,92557,63478,1613
+2020-08-26,Ecuador,110549,95097,6410
+2020-08-26,Egypt,97825,68713,5317
+2020-08-26,El Salvador,25140,13046,687
+2020-08-26,Equatorial Guinea,4928,3798,83
+2020-08-26,Eritrea,315,276,0
+2020-08-26,Estonia,2311,2054,64
+2020-08-26,Eswatini,4387,3078,88
+2020-08-26,Ethiopia,45221,16311,725
+2020-08-26,Fiji,28,23,1
+2020-08-26,Finland,8002,7200,335
+2020-08-26,France,291374,85811,30549
+2020-08-26,Gabon,8468,7066,53
+2020-08-26,Gambia,2708,611,93
+2020-08-26,Georgia,1436,1150,19
+2020-08-26,Germany,239010,211691,9285
+2020-08-26,Ghana,43769,42048,270
+2020-08-26,Greece,9280,1347,248
+2020-08-26,Grenada,24,24,0
+2020-08-26,Guatemala,70714,58783,2662
+2020-08-26,Guinea,9167,8150,57
+2020-08-26,Guinea-Bissau,2205,1127,34
+2020-08-26,Guyana,1093,534,31
+2020-08-26,Haiti,8122,5677,197
+2020-08-26,Holy See,12,12,0
+2020-08-26,Honduras,56649,9169,1747
+2020-08-26,Hungary,5288,3734,614
+2020-08-26,Iceland,2082,1957,10
+2020-08-26,India,3310234,2523771,60472
+2020-08-26,Indonesia,160165,115409,6944
+2020-08-26,Iran,365606,314870,21020
+2020-08-26,Iraq,215784,157215,6668
+2020-08-26,Ireland,28363,23364,1777
+2020-08-26,Israel,108403,86466,875
+2020-08-26,Italy,262540,206329,35458
+2020-08-26,Jamaica,1804,846,19
+2020-08-26,Japan,64779,51407,1230
+2020-08-26,Jordan,1756,1355,15
+2020-08-26,Kazakhstan,105243,94713,1523
+2020-08-26,Kenya,33016,19296,564
+2020-08-26,"Korea, South",18706,14461,313
+2020-08-26,Kosovo,12683,8788,488
+2020-08-26,Kuwait,82271,73906,521
+2020-08-26,Kyrgyzstan,43358,37217,1057
+2020-08-26,Laos,22,21,0
+2020-08-26,Latvia,1360,1135,33
+2020-08-26,Lebanon,14248,3955,139
+2020-08-26,Lesotho,1051,526,31
+2020-08-26,Liberia,1298,832,82
+2020-08-26,Libya,11834,1152,210
+2020-08-26,Liechtenstein,102,94,1
+2020-08-26,Lithuania,2726,1794,85
+2020-08-26,Luxembourg,7928,7140,124
+2020-08-26,MS Zaandam,9,0,2
+2020-08-26,Madagascar,14554,13582,181
+2020-08-26,Malawi,5474,3085,173
+2020-08-26,Malaysia,9291,8978,125
+2020-08-26,Maldives,7225,4561,28
+2020-08-26,Mali,2717,2052,126
+2020-08-26,Malta,1751,1077,10
+2020-08-26,Mauritania,6977,6356,158
+2020-08-26,Mauritius,348,335,10
+2020-08-26,Mexico,573888,472197,62076
+2020-08-26,Moldova,34982,24156,967
+2020-08-26,Monaco,154,116,4
+2020-08-26,Mongolia,301,291,0
+2020-08-26,Montenegro,4499,3558,88
+2020-08-26,Morocco,55864,40586,984
+2020-08-26,Mozambique,3590,1927,21
+2020-08-26,Namibia,6431,2734,59
+2020-08-26,Nepal,34418,19504,175
+2020-08-26,Netherlands,70382,807,6241
+2020-08-26,New Zealand,1702,1554,22
+2020-08-26,Nicaragua,4494,2913,137
+2020-08-26,Niger,1173,1084,69
+2020-08-26,Nigeria,53021,40281,1010
+2020-08-26,North Macedonia,13914,10507,578
+2020-08-26,Norway,10504,9150,264
+2020-08-26,Oman,84818,79409,646
+2020-08-26,Pakistan,294193,278939,6267
+2020-08-26,Panama,89082,63595,1932
+2020-08-26,Papua New Guinea,419,232,4
+2020-08-26,Paraguay,14872,8134,247
+2020-08-26,Peru,607382,414577,28001
+2020-08-26,Philippines,202361,133460,3137
+2020-08-26,Poland,63802,43399,1994
+2020-08-26,Portugal,56274,41184,1807
+2020-08-26,Qatar,117742,114558,194
+2020-08-26,Romania,81646,36286,3421
+2020-08-26,Russia,968297,784277,16638
+2020-08-26,Rwanda,3625,1810,15
+2020-08-26,Saint Kitts and Nevis,17,17,0
+2020-08-26,Saint Lucia,26,25,0
+2020-08-26,Saint Vincent and the Grenadines,58,57,0
+2020-08-26,San Marino,710,658,42
+2020-08-26,Sao Tome and Principe,892,842,15
+2020-08-26,Saudi Arabia,310836,284945,3755
+2020-08-26,Senegal,13186,8852,275
+2020-08-26,Serbia,30974,0,707
+2020-08-26,Seychelles,136,127,0
+2020-08-26,Sierra Leone,2003,1577,69
+2020-08-26,Singapore,56495,54971,27
+2020-08-26,Slovakia,3536,2192,33
+2020-08-26,Slovenia,2722,2170,133
+2020-08-26,Somalia,3275,2443,95
+2020-08-26,South Africa,615701,525242,13502
+2020-08-26,South Sudan,2510,1290,47
+2020-08-26,Spain,419849,150376,28971
+2020-08-26,Sri Lanka,2984,2819,12
+2020-08-26,Sudan,12974,6557,819
+2020-08-26,Suriname,3724,2863,62
+2020-08-26,Sweden,83824,0,5816
+2020-08-26,Switzerland,40645,34800,2003
+2020-08-26,Syria,2440,550,98
+2020-08-26,Taiwan*,487,462,7
+2020-08-26,Tajikistan,8413,7214,67
+2020-08-26,Tanzania,509,183,21
+2020-08-26,Thailand,3404,3237,58
+2020-08-26,Timor-Leste,26,25,0
+2020-08-26,Togo,1326,946,27
+2020-08-26,Trinidad and Tobago,1411,192,15
+2020-08-26,Tunisia,3206,1476,71
+2020-08-26,Turkey,262507,239797,6183
+2020-08-26,US,5821819,2084465,179708
+2020-08-26,Uganda,2524,1268,26
+2020-08-26,Ukraine,112653,55327,2399
+2020-08-26,United Arab Emirates,68020,59070,378
+2020-08-26,United Kingdom,330967,1551,41552
+2020-08-26,Uruguay,1543,1322,43
+2020-08-26,Uzbekistan,39964,36402,291
+2020-08-26,Venezuela,41965,32931,351
+2020-08-26,Vietnam,1034,632,30
+2020-08-26,West Bank and Gaza,20155,13929,137
+2020-08-26,Western Sahara,10,8,1
+2020-08-26,Yemen,1930,1097,560
+2020-08-26,Zambia,11376,10693,282
+2020-08-26,Zimbabwe,6251,5001,179
+2020-08-27,Afghanistan,38129,29046,1401
+2020-08-27,Albania,9083,4791,266
+2020-08-27,Algeria,43016,30157,1475
+2020-08-27,Andorra,1098,893,53
+2020-08-27,Angola,2415,1335,105
+2020-08-27,Antigua and Barbuda,94,89,3
+2020-08-27,Argentina,380292,274458,8050
+2020-08-27,Armenia,43270,36988,864
+2020-08-27,Australia,25448,20365,583
+2020-08-27,Austria,26361,22317,733
+2020-08-27,Azerbaijan,35844,33364,524
+2020-08-27,Bahamas,1765,227,29
+2020-08-27,Bahrain,50756,47370,188
+2020-08-27,Bangladesh,304583,193458,4127
+2020-08-27,Barbados,165,140,7
+2020-08-27,Belarus,71165,69650,662
+2020-08-27,Belgium,83500,18360,9884
+2020-08-27,Belize,818,54,12
+2020-08-27,Benin,2145,1738,40
+2020-08-27,Bhutan,184,119,0
+2020-08-27,Bolivia,113129,52521,4791
+2020-08-27,Bosnia and Herzegovina,18920,12480,582
+2020-08-27,Botswana,1562,199,3
+2020-08-27,Brazil,3761391,3122846,118649
+2020-08-27,Brunei,144,139,3
+2020-08-27,Bulgaria,15908,11044,594
+2020-08-27,Burkina Faso,1352,1058,55
+2020-08-27,Burma,602,349,6
+2020-08-27,Burundi,431,345,1
+2020-08-27,Cabo Verde,3699,2749,38
+2020-08-27,Cambodia,273,265,0
+2020-08-27,Cameroon,19142,17651,411
+2020-08-27,Canada,128836,114610,9148
+2020-08-27,Central African Republic,4698,1782,61
+2020-08-27,Chad,1004,875,77
+2020-08-27,Chile,404102,377922,11072
+2020-08-27,China,89814,84335,4715
+2020-08-27,Colombia,581995,417781,18467
+2020-08-27,Comoros,422,399,7
+2020-08-27,Congo (Brazzaville),3979,1742,78
+2020-08-27,Congo (Kinshasa),9915,9020,255
+2020-08-27,Costa Rica,37292,14471,397
+2020-08-27,Cote d'Ivoire,17702,16139,115
+2020-08-27,Croatia,9192,6595,177
+2020-08-27,Cuba,3806,3195,92
+2020-08-27,Cyprus,1467,935,20
+2020-08-27,Czechia,23169,17190,418
+2020-08-27,Denmark,17052,15135,624
+2020-08-27,Diamond Princess,712,651,13
+2020-08-27,Djibouti,5383,5307,60
+2020-08-27,Dominica,20,18,0
+2020-08-27,Dominican Republic,92964,64347,1630
+2020-08-27,Ecuador,111219,95202,6471
+2020-08-27,Egypt,98062,69612,5342
+2020-08-27,El Salvador,25284,13291,694
+2020-08-27,Equatorial Guinea,4928,3798,83
+2020-08-27,Eritrea,317,284,0
+2020-08-27,Estonia,2325,2067,64
+2020-08-27,Eswatini,4433,3115,89
+2020-08-27,Ethiopia,46407,16829,745
+2020-08-27,Fiji,28,23,2
+2020-08-27,Finland,8019,7200,335
+2020-08-27,France,297485,86271,30581
+2020-08-27,Gabon,8468,7066,53
+2020-08-27,Gambia,2743,638,93
+2020-08-27,Georgia,1447,1190,19
+2020-08-27,Germany,240571,212909,9290
+2020-08-27,Ghana,43841,42246,270
+2020-08-27,Greece,9531,1347,254
+2020-08-27,Grenada,24,24,0
+2020-08-27,Guatemala,71856,59641,2685
+2020-08-27,Guinea,9213,8180,58
+2020-08-27,Guinea-Bissau,2205,1127,34
+2020-08-27,Guyana,1140,616,32
+2020-08-27,Haiti,8151,5743,200
+2020-08-27,Holy See,12,12,0
+2020-08-27,Honduras,57669,9586,1803
+2020-08-27,Hungary,5379,3757,614
+2020-08-27,Iceland,2087,1964,10
+2020-08-27,India,3387500,2583948,61529
+2020-08-27,Indonesia,162884,118575,7064
+2020-08-27,Iran,367796,316638,21137
+2020-08-27,Iraq,219435,161009,6740
+2020-08-27,Ireland,28453,23364,1777
+2020-08-27,Israel,110403,87726,884
+2020-08-27,Italy,263949,206554,35463
+2020-08-27,Jamaica,1870,846,19
+2020-08-27,Japan,65653,52542,1241
+2020-08-27,Jordan,1801,1364,15
+2020-08-27,Kazakhstan,105408,95253,1523
+2020-08-27,Kenya,33389,19368,567
+2020-08-27,"Korea, South",19077,14551,316
+2020-08-27,Kosovo,12683,8788,488
+2020-08-27,Kuwait,82945,74522,522
+2020-08-27,Kyrgyzstan,43459,37492,1057
+2020-08-27,Laos,22,21,0
+2020-08-27,Latvia,1366,1163,34
+2020-08-27,Lebanon,14937,4133,146
+2020-08-27,Lesotho,1051,526,31
+2020-08-27,Liberia,1298,832,82
+2020-08-27,Libya,12274,1209,219
+2020-08-27,Liechtenstein,105,96,1
+2020-08-27,Lithuania,2762,1802,85
+2020-08-27,Luxembourg,7928,7140,124
+2020-08-27,MS Zaandam,9,0,2
+2020-08-27,Madagascar,14592,13686,184
+2020-08-27,Malawi,5496,3121,173
+2020-08-27,Malaysia,9296,8994,125
+2020-08-27,Maldives,7329,4691,28
+2020-08-27,Mali,2730,2054,126
+2020-08-27,Malta,1788,1121,10
+2020-08-27,Mauritania,6993,6381,158
+2020-08-27,Mauritius,355,335,10
+2020-08-27,Mexico,579914,475532,62594
+2020-08-27,Moldova,35546,24156,977
+2020-08-27,Monaco,154,116,4
+2020-08-27,Mongolia,301,291,0
+2020-08-27,Montenegro,4558,3606,89
+2020-08-27,Morocco,57085,41901,1011
+2020-08-27,Mozambique,3651,1968,21
+2020-08-27,Namibia,6712,2776,60
+2020-08-27,Nepal,35529,20073,183
+2020-08-27,Netherlands,70984,829,6244
+2020-08-27,New Zealand,1714,1561,22
+2020-08-27,Nicaragua,4494,2913,137
+2020-08-27,Niger,1173,1084,69
+2020-08-27,Nigeria,53317,40726,1011
+2020-08-27,North Macedonia,14004,10722,585
+2020-08-27,Norway,10542,9348,264
+2020-08-27,Oman,85005,79608,650
+2020-08-27,Pakistan,294638,279561,6274
+2020-08-27,Panama,89982,63996,1948
+2020-08-27,Papua New Guinea,424,232,4
+2020-08-27,Paraguay,15290,8348,265
+2020-08-27,Peru,613378,421877,28124
+2020-08-27,Philippines,205581,133990,3234
+2020-08-27,Poland,64689,44097,2010
+2020-08-27,Portugal,56673,41357,1809
+2020-08-27,Qatar,117988,114797,195
+2020-08-27,Romania,83150,36677,3459
+2020-08-27,Russia,972972,790629,16758
+2020-08-27,Rwanda,3672,1863,15
+2020-08-27,Saint Kitts and Nevis,17,17,0
+2020-08-27,Saint Lucia,26,25,0
+2020-08-27,Saint Vincent and the Grenadines,60,57,0
+2020-08-27,San Marino,710,658,42
+2020-08-27,Sao Tome and Principe,894,846,15
+2020-08-27,Saudi Arabia,311855,286255,3785
+2020-08-27,Senegal,13294,8974,277
+2020-08-27,Serbia,31099,0,707
+2020-08-27,Seychelles,136,127,0
+2020-08-27,Sierra Leone,2013,1581,70
+2020-08-27,Singapore,56572,55139,27
+2020-08-27,Slovakia,3626,2206,33
+2020-08-27,Slovenia,2755,2199,133
+2020-08-27,Somalia,3275,2443,95
+2020-08-27,South Africa,618286,531338,13628
+2020-08-27,South Sudan,2514,1290,47
+2020-08-27,Spain,429507,150376,28996
+2020-08-27,Sri Lanka,2986,2830,12
+2020-08-27,Sudan,13045,6594,823
+2020-08-27,Suriname,3793,2893,66
+2020-08-27,Sweden,83958,0,5820
+2020-08-27,Switzerland,41006,34800,2003
+2020-08-27,Syria,2504,569,100
+2020-08-27,Taiwan*,487,462,7
+2020-08-27,Tajikistan,8449,7246,68
+2020-08-27,Tanzania,509,183,21
+2020-08-27,Thailand,3410,3237,58
+2020-08-27,Timor-Leste,27,25,0
+2020-08-27,Togo,1326,946,27
+2020-08-27,Trinidad and Tobago,1429,192,15
+2020-08-27,Tunisia,3323,1504,73
+2020-08-27,Turkey,263998,240792,6209
+2020-08-27,US,5867785,2101326,180824
+2020-08-27,Uganda,2679,1268,28
+2020-08-27,Ukraine,114663,56149,2449
+2020-08-27,United Arab Emirates,68511,59472,378
+2020-08-27,United Kingdom,332509,1564,41564
+2020-08-27,Uruguay,1551,1333,43
+2020-08-27,Uzbekistan,40447,37200,298
+2020-08-27,Venezuela,42898,34147,358
+2020-08-27,Vietnam,1036,637,30
+2020-08-27,West Bank and Gaza,20677,14194,141
+2020-08-27,Western Sahara,10,8,1
+2020-08-27,Yemen,1933,1098,562
+2020-08-27,Zambia,11601,10840,282
+2020-08-27,Zimbabwe,6292,5010,189
+2020-08-28,Afghanistan,38140,29059,1402
+2020-08-28,Albania,9195,4923,271
+2020-08-28,Algeria,43403,30436,1483
+2020-08-28,Andorra,1124,902,53
+2020-08-28,Angola,2471,1028,106
+2020-08-28,Antigua and Barbuda,94,89,3
+2020-08-28,Argentina,392009,280165,8271
+2020-08-28,Armenia,43451,37264,869
+2020-08-28,Australia,25547,20631,600
+2020-08-28,Austria,26590,22594,733
+2020-08-28,Azerbaijan,35986,33461,527
+2020-08-28,Bahamas,2057,755,50
+2020-08-28,Bahrain,51113,47760,189
+2020-08-28,Bangladesh,306794,196836,4174
+2020-08-28,Barbados,166,141,7
+2020-08-28,Belarus,71346,69887,667
+2020-08-28,Belgium,83952,18360,9886
+2020-08-28,Belize,870,93,12
+2020-08-28,Benin,2145,1738,40
+2020-08-28,Bhutan,195,120,0
+2020-08-28,Bolivia,114409,54914,4846
+2020-08-28,Bosnia and Herzegovina,19214,12733,591
+2020-08-28,Botswana,1562,199,3
+2020-08-28,Brazil,3804803,3158783,119504
+2020-08-28,Brunei,144,139,3
+2020-08-28,Bulgaria,16065,11231,603
+2020-08-28,Burkina Faso,1352,1058,55
+2020-08-28,Burma,643,349,6
+2020-08-28,Burundi,433,345,1
+2020-08-28,Cabo Verde,3745,2807,38
+2020-08-28,Cambodia,273,265,0
+2020-08-28,Cameroon,19142,17651,411
+2020-08-28,Canada,129342,115029,9155
+2020-08-28,Central African Republic,4700,1784,61
+2020-08-28,Chad,1008,878,77
+2020-08-28,Chile,405972,379452,11132
+2020-08-28,China,89836,84419,4718
+2020-08-28,Colombia,590492,429608,18766
+2020-08-28,Comoros,422,399,7
+2020-08-28,Congo (Brazzaville),3979,1742,78
+2020-08-28,Congo (Kinshasa),9994,9035,255
+2020-08-28,Costa Rica,38485,14664,407
+2020-08-28,Cote d'Ivoire,17797,16315,115
+2020-08-28,Croatia,9549,6809,180
+2020-08-28,Cuba,3866,3222,92
+2020-08-28,Cyprus,1481,935,20
+2020-08-28,Czechia,23777,17497,419
+2020-08-28,Denmark,17125,15252,624
+2020-08-28,Diamond Princess,712,651,13
+2020-08-28,Djibouti,5383,5307,60
+2020-08-28,Dominica,20,18,0
+2020-08-28,Dominican Republic,93390,65285,1648
+2020-08-28,Ecuador,112141,95311,6504
+2020-08-28,Egypt,98285,70419,5362
+2020-08-28,El Salvador,25415,13570,702
+2020-08-28,Equatorial Guinea,4941,3884,83
+2020-08-28,Eritrea,317,284,0
+2020-08-28,Estonia,2343,2076,64
+2020-08-28,Eswatini,4461,3210,91
+2020-08-28,Ethiopia,48140,17415,758
+2020-08-28,Fiji,28,23,2
+2020-08-28,Finland,8042,7200,335
+2020-08-28,France,304947,86495,30601
+2020-08-28,Gabon,8505,7187,53
+2020-08-28,Gambia,2797,743,96
+2020-08-28,Georgia,1455,1196,19
+2020-08-28,Germany,242126,214186,9290
+2020-08-28,Ghana,43949,42392,270
+2020-08-28,Greece,9800,1347,259
+2020-08-28,Grenada,24,24,0
+2020-08-28,Guatemala,72921,60534,2709
+2020-08-28,Guinea,9251,8282,59
+2020-08-28,Guinea-Bissau,2205,1127,34
+2020-08-28,Guyana,1180,633,35
+2020-08-28,Haiti,8161,5743,201
+2020-08-28,Holy See,12,12,0
+2020-08-28,Honduras,58810,10076,1827
+2020-08-28,Hungary,5511,3759,614
+2020-08-28,Iceland,2092,1964,10
+2020-08-28,India,3463972,2648998,62550
+2020-08-28,Indonesia,165887,120900,7169
+2020-08-28,Iran,369911,318270,21249
+2020-08-28,Iraq,223612,164874,6814
+2020-08-28,Ireland,28578,23364,1777
+2020-08-28,Israel,112000,91051,894
+2020-08-28,Italy,265409,206902,35472
+2020-08-28,Jamaica,2011,888,19
+2020-08-28,Japan,66499,53691,1251
+2020-08-28,Jordan,1869,1367,15
+2020-08-28,Kazakhstan,105558,95888,1523
+2020-08-28,Kenya,33630,19434,567
+2020-08-28,"Korea, South",19400,14765,321
+2020-08-28,Kosovo,12683,8788,488
+2020-08-28,Kuwait,83578,75320,525
+2020-08-28,Kyrgyzstan,43587,37726,1057
+2020-08-28,Laos,22,21,0
+2020-08-28,Latvia,1375,1163,34
+2020-08-28,Lebanon,15613,4260,148
+2020-08-28,Lesotho,1051,526,31
+2020-08-28,Liberia,1298,832,82
+2020-08-28,Libya,12629,1310,226
+2020-08-28,Liechtenstein,106,96,1
+2020-08-28,Lithuania,2810,1816,86
+2020-08-28,Luxembourg,6580,7140,124
+2020-08-28,MS Zaandam,9,0,2
+2020-08-28,Madagascar,14696,13709,187
+2020-08-28,Malawi,5523,3143,174
+2020-08-28,Malaysia,9306,9030,125
+2020-08-28,Maldives,7469,4873,28
+2020-08-28,Mali,2736,2055,126
+2020-08-28,Malta,1820,1186,10
+2020-08-28,Mauritania,7012,6407,158
+2020-08-28,Mauritius,355,335,10
+2020-08-28,Mexico,585738,479770,63146
+2020-08-28,Moldova,35904,24156,981
+2020-08-28,Monaco,154,116,4
+2020-08-28,Mongolia,301,291,0
+2020-08-28,Montenegro,4663,3731,92
+2020-08-28,Morocco,58489,43049,1052
+2020-08-28,Mozambique,3697,2055,21
+2020-08-28,Namibia,6906,2789,65
+2020-08-28,Nepal,36456,20242,195
+2020-08-28,Netherlands,71557,964,6247
+2020-08-28,New Zealand,1727,1568,22
+2020-08-28,Nicaragua,4494,2913,137
+2020-08-28,Niger,1175,1085,69
+2020-08-28,Nigeria,53477,41017,1011
+2020-08-28,North Macedonia,14163,10933,590
+2020-08-28,Norway,10582,9348,264
+2020-08-28,Oman,85005,79608,650
+2020-08-28,Pakistan,295053,279937,6283
+2020-08-28,Panama,90624,64602,1966
+2020-08-28,Papua New Guinea,453,232,5
+2020-08-28,Paraguay,15873,8595,280
+2020-08-28,Peru,621997,429662,28277
+2020-08-28,Philippines,209544,134474,3325
+2020-08-28,Poland,65480,44785,2018
+2020-08-28,Portugal,57074,41556,1815
+2020-08-28,Qatar,118196,115017,196
+2020-08-28,Romania,84468,37056,3507
+2020-08-28,Russia,977730,796498,16866
+2020-08-28,Rwanda,3742,1866,16
+2020-08-28,Saint Kitts and Nevis,17,17,0
+2020-08-28,Saint Lucia,26,25,0
+2020-08-28,Saint Vincent and the Grenadines,60,57,0
+2020-08-28,San Marino,710,658,42
+2020-08-28,Sao Tome and Principe,895,848,15
+2020-08-28,Saudi Arabia,312924,287403,3813
+2020-08-28,Senegal,13384,9091,279
+2020-08-28,Serbia,31207,0,709
+2020-08-28,Seychelles,136,127,0
+2020-08-28,Sierra Leone,2013,1581,70
+2020-08-28,Singapore,56666,55337,27
+2020-08-28,Slovakia,3728,2225,33
+2020-08-28,Slovenia,2797,2236,133
+2020-08-28,Somalia,3275,2443,95
+2020-08-28,South Africa,620132,533935,13743
+2020-08-28,South Sudan,2518,1290,47
+2020-08-28,Spain,439286,150376,29011
+2020-08-28,Sri Lanka,2989,2842,12
+2020-08-28,Sudan,13082,6603,823
+2020-08-28,Suriname,3848,2971,66
+2020-08-28,Sweden,83958,0,5821
+2020-08-28,Switzerland,41346,34800,2004
+2020-08-28,Syria,2563,584,103
+2020-08-28,Taiwan*,487,462,7
+2020-08-28,Tajikistan,8481,7276,68
+2020-08-28,Tanzania,509,183,21
+2020-08-28,Thailand,3411,3242,58
+2020-08-28,Timor-Leste,27,25,0
+2020-08-28,Togo,1365,981,27
+2020-08-28,Trinidad and Tobago,1554,628,19
+2020-08-28,Tunisia,3461,1522,74
+2020-08-28,Turkey,265515,241809,6245
+2020-08-28,US,5913941,2118367,181800
+2020-08-28,Uganda,2756,1288,28
+2020-08-28,Ukraine,117172,57051,2499
+2020-08-28,United Arab Emirates,68901,59861,379
+2020-08-28,United Kingdom,333806,1615,41573
+2020-08-28,Uruguay,1556,1352,43
+2020-08-28,Uzbekistan,40720,37873,302
+2020-08-28,Venezuela,43879,34972,366
+2020-08-28,Vietnam,1038,663,30
+2020-08-28,West Bank and Gaza,21251,14291,145
+2020-08-28,Western Sahara,10,8,1
+2020-08-28,Yemen,1943,1107,563
+2020-08-28,Zambia,11779,10945,283
+2020-08-28,Zimbabwe,6388,5043,195
+2020-08-29,Afghanistan,38143,29063,1402
+2020-08-29,Albania,9279,5020,275
+2020-08-29,Algeria,43781,30717,1491
+2020-08-29,Andorra,1124,902,53
+2020-08-29,Angola,2551,1041,107
+2020-08-29,Antigua and Barbuda,94,89,3
+2020-08-29,Argentina,401239,287220,8353
+2020-08-29,Armenia,43626,37563,872
+2020-08-29,Australia,25670,20858,611
+2020-08-29,Austria,26985,22866,733
+2020-08-29,Azerbaijan,36174,33576,529
+2020-08-29,Bahamas,2135,782,50
+2020-08-29,Bahrain,51391,48275,189
+2020-08-29,Bangladesh,308925,198863,4206
+2020-08-29,Barbados,170,141,7
+2020-08-29,Belarus,71523,70207,671
+2020-08-29,Belgium,84599,18403,9891
+2020-08-29,Belize,964,115,13
+2020-08-29,Benin,2145,1738,40
+2020-08-29,Bhutan,195,135,0
+2020-08-29,Bolivia,115354,56749,4938
+2020-08-29,Bosnia and Herzegovina,19550,12858,594
+2020-08-29,Botswana,1562,199,3
+2020-08-29,Brazil,3846153,3202185,120262
+2020-08-29,Brunei,144,139,3
+2020-08-29,Bulgaria,16164,11253,605
+2020-08-29,Burkina Faso,1352,1058,55
+2020-08-29,Burma,749,351,6
+2020-08-29,Burundi,445,357,1
+2020-08-29,Cabo Verde,3778,2855,39
+2020-08-29,Cambodia,273,265,0
+2020-08-29,Cameroon,19142,17651,411
+2020-08-29,Canada,129639,115294,9161
+2020-08-29,Central African Republic,4700,1784,61
+2020-08-29,Chad,1008,878,77
+2020-08-29,Chile,408009,381183,11181
+2020-08-29,China,89863,84484,4721
+2020-08-29,Colombia,599884,440562,19063
+2020-08-29,Comoros,423,399,7
+2020-08-29,Congo (Brazzaville),3979,1742,78
+2020-08-29,Congo (Kinshasa),10007,9068,258
+2020-08-29,Costa Rica,39699,15737,418
+2020-08-29,Cote d'Ivoire,17893,16440,115
+2020-08-29,Croatia,9861,7024,183
+2020-08-29,Cuba,3925,3273,94
+2020-08-29,Cyprus,1483,935,20
+2020-08-29,Czechia,24094,17541,421
+2020-08-29,Denmark,17204,15365,624
+2020-08-29,Diamond Princess,712,651,13
+2020-08-29,Djibouti,5385,5314,60
+2020-08-29,Dominica,20,18,0
+2020-08-29,Dominican Republic,93732,66320,1673
+2020-08-29,Ecuador,112906,95429,6537
+2020-08-29,Egypt,98497,71302,5376
+2020-08-29,El Salvador,25537,13799,708
+2020-08-29,Equatorial Guinea,4941,3884,83
+2020-08-29,Eritrea,318,284,0
+2020-08-29,Estonia,2363,2086,64
+2020-08-29,Eswatini,4510,3359,91
+2020-08-29,Ethiopia,49654,18116,770
+2020-08-29,Fiji,28,23,2
+2020-08-29,Finland,8049,7200,335
+2020-08-29,France,304947,86495,30601
+2020-08-29,Gabon,8505,7187,53
+2020-08-29,Gambia,2895,751,96
+2020-08-29,Georgia,1462,1196,19
+2020-08-29,Germany,242835,214790,9299
+2020-08-29,Ghana,44118,42581,270
+2020-08-29,Greece,9977,1347,260
+2020-08-29,Grenada,24,24,0
+2020-08-29,Guatemala,73679,61163,2728
+2020-08-29,Guinea,9251,8282,59
+2020-08-29,Guinea-Bissau,2205,1127,34
+2020-08-29,Guyana,1184,636,35
+2020-08-29,Haiti,8174,5743,201
+2020-08-29,Holy See,12,12,0
+2020-08-29,Honduras,59645,10156,1842
+2020-08-29,Hungary,5669,3759,614
+2020-08-29,Iceland,2100,1979,10
+2020-08-29,India,3542733,2713933,63498
+2020-08-29,Indonesia,169195,122802,7261
+2020-08-29,Iran,371816,319847,21359
+2020-08-29,Iraq,227446,169020,6891
+2020-08-29,Ireland,28720,23364,1777
+2020-08-29,Israel,113465,92104,906
+2020-08-29,Italy,266853,208224,35473
+2020-08-29,Jamaica,2113,890,20
+2020-08-29,Japan,67353,54883,1271
+2020-08-29,Jordan,1893,1447,15
+2020-08-29,Kazakhstan,105684,96135,1523
+2020-08-29,Kenya,33794,19590,572
+2020-08-29,"Korea, South",19699,14903,323
+2020-08-29,Kosovo,12683,8788,488
+2020-08-29,Kuwait,84224,75993,528
+2020-08-29,Kyrgyzstan,43712,37973,1057
+2020-08-29,Laos,22,21,0
+2020-08-29,Latvia,1381,1163,34
+2020-08-29,Lebanon,16275,4484,155
+2020-08-29,Lesotho,1051,526,31
+2020-08-29,Liberia,1304,872,82
+2020-08-29,Libya,12958,1333,231
+2020-08-29,Liechtenstein,107,97,1
+2020-08-29,Lithuania,2839,1833,86
+2020-08-29,Luxembourg,6625,7140,124
+2020-08-29,MS Zaandam,9,0,2
+2020-08-29,Madagascar,14791,13753,190
+2020-08-29,Malawi,5528,3143,174
+2020-08-29,Malaysia,9317,9038,125
+2020-08-29,Maldives,7578,4925,28
+2020-08-29,Mali,2757,2121,126
+2020-08-29,Malta,1847,1244,10
+2020-08-29,Mauritania,7012,6407,158
+2020-08-29,Mauritius,355,335,10
+2020-08-29,Mexico,591712,484283,63819
+2020-08-29,Moldova,36404,25139,990
+2020-08-29,Monaco,154,116,4
+2020-08-29,Mongolia,301,295,0
+2020-08-29,Montenegro,4727,3839,93
+2020-08-29,Morocco,60056,44618,1078
+2020-08-29,Mozambique,3760,2078,22
+2020-08-29,Namibia,7116,2817,69
+2020-08-29,Nepal,37340,20555,207
+2020-08-29,Netherlands,72128,986,6252
+2020-08-29,New Zealand,1729,1570,22
+2020-08-29,Nicaragua,4494,2913,137
+2020-08-29,Niger,1175,1085,69
+2020-08-29,Nigeria,53727,41314,1011
+2020-08-29,North Macedonia,14293,11014,596
+2020-08-29,Norway,10611,9348,264
+2020-08-29,Oman,85005,79608,650
+2020-08-29,Pakistan,295372,280340,6284
+2020-08-29,Panama,91337,65119,1983
+2020-08-29,Papua New Guinea,453,232,5
+2020-08-29,Paraguay,16474,8854,294
+2020-08-29,Peru,629961,438017,28471
+2020-08-29,Philippines,213131,135101,3419
+2020-08-29,Poland,66239,45536,2032
+2020-08-29,Portugal,57448,41766,1818
+2020-08-29,Qatar,118407,115251,196
+2020-08-29,Romania,85833,37388,3539
+2020-08-29,Russia,982573,802365,16977
+2020-08-29,Rwanda,3843,1904,16
+2020-08-29,Saint Kitts and Nevis,17,17,0
+2020-08-29,Saint Lucia,26,25,0
+2020-08-29,Saint Vincent and the Grenadines,60,57,0
+2020-08-29,San Marino,710,658,42
+2020-08-29,Sao Tome and Principe,895,848,15
+2020-08-29,Saudi Arabia,313911,288441,3840
+2020-08-29,Senegal,13456,9233,282
+2020-08-29,Serbia,31282,0,710
+2020-08-29,Seychelles,136,127,0
+2020-08-29,Sierra Leone,2019,1591,70
+2020-08-29,Singapore,56717,55447,27
+2020-08-29,Slovakia,3842,2254,33
+2020-08-29,Slovenia,2834,2268,133
+2020-08-29,Somalia,3310,2481,97
+2020-08-29,South Africa,622551,536694,13981
+2020-08-29,South Sudan,2519,1290,47
+2020-08-29,Spain,439286,150376,29011
+2020-08-29,Sri Lanka,2995,2849,12
+2020-08-29,Sudan,13189,6612,823
+2020-08-29,Suriname,3954,2991,67
+2020-08-29,Sweden,83958,0,5821
+2020-08-29,Switzerland,41722,35200,2005
+2020-08-29,Syria,2628,599,106
+2020-08-29,Taiwan*,488,462,7
+2020-08-29,Tajikistan,8516,7309,68
+2020-08-29,Tanzania,509,183,21
+2020-08-29,Thailand,3411,3242,58
+2020-08-29,Timor-Leste,27,25,0
+2020-08-29,Togo,1390,990,27
+2020-08-29,Trinidad and Tobago,1645,894,19
+2020-08-29,Tunisia,3572,1536,76
+2020-08-29,Turkey,267064,242812,6284
+2020-08-29,US,5961094,2140614,182761
+2020-08-29,Uganda,2847,1288,29
+2020-08-29,Ukraine,119751,58156,2540
+2020-08-29,United Arab Emirates,69328,60202,379
+2020-08-29,United Kingdom,334916,1622,41585
+2020-08-29,Uruguay,1570,1364,44
+2020-08-29,Uzbekistan,41067,38250,307
+2020-08-29,Venezuela,44946,36175,375
+2020-08-29,Vietnam,1040,677,32
+2020-08-29,West Bank and Gaza,21668,14631,147
+2020-08-29,Western Sahara,10,8,1
+2020-08-29,Yemen,1946,1113,563
+2020-08-29,Zambia,11902,11092,284
+2020-08-29,Zimbabwe,6406,5056,196
+2020-08-30,Afghanistan,38162,29089,1402
+2020-08-30,Albania,9380,5139,280
+2020-08-30,Algeria,44146,30978,1501
+2020-08-30,Andorra,1124,902,53
+2020-08-30,Angola,2624,1063,107
+2020-08-30,Antigua and Barbuda,94,91,3
+2020-08-30,Argentina,408426,294007,8457
+2020-08-30,Armenia,43750,37650,877
+2020-08-30,Australia,25746,21114,652
+2020-08-30,Austria,27166,23070,733
+2020-08-30,Azerbaijan,36309,33703,531
+2020-08-30,Bahamas,2167,782,50
+2020-08-30,Bahrain,51574,48654,189
+2020-08-30,Bangladesh,310822,201907,4248
+2020-08-30,Barbados,173,145,7
+2020-08-30,Belarus,71687,70452,676
+2020-08-30,Belgium,85042,18415,9894
+2020-08-30,Belize,993,117,13
+2020-08-30,Benin,2145,1738,40
+2020-08-30,Bhutan,224,140,0
+2020-08-30,Bolivia,115968,58497,4966
+2020-08-30,Bosnia and Herzegovina,19793,12961,598
+2020-08-30,Botswana,1633,224,6
+2020-08-30,Brazil,3862311,3237615,120828
+2020-08-30,Brunei,144,139,3
+2020-08-30,Bulgaria,16190,11313,613
+2020-08-30,Burkina Faso,1357,1058,55
+2020-08-30,Burma,775,352,6
+2020-08-30,Burundi,445,357,1
+2020-08-30,Cabo Verde,3852,2867,40
+2020-08-30,Cambodia,273,265,0
+2020-08-30,Cameroon,19142,17651,411
+2020-08-30,Canada,129888,115460,9164
+2020-08-30,Central African Republic,4700,1784,61
+2020-08-30,Chad,1012,878,77
+2020-08-30,Chile,409974,382584,11244
+2020-08-30,China,89895,84546,4722
+2020-08-30,Colombia,607904,450609,19363
+2020-08-30,Comoros,423,399,7
+2020-08-30,Congo (Brazzaville),3979,1742,78
+2020-08-30,Congo (Kinshasa),10045,9103,258
+2020-08-30,Costa Rica,39699,15737,418
+2020-08-30,Cote d'Ivoire,17948,16553,115
+2020-08-30,Croatia,10123,7212,184
+2020-08-30,Cuba,3973,3327,94
+2020-08-30,Cyprus,1487,935,20
+2020-08-30,Czechia,24367,17547,423
+2020-08-30,Denmark,17316,15492,624
+2020-08-30,Diamond Princess,712,651,13
+2020-08-30,Djibouti,5385,5319,60
+2020-08-30,Dominica,20,18,0
+2020-08-30,Dominican Republic,94241,66776,1681
+2020-08-30,Ecuador,113648,101620,6555
+2020-08-30,Egypt,98727,72120,5399
+2020-08-30,El Salvador,25635,14013,713
+2020-08-30,Equatorial Guinea,4941,3884,83
+2020-08-30,Eritrea,318,284,0
+2020-08-30,Estonia,2373,2088,64
+2020-08-30,Eswatini,4561,3478,91
+2020-08-30,Ethiopia,51122,18382,793
+2020-08-30,Fiji,28,23,2
+2020-08-30,Finland,8077,7200,335
+2020-08-30,France,315813,86495,30611
+2020-08-30,Gabon,8505,7187,53
+2020-08-30,Gambia,2963,1032,96
+2020-08-30,Georgia,1469,1221,19
+2020-08-30,Germany,243305,215283,9300
+2020-08-30,Ghana,44205,42777,276
+2020-08-30,Greece,10134,1347,262
+2020-08-30,Grenada,24,24,0
+2020-08-30,Guatemala,73912,61681,2740
+2020-08-30,Guinea,9371,8387,59
+2020-08-30,Guinea-Bissau,2205,1127,34
+2020-08-30,Guyana,1234,687,36
+2020-08-30,Haiti,8209,5828,201
+2020-08-30,Holy See,12,12,0
+2020-08-30,Honduras,60174,10242,1858
+2020-08-30,Hungary,5961,3759,614
+2020-08-30,Iceland,2105,1990,10
+2020-08-30,India,3621245,2774801,64469
+2020-08-30,Indonesia,172053,124185,7343
+2020-08-30,Iran,373570,321421,21462
+2020-08-30,Iraq,231177,172880,6959
+2020-08-30,Ireland,28760,23364,1777
+2020-08-30,Israel,114020,92796,919
+2020-08-30,Italy,268218,208536,35477
+2020-08-30,Jamaica,2357,890,21
+2020-08-30,Japan,67958,55700,1285
+2020-08-30,Jordan,1966,1468,15
+2020-08-30,Kazakhstan,105795,96297,1523
+2020-08-30,Kenya,34057,19688,574
+2020-08-30,"Korea, South",19947,14973,324
+2020-08-30,Kosovo,12683,8788,488
+2020-08-30,Kuwait,84636,76650,530
+2020-08-30,Kyrgyzstan,43820,38198,1058
+2020-08-30,Laos,22,21,0
+2020-08-30,Latvia,1393,1163,34
+2020-08-30,Lebanon,16870,4693,160
+2020-08-30,Lesotho,1085,528,31
+2020-08-30,Liberia,1304,872,82
+2020-08-30,Libya,13423,1410,232
+2020-08-30,Liechtenstein,107,97,1
+2020-08-30,Lithuania,2874,1837,86
+2020-08-30,Luxembourg,6625,7140,124
+2020-08-30,MS Zaandam,9,0,2
+2020-08-30,Madagascar,14843,13802,191
+2020-08-30,Malawi,5536,3147,174
+2020-08-30,Malaysia,9334,9048,126
+2020-08-30,Maldives,7667,5036,28
+2020-08-30,Mali,2773,2169,126
+2020-08-30,Malta,1862,1313,12
+2020-08-30,Mauritania,7016,6430,159
+2020-08-30,Mauritius,355,335,10
+2020-08-30,Mexico,595841,489724,64158
+2020-08-30,Moldova,36700,25139,992
+2020-08-30,Monaco,154,116,4
+2020-08-30,Mongolia,301,295,0
+2020-08-30,Montenegro,4790,3963,98
+2020-08-30,Morocco,61399,46355,1111
+2020-08-30,Mozambique,3821,2100,23
+2020-08-30,Namibia,7365,2929,72
+2020-08-30,Nepal,38561,20822,221
+2020-08-30,Netherlands,72679,986,6252
+2020-08-30,New Zealand,1738,1585,22
+2020-08-30,Nicaragua,4494,2913,137
+2020-08-30,Niger,1175,1085,69
+2020-08-30,Nigeria,53865,41513,1013
+2020-08-30,North Macedonia,14330,11062,600
+2020-08-30,Norway,10643,9348,264
+2020-08-30,Oman,85544,80459,677
+2020-08-30,Pakistan,295636,280547,6288
+2020-08-30,Panama,92065,65747,1995
+2020-08-30,Papua New Guinea,459,232,5
+2020-08-30,Paraguay,17105,9146,308
+2020-08-30,Peru,639435,446675,28607
+2020-08-30,Philippines,217396,157403,3520
+2020-08-30,Poland,66870,46192,2033
+2020-08-30,Portugal,57768,41885,1819
+2020-08-30,Qatar,118575,115430,197
+2020-08-30,Romania,86785,37665,3578
+2020-08-30,Russia,987470,804941,17045
+2020-08-30,Rwanda,4020,1918,16
+2020-08-30,Saint Kitts and Nevis,17,17,0
+2020-08-30,Saint Lucia,26,25,0
+2020-08-30,Saint Vincent and the Grenadines,60,57,0
+2020-08-30,San Marino,710,658,42
+2020-08-30,Sao Tome and Principe,896,851,15
+2020-08-30,Saudi Arabia,314821,289667,3870
+2020-08-30,Senegal,13556,9388,284
+2020-08-30,Serbia,31365,0,711
+2020-08-30,Seychelles,136,127,0
+2020-08-30,Sierra Leone,2022,1594,70
+2020-08-30,Singapore,56771,55586,27
+2020-08-30,Slovakia,3876,2278,33
+2020-08-30,Slovenia,2865,2283,133
+2020-08-30,Somalia,3310,2481,98
+2020-08-30,South Africa,625056,538604,14028
+2020-08-30,South Sudan,2519,1290,47
+2020-08-30,Spain,439286,150376,29011
+2020-08-30,Sri Lanka,3012,2860,12
+2020-08-30,Sudan,13189,6612,823
+2020-08-30,Suriname,4009,3073,67
+2020-08-30,Sweden,83958,0,5821
+2020-08-30,Switzerland,42014,35800,2005
+2020-08-30,Syria,2703,614,109
+2020-08-30,Taiwan*,488,462,7
+2020-08-30,Tajikistan,8516,7309,68
+2020-08-30,Tanzania,509,183,21
+2020-08-30,Thailand,3411,3252,58
+2020-08-30,Timor-Leste,27,25,0
+2020-08-30,Togo,1396,996,27
+2020-08-30,Trinidad and Tobago,1683,672,21
+2020-08-30,Tunisia,3685,1562,76
+2020-08-30,Turkey,268546,243839,6326
+2020-08-30,US,5996431,2153939,183066
+2020-08-30,Uganda,2928,1288,30
+2020-08-30,Ukraine,121930,58775,2575
+2020-08-30,United Arab Emirates,69690,60600,382
+2020-08-30,United Kingdom,336668,1624,41586
+2020-08-30,Uruguay,1585,1378,44
+2020-08-30,Uzbekistan,41424,38655,313
+2020-08-30,Venezuela,45868,37091,381
+2020-08-30,Vietnam,1040,695,32
+2020-08-30,West Bank and Gaza,22204,14787,152
+2020-08-30,Western Sahara,10,8,1
+2020-08-30,Yemen,1953,1123,564
+2020-08-30,Zambia,12025,11454,287
+2020-08-30,Zimbabwe,6412,5061,196
