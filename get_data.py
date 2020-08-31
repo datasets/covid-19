@@ -87,6 +87,6 @@ def adjust_date(s):
     return f'20{l[2]}-{int(l[1]):02d}-{int(l[0]):02d}'
 
 #data=data.sort_values(by=['Date', 'Country'])
-data['Date'] = data['Date'].applymap(adjust_date)
-data = data.reset_index()
+data['Date'] = data['Date'].map(adjust_date)
+data = data.reset_index(drop=True)
 data.to_csv('international_time_series.csv', index=False)
