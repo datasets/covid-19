@@ -96,7 +96,7 @@ def adjust_date(s):
 #data=data.sort_values(by=['Date', 'Country'])
 data['Date'] = data['Date'].map(adjust_date)
 data = data.reset_index(drop=True)
-data.to_csv('countries-aggregated.csv', index=False)
+data.to_csv('data/countries-aggregated.csv', index=False)
 
 
 #==============================================================================================
@@ -170,4 +170,4 @@ for country, state in combos:
 data['Date'] = data.index
 data['Date'] = data['Date'].map(adjust_date)
 data = data.reset_index(drop=True)
-data.to_csv('time-series-19-covid-combined.csv', index=False)
+data.to_csv('data/time-series-19-covid-combined.csv', index=False)
