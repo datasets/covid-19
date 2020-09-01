@@ -166,10 +166,6 @@ for country, state in combos:
     data = data.append(df[['Date', 'Country/Region', 'Province/State', 'Lat', 'Long', 'Confirmed', 'Recovered', 'Deaths']])
 
 
-def adjust_date(s):
-    l = s.split('/')
-    return f'20{l[2]}-{int(l[1]):02d}-{int(l[0]):02d}'
-
 
 data['Date'] = data.index
 data['Date'] = data['Date'].map(adjust_date)
