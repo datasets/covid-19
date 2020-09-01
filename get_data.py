@@ -89,4 +89,4 @@ def adjust_date(s):
 #data=data.sort_values(by=['Date', 'Country'])
 data['Date'] = data['Date'].map(adjust_date)
 data = data.reset_index(drop=True)
-data.to_csv('international_time_series.csv', index=False)
+data.to_csv('countries_aggregated.csv', index=False)
