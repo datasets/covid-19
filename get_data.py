@@ -103,19 +103,19 @@ data.to_csv('data/countries-aggregated.csv', index=False)
 # Now create the more detailed time series
 print('\n\n===============\nWorking on more detailed time series\n\n')
 
-confirmed = confirmed_copy
+confirmed = confirmed_copy.copy()
 confirmed['Province/State'] = confirmed['Province/State'].fillna('')
-dead = dead_copy
+dead = dead_copy.copy()
 dead['Province/State'] = dead['Province/State'].fillna('')
-recovered = recovered_copy
+recovered = recovered_copy.copy()
 recovered['Province/State'] = recovered['Province/State'].fillna('')
 
 #these are the country-province combinations, we go through them to reformat the columns
 combos = np.array(confirmed[['Country/Region', 'Province/State']].to_records(index=False))
 #print(combos)
-'''
-countries = confirmed['Country/Region'].unique()
-states = confirmed['Province/State'].unique()'''
+
+#countries = confirmed['Country/Region'].unique()
+#states = confirmed['Province/State'].unique()
 
 data = pd.DataFrame()
 for country, state in combos:
@@ -165,9 +165,55 @@ for country, state in combos:
 
     data = data.append(df[['Date', 'Country/Region', 'Province/State', 'Lat', 'Long', 'Confirmed', 'Recovered', 'Deaths']])
 
-
-
 data['Date'] = data.index
 data['Date'] = data['Date'].map(adjust_date)
 data = data.reset_index(drop=True)
 data.to_csv('data/time-series-19-covid-combined.csv', index=False)
+
+
+
+
+#==============================================================================================
+# Now create the key countries pivoted
+print('\n\n===============\nWorking on Key Countries\n\n')
+confirmed = confirmed_copy.copy()
+confirmed['Province/State'] = confirmed['Province/State']
+
+to_concat = confirmed[confirmed['Province/State'].notna()]['Country/Region'].unique()
+# We have to combine the numbers from the countries that are split up into provinces
+for country in to_concat:
+    new_row = confirmed[confirmed['Country/Region']==country].sum()
+    new_row['Country/Region'] = country
+    new_row['Province/State'] = np.NaN
+    confirmed = confirmed.drop(confirmed[confirmed['Country/Region']==country].index)
+    confirmed = confirmed.append(new_row, ignore_index=True)
+    
+confirmed = confirmed[confirmed['Province/State'].isna()].drop(['Province/State', 'Lat', 'Long'], axis=1) # take only countries (no territories)
+key_countries=confirmed[(confirmed['Country/Region'] == 'US') | (confirmed['Country/Region'] == 'China') | (confirmed['Country/Region'] == 'United Kingdom') | (confirmed['Country/Region'] == 'Italy') | (confirmed['Country/Region'] == 'France') | (confirmed['Country/Region'] == 'Germany') | (confirmed['Country/Region'] == 'Spain') | (confirmed['Country/Region'] == 'Iran')]
+key_countries = key_countries.transpose()
+key_countries.columns = key_countries.iloc[0]
+key_countries = key_countries.drop('Country/Region')
+key_countries['Date'] = key_countries.index
+key_countries = key_countries.rename({'United Kingdom': 'United_Kingdom'}, axis='columns')
+key_countries = key_countries[['Date', 'China', 'US', 'United_Kingdom', 'Italy', 'France', 'Germany', 'Spain', 'Iran']]
+key_countries.to_csv('data/key-countries-pivoted.csv', index=False)
+
+
+
+
+#==============================================================================================
+# Now create the world aggregate
+print('\n\n===============\nWorking on world aggregate\n\n')
+confirmed = confirmed_copy.copy().drop(['Lat', 'Long', 'Province/State', 'Country/Region'], axis=1)
+dead = dead_copy.copy().drop(['Lat', 'Long', 'Province/State', 'Country/Region'], axis=1)
+recovered = recovered_copy.copy().drop(['Lat', 'Long', 'Province/State', 'Country/Region'], axis=1)
+
+df = pd.DataFrame()
+df['Confirmed'] = confirmed.sum()
+df['Recovered'] = recovered.sum()
+df['Deaths'] = dead.sum()
+df['Date'] = df.index
+df = df[['Date', 'Confirmed', 'Recovered', 'Deaths']]
+df.to_csv('data/worldwide-aggregate.csv', index=False)
+
+
