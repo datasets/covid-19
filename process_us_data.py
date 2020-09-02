@@ -1,6 +1,6 @@
 import pandas as pd 
 import numpy as np
-from tqdm import tqdm
+#from tqdm import tqdm
 
 base_url = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/'
 confirmed_url = 'time_series_covid19_confirmed_US.csv'
@@ -21,7 +21,9 @@ def adjust_date(s):
 frame_dict = {'Combined_Key':[], 'UID':[], 'iso2':[], 'iso3':[], \
             'code3':[], 'FIPS':[], 'Admin2':[], 'Province/State':[], \
             'Country/Region':[], 'Lat':[], 'Long':[], 'Case':[], 'Date':[]}
-for key in tqdm(combined_keys):
+
+#for key in tqdm(combined_keys):
+for key in combined_keys:
     #print(key)
     df_c = confirmed[confirmed['Combined_Key']==key]
 
@@ -124,7 +126,8 @@ combined_keys = confirmed['Combined_Key'].unique()
 frame_dict = {'Combined_Key':[], 'UID':[], 'iso2':[], 'iso3':[], \
             'code3':[], 'FIPS':[], 'Admin2':[], 'Province/State':[], 'Population':[],\
             'Country/Region':[], 'Lat':[], 'Long':[], 'Case':[], 'Date':[],}
-for key in tqdm(combined_keys):
+#for key in tqdm(combined_keys):
+for key in combined_keys:
     #print(key)
     df_c = confirmed[confirmed['Combined_Key']==key]
 
