@@ -1,4 +1,5 @@
 import pandas as pd 
+import numpy as np
 from tqdm import tqdm
 
 base_url = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/'
@@ -17,7 +18,9 @@ def adjust_date(s):
     l = s.split('/')
     return f'20{l[2]}-{int(l[0]):02d}-{int(l[1]):02d}'
 
-df = pd.DataFrame()
+frame_dict = {'Combined_Key':[], 'UID':[], 'iso2':[], 'iso3':[], \
+            'code3':[], 'FIPS':[], 'Admin2':[], 'Province/State':[], \
+            'Country/Region':[], 'Lat':[], 'Long':[], 'Case':[], 'Date':[]}
 for key in tqdm(combined_keys):
     #print(key)
     df_c = confirmed[confirmed['Combined_Key']==key]
@@ -38,6 +41,44 @@ for key in tqdm(combined_keys):
     df_c = df_c.drop(['UID', 'iso2', 'iso3', 'code3', 'FIPS', 'Admin2', 'Province_State', 'Country_Region', 'Lat', 'Long_', 'Combined_Key'], axis=1).transpose()
     df_c.columns = ['Case']
 
+    for row in df_c.iterrows():
+        #print(row[0], row[1][0])
+        frame_dict['Date'].append(row[0])
+        frame_dict['Case'].append(row[1][0])
+
+        #static info
+        frame_dict['Combined_Key'].append(key)
+        frame_dict['UID'].append(UID)
+        frame_dict['iso2'].append(iso2)
+        frame_dict['iso3'].append(iso3)
+        frame_dict['code3'].append(code3)
+        frame_dict['FIPS'].append(FIPS)
+        frame_dict['Admin2'].append(Admin2)
+        frame_dict['Province/State'].append(Province_State)
+        frame_dict['Country/Region'].append(Country_Region)
+        frame_dict['Lat'].append(Lat)
+        frame_dict['Long'].append(Long)
+
+
+    #print(frame_dict)
+    #quit()
+
+
+    '''
+    # old way with static values
+    UID = df_c['UID'].values[0]
+    iso2 = df_c['iso2'].values[0]
+    iso3 = df_c['iso3'].values[0]
+    code3 = df_c['code3'].values[0]
+    FIPS = df_c['FIPS'].values[0]
+    Admin2 = df_c['Admin2'].values[0]
+    Province_State = df_c['Province_State'].values[0]
+    Country_Region = df_c['Country_Region'].values[0]
+    Lat = df_c['Lat'].values[0]
+    Long = df_c['Long_'].values[0]
+
+    row_dict['Case'] = df_c['Case']
+
     # Repopulate static info
     df_c['UID'] = UID
     df_c['iso2'] = iso2 
@@ -57,11 +98,18 @@ for key in tqdm(combined_keys):
     #print(UID, iso2, iso3, code3, FIPS, Admin2, Province_State, Country_Region, Lat, Long)
 
     df = df.append(df_c[['UID', 'iso2','iso3','code3','FIPS','Admin2','Lat','Combined_Key','Date','Case','Long','Country/Region','Province/State']])
+    
+    
+    '''
     #break
 
-df = df.reset_index(drop=True)
-print(df)
-df.to_csv('data/us_confirmed.csv', index=False)
+
+df_confirmed = pd.DataFrame(data=frame_dict)
+df_confirmed['Date'] = df_confirmed['Date'].map(adjust_date)
+df_confirmed = df_confirmed[['UID', 'iso2','iso3','code3','FIPS','Admin2','Lat','Combined_Key','Date','Case','Long','Country/Region','Province/State']]
+df_confirmed = df_confirmed.reset_index(drop=True)
+print(df_confirmed)
+df_confirmed.to_csv('data/us_confirmed.csv', index=False)
 
 
 #===============
@@ -73,9 +121,11 @@ combined_keys = confirmed['Combined_Key'].unique()
 #print(confirmed.columns[:15])
 #print(combined_keys)
 
-df = pd.DataFrame()
+frame_dict = {'Combined_Key':[], 'UID':[], 'iso2':[], 'iso3':[], \
+            'code3':[], 'FIPS':[], 'Admin2':[], 'Province/State':[], 'Population':[],\
+            'Country/Region':[], 'Lat':[], 'Long':[], 'Case':[], 'Date':[],}
 for key in tqdm(combined_keys):
-    print(key)
+    #print(key)
     df_c = confirmed[confirmed['Combined_Key']==key]
 
     #Save static info for location
@@ -94,7 +144,27 @@ for key in tqdm(combined_keys):
     # transpose
     df_c = df_c.drop(['UID', 'iso2', 'iso3', 'code3', 'FIPS', 'Admin2', 'Province_State', 'Country_Region', 'Lat', 'Long_', 'Combined_Key', 'Population'], axis=1).transpose()
     df_c.columns = ['Case']
+    
+    for row in df_c.iterrows():
+        #print(row[0], row[1][0])
+        frame_dict['Date'].append(row[0])
+        frame_dict['Case'].append(row[1][0])
 
+        #static info
+        frame_dict['Combined_Key'].append(key)
+        frame_dict['UID'].append(UID)
+        frame_dict['iso2'].append(iso2)
+        frame_dict['iso3'].append(iso3)
+        frame_dict['code3'].append(code3)
+        frame_dict['FIPS'].append(FIPS)
+        frame_dict['Admin2'].append(Admin2)
+        frame_dict['Province/State'].append(Province_State)
+        frame_dict['Country/Region'].append(Country_Region)
+        frame_dict['Lat'].append(Lat)
+        frame_dict['Long'].append(Long)
+        frame_dict['Population'].append(Population)
+
+    ''' # Old way
     # Repopulate static info
     df_c['UID'] = UID
     df_c['iso2'] = iso2 
@@ -115,8 +185,20 @@ for key in tqdm(combined_keys):
     #print(UID, iso2, iso3, code3, FIPS, Admin2, Province_State, Country_Region, Lat, Long)
 
     df = df.append(df_c[['UID', 'iso2','iso3','code3','FIPS','Admin2','Lat','Combined_Key','Population','Date','Case','Long','Country/Region','Province/State']])
-    #break
+    '''#break
 
-df = df.reset_index(drop=True)
-print(df)
-df.to_csv('data/us_deaths.csv', index=False)
+df_dead = pd.DataFrame(data=frame_dict)
+df_dead['Date'] = df_dead['Date'].map(adjust_date)
+df_dead=df_dead[['UID', 'iso2','iso3','code3','FIPS','Admin2','Lat','Combined_Key','Population','Date','Case','Long','Country/Region','Province/State']]
+df_dead = df_dead.reset_index(drop=True)
+print(df_dead)
+df_dead.to_csv('data/us_deaths.csv', index=False)
+
+
+# Simplified data
+df_simple = df_confirmed[['Date', 'FIPS', 'Admin2', 'Province/State', 'Country/Region']]
+df_simple.insert(4, 'Confirmed', df_confirmed['Case'])
+df_simple.insert(5, 'Deaths', df_dead['Case'])
+df_simple.insert(6, 'Population', df_dead['Population'])
+print(df_simple)
+df_simple.to_csv('data/us_simplified.csv', index=False)
