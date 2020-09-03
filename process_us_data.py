@@ -13,7 +13,7 @@ confirmed = pd.read_csv(base_url+confirmed_url)
 combined_keys = confirmed['Combined_Key'].unique()
 #print(confirmed.columns[:15])
 #print(combined_keys)
-'''
+
 def adjust_date(s):
     l = s.split('/')
     return f'20{l[2]}-{int(l[0]):02d}-{int(l[1]):02d}'
