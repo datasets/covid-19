@@ -1,3 +1,5 @@
+# COVID-19 dataset
+
 Coronavirus disease 2019 (COVID-19) time series listing confirmed cases, reported deaths and reported recoveries. Data is disaggregated by country (and sometimes subregion). Coronavirus disease (COVID-19) is caused by the [Severe acute respiratory syndrome Coronavirus 2 (SARS-CoV-2)][sars2] and has had a worldwide effect. On March 11 2020, the World Health Organization (WHO) declared it a pandemic, pointing to the over 118,000 cases of the Coronavirus illness in over 110 countries and territories around the world at the time.
 
 [covid]: https://en.wikipedia.org/wiki/Coronavirus_disease_2019
@@ -5,9 +7,9 @@ Coronavirus disease 2019 (COVID-19) time series listing confirmed cases, reporte
 
 This dataset includes time series data tracking the number of people affected by COVID-19 worldwide, including:
 
-* confirmed tested cases of Coronavirus infection
-* the number of people who have reportedly died while sick with Coronavirus
-* the number of people who have reportedly recovered from it
+- confirmed tested cases of Coronavirus infection
+- the number of people who have reportedly died while sick with Coronavirus
+- the number of people who have reportedly recovered from it
 
 ## Data
 
@@ -26,6 +28,7 @@ https://datahub.io/core/covid-19
 The upstream dataset currently lists the following upstream data sources:
 
 - Aggregated data sources:
+
   - World Health Organization (WHO): https://www.who.int/
   - European Centre for Disease Prevention and Control (ECDC): https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases
   - DXY.cn. Pneumonia. 2020. http://3g.dxy.cn/newh5/view/pneumonia
@@ -36,6 +39,7 @@ The upstream dataset currently lists the following upstream data sources:
   - COVID Tracking Project: https://covidtracking.com/data. (US Testing and Hospitalization Data. We use the maximum reported value from "Currently" and "Cumulative" Hospitalized for our hospitalization number reported for each state.)
 
 - US data sources at the state (Admin1) or county/city (Admin2) level:
+
   - Washington State Department of Health: https://www.doh.wa.gov/emergencies/coronavirus
   - Maryland Department of Health: https://coronavirus.maryland.gov/
   - New York State Department of Health: https://health.data.ny.gov/Health/New-York-State-Statewide-COVID-19-Testing/xdss-u53e/data
@@ -94,7 +98,7 @@ The upstream dataset currently lists the following upstream data sources:
   - Brazil: https://github.com/wcota/covid19br. Data described in [DOI: 10.1590/SciELOPreprints.362](https://doi.org/10.1590/SciELOPreprints.362)
   - Gobierono De Mexico:https://covid19.sinave.gob.mx/
   - Japan COVID-19 Coronavirus Tracker: https://covid19japan.com/#all-prefectures
-  - Monitoreo del COVID-19 en Perú -  Policía Nacional del Perú (PNP) - Dirección de Inteligencia (DIRIN): https://www.arcgis.com/apps/opsdashboard/index.html#/f90a7a87af2548699d6e7bb72f5547c2 and Ministerio de Salud del Perú: https://covid19.minsa.gob.pe/sala_situacional.asp
+  - Monitoreo del COVID-19 en Perú - Policía Nacional del Perú (PNP) - Dirección de Inteligencia (DIRIN): https://www.arcgis.com/apps/opsdashboard/index.html#/f90a7a87af2548699d6e7bb72f5547c2 and Ministerio de Salud del Perú: https://covid19.minsa.gob.pe/sala_situacional.asp
   - Colombia: https://antioquia2020-23.maps.arcgis.com/apps/opsdashboard/index.html#/a9194733a8334e27b0eebd7c8f67bd84 and [Instituto Nacional de Salud](https://www.ins.gov.co/Paginas/Inicio.aspx)
   - Russia: https://xn--80aesfpebagmfblc0a.xn--p1ai/information/
   - Ukraine: https://covid19.rnbo.gov.ua/
@@ -104,27 +108,28 @@ The upstream dataset currently lists the following upstream data sources:
   - The UK Government: https://coronavirus.data.gov.uk/#category=nations&map=rate
   - Scottish Government: https://www.gov.scot/publications/coronavirus-covid-19-trends-in-daily-data/
 
-We will endeavour to provide more detail on how regularly and by which technical means the data is updated. Additional background is available in the [CSSE blog](https://systems.jhu.edu/research/public-health/ncov/), and in the [Lancet paper](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30120-1/fulltext) ([DOI](https://doi.org/10.1016/S1473-3099(20)30120-1)), which includes this figure:
+We will endeavour to provide more detail on how regularly and by which technical means the data is updated. Additional background is available in the [CSSE blog](https://systems.jhu.edu/research/public-health/ncov/), and in the [Lancet paper](<https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30120-1/fulltext>) ([DOI](<https://doi.org/10.1016/S1473-3099(20)30120-1>)), which includes this figure:
 
-![](https://i.imgur.com/X32lUEU.png)
+![countries timeline](https://i.imgur.com/X32lUEU.png)
 
 ## Preparation
 
-This repository uses [dataflows](https://github.com/datahq/dataflows) to process and normalize the data.
+This repository uses [Pandas](https://pandas.pydata.org) to process and normalize the data.
 
 You first need to install the dependencies:
 
-```
-pip install -r scripts/requirements.txt
-```
-
-Then run the script
-
-```
-python scripts/process.py
+```bash
+pip install -r requirements.txt
 ```
 
-[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
+Then run the script:
+
+```bash
+python get_data.py
+python process_us_data.py
+```
+
+[![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-380/)
 ![.github/workflows/actions.yml](https://github.com/datasets/covid-19/workflows/.github/workflows/actions.yml/badge.svg?branch=master)
 
 ## License
@@ -134,4 +139,3 @@ This dataset is licensed under the Open Data Commons [Public Domain and Dedicati
 [pddl]: https://www.opendatacommons.org/licenses/pddl/1-0/
 
 The data comes from a variety public sources and was collated in the first instance via Johns Hopkins University on GitHub. We have used that data and processed it further. Given the public sources and factual nature we believe that there the data is public domain and are therefore releasing the results under the Public Domain Dedication and License. We are also, of course, explicitly licensing any contribution of ours under that license.
-
