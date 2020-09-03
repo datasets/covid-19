@@ -206,7 +206,7 @@ df_simple.insert(6, 'Population', df_dead['Population'])
 print(df_simple)
 df_simple.to_csv('data/us_simplified.csv', index=False)
 
-'''
+
 # Create reference.csv
 import urllib.request as req
 req.urlretrieve('https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/UID_ISO_FIPS_LookUp_Table.csv', 'data/reference.csv')
