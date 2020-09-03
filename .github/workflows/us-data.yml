@@ -13,11 +13,9 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@main
     - name: Set up Python 3.8
       uses: actions/setup-python@v2
       with:
@@ -29,7 +27,7 @@ jobs:
     - name: Process Data
       run: |
         python process_us_data.py
-    - name: commit files
+    - name: Commit files
       run: |
         git pull
         git config --local user.email "action@github.com"
@@ -38,4 +36,19 @@ jobs:
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
-        github_token: ${{ secrets.G_TOKEN }}
+        github_token: ${{ secrets.gh }}
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - uses: actions/setup-node@v1
+      with:
+        node-version: '8.x'
+    - run: npm install -g data-cli
+    - run: data --version
+    - run: data push
+      env:
+        id: ${{secrets.dhid}}
+        username: ${{secrets.dhusername}}
+        token: ${{secrets.dhtoken}}
