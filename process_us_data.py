@@ -13,7 +13,7 @@ confirmed = pd.read_csv(base_url+confirmed_url)
 combined_keys = confirmed['Combined_Key'].unique()
 #print(confirmed.columns[:15])
 #print(combined_keys)
-
+'''
 def adjust_date(s):
     l = s.split('/')
     return f'20{l[2]}-{int(l[0]):02d}-{int(l[1]):02d}'
@@ -167,7 +167,7 @@ for key in combined_keys:
         frame_dict['Long'].append(Long)
         frame_dict['Population'].append(Population)
 
-    ''' # Old way
+    '''# Old way
     # Repopulate static info
     df_c['UID'] = UID
     df_c['iso2'] = iso2 
@@ -205,3 +205,8 @@ df_simple.insert(5, 'Deaths', df_dead['Case'])
 df_simple.insert(6, 'Population', df_dead['Population'])
 print(df_simple)
 df_simple.to_csv('data/us_simplified.csv', index=False)
+
+'''
+# Create reference.csv
+import urllib.request as req
+req.urlretrieve('https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/UID_ISO_FIPS_LookUp_Table.csv', 'data/reference.csv')
