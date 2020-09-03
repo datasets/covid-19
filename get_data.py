@@ -1,6 +1,24 @@
 import pandas as pd
 import numpy as np
 
+
+def calculate_increase_rate(csv_file: str = "data/worldwide-aggregate.csv"):
+    with open(csv_file) as read_file:
+        rows = read_file.read().splitlines()
+    with open(csv_file, "w") as write_file:
+        header_row = rows[0] + ",Increase rate"
+        write_file.write(f"{header_row}\n")
+        previous_row = None
+        for row in rows[1:]:  # exclude header row
+            if previous_row:
+                prev_confirmed = int(previous_row.split(",")[1])
+                confirmed = int(row.split(",")[1])
+                rate = (confirmed - prev_confirmed) / prev_confirmed * 100
+                write_file.write(f"{row},{rate}\n")
+            else:
+                write_file.write(f"{row},\n")
+            previous_row = row
+
 base_url = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/'
 confirmed_url = 'time_series_covid19_confirmed_global.csv'
 dead_url = 'time_series_covid19_deaths_global.csv'
@@ -216,4 +234,4 @@ df['Date'] = df.index
 df = df[['Date', 'Confirmed', 'Recovered', 'Deaths']]
 df.to_csv('data/worldwide-aggregate.csv', index=False)
 
-
+calculate_increase_rate()
