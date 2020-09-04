@@ -119,14 +119,14 @@ This repository uses [Pandas](https://pandas.pydata.org) to process and normaliz
 You first need to install the dependencies:
 
 ```bash
-pip install -r requirements.txt
+pip install -r scripts/requirements.txt
 ```
 
 Then run the script:
 
 ```bash
-python get_data.py
-python process_us_data.py
+python scripts/process_worldwide.py
+python scripts/process_us.py
 ```
 
 [![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-380/)
