@@ -99,7 +99,6 @@ countries = np.intersect1d(
 
 data = pd.DataFrame()
 for country in countries:
-    print(country)
     # confirmed cases
     cntry_c = (
         confirmed[confirmed["Country/Region"] == country]
@@ -142,7 +141,7 @@ for country in countries:
 
 def adjust_date(s):
     l = s.split("/")
-    return f"20{l[2]}-{int(l[1]):02d}-{int(l[0]):02d}"
+    return f"20{l[2]}-{int(l[0]):02d}-{int(l[1]):02d}"
 
 
 # data=data.sort_values(by=['Date', 'Country'])
@@ -173,7 +172,6 @@ combos = np.array(
 
 data = pd.DataFrame()
 for country, state in combos:
-    print(country, state)
 
     # Here we just need to check if we are dealing with a country-province or just a country
     is_na = False
