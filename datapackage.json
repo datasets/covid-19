@@ -598,7 +598,7 @@
     },
     {
       "resources": [
-        "worldwide-aggregated"
+        "worldwide-aggregate"
       ],
       "spec": {
         "group": "Date",

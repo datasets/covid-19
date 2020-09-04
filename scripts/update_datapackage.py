@@ -65,7 +65,7 @@ json_data["views"] = [
     },
     {
         "title": "Increase rate from previous day in confirmed cases worldwide",
-        "resources": ["worldwide-aggregated"],
+        "resources": ["worldwide-aggregate"],
         "specType": "simple",
         "spec": {"group": "Date", "series": ["Increase rate"], "type": "bar",},
     },
