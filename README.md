@@ -122,7 +122,7 @@ You first need to install the dependencies:
 pip install -r scripts/requirements.txt
 ```
 
-Then run the script:
+Then run the following scripts:
 
 ```bash
 python scripts/process_worldwide.py
@@ -130,6 +130,7 @@ python scripts/process_us.py
 ```
 
 [![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-380/)
+![.github/workflows/actions.yml](https://github.com/datasets/covid-19/workflows/.github/workflows/actions.yml/badge.svg?branch=master)
 
 ## License
 
