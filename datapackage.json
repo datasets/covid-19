@@ -22,7 +22,7 @@
       "schema": {
         "fields": [
           {
-            "format": "default",
+            "format": "%Y-%m-%d",
             "name": "Date",
             "type": "date"
           },
@@ -145,7 +145,7 @@
       "schema": {
         "fields": [
           {
-            "format": "default",
+            "format": "%Y-%m-%d",
             "name": "Date",
             "type": "string"
           },
@@ -209,7 +209,7 @@
       "schema": {
         "fields": [
           {
-            "format": "default",
+            "format": "%Y-%m-%d",
             "name": "Date",
             "type": "date"
           },
@@ -308,7 +308,7 @@
             "type": "string"
           },
           {
-            "format": "default",
+            "format": "%Y-%m-%d",
             "name": "Date",
             "type": "date"
           },
@@ -397,7 +397,7 @@
             "type": "integer"
           },
           {
-            "format": "default",
+            "format": "%Y-%m-%d",
             "name": "Date",
             "type": "date"
           },
@@ -441,7 +441,7 @@
       "schema": {
         "fields": [
           {
-            "format": "default",
+            "format": "%Y-%m-%d",
             "name": "Date",
             "type": "date"
           },
@@ -500,7 +500,7 @@
       "schema": {
         "fields": [
           {
-            "format": "default",
+            "format": "%Y-%m-%d",
             "name": "Date",
             "type": "string"
           },

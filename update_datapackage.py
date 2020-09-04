@@ -5,6 +5,9 @@ with open("data/datapackage.json") as f:
     content = f.read()
     json_data = json.loads(content)
 
+print("Updating metadata...")
+
+# Set correct metadata
 json_data["name"] = "covid-19"
 json_data["title"] = "Novel Coronavirus 2019"
 json_data["views"] = [
@@ -67,6 +70,12 @@ json_data["views"] = [
         "spec": {"group": "Date", "series": ["Increase rate"], "type": "bar",},
     },
 ]
+
+# Set the correct format for dates
+for resource in json_data["resources"]:
+    for field in resource["schema"]["fields"]:
+        if field.get("name") == "Date":
+            field["format"] = "%Y-%m-%d"
 
 with open("datapackage.json", "w") as f:
     json.dump(json_data, f, sort_keys=True, indent=2)

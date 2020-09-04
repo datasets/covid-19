@@ -20,13 +20,18 @@ def calculate_increase_rate(csv_file: str = "data/worldwide-aggregate.csv"):
             previous_row = row
 
 
+def adjust_date(s):
+    l = s.split("/")
+    return f"20{l[2]}-{int(l[0]):02d}-{int(l[1]):02d}"
+
+
 base_url = "https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/"
 confirmed_url = "time_series_covid19_confirmed_global.csv"
 dead_url = "time_series_covid19_deaths_global.csv"
 recovered_url = "time_series_covid19_recovered_global.csv"
 
 
-print("===============\nWorking on basic time series\n\n")
+print("===============\nWorking on basic time series\n")
 
 df = pd.read_csv(base_url + confirmed_url)
 confirmed_copy = df.copy()  # for time series file with provinces
@@ -139,11 +144,6 @@ for country in countries:
     )
 
 
-def adjust_date(s):
-    l = s.split("/")
-    return f"20{l[2]}-{int(l[0]):02d}-{int(l[1]):02d}"
-
-
 # data=data.sort_values(by=['Date', 'Country'])
 data["Date"] = data["Date"].map(adjust_date)
 data = data.reset_index(drop=True)
@@ -152,7 +152,7 @@ data.to_csv("data/countries-aggregated.csv", index=False)
 
 # ==============================================================================================
 # Now create the more detailed time series
-print("\n\n===============\nWorking on more detailed time series\n\n")
+print("\n===============\nWorking on more detailed time series\n")
 
 confirmed = confirmed_copy.copy()
 confirmed["Province/State"] = confirmed["Province/State"].fillna("")
@@ -249,7 +249,7 @@ data.to_csv("data/time-series-19-covid-combined.csv", index=False)
 
 # ==============================================================================================
 # Now create the key countries pivoted
-print("\n\n===============\nWorking on Key Countries\n\n")
+print("\n===============\nWorking on Key Countries\n")
 confirmed = confirmed_copy.copy()
 confirmed["Province/State"] = confirmed["Province/State"]
 
@@ -283,6 +283,7 @@ key_countries = key_countries.transpose()
 key_countries.columns = key_countries.iloc[0]
 key_countries = key_countries.drop("Country/Region")
 key_countries["Date"] = key_countries.index
+key_countries["Date"] = key_countries["Date"].map(adjust_date)
 key_countries = key_countries.rename(
     {"United Kingdom": "United_Kingdom"}, axis="columns"
 )
@@ -304,7 +305,7 @@ key_countries.to_csv("data/key-countries-pivoted.csv", index=False)
 
 # ==============================================================================================
 # Now create the world aggregate
-print("\n\n===============\nWorking on world aggregate\n\n")
+print("\n===============\nWorking on world aggregate\n")
 confirmed = confirmed_copy.copy().drop(
     ["Lat", "Long", "Province/State", "Country/Region"], axis=1
 )
@@ -320,6 +321,7 @@ df["Confirmed"] = confirmed.sum()
 df["Recovered"] = recovered.sum()
 df["Deaths"] = dead.sum()
 df["Date"] = df.index
+df["Date"] = df["Date"].map(adjust_date)
 df = df[["Date", "Confirmed", "Recovered", "Deaths"]]
 df.to_csv("data/worldwide-aggregate.csv", index=False)
 
