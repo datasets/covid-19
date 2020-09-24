@@ -3,8 +3,6 @@ name: 'Process Data'
 on:
   push:
     branches: [ master ]
-  pull_request:
-    branches: [ master ]
   schedule:
     # Upstream repo is updated daily at 4:50 AM UTC:
     # we can retrieve data a little while later.
@@ -29,7 +27,6 @@ jobs:
         python scripts/process_us.py
     - name: Commit files
       run: |
-        git pull
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git commit --allow-empty -m "Auto-update of the data packages" -a
