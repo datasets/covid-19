@@ -252,6 +252,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Afghanistan,,33.93911,67.709953,39233,32642,1455
 2020-09-29,Afghanistan,,33.93911,67.709953,39254,32746,1458
 2020-09-30,Afghanistan,,33.93911,67.709953,39268,32789,1458
+2020-10-01,Afghanistan,,33.93911,67.709953,39285,32842,1458
 2020-01-22,Albania,,41.1533,20.1683,0,0,0
 2020-01-23,Albania,,41.1533,20.1683,0,0,0
 2020-01-24,Albania,,41.1533,20.1683,0,0,0
@@ -505,6 +506,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Albania,,41.1533,20.1683,13391,7629,380
 2020-09-29,Albania,,41.1533,20.1683,13518,7732,384
 2020-09-30,Albania,,41.1533,20.1683,13649,7847,387
+2020-10-01,Albania,,41.1533,20.1683,13806,8077,388
 2020-01-22,Algeria,,28.0339,1.6596,0,0,0
 2020-01-23,Algeria,,28.0339,1.6596,0,0,0
 2020-01-24,Algeria,,28.0339,1.6596,0,0,0
@@ -758,6 +760,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Algeria,,28.0339,1.6596,51213,35962,1719
 2020-09-29,Algeria,,28.0339,1.6596,51368,36063,1726
 2020-09-30,Algeria,,28.0339,1.6596,51530,36174,1736
+2020-10-01,Algeria,,28.0339,1.6596,51690,36282,1741
 2020-01-22,Andorra,,42.5063,1.5218,0,0,0
 2020-01-23,Andorra,,42.5063,1.5218,0,0,0
 2020-01-24,Andorra,,42.5063,1.5218,0,0,0
@@ -1011,6 +1014,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Andorra,,42.5063,1.5218,1966,1265,53
 2020-09-29,Andorra,,42.5063,1.5218,1966,1265,53
 2020-09-30,Andorra,,42.5063,1.5218,2050,1432,53
+2020-10-01,Andorra,,42.5063,1.5218,2050,1432,53
 2020-01-22,Angola,,-11.2027,17.8739,0,0,0
 2020-01-23,Angola,,-11.2027,17.8739,0,0,0
 2020-01-24,Angola,,-11.2027,17.8739,0,0,0
@@ -1264,6 +1268,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Angola,,-11.2027,17.8739,4797,1813,176
 2020-09-29,Angola,,-11.2027,17.8739,4905,1833,179
 2020-09-30,Angola,,-11.2027,17.8739,4972,1941,183
+2020-10-01,Angola,,-11.2027,17.8739,5114,2082,185
 2020-01-22,Antigua and Barbuda,,17.0608,-61.7964,0,0,0
 2020-01-23,Antigua and Barbuda,,17.0608,-61.7964,0,0,0
 2020-01-24,Antigua and Barbuda,,17.0608,-61.7964,0,0,0
@@ -1517,6 +1522,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Antigua and Barbuda,,17.0608,-61.7964,101,92,3
 2020-09-29,Antigua and Barbuda,,17.0608,-61.7964,101,92,3
 2020-09-30,Antigua and Barbuda,,17.0608,-61.7964,101,92,3
+2020-10-01,Antigua and Barbuda,,17.0608,-61.7964,101,92,3
 2020-01-22,Argentina,,-38.4161,-63.6167,0,0,0
 2020-01-23,Argentina,,-38.4161,-63.6167,0,0,0
 2020-01-24,Argentina,,-38.4161,-63.6167,0,0,0
@@ -1770,6 +1776,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Argentina,,-38.4161,-63.6167,723132,576715,16113
 2020-09-29,Argentina,,-38.4161,-63.6167,736609,585857,16519
 2020-09-30,Argentina,,-38.4161,-63.6167,751001,594645,16937
+2020-10-01,Argentina,,-38.4161,-63.6167,765002,603140,20288
 2020-01-22,Armenia,,40.0691,45.0382,0,0,0
 2020-01-23,Armenia,,40.0691,45.0382,0,0,0
 2020-01-24,Armenia,,40.0691,45.0382,0,0,0
@@ -2023,6 +2030,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Armenia,,40.0691,45.0382,49574,43665,957
 2020-09-29,Armenia,,40.0691,45.0382,49901,43849,958
 2020-09-30,Armenia,,40.0691,45.0382,50359,44001,959
+2020-10-01,Armenia,,40.0691,45.0382,50850,44219,963
 2020-01-22,Australia,Australian Capital Territory,-35.4735,149.0124,0,0,0
 2020-01-23,Australia,Australian Capital Territory,-35.4735,149.0124,0,0,0
 2020-01-24,Australia,Australian Capital Territory,-35.4735,149.0124,0,0,0
@@ -2276,6 +2284,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Australia,Australian Capital Territory,-35.4735,149.0124,113,110,3
 2020-09-29,Australia,Australian Capital Territory,-35.4735,149.0124,113,110,3
 2020-09-30,Australia,Australian Capital Territory,-35.4735,149.0124,113,110,3
+2020-10-01,Australia,Australian Capital Territory,-35.4735,149.0124,113,110,3
 2020-01-22,Australia,New South Wales,-33.8688,151.2093,0,0,0
 2020-01-23,Australia,New South Wales,-33.8688,151.2093,0,0,0
 2020-01-24,Australia,New South Wales,-33.8688,151.2093,0,0,0
@@ -2529,6 +2538,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Australia,New South Wales,-33.8688,151.2093,4220,3123,53
 2020-09-29,Australia,New South Wales,-33.8688,151.2093,4224,3129,53
 2020-09-30,Australia,New South Wales,-33.8688,151.2093,4227,3129,53
+2020-10-01,Australia,New South Wales,-33.8688,151.2093,4231,3129,53
 2020-01-22,Australia,Northern Territory,-12.4634,130.8456,0,0,0
 2020-01-23,Australia,Northern Territory,-12.4634,130.8456,0,0,0
 2020-01-24,Australia,Northern Territory,-12.4634,130.8456,0,0,0
@@ -2782,6 +2792,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Australia,Northern Territory,-12.4634,130.8456,33,31,0
 2020-09-29,Australia,Northern Territory,-12.4634,130.8456,33,31,0
 2020-09-30,Australia,Northern Territory,-12.4634,130.8456,33,31,0
+2020-10-01,Australia,Northern Territory,-12.4634,130.8456,33,31,0
 2020-01-22,Australia,Queensland,-27.4698,153.0251,0,0,0
 2020-01-23,Australia,Queensland,-27.4698,153.0251,0,0,0
 2020-01-24,Australia,Queensland,-27.4698,153.0251,0,0,0
@@ -3035,6 +3046,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Australia,Queensland,-27.4698,153.0251,1157,1141,6
 2020-09-29,Australia,Queensland,-27.4698,153.0251,1157,1142,6
 2020-09-30,Australia,Queensland,-27.4698,153.0251,1157,1143,6
+2020-10-01,Australia,Queensland,-27.4698,153.0251,1160,1147,6
 2020-01-22,Australia,South Australia,-34.9285,138.6007,0,0,0
 2020-01-23,Australia,South Australia,-34.9285,138.6007,0,0,0
 2020-01-24,Australia,South Australia,-34.9285,138.6007,0,0,0
@@ -3288,6 +3300,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Australia,South Australia,-34.9285,138.6007,468,462,4
 2020-09-29,Australia,South Australia,-34.9285,138.6007,468,462,4
 2020-09-30,Australia,South Australia,-34.9285,138.6007,468,464,4
+2020-10-01,Australia,South Australia,-34.9285,138.6007,468,464,4
 2020-01-22,Australia,Tasmania,-42.8821,147.3272,0,0,0
 2020-01-23,Australia,Tasmania,-42.8821,147.3272,0,0,0
 2020-01-24,Australia,Tasmania,-42.8821,147.3272,0,0,0
@@ -3541,6 +3554,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Australia,Tasmania,-42.8821,147.3272,230,217,13
 2020-09-29,Australia,Tasmania,-42.8821,147.3272,230,217,13
 2020-09-30,Australia,Tasmania,-42.8821,147.3272,230,217,13
+2020-10-01,Australia,Tasmania,-42.8821,147.3272,230,217,13
 2020-01-22,Australia,Victoria,-37.8136,144.9631,0,0,0
 2020-01-23,Australia,Victoria,-37.8136,144.9631,0,0,0
 2020-01-24,Australia,Victoria,-37.8136,144.9631,0,0,0
@@ -3794,6 +3808,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Australia,Victoria,-37.8136,144.9631,20158,18942,794
 2020-09-29,Australia,Victoria,-37.8136,144.9631,20169,19006,798
 2020-09-30,Australia,Victoria,-37.8136,144.9631,20183,19034,800
+2020-10-01,Australia,Victoria,-37.8136,144.9631,20189,19034,802
 2020-01-22,Australia,Western Australia,-31.9505,115.8605,0,0,0
 2020-01-23,Australia,Western Australia,-31.9505,115.8605,0,0,0
 2020-01-24,Australia,Western Australia,-31.9505,115.8605,0,0,0
@@ -4047,6 +4062,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Australia,Western Australia,-31.9505,115.8605,676,653,9
 2020-09-29,Australia,Western Australia,-31.9505,115.8605,684,653,9
 2020-09-30,Australia,Western Australia,-31.9505,115.8605,685,654,9
+2020-10-01,Australia,Western Australia,-31.9505,115.8605,685,654,9
 2020-01-22,Austria,,47.5162,14.5501,0,0,0
 2020-01-23,Austria,,47.5162,14.5501,0,0,0
 2020-01-24,Austria,,47.5162,14.5501,0,0,0
@@ -4300,6 +4316,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Austria,,47.5162,14.5501,43432,34052,790
 2020-09-29,Austria,,47.5162,14.5501,44041,34916,796
 2020-09-30,Austria,,47.5162,14.5501,44813,35644,799
+2020-10-01,Austria,,47.5162,14.5501,45686,36476,802
 2020-01-22,Azerbaijan,,40.1431,47.5769,0,0,0
 2020-01-23,Azerbaijan,,40.1431,47.5769,0,0,0
 2020-01-24,Azerbaijan,,40.1431,47.5769,0,0,0
@@ -4553,6 +4570,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Azerbaijan,,40.1431,47.5769,40061,37725,588
 2020-09-29,Azerbaijan,,40.1431,47.5769,40119,37827,590
 2020-09-30,Azerbaijan,,40.1431,47.5769,40229,37954,591
+2020-10-01,Azerbaijan,,40.1431,47.5769,40309,38068,593
 2020-01-22,Bahamas,,25.025885,-78.035889,0,0,0
 2020-01-23,Bahamas,,25.025885,-78.035889,0,0,0
 2020-01-24,Bahamas,,25.025885,-78.035889,0,0,0
@@ -4806,6 +4824,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Bahamas,,25.025885,-78.035889,3838,2005,89
 2020-09-29,Bahamas,,25.025885,-78.035889,3903,2072,91
 2020-09-30,Bahamas,,25.025885,-78.035889,4123,2206,96
+2020-10-01,Bahamas,,25.025885,-78.035889,4123,2206,96
 2020-01-22,Bahrain,,26.0275,50.55,0,0,0
 2020-01-23,Bahrain,,26.0275,50.55,0,0,0
 2020-01-24,Bahrain,,26.0275,50.55,0,0,0
@@ -5059,6 +5078,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Bahrain,,26.0275,50.55,69848,63549,245
 2020-09-29,Bahrain,,26.0275,50.55,70422,64267,246
 2020-09-30,Bahrain,,26.0275,50.55,70864,64838,251
+2020-10-01,Bahrain,,26.0275,50.55,71374,65550,254
 2020-01-22,Bangladesh,,23.685,90.3563,0,0,0
 2020-01-23,Bangladesh,,23.685,90.3563,0,0,0
 2020-01-24,Bangladesh,,23.685,90.3563,0,0,0
@@ -5312,6 +5332,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Bangladesh,,23.685,90.3563,360555,272073,5193
 2020-09-29,Bangladesh,,23.685,90.3563,362043,273698,5219
 2020-09-30,Bangladesh,,23.685,90.3563,363479,275487,5251
+2020-10-01,Bangladesh,,23.685,90.3563,364987,277078,5272
 2020-01-22,Barbados,,13.1939,-59.5432,0,0,0
 2020-01-23,Barbados,,13.1939,-59.5432,0,0,0
 2020-01-24,Barbados,,13.1939,-59.5432,0,0,0
@@ -5565,6 +5586,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Barbados,,13.1939,-59.5432,190,178,7
 2020-09-29,Barbados,,13.1939,-59.5432,190,178,7
 2020-09-30,Barbados,,13.1939,-59.5432,190,179,7
+2020-10-01,Barbados,,13.1939,-59.5432,193,179,7
 2020-01-22,Belarus,,53.7098,27.9534,0,0,0
 2020-01-23,Belarus,,53.7098,27.9534,0,0,0
 2020-01-24,Belarus,,53.7098,27.9534,0,0,0
@@ -5818,6 +5840,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Belarus,,53.7098,27.9534,77946,74167,822
 2020-09-29,Belarus,,53.7098,27.9534,78260,74320,828
 2020-09-30,Belarus,,53.7098,27.9534,78631,74525,833
+2020-10-01,Belarus,,53.7098,27.9534,79019,74777,839
 2020-01-22,Belgium,,50.8333,4.469936,0,0,0
 2020-01-23,Belgium,,50.8333,4.469936,0,0,0
 2020-01-24,Belgium,,50.8333,4.469936,0,0,0
@@ -6071,6 +6094,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Belgium,,50.8333,4.469936,115353,19301,9987
 2020-09-29,Belgium,,50.8333,4.469936,117115,19386,10001
 2020-09-30,Belgium,,50.8333,4.469936,118452,19454,10016
+2020-10-01,Belgium,,50.8333,4.469936,121059,19521,10023
 2020-01-22,Belize,,17.1899,-88.4976,0,0,0
 2020-01-23,Belize,,17.1899,-88.4976,0,0,0
 2020-01-24,Belize,,17.1899,-88.4976,0,0,0
@@ -6324,6 +6348,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Belize,,17.1899,-88.4976,1891,1208,24
 2020-09-29,Belize,,17.1899,-88.4976,1891,1208,24
 2020-09-30,Belize,,17.1899,-88.4976,1992,1246,27
+2020-10-01,Belize,,17.1899,-88.4976,1992,1246,27
 2020-01-22,Benin,,9.3077,2.3158,0,0,0
 2020-01-23,Benin,,9.3077,2.3158,0,0,0
 2020-01-24,Benin,,9.3077,2.3158,0,0,0
@@ -6577,6 +6602,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Benin,,9.3077,2.3158,2340,1960,40
 2020-09-29,Benin,,9.3077,2.3158,2340,1960,40
 2020-09-30,Benin,,9.3077,2.3158,2357,1973,41
+2020-10-01,Benin,,9.3077,2.3158,2357,1973,41
 2020-01-22,Bhutan,,27.5142,90.4336,0,0,0
 2020-01-23,Bhutan,,27.5142,90.4336,0,0,0
 2020-01-24,Bhutan,,27.5142,90.4336,0,0,0
@@ -6830,6 +6856,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Bhutan,,27.5142,90.4336,280,210,0
 2020-09-29,Bhutan,,27.5142,90.4336,281,219,0
 2020-09-30,Bhutan,,27.5142,90.4336,282,222,0
+2020-10-01,Bhutan,,27.5142,90.4336,282,225,0
 2020-01-22,Bolivia,,-16.2902,-63.5887,0,0,0
 2020-01-23,Bolivia,,-16.2902,-63.5887,0,0,0
 2020-01-24,Bolivia,,-16.2902,-63.5887,0,0,0
@@ -7083,6 +7110,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Bolivia,,-16.2902,-63.5887,134223,94324,7900
 2020-09-29,Bolivia,,-16.2902,-63.5887,134641,94895,7931
 2020-09-30,Bolivia,,-16.2902,-63.5887,135311,95529,7965
+2020-10-01,Bolivia,,-16.2902,-63.5887,135716,96165,8001
 2020-01-22,Bosnia and Herzegovina,,43.9159,17.6791,0,0,0
 2020-01-23,Bosnia and Herzegovina,,43.9159,17.6791,0,0,0
 2020-01-24,Bosnia and Herzegovina,,43.9159,17.6791,0,0,0
@@ -7336,6 +7364,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Bosnia and Herzegovina,,43.9159,17.6791,27001,20005,829
 2020-09-29,Bosnia and Herzegovina,,43.9159,17.6791,27226,20322,843
 2020-09-30,Bosnia and Herzegovina,,43.9159,17.6791,27469,20616,856
+2020-10-01,Bosnia and Herzegovina,,43.9159,17.6791,27749,20947,861
 2020-01-22,Botswana,,-22.3285,24.6849,0,0,0
 2020-01-23,Botswana,,-22.3285,24.6849,0,0,0
 2020-01-24,Botswana,,-22.3285,24.6849,0,0,0
@@ -7589,6 +7618,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Botswana,,-22.3285,24.6849,3172,710,16
 2020-09-29,Botswana,,-22.3285,24.6849,3172,710,16
 2020-09-30,Botswana,,-22.3285,24.6849,3172,710,16
+2020-10-01,Botswana,,-22.3285,24.6849,3172,710,16
 2020-01-22,Brazil,,-14.235,-51.9253,0,0,0
 2020-01-23,Brazil,,-14.235,-51.9253,0,0,0
 2020-01-24,Brazil,,-14.235,-51.9253,0,0,0
@@ -7842,6 +7872,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Brazil,,-14.235,-51.9253,4745464,4197372,142058
 2020-09-29,Brazil,,-14.235,-51.9253,4777522,4237152,142921
 2020-09-30,Brazil,,-14.235,-51.9253,4810935,4274774,143952
+2020-10-01,Brazil,,-14.235,-51.9253,4847092,4299659,144680
 2020-01-22,Brunei,,4.5353,114.7277,0,0,0
 2020-01-23,Brunei,,4.5353,114.7277,0,0,0
 2020-01-24,Brunei,,4.5353,114.7277,0,0,0
@@ -8095,6 +8126,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Brunei,,4.5353,114.7277,146,142,3
 2020-09-29,Brunei,,4.5353,114.7277,146,142,3
 2020-09-30,Brunei,,4.5353,114.7277,146,142,3
+2020-10-01,Brunei,,4.5353,114.7277,146,142,3
 2020-01-22,Bulgaria,,42.7339,25.4858,0,0,0
 2020-01-23,Bulgaria,,42.7339,25.4858,0,0,0
 2020-01-24,Bulgaria,,42.7339,25.4858,0,0,0
@@ -8348,6 +8380,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Bulgaria,,42.7339,25.4858,20271,14339,807
 2020-09-29,Bulgaria,,42.7339,25.4858,20547,14489,813
 2020-09-30,Bulgaria,,42.7339,25.4858,20833,14634,825
+2020-10-01,Bulgaria,,42.7339,25.4858,20833,14634,825
 2020-01-22,Burkina Faso,,12.2383,-1.5616,0,0,0
 2020-01-23,Burkina Faso,,12.2383,-1.5616,0,0,0
 2020-01-24,Burkina Faso,,12.2383,-1.5616,0,0,0
@@ -8601,6 +8634,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Burkina Faso,,12.2383,-1.5616,2028,1279,57
 2020-09-29,Burkina Faso,,12.2383,-1.5616,2032,1309,58
 2020-09-30,Burkina Faso,,12.2383,-1.5616,2056,1335,58
+2020-10-01,Burkina Faso,,12.2383,-1.5616,2088,1363,58
 2020-01-22,Burma,,21.9162,95.956,0,0,0
 2020-01-23,Burma,,21.9162,95.956,0,0,0
 2020-01-24,Burma,,21.9162,95.956,0,0,0
@@ -8854,6 +8888,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Burma,,21.9162,95.956,11631,3073,256
 2020-09-29,Burma,,21.9162,95.956,12425,3391,284
 2020-09-30,Burma,,21.9162,95.956,13373,3755,310
+2020-10-01,Burma,,21.9162,95.956,14383,4156,321
 2020-01-22,Burundi,,-3.3731,29.9189,0,0,0
 2020-01-23,Burundi,,-3.3731,29.9189,0,0,0
 2020-01-24,Burundi,,-3.3731,29.9189,0,0,0
@@ -9107,6 +9142,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Burundi,,-3.3731,29.9189,502,472,1
 2020-09-29,Burundi,,-3.3731,29.9189,506,472,1
 2020-09-30,Burundi,,-3.3731,29.9189,508,472,1
+2020-10-01,Burundi,,-3.3731,29.9189,510,472,1
 2020-01-22,Cabo Verde,,16.5388,-23.0418,0,0,0
 2020-01-23,Cabo Verde,,16.5388,-23.0418,0,0,0
 2020-01-24,Cabo Verde,,16.5388,-23.0418,0,0,0
@@ -9360,6 +9396,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Cabo Verde,,16.5388,-23.0418,5817,5134,59
 2020-09-29,Cabo Verde,,16.5388,-23.0418,5900,5228,59
 2020-09-30,Cabo Verde,,16.5388,-23.0418,6024,5277,60
+2020-10-01,Cabo Verde,,16.5388,-23.0418,6126,5338,61
 2020-01-22,Cambodia,,11.55,104.9167,0,0,0
 2020-01-23,Cambodia,,11.55,104.9167,0,0,0
 2020-01-24,Cambodia,,11.55,104.9167,0,0,0
@@ -9613,6 +9650,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Cambodia,,11.55,104.9167,277,275,0
 2020-09-29,Cambodia,,11.55,104.9167,277,275,0
 2020-09-30,Cambodia,,11.55,104.9167,277,275,0
+2020-10-01,Cambodia,,11.55,104.9167,278,275,0
 2020-01-22,Cameroon,,3.848,11.5021,0,0,0
 2020-01-23,Cameroon,,3.848,11.5021,0,0,0
 2020-01-24,Cameroon,,3.848,11.5021,0,0,0
@@ -9866,6 +9904,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Cameroon,,3.848,11.5021,20838,19440,418
 2020-09-29,Cameroon,,3.848,11.5021,20838,19440,418
 2020-09-30,Cameroon,,3.848,11.5021,20838,19440,418
+2020-10-01,Cameroon,,3.848,11.5021,20838,19440,418
 2020-01-22,Canada,Alberta,53.9333,-116.5765,0,,0
 2020-01-23,Canada,Alberta,53.9333,-116.5765,0,,0
 2020-01-24,Canada,Alberta,53.9333,-116.5765,0,,0
@@ -10119,6 +10158,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Canada,Alberta,53.9333,-116.5765,17749,,265
 2020-09-29,Canada,Alberta,53.9333,-116.5765,17909,,266
 2020-09-30,Canada,Alberta,53.9333,-116.5765,18062,,267
+2020-10-01,Canada,Alberta,53.9333,-116.5765,18235,,269
 2020-01-22,Canada,British Columbia,53.7267,-127.6476,0,,0
 2020-01-23,Canada,British Columbia,53.7267,-127.6476,0,,0
 2020-01-24,Canada,British Columbia,53.7267,-127.6476,0,,0
@@ -10372,6 +10412,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Canada,British Columbia,53.7267,-127.6476,8908,,233
 2020-09-29,Canada,British Columbia,53.7267,-127.6476,9013,,234
 2020-09-30,Canada,British Columbia,53.7267,-127.6476,9138,,234
+2020-10-01,Canada,British Columbia,53.7267,-127.6476,9220,,235
 2020-01-22,Canada,Diamond Princess,0.0,0.0,0,,0
 2020-01-23,Canada,Diamond Princess,0.0,0.0,0,,0
 2020-01-24,Canada,Diamond Princess,0.0,0.0,0,,0
@@ -10625,6 +10666,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Canada,Diamond Princess,0.0,0.0,0,,1
 2020-09-29,Canada,Diamond Princess,0.0,0.0,0,,1
 2020-09-30,Canada,Diamond Princess,0.0,0.0,0,,1
+2020-10-01,Canada,Diamond Princess,0.0,0.0,0,,1
 2020-01-22,Canada,Grand Princess,0.0,0.0,0,,0
 2020-01-23,Canada,Grand Princess,0.0,0.0,0,,0
 2020-01-24,Canada,Grand Princess,0.0,0.0,0,,0
@@ -10878,6 +10920,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Canada,Grand Princess,0.0,0.0,13,,0
 2020-09-29,Canada,Grand Princess,0.0,0.0,13,,0
 2020-09-30,Canada,Grand Princess,0.0,0.0,13,,0
+2020-10-01,Canada,Grand Princess,0.0,0.0,13,,0
 2020-01-22,Canada,Manitoba,53.7609,-98.8139,0,,0
 2020-01-23,Canada,Manitoba,53.7609,-98.8139,0,,0
 2020-01-24,Canada,Manitoba,53.7609,-98.8139,0,,0
@@ -11131,6 +11174,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Canada,Manitoba,53.7609,-98.8139,1919,,20
 2020-09-29,Canada,Manitoba,53.7609,-98.8139,1953,,20
 2020-09-30,Canada,Manitoba,53.7609,-98.8139,1993,,20
+2020-10-01,Canada,Manitoba,53.7609,-98.8139,2029,,20
 2020-01-22,Canada,New Brunswick,46.5653,-66.4619,0,,0
 2020-01-23,Canada,New Brunswick,46.5653,-66.4619,0,,0
 2020-01-24,Canada,New Brunswick,46.5653,-66.4619,0,,0
@@ -11384,6 +11428,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Canada,New Brunswick,46.5653,-66.4619,200,,2
 2020-09-29,Canada,New Brunswick,46.5653,-66.4619,200,,2
 2020-09-30,Canada,New Brunswick,46.5653,-66.4619,200,,2
+2020-10-01,Canada,New Brunswick,46.5653,-66.4619,200,,2
 2020-01-22,Canada,Newfoundland and Labrador,53.1355,-57.6604,0,,0
 2020-01-23,Canada,Newfoundland and Labrador,53.1355,-57.6604,0,,0
 2020-01-24,Canada,Newfoundland and Labrador,53.1355,-57.6604,0,,0
@@ -11637,6 +11682,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Canada,Newfoundland and Labrador,53.1355,-57.6604,273,,3
 2020-09-29,Canada,Newfoundland and Labrador,53.1355,-57.6604,273,,3
 2020-09-30,Canada,Newfoundland and Labrador,53.1355,-57.6604,274,,3
+2020-10-01,Canada,Newfoundland and Labrador,53.1355,-57.6604,275,,3
 2020-01-22,Canada,Northwest Territories,64.8255,-124.8457,0,,0
 2020-01-23,Canada,Northwest Territories,64.8255,-124.8457,0,,0
 2020-01-24,Canada,Northwest Territories,64.8255,-124.8457,0,,0
@@ -11890,6 +11936,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Canada,Northwest Territories,64.8255,-124.8457,5,,0
 2020-09-29,Canada,Northwest Territories,64.8255,-124.8457,5,,0
 2020-09-30,Canada,Northwest Territories,64.8255,-124.8457,5,,0
+2020-10-01,Canada,Northwest Territories,64.8255,-124.8457,5,,0
 2020-01-22,Canada,Nova Scotia,44.682,-63.7443,0,,0
 2020-01-23,Canada,Nova Scotia,44.682,-63.7443,0,,0
 2020-01-24,Canada,Nova Scotia,44.682,-63.7443,0,,0
@@ -12143,6 +12190,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Canada,Nova Scotia,44.682,-63.7443,1087,,65
 2020-09-29,Canada,Nova Scotia,44.682,-63.7443,1087,,65
 2020-09-30,Canada,Nova Scotia,44.682,-63.7443,1088,,65
+2020-10-01,Canada,Nova Scotia,44.682,-63.7443,1088,,65
 2020-01-22,Canada,Ontario,51.2538,-85.3232,0,,0
 2020-01-23,Canada,Ontario,51.2538,-85.3232,0,,0
 2020-01-24,Canada,Ontario,51.2538,-85.3232,0,,0
@@ -12396,6 +12444,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Canada,Ontario,51.2538,-85.3232,52449,,2889
 2020-09-29,Canada,Ontario,51.2538,-85.3232,53115,,2892
 2020-09-30,Canada,Ontario,51.2538,-85.3232,54059,,2896
+2020-10-01,Canada,Ontario,51.2538,-85.3232,54643,,2899
 2020-01-22,Canada,Prince Edward Island,46.5107,-63.4168,0,,0
 2020-01-23,Canada,Prince Edward Island,46.5107,-63.4168,0,,0
 2020-01-24,Canada,Prince Edward Island,46.5107,-63.4168,0,,0
@@ -12649,6 +12698,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Canada,Prince Edward Island,46.5107,-63.4168,58,,0
 2020-09-29,Canada,Prince Edward Island,46.5107,-63.4168,59,,0
 2020-09-30,Canada,Prince Edward Island,46.5107,-63.4168,59,,0
+2020-10-01,Canada,Prince Edward Island,46.5107,-63.4168,59,,0
 2020-01-22,Canada,Quebec,52.9399,-73.5491,0,,0
 2020-01-23,Canada,Quebec,52.9399,-73.5491,0,,0
 2020-01-24,Canada,Quebec,52.9399,-73.5491,0,,0
@@ -12902,6 +12952,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Canada,Quebec,52.9399,-73.5491,72651,,5826
 2020-09-29,Canada,Quebec,52.9399,-73.5491,73450,,5833
 2020-09-30,Canada,Quebec,52.9399,-73.5491,74288,,5834
+2020-10-01,Canada,Quebec,52.9399,-73.5491,75221,,5850
 2020-01-22,Canada,Saskatchewan,52.9399,-106.4509,0,,0
 2020-01-23,Canada,Saskatchewan,52.9399,-106.4509,0,,0
 2020-01-24,Canada,Saskatchewan,52.9399,-106.4509,0,,0
@@ -13155,6 +13206,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Canada,Saskatchewan,52.9399,-106.4509,1892,,24
 2020-09-29,Canada,Saskatchewan,52.9399,-106.4509,1899,,24
 2020-09-30,Canada,Saskatchewan,52.9399,-106.4509,1913,,24
+2020-10-01,Canada,Saskatchewan,52.9399,-106.4509,1927,,24
 2020-01-22,Canada,Yukon,64.2823,-135.0,0,,0
 2020-01-23,Canada,Yukon,64.2823,-135.0,0,,0
 2020-01-24,Canada,Yukon,64.2823,-135.0,0,,0
@@ -13408,6 +13460,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Canada,Yukon,64.2823,-135.0,15,,0
 2020-09-29,Canada,Yukon,64.2823,-135.0,15,,0
 2020-09-30,Canada,Yukon,64.2823,-135.0,15,,0
+2020-10-01,Canada,Yukon,64.2823,-135.0,15,,0
 2020-01-22,Central African Republic,,6.6111,20.9394,0,0,0
 2020-01-23,Central African Republic,,6.6111,20.9394,0,0,0
 2020-01-24,Central African Republic,,6.6111,20.9394,0,0,0
@@ -13661,6 +13714,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Central African Republic,,6.6111,20.9394,4806,1840,62
 2020-09-29,Central African Republic,,6.6111,20.9394,4806,1840,62
 2020-09-30,Central African Republic,,6.6111,20.9394,4829,1914,62
+2020-10-01,Central African Republic,,6.6111,20.9394,4829,1914,62
 2020-01-22,Chad,,15.4542,18.7322,0,0,0
 2020-01-23,Chad,,15.4542,18.7322,0,0,0
 2020-01-24,Chad,,15.4542,18.7322,0,0,0
@@ -13914,6 +13968,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Chad,,15.4542,18.7322,1185,1006,85
 2020-09-29,Chad,,15.4542,18.7322,1193,1007,85
 2020-09-30,Chad,,15.4542,18.7322,1200,1007,85
+2020-10-01,Chad,,15.4542,18.7322,1203,1067,85
 2020-01-22,Chile,,-35.6751,-71.543,0,0,0
 2020-01-23,Chile,,-35.6751,-71.543,0,0,0
 2020-01-24,Chile,,-35.6751,-71.543,0,0,0
@@ -14167,6 +14222,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Chile,,-35.6751,-71.543,459671,433016,12698
 2020-09-29,Chile,,-35.6751,-71.543,461300,434794,12725
 2020-09-30,Chile,,-35.6751,-71.543,462991,436589,12741
+2020-10-01,Chile,,-35.6751,-71.543,464750,438148,12822
 2020-01-22,China,Anhui,31.8257,117.2264,1,0,0
 2020-01-23,China,Anhui,31.8257,117.2264,9,0,0
 2020-01-24,China,Anhui,31.8257,117.2264,15,0,0
@@ -14420,6 +14476,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,China,Anhui,31.8257,117.2264,991,985,6
 2020-09-29,China,Anhui,31.8257,117.2264,991,985,6
 2020-09-30,China,Anhui,31.8257,117.2264,991,985,6
+2020-10-01,China,Anhui,31.8257,117.2264,991,985,6
 2020-01-22,China,Beijing,40.1824,116.4142,14,0,0
 2020-01-23,China,Beijing,40.1824,116.4142,22,0,0
 2020-01-24,China,Beijing,40.1824,116.4142,36,1,0
@@ -14673,6 +14730,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,China,Beijing,40.1824,116.4142,936,926,9
 2020-09-29,China,Beijing,40.1824,116.4142,936,926,9
 2020-09-30,China,Beijing,40.1824,116.4142,936,926,9
+2020-10-01,China,Beijing,40.1824,116.4142,936,926,9
 2020-01-22,China,Chongqing,30.0572,107.874,6,0,0
 2020-01-23,China,Chongqing,30.0572,107.874,9,0,0
 2020-01-24,China,Chongqing,30.0572,107.874,27,0,0
@@ -14926,6 +14984,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,China,Chongqing,30.0572,107.874,584,578,6
 2020-09-29,China,Chongqing,30.0572,107.874,584,578,6
 2020-09-30,China,Chongqing,30.0572,107.874,584,578,6
+2020-10-01,China,Chongqing,30.0572,107.874,585,578,6
 2020-01-22,China,Fujian,26.0789,117.9874,1,0,0
 2020-01-23,China,Fujian,26.0789,117.9874,5,0,0
 2020-01-24,China,Fujian,26.0789,117.9874,10,0,0
@@ -15179,6 +15238,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,China,Fujian,26.0789,117.9874,404,387,1
 2020-09-29,China,Fujian,26.0789,117.9874,409,388,1
 2020-09-30,China,Fujian,26.0789,117.9874,409,390,1
+2020-10-01,China,Fujian,26.0789,117.9874,411,390,1
 2020-01-22,China,Gansu,35.7518,104.2861,0,0,0
 2020-01-23,China,Gansu,35.7518,104.2861,2,0,0
 2020-01-24,China,Gansu,35.7518,104.2861,2,0,0
@@ -15432,6 +15492,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,China,Gansu,35.7518,104.2861,170,168,2
 2020-09-29,China,Gansu,35.7518,104.2861,170,168,2
 2020-09-30,China,Gansu,35.7518,104.2861,170,168,2
+2020-10-01,China,Gansu,35.7518,104.2861,170,168,2
 2020-01-22,China,Guangdong,23.3417,113.4244,26,0,0
 2020-01-23,China,Guangdong,23.3417,113.4244,32,2,0
 2020-01-24,China,Guangdong,23.3417,113.4244,53,2,0
@@ -15685,6 +15746,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,China,Guangdong,23.3417,113.4244,1819,1792,8
 2020-09-29,China,Guangdong,23.3417,113.4244,1827,1796,8
 2020-09-30,China,Guangdong,23.3417,113.4244,1827,1799,8
+2020-10-01,China,Guangdong,23.3417,113.4244,1831,1800,8
 2020-01-22,China,Guangxi,23.8298,108.7881,2,0,0
 2020-01-23,China,Guangxi,23.8298,108.7881,5,0,0
 2020-01-24,China,Guangxi,23.8298,108.7881,23,0,0
@@ -15938,6 +16000,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,China,Guangxi,23.8298,108.7881,259,254,2
 2020-09-29,China,Guangxi,23.8298,108.7881,259,254,2
 2020-09-30,China,Guangxi,23.8298,108.7881,259,255,2
+2020-10-01,China,Guangxi,23.8298,108.7881,259,255,2
 2020-01-22,China,Guizhou,26.8154,106.8748,1,0,0
 2020-01-23,China,Guizhou,26.8154,106.8748,3,0,0
 2020-01-24,China,Guizhou,26.8154,106.8748,3,0,0
@@ -16191,6 +16254,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,China,Guizhou,26.8154,106.8748,147,145,2
 2020-09-29,China,Guizhou,26.8154,106.8748,147,145,2
 2020-09-30,China,Guizhou,26.8154,106.8748,147,145,2
+2020-10-01,China,Guizhou,26.8154,106.8748,147,145,2
 2020-01-22,China,Hainan,19.1959,109.7453,4,0,0
 2020-01-23,China,Hainan,19.1959,109.7453,5,0,0
 2020-01-24,China,Hainan,19.1959,109.7453,8,0,0
@@ -16444,6 +16508,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,China,Hainan,19.1959,109.7453,171,165,6
 2020-09-29,China,Hainan,19.1959,109.7453,171,165,6
 2020-09-30,China,Hainan,19.1959,109.7453,171,165,6
+2020-10-01,China,Hainan,19.1959,109.7453,171,165,6
 2020-01-22,China,Hebei,39.549,116.1306,1,0,0
 2020-01-23,China,Hebei,39.549,116.1306,1,0,1
 2020-01-24,China,Hebei,39.549,116.1306,2,0,1
@@ -16697,6 +16762,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,China,Hebei,39.549,116.1306,365,358,6
 2020-09-29,China,Hebei,39.549,116.1306,365,358,6
 2020-09-30,China,Hebei,39.549,116.1306,365,358,6
+2020-10-01,China,Hebei,39.549,116.1306,365,358,6
 2020-01-22,China,Heilongjiang,47.862,127.7615,0,0,0
 2020-01-23,China,Heilongjiang,47.862,127.7615,2,0,0
 2020-01-24,China,Heilongjiang,47.862,127.7615,4,0,1
@@ -16950,6 +17016,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,China,Heilongjiang,47.862,127.7615,948,935,13
 2020-09-29,China,Heilongjiang,47.862,127.7615,948,935,13
 2020-09-30,China,Heilongjiang,47.862,127.7615,948,935,13
+2020-10-01,China,Heilongjiang,47.862,127.7615,948,935,13
 2020-01-22,China,Henan,37.8957,114.9042,5,0,0
 2020-01-23,China,Henan,37.8957,114.9042,5,0,0
 2020-01-24,China,Henan,37.8957,114.9042,9,0,0
@@ -17203,6 +17270,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,China,Henan,37.8957,114.9042,1280,1254,22
 2020-09-29,China,Henan,37.8957,114.9042,1281,1254,22
 2020-09-30,China,Henan,37.8957,114.9042,1281,1254,22
+2020-10-01,China,Henan,37.8957,114.9042,1281,1254,22
 2020-01-22,China,Hong Kong,22.3,114.2,0,0,0
 2020-01-23,China,Hong Kong,22.3,114.2,2,0,0
 2020-01-24,China,Hong Kong,22.3,114.2,2,0,0
@@ -17456,6 +17524,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,China,Hong Kong,22.3,114.2,5075,4790,105
 2020-09-29,China,Hong Kong,22.3,114.2,5079,4807,105
 2020-09-30,China,Hong Kong,22.3,114.2,5087,4827,105
+2020-10-01,China,Hong Kong,22.3,114.2,5097,4837,105
 2020-01-22,China,Hubei,30.9756,112.2707,444,28,17
 2020-01-23,China,Hubei,30.9756,112.2707,444,28,17
 2020-01-24,China,Hubei,30.9756,112.2707,549,31,24
@@ -17709,6 +17778,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,China,Hubei,30.9756,112.2707,68139,63627,4512
 2020-09-29,China,Hubei,30.9756,112.2707,68139,63627,4512
 2020-09-30,China,Hubei,30.9756,112.2707,68139,63627,4512
+2020-10-01,China,Hubei,30.9756,112.2707,68139,63627,4512
 2020-01-22,China,Hunan,27.6104,111.7088,4,0,0
 2020-01-23,China,Hunan,27.6104,111.7088,9,0,0
 2020-01-24,China,Hunan,27.6104,111.7088,24,0,0
@@ -17962,6 +18032,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,China,Hunan,27.6104,111.7088,1019,1015,4
 2020-09-29,China,Hunan,27.6104,111.7088,1019,1015,4
 2020-09-30,China,Hunan,27.6104,111.7088,1019,1015,4
+2020-10-01,China,Hunan,27.6104,111.7088,1019,1015,4
 2020-01-22,China,Inner Mongolia,44.0935,113.9448,0,0,0
 2020-01-23,China,Inner Mongolia,44.0935,113.9448,0,0,0
 2020-01-24,China,Inner Mongolia,44.0935,113.9448,1,0,0
@@ -18215,6 +18286,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,China,Inner Mongolia,44.0935,113.9448,266,259,1
 2020-09-29,China,Inner Mongolia,44.0935,113.9448,266,259,1
 2020-09-30,China,Inner Mongolia,44.0935,113.9448,266,259,1
+2020-10-01,China,Inner Mongolia,44.0935,113.9448,266,260,1
 2020-01-22,China,Jiangsu,32.9711,119.455,1,0,0
 2020-01-23,China,Jiangsu,32.9711,119.455,5,0,0
 2020-01-24,China,Jiangsu,32.9711,119.455,9,0,0
@@ -18468,6 +18540,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,China,Jiangsu,32.9711,119.455,666,664,0
 2020-09-29,China,Jiangsu,32.9711,119.455,666,664,0
 2020-09-30,China,Jiangsu,32.9711,119.455,666,664,0
+2020-10-01,China,Jiangsu,32.9711,119.455,666,664,0
 2020-01-22,China,Jiangxi,27.614,115.7221,2,0,0
 2020-01-23,China,Jiangxi,27.614,115.7221,7,0,0
 2020-01-24,China,Jiangxi,27.614,115.7221,18,0,0
@@ -18721,6 +18794,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,China,Jiangxi,27.614,115.7221,935,934,1
 2020-09-29,China,Jiangxi,27.614,115.7221,935,934,1
 2020-09-30,China,Jiangxi,27.614,115.7221,935,934,1
+2020-10-01,China,Jiangxi,27.614,115.7221,935,934,1
 2020-01-22,China,Jilin,43.6661,126.1923,0,0,0
 2020-01-23,China,Jilin,43.6661,126.1923,1,0,0
 2020-01-24,China,Jilin,43.6661,126.1923,3,0,0
@@ -18974,6 +19048,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,China,Jilin,43.6661,126.1923,157,155,2
 2020-09-29,China,Jilin,43.6661,126.1923,157,155,2
 2020-09-30,China,Jilin,43.6661,126.1923,157,155,2
+2020-10-01,China,Jilin,43.6661,126.1923,157,155,2
 2020-01-22,China,Liaoning,41.2956,122.6085,2,0,0
 2020-01-23,China,Liaoning,41.2956,122.6085,3,0,0
 2020-01-24,China,Liaoning,41.2956,122.6085,4,0,0
@@ -19227,6 +19302,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,China,Liaoning,41.2956,122.6085,271,263,2
 2020-09-29,China,Liaoning,41.2956,122.6085,271,263,2
 2020-09-30,China,Liaoning,41.2956,122.6085,271,263,2
+2020-10-01,China,Liaoning,41.2956,122.6085,271,263,2
 2020-01-22,China,Macau,22.1667,113.55,1,0,0
 2020-01-23,China,Macau,22.1667,113.55,2,0,0
 2020-01-24,China,Macau,22.1667,113.55,2,0,0
@@ -19480,6 +19556,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,China,Macau,22.1667,113.55,46,46,0
 2020-09-29,China,Macau,22.1667,113.55,46,46,0
 2020-09-30,China,Macau,22.1667,113.55,46,46,0
+2020-10-01,China,Macau,22.1667,113.55,46,46,0
 2020-01-22,China,Ningxia,37.2692,106.1655,1,0,0
 2020-01-23,China,Ningxia,37.2692,106.1655,1,0,0
 2020-01-24,China,Ningxia,37.2692,106.1655,2,0,0
@@ -19733,6 +19810,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,China,Ningxia,37.2692,106.1655,75,75,0
 2020-09-29,China,Ningxia,37.2692,106.1655,75,75,0
 2020-09-30,China,Ningxia,37.2692,106.1655,75,75,0
+2020-10-01,China,Ningxia,37.2692,106.1655,75,75,0
 2020-01-22,China,Qinghai,35.7452,95.9956,0,0,0
 2020-01-23,China,Qinghai,35.7452,95.9956,0,0,0
 2020-01-24,China,Qinghai,35.7452,95.9956,0,0,0
@@ -19986,6 +20064,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,China,Qinghai,35.7452,95.9956,18,18,0
 2020-09-29,China,Qinghai,35.7452,95.9956,18,18,0
 2020-09-30,China,Qinghai,35.7452,95.9956,18,18,0
+2020-10-01,China,Qinghai,35.7452,95.9956,18,18,0
 2020-01-22,China,Shaanxi,35.1917,108.8701,0,0,0
 2020-01-23,China,Shaanxi,35.1917,108.8701,3,0,0
 2020-01-24,China,Shaanxi,35.1917,108.8701,5,0,0
@@ -20239,6 +20318,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,China,Shaanxi,35.1917,108.8701,406,378,3
 2020-09-29,China,Shaanxi,35.1917,108.8701,408,378,3
 2020-09-30,China,Shaanxi,35.1917,108.8701,409,381,3
+2020-10-01,China,Shaanxi,35.1917,108.8701,410,383,3
 2020-01-22,China,Shandong,36.3427,118.1498,2,0,0
 2020-01-23,China,Shandong,36.3427,118.1498,6,0,0
 2020-01-24,China,Shandong,36.3427,118.1498,15,0,0
@@ -20492,6 +20572,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,China,Shandong,36.3427,118.1498,832,823,7
 2020-09-29,China,Shandong,36.3427,118.1498,832,823,7
 2020-09-30,China,Shandong,36.3427,118.1498,832,823,7
+2020-10-01,China,Shandong,36.3427,118.1498,832,823,7
 2020-01-22,China,Shanghai,31.202,121.4491,9,0,0
 2020-01-23,China,Shanghai,31.202,121.4491,16,0,0
 2020-01-24,China,Shanghai,31.202,121.4491,20,1,0
@@ -20745,6 +20826,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,China,Shanghai,31.202,121.4491,997,939,7
 2020-09-29,China,Shanghai,31.202,121.4491,999,942,7
 2020-09-30,China,Shanghai,31.202,121.4491,1006,947,7
+2020-10-01,China,Shanghai,31.202,121.4491,1007,950,7
 2020-01-22,China,Shanxi,37.5777,112.2922,1,0,0
 2020-01-23,China,Shanxi,37.5777,112.2922,1,0,0
 2020-01-24,China,Shanxi,37.5777,112.2922,1,0,0
@@ -20998,6 +21080,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,China,Shanxi,37.5777,112.2922,204,203,0
 2020-09-29,China,Shanxi,37.5777,112.2922,204,203,0
 2020-09-30,China,Shanxi,37.5777,112.2922,204,203,0
+2020-10-01,China,Shanxi,37.5777,112.2922,204,203,0
 2020-01-22,China,Sichuan,30.6171,102.7103,5,0,0
 2020-01-23,China,Sichuan,30.6171,102.7103,8,0,0
 2020-01-24,China,Sichuan,30.6171,102.7103,15,0,0
@@ -21251,6 +21334,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,China,Sichuan,30.6171,102.7103,691,660,3
 2020-09-29,China,Sichuan,30.6171,102.7103,692,660,3
 2020-09-30,China,Sichuan,30.6171,102.7103,693,663,3
+2020-10-01,China,Sichuan,30.6171,102.7103,696,663,3
 2020-01-22,China,Tianjin,39.3054,117.323,4,0,0
 2020-01-23,China,Tianjin,39.3054,117.323,4,0,0
 2020-01-24,China,Tianjin,39.3054,117.323,8,0,0
@@ -21504,6 +21588,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,China,Tianjin,39.3054,117.323,240,233,3
 2020-09-29,China,Tianjin,39.3054,117.323,240,233,3
 2020-09-30,China,Tianjin,39.3054,117.323,240,233,3
+2020-10-01,China,Tianjin,39.3054,117.323,240,234,3
 2020-01-22,China,Tibet,31.6927,88.0924,0,0,0
 2020-01-23,China,Tibet,31.6927,88.0924,0,0,0
 2020-01-24,China,Tibet,31.6927,88.0924,0,0,0
@@ -21757,6 +21842,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,China,Tibet,31.6927,88.0924,1,1,0
 2020-09-29,China,Tibet,31.6927,88.0924,1,1,0
 2020-09-30,China,Tibet,31.6927,88.0924,1,1,0
+2020-10-01,China,Tibet,31.6927,88.0924,1,1,0
 2020-01-22,China,Xinjiang,41.1129,85.2401,0,0,0
 2020-01-23,China,Xinjiang,41.1129,85.2401,2,0,0
 2020-01-24,China,Xinjiang,41.1129,85.2401,2,0,0
@@ -22010,6 +22096,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,China,Xinjiang,41.1129,85.2401,902,899,3
 2020-09-29,China,Xinjiang,41.1129,85.2401,902,899,3
 2020-09-30,China,Xinjiang,41.1129,85.2401,902,899,3
+2020-10-01,China,Xinjiang,41.1129,85.2401,902,899,3
 2020-01-22,China,Yunnan,24.974,101.487,1,0,0
 2020-01-23,China,Yunnan,24.974,101.487,2,0,0
 2020-01-24,China,Yunnan,24.974,101.487,5,0,0
@@ -22263,6 +22350,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,China,Yunnan,24.974,101.487,209,197,2
 2020-09-29,China,Yunnan,24.974,101.487,209,197,2
 2020-09-30,China,Yunnan,24.974,101.487,209,197,2
+2020-10-01,China,Yunnan,24.974,101.487,209,198,2
 2020-01-22,China,Zhejiang,29.1832,120.0934,10,0,0
 2020-01-23,China,Zhejiang,29.1832,120.0934,27,0,0
 2020-01-24,China,Zhejiang,29.1832,120.0934,43,1,0
@@ -22516,6 +22604,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,China,Zhejiang,29.1832,120.0934,1282,1272,1
 2020-09-29,China,Zhejiang,29.1832,120.0934,1282,1272,1
 2020-09-30,China,Zhejiang,29.1832,120.0934,1282,1272,1
+2020-10-01,China,Zhejiang,29.1832,120.0934,1282,1272,1
 2020-01-22,Colombia,,4.5709,-74.2973,0,0,0
 2020-01-23,Colombia,,4.5709,-74.2973,0,0,0
 2020-01-24,Colombia,,4.5709,-74.2973,0,0,0
@@ -22769,6 +22858,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Colombia,,4.5709,-74.2973,818203,722536,25641
 2020-09-29,Colombia,,4.5709,-74.2973,824042,734154,25828
 2020-09-30,Colombia,,4.5709,-74.2973,829679,743653,25998
+2020-10-01,Colombia,,4.5709,-74.2973,835339,751691,26196
 2020-01-22,Comoros,,-11.6455,43.3333,0,0,0
 2020-01-23,Comoros,,-11.6455,43.3333,0,0,0
 2020-01-24,Comoros,,-11.6455,43.3333,0,0,0
@@ -23022,6 +23112,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Comoros,,-11.6455,43.3333,478,458,7
 2020-09-29,Comoros,,-11.6455,43.3333,479,464,7
 2020-09-30,Comoros,,-11.6455,43.3333,479,464,7
+2020-10-01,Comoros,,-11.6455,43.3333,484,466,7
 2020-01-22,Congo (Brazzaville),,-0.228,15.8277,0,0,0
 2020-01-23,Congo (Brazzaville),,-0.228,15.8277,0,0,0
 2020-01-24,Congo (Brazzaville),,-0.228,15.8277,0,0,0
@@ -23275,6 +23366,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Congo (Brazzaville),,-0.228,15.8277,5008,3887,89
 2020-09-29,Congo (Brazzaville),,-0.228,15.8277,5008,3887,89
 2020-09-30,Congo (Brazzaville),,-0.228,15.8277,5089,3887,89
+2020-10-01,Congo (Brazzaville),,-0.228,15.8277,5089,3887,89
 2020-01-22,Congo (Kinshasa),,-4.0383,21.7587,0,0,0
 2020-01-23,Congo (Kinshasa),,-4.0383,21.7587,0,0,0
 2020-01-24,Congo (Kinshasa),,-4.0383,21.7587,0,0,0
@@ -23528,6 +23620,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Congo (Kinshasa),,-4.0383,21.7587,10624,10093,271
 2020-09-29,Congo (Kinshasa),,-4.0383,21.7587,10631,10129,272
 2020-09-30,Congo (Kinshasa),,-4.0383,21.7587,10659,10139,272
+2020-10-01,Congo (Kinshasa),,-4.0383,21.7587,10685,10165,272
 2020-01-22,Costa Rica,,9.7489,-83.7534,0,0,0
 2020-01-23,Costa Rica,,9.7489,-83.7534,0,0,0
 2020-01-24,Costa Rica,,9.7489,-83.7534,0,0,0
@@ -23781,6 +23874,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Costa Rica,,9.7489,-83.7534,73714,29420,861
 2020-09-29,Costa Rica,,9.7489,-83.7534,74604,30703,880
 2020-09-30,Costa Rica,,9.7489,-83.7534,75760,37841,904
+2020-10-01,Costa Rica,,9.7489,-83.7534,76828,39843,917
 2020-01-22,Cote d'Ivoire,,7.54,-5.5471,0,0,0
 2020-01-23,Cote d'Ivoire,,7.54,-5.5471,0,0,0
 2020-01-24,Cote d'Ivoire,,7.54,-5.5471,0,0,0
@@ -24034,6 +24128,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Cote d'Ivoire,,7.54,-5.5471,19641,19202,120
 2020-09-29,Cote d'Ivoire,,7.54,-5.5471,19669,19241,120
 2020-09-30,Cote d'Ivoire,,7.54,-5.5471,19724,19291,120
+2020-10-01,Cote d'Ivoire,,7.54,-5.5471,19755,19320,120
 2020-01-22,Croatia,,45.1,15.2,0,0,0
 2020-01-23,Croatia,,45.1,15.2,0,0,0
 2020-01-24,Croatia,,45.1,15.2,0,0,0
@@ -24287,6 +24382,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Croatia,,45.1,15.2,16245,14793,272
 2020-09-29,Croatia,,45.1,15.2,16380,14947,275
 2020-09-30,Croatia,,45.1,15.2,16593,15057,280
+2020-10-01,Croatia,,45.1,15.2,16827,15218,284
 2020-01-22,Cuba,,21.521757,-77.78116700000002,0,0,0
 2020-01-23,Cuba,,21.521757,-77.78116700000002,0,0,0
 2020-01-24,Cuba,,21.521757,-77.78116700000002,0,0,0
@@ -24540,6 +24636,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Cuba,,21.521757,-77.78116700000002,5483,4787,122
 2020-09-29,Cuba,,21.521757,-77.78116700000002,5531,4866,122
 2020-09-30,Cuba,,21.521757,-77.78116700000002,5597,4893,122
+2020-10-01,Cuba,,21.521757,-77.78116700000002,5670,4922,122
 2020-01-22,Cyprus,,35.1264,33.4299,0,0,0
 2020-01-23,Cyprus,,35.1264,33.4299,0,0,0
 2020-01-24,Cyprus,,35.1264,33.4299,0,0,0
@@ -24793,6 +24890,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Cyprus,,35.1264,33.4299,1713,1369,22
 2020-09-29,Cyprus,,35.1264,33.4299,1743,1369,22
 2020-09-30,Cyprus,,35.1264,33.4299,1755,1369,22
+2020-10-01,Cyprus,,35.1264,33.4299,1772,1369,22
 2020-01-22,Czechia,,49.8175,15.473,0,0,0
 2020-01-23,Czechia,,49.8175,15.473,0,0,0
 2020-01-24,Czechia,,49.8175,15.473,0,0,0
@@ -25046,6 +25144,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Czechia,,49.8175,15.473,65883,31799,618
 2020-09-29,Czechia,,49.8175,15.473,67843,32759,636
 2020-09-30,Czechia,,49.8175,15.473,68919,33443,655
+2020-10-01,Czechia,,49.8175,15.473,74255,34186,678
 2020-01-22,Denmark,Faroe Islands,61.8926,-6.9118,0,0,0
 2020-01-23,Denmark,Faroe Islands,61.8926,-6.9118,0,0,0
 2020-01-24,Denmark,Faroe Islands,61.8926,-6.9118,0,0,0
@@ -25299,6 +25398,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Denmark,Faroe Islands,61.8926,-6.9118,460,423,0
 2020-09-29,Denmark,Faroe Islands,61.8926,-6.9118,463,428,0
 2020-09-30,Denmark,Faroe Islands,61.8926,-6.9118,467,429,0
+2020-10-01,Denmark,Faroe Islands,61.8926,-6.9118,472,429,0
 2020-01-22,Denmark,Greenland,71.7069,-42.6043,0,0,0
 2020-01-23,Denmark,Greenland,71.7069,-42.6043,0,0,0
 2020-01-24,Denmark,Greenland,71.7069,-42.6043,0,0,0
@@ -25552,6 +25652,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Denmark,Greenland,71.7069,-42.6043,14,14,0
 2020-09-29,Denmark,Greenland,71.7069,-42.6043,14,14,0
 2020-09-30,Denmark,Greenland,71.7069,-42.6043,14,14,0
+2020-10-01,Denmark,Greenland,71.7069,-42.6043,14,14,0
 2020-01-22,Denmark,,56.2639,9.5018,0,0,0
 2020-01-23,Denmark,,56.2639,9.5018,0,0,0
 2020-01-24,Denmark,,56.2639,9.5018,0,0,0
@@ -25805,6 +25906,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Denmark,,56.2639,9.5018,27072,19942,649
 2020-09-29,Denmark,,56.2639,9.5018,27464,20320,650
 2020-09-30,Denmark,,56.2639,9.5018,27998,20754,650
+2020-10-01,Denmark,,56.2639,9.5018,28396,21309,651
 2020-01-22,Diamond Princess,,0.0,0.0,0,0,0
 2020-01-23,Diamond Princess,,0.0,0.0,0,0,0
 2020-01-24,Diamond Princess,,0.0,0.0,0,0,0
@@ -26058,6 +26160,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Diamond Princess,,0.0,0.0,712,651,13
 2020-09-29,Diamond Princess,,0.0,0.0,712,651,13
 2020-09-30,Diamond Princess,,0.0,0.0,712,651,13
+2020-10-01,Diamond Princess,,0.0,0.0,712,651,13
 2020-01-22,Djibouti,,11.8251,42.5903,0,0,0
 2020-01-23,Djibouti,,11.8251,42.5903,0,0,0
 2020-01-24,Djibouti,,11.8251,42.5903,0,0,0
@@ -26311,6 +26414,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Djibouti,,11.8251,42.5903,5410,5340,61
 2020-09-29,Djibouti,,11.8251,42.5903,5416,5344,61
 2020-09-30,Djibouti,,11.8251,42.5903,5416,5344,61
+2020-10-01,Djibouti,,11.8251,42.5903,5417,5346,61
 2020-01-22,Dominica,,15.415,-61.371,0,0,0
 2020-01-23,Dominica,,15.415,-61.371,0,0,0
 2020-01-24,Dominica,,15.415,-61.371,0,0,0
@@ -26564,6 +26668,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Dominica,,15.415,-61.371,30,24,0
 2020-09-29,Dominica,,15.415,-61.371,30,24,0
 2020-09-30,Dominica,,15.415,-61.371,30,24,0
+2020-10-01,Dominica,,15.415,-61.371,31,24,0
 2020-01-22,Dominican Republic,,18.7357,-70.1627,0,0,0
 2020-01-23,Dominican Republic,,18.7357,-70.1627,0,0,0
 2020-01-24,Dominican Republic,,18.7357,-70.1627,0,0,0
@@ -26817,6 +26922,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Dominican Republic,,18.7357,-70.1627,111666,86422,2098
 2020-09-29,Dominican Republic,,18.7357,-70.1627,111900,86998,2101
 2020-09-30,Dominican Republic,,18.7357,-70.1627,112209,87629,2105
+2020-10-01,Dominican Republic,,18.7357,-70.1627,112728,88205,2108
 2020-01-22,Ecuador,,-1.8312,-78.1834,0,0,0
 2020-01-23,Ecuador,,-1.8312,-78.1834,0,0,0
 2020-01-24,Ecuador,,-1.8312,-78.1834,0,0,0
@@ -27070,6 +27176,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Ecuador,,-1.8312,-78.1834,134965,112296,11280
 2020-09-29,Ecuador,,-1.8312,-78.1834,135749,112296,11312
 2020-09-30,Ecuador,,-1.8312,-78.1834,137047,112296,11355
+2020-10-01,Ecuador,,-1.8312,-78.1834,138584,112296,11433
 2020-01-22,Egypt,,26.820553000000004,30.802498,0,0,0
 2020-01-23,Egypt,,26.820553000000004,30.802498,0,0,0
 2020-01-24,Egypt,,26.820553000000004,30.802498,0,0,0
@@ -27323,6 +27430,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Egypt,,26.820553000000004,30.802498,102955,95586,5901
 2020-09-29,Egypt,,26.820553000000004,30.802498,103079,96094,5914
 2020-09-30,Egypt,,26.820553000000004,30.802498,103198,96494,5930
+2020-10-01,Egypt,,26.820553000000004,30.802498,103317,96855,5946
 2020-01-22,El Salvador,,13.7942,-88.8965,0,0,0
 2020-01-23,El Salvador,,13.7942,-88.8965,0,0,0
 2020-01-24,El Salvador,,13.7942,-88.8965,0,0,0
@@ -27576,6 +27684,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,El Salvador,,13.7942,-88.8965,28809,23317,831
 2020-09-29,El Salvador,,13.7942,-88.8965,28981,23685,839
 2020-09-30,El Salvador,,13.7942,-88.8965,29077,23813,843
+2020-10-01,El Salvador,,13.7942,-88.8965,29175,23930,848
 2020-01-22,Equatorial Guinea,,1.6508,10.2679,0,0,0
 2020-01-23,Equatorial Guinea,,1.6508,10.2679,0,0,0
 2020-01-24,Equatorial Guinea,,1.6508,10.2679,0,0,0
@@ -27829,6 +27938,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Equatorial Guinea,,1.6508,10.2679,5028,4740,83
 2020-09-29,Equatorial Guinea,,1.6508,10.2679,5030,4769,83
 2020-09-30,Equatorial Guinea,,1.6508,10.2679,5030,4769,83
+2020-10-01,Equatorial Guinea,,1.6508,10.2679,5045,4879,83
 2020-01-22,Eritrea,,15.1794,39.7823,0,0,0
 2020-01-23,Eritrea,,15.1794,39.7823,0,0,0
 2020-01-24,Eritrea,,15.1794,39.7823,0,0,0
@@ -28082,6 +28192,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Eritrea,,15.1794,39.7823,375,341,0
 2020-09-29,Eritrea,,15.1794,39.7823,375,341,0
 2020-09-30,Eritrea,,15.1794,39.7823,375,341,0
+2020-10-01,Eritrea,,15.1794,39.7823,381,353,0
 2020-01-22,Estonia,,58.5953,25.0136,0,0,0
 2020-01-23,Estonia,,58.5953,25.0136,0,0,0
 2020-01-24,Estonia,,58.5953,25.0136,0,0,0
@@ -28335,6 +28446,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Estonia,,58.5953,25.0136,3267,2513,64
 2020-09-29,Estonia,,58.5953,25.0136,3315,2564,64
 2020-09-30,Estonia,,58.5953,25.0136,3371,2605,64
+2020-10-01,Estonia,,58.5953,25.0136,3450,2643,65
 2020-01-22,Eswatini,,-26.5225,31.4659,0,0,0
 2020-01-23,Eswatini,,-26.5225,31.4659,0,0,0
 2020-01-24,Eswatini,,-26.5225,31.4659,0,0,0
@@ -28588,6 +28700,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Eswatini,,-26.5225,31.4659,5452,4844,108
 2020-09-29,Eswatini,,-26.5225,31.4659,5462,4859,108
 2020-09-30,Eswatini,,-26.5225,31.4659,5482,4912,109
+2020-10-01,Eswatini,,-26.5225,31.4659,5500,5000,111
 2020-01-22,Ethiopia,,9.145,40.4897,0,0,0
 2020-01-23,Ethiopia,,9.145,40.4897,0,0,0
 2020-01-24,Ethiopia,,9.145,40.4897,0,0,0
@@ -28841,6 +28954,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Ethiopia,,9.145,40.4897,73944,30753,1177
 2020-09-29,Ethiopia,,9.145,40.4897,74584,30952,1191
 2020-09-30,Ethiopia,,9.145,40.4897,75368,31204,1198
+2020-10-01,Ethiopia,,9.145,40.4897,76098,31430,1205
 2020-01-22,Fiji,,-17.7134,178.065,0,0,0
 2020-01-23,Fiji,,-17.7134,178.065,0,0,0
 2020-01-24,Fiji,,-17.7134,178.065,0,0,0
@@ -29094,6 +29208,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Fiji,,-17.7134,178.065,32,28,2
 2020-09-29,Fiji,,-17.7134,178.065,32,28,2
 2020-09-30,Fiji,,-17.7134,178.065,32,28,2
+2020-10-01,Fiji,,-17.7134,178.065,32,28,2
 2020-01-22,Finland,,61.92411,25.748151,0,0,0
 2020-01-23,Finland,,61.92411,25.748151,0,0,0
 2020-01-24,Finland,,61.92411,25.748151,0,0,0
@@ -29347,6 +29462,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Finland,,61.92411,25.748151,9743,7850,345
 2020-09-29,Finland,,61.92411,25.748151,9892,7850,345
 2020-09-30,Finland,,61.92411,25.748151,9992,8100,344
+2020-10-01,Finland,,61.92411,25.748151,10103,8100,344
 2020-01-22,France,French Guiana,3.9339,-53.1258,0,0,0
 2020-01-23,France,French Guiana,3.9339,-53.1258,0,0,0
 2020-01-24,France,French Guiana,3.9339,-53.1258,0,0,0
@@ -29600,6 +29716,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,France,French Guiana,3.9339,-53.1258,9895,9536,65
 2020-09-29,France,French Guiana,3.9339,-53.1258,9929,9569,66
 2020-09-30,France,French Guiana,3.9339,-53.1258,9955,9589,66
+2020-10-01,France,French Guiana,3.9339,-53.1258,9966,9613,67
 2020-01-22,France,French Polynesia,-17.6797,149.4068,0,0,0
 2020-01-23,France,French Polynesia,-17.6797,149.4068,0,0,0
 2020-01-24,France,French Polynesia,-17.6797,149.4068,0,0,0
@@ -29853,6 +29970,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,France,French Polynesia,-17.6797,149.4068,1579,1335,6
 2020-09-29,France,French Polynesia,-17.6797,149.4068,1728,1431,7
 2020-09-30,France,French Polynesia,-17.6797,149.4068,1852,1504,7
+2020-10-01,France,French Polynesia,-17.6797,149.4068,1852,1504,7
 2020-01-22,France,Guadeloupe,16.265,-61.551,0,0,0
 2020-01-23,France,Guadeloupe,16.265,-61.551,0,0,0
 2020-01-24,France,Guadeloupe,16.265,-61.551,0,0,0
@@ -30106,6 +30224,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,France,Guadeloupe,16.265,-61.551,4487,2199,42
 2020-09-29,France,Guadeloupe,16.265,-61.551,4487,2199,42
 2020-09-30,France,Guadeloupe,16.265,-61.551,5528,2199,57
+2020-10-01,France,Guadeloupe,16.265,-61.551,5528,2199,57
 2020-01-22,France,Martinique,14.6415,-61.0242,0,0,0
 2020-01-23,France,Martinique,14.6415,-61.0242,0,0,0
 2020-01-24,France,Martinique,14.6415,-61.0242,0,0,0
@@ -30359,6 +30478,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,France,Martinique,14.6415,-61.0242,1290,98,20
 2020-09-29,France,Martinique,14.6415,-61.0242,1290,98,20
 2020-09-30,France,Martinique,14.6415,-61.0242,1543,98,21
+2020-10-01,France,Martinique,14.6415,-61.0242,1543,98,21
 2020-01-22,France,Mayotte,-12.8275,45.166244,0,0,0
 2020-01-23,France,Mayotte,-12.8275,45.166244,0,0,0
 2020-01-24,France,Mayotte,-12.8275,45.166244,0,0,0
@@ -30612,6 +30732,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,France,Mayotte,-12.8275,45.166244,3541,2964,40
 2020-09-29,France,Mayotte,-12.8275,45.166244,3541,2964,40
 2020-09-30,France,Mayotte,-12.8275,45.166244,3779,2964,42
+2020-10-01,France,Mayotte,-12.8275,45.166244,3779,2964,42
 2020-01-22,France,New Caledonia,-20.904305,165.618042,0,0,0
 2020-01-23,France,New Caledonia,-20.904305,165.618042,0,0,0
 2020-01-24,France,New Caledonia,-20.904305,165.618042,0,0,0
@@ -30865,6 +30986,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,France,New Caledonia,-20.904305,165.618042,27,26,0
 2020-09-29,France,New Caledonia,-20.904305,165.618042,27,26,0
 2020-09-30,France,New Caledonia,-20.904305,165.618042,27,27,0
+2020-10-01,France,New Caledonia,-20.904305,165.618042,27,27,0
 2020-01-22,France,Reunion,-21.1151,55.5364,0,0,0
 2020-01-23,France,Reunion,-21.1151,55.5364,0,0,0
 2020-01-24,France,Reunion,-21.1151,55.5364,0,0,0
@@ -31118,6 +31240,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,France,Reunion,-21.1151,55.5364,3882,2819,14
 2020-09-29,France,Reunion,-21.1151,55.5364,3882,2819,14
 2020-09-30,France,Reunion,-21.1151,55.5364,3993,2819,16
+2020-10-01,France,Reunion,-21.1151,55.5364,3993,2819,16
 2020-01-22,France,Saint Barthelemy,17.9,-62.8333,0,0,0
 2020-01-23,France,Saint Barthelemy,17.9,-62.8333,0,0,0
 2020-01-24,France,Saint Barthelemy,17.9,-62.8333,0,0,0
@@ -31371,6 +31494,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,France,Saint Barthelemy,17.9,-62.8333,48,25,0
 2020-09-29,France,Saint Barthelemy,17.9,-62.8333,48,25,0
 2020-09-30,France,Saint Barthelemy,17.9,-62.8333,48,25,0
+2020-10-01,France,Saint Barthelemy,17.9,-62.8333,54,37,0
 2020-01-22,France,Saint Pierre and Miquelon,46.8852,-56.3159,0,0,0
 2020-01-23,France,Saint Pierre and Miquelon,46.8852,-56.3159,0,0,0
 2020-01-24,France,Saint Pierre and Miquelon,46.8852,-56.3159,0,0,0
@@ -31624,6 +31748,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,France,Saint Pierre and Miquelon,46.8852,-56.3159,16,6,0
 2020-09-29,France,Saint Pierre and Miquelon,46.8852,-56.3159,16,6,0
 2020-09-30,France,Saint Pierre and Miquelon,46.8852,-56.3159,16,6,0
+2020-10-01,France,Saint Pierre and Miquelon,46.8852,-56.3159,16,6,0
 2020-01-22,France,St Martin,18.0708,-63.0501,0,0,0
 2020-01-23,France,St Martin,18.0708,-63.0501,0,0,0
 2020-01-24,France,St Martin,18.0708,-63.0501,0,0,0
@@ -31877,6 +32002,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,France,St Martin,18.0708,-63.0501,383,273,8
 2020-09-29,France,St Martin,18.0708,-63.0501,383,273,8
 2020-09-30,France,St Martin,18.0708,-63.0501,383,273,8
+2020-10-01,France,St Martin,18.0708,-63.0501,403,309,8
 2020-01-22,France,,46.2276,2.2137,0,0,0
 2020-01-23,France,,46.2276,2.2137,0,0,0
 2020-01-24,France,,46.2276,2.2137,2,0,0
@@ -32130,6 +32256,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,France,,46.2276,2.2137,552832,77846,31549
 2020-09-29,France,,46.2276,2.2137,564690,78678,31711
 2020-09-30,France,,46.2276,2.2137,576907,79128,31769
+2020-10-01,France,,46.2276,2.2137,589825,79578,31816
 2020-01-22,Gabon,,-0.8037,11.6094,0,0,0
 2020-01-23,Gabon,,-0.8037,11.6094,0,0,0
 2020-01-24,Gabon,,-0.8037,11.6094,0,0,0
@@ -32383,6 +32510,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Gabon,,-0.8037,11.6094,8728,7934,54
 2020-09-29,Gabon,,-0.8037,11.6094,8752,7955,54
 2020-09-30,Gabon,,-0.8037,11.6094,8766,8005,54
+2020-10-01,Gabon,,-0.8037,11.6094,8766,8005,54
 2020-01-22,Gambia,,13.4432,-15.3101,0,0,0
 2020-01-23,Gambia,,13.4432,-15.3101,0,0,0
 2020-01-24,Gambia,,13.4432,-15.3101,0,0,0
@@ -32636,6 +32764,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Gambia,,13.4432,-15.3101,3569,2161,111
 2020-09-29,Gambia,,13.4432,-15.3101,3579,2161,112
 2020-09-30,Gambia,,13.4432,-15.3101,3579,2161,112
+2020-10-01,Gambia,,13.4432,-15.3101,3584,2216,113
 2020-01-22,Georgia,,42.3154,43.3569,0,0,0
 2020-01-23,Georgia,,42.3154,43.3569,0,0,0
 2020-01-24,Georgia,,42.3154,43.3569,0,0,0
@@ -32889,6 +33018,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Georgia,,42.3154,43.3569,5552,2054,32
 2020-09-29,Georgia,,42.3154,43.3569,5866,2324,36
 2020-09-30,Georgia,,42.3154,43.3569,6192,3120,39
+2020-10-01,Georgia,,42.3154,43.3569,6640,3419,41
 2020-01-22,Germany,,51.165691,10.451526,0,0,0
 2020-01-23,Germany,,51.165691,10.451526,0,0,0
 2020-01-24,Germany,,51.165691,10.451526,0,0,0
@@ -33142,6 +33272,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Germany,,51.165691,10.451526,288631,252693,9468
 2020-09-29,Germany,,51.165691,10.451526,290471,255212,9483
 2020-09-30,Germany,,51.165691,10.451526,292913,256861,9495
+2020-10-01,Germany,,51.165691,10.451526,295539,258220,9509
 2020-01-22,Ghana,,7.9465,-1.0232,0,0,0
 2020-01-23,Ghana,,7.9465,-1.0232,0,0,0
 2020-01-24,Ghana,,7.9465,-1.0232,0,0,0
@@ -33395,6 +33526,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Ghana,,7.9465,-1.0232,46444,45646,299
 2020-09-29,Ghana,,7.9465,-1.0232,46482,45651,301
 2020-09-30,Ghana,,7.9465,-1.0232,46626,45757,301
+2020-10-01,Ghana,,7.9465,-1.0232,46656,45942,301
 2020-01-22,Greece,,39.0742,21.8243,0,0,0
 2020-01-23,Greece,,39.0742,21.8243,0,0,0
 2020-01-24,Greece,,39.0742,21.8243,0,0,0
@@ -33648,6 +33780,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Greece,,39.0742,21.8243,17707,1347,383
 2020-09-29,Greece,,39.0742,21.8243,18123,1347,388
 2020-09-30,Greece,,39.0742,21.8243,18475,1347,391
+2020-10-01,Greece,,39.0742,21.8243,18886,1347,393
 2020-01-22,Grenada,,12.1165,-61.679,0,0,0
 2020-01-23,Grenada,,12.1165,-61.679,0,0,0
 2020-01-24,Grenada,,12.1165,-61.679,0,0,0
@@ -33901,6 +34034,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Grenada,,12.1165,-61.679,24,24,0
 2020-09-29,Grenada,,12.1165,-61.679,24,24,0
 2020-09-30,Grenada,,12.1165,-61.679,24,24,0
+2020-10-01,Grenada,,12.1165,-61.679,24,24,0
 2020-01-22,Guatemala,,15.7835,-90.2308,0,0,0
 2020-01-23,Guatemala,,15.7835,-90.2308,0,0,0
 2020-01-24,Guatemala,,15.7835,-90.2308,0,0,0
@@ -34154,6 +34288,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Guatemala,,15.7835,-90.2308,90263,79067,3234
 2020-09-29,Guatemala,,15.7835,-90.2308,90968,79654,3238
 2020-09-30,Guatemala,,15.7835,-90.2308,91746,80256,3246
+2020-10-01,Guatemala,,15.7835,-90.2308,92409,80800,3261
 2020-01-22,Guinea,,9.9456,-9.6966,0,0,0
 2020-01-23,Guinea,,9.9456,-9.6966,0,0,0
 2020-01-24,Guinea,,9.9456,-9.6966,0,0,0
@@ -34407,6 +34542,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Guinea,,9.9456,-9.6966,10598,9940,66
 2020-09-29,Guinea,,9.9456,-9.6966,10634,9960,66
 2020-09-30,Guinea,,9.9456,-9.6966,10652,9996,66
+2020-10-01,Guinea,,9.9456,-9.6966,10652,9996,66
 2020-01-22,Guinea-Bissau,,11.8037,-15.1804,0,0,0
 2020-01-23,Guinea-Bissau,,11.8037,-15.1804,0,0,0
 2020-01-24,Guinea-Bissau,,11.8037,-15.1804,0,0,0
@@ -34660,6 +34796,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Guinea-Bissau,,11.8037,-15.1804,2324,1549,39
 2020-09-29,Guinea-Bissau,,11.8037,-15.1804,2324,1549,39
 2020-09-30,Guinea-Bissau,,11.8037,-15.1804,2324,1549,39
+2020-10-01,Guinea-Bissau,,11.8037,-15.1804,2324,1549,39
 2020-01-22,Guyana,,4.860416000000002,-58.93018000000001,0,0,0
 2020-01-23,Guyana,,4.860416000000002,-58.93018000000001,0,0,0
 2020-01-24,Guyana,,4.860416000000002,-58.93018000000001,0,0,0
@@ -34913,6 +35050,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Guyana,,4.860416000000002,-58.93018000000001,2787,1608,78
 2020-09-29,Guyana,,4.860416000000002,-58.93018000000001,2846,1644,78
 2020-09-30,Guyana,,4.860416000000002,-58.93018000000001,2894,1680,80
+2020-10-01,Guyana,,4.860416000000002,-58.93018000000001,2929,1760,82
 2020-01-22,Haiti,,18.9712,-72.2852,0,0,0
 2020-01-23,Haiti,,18.9712,-72.2852,0,0,0
 2020-01-24,Haiti,,18.9712,-72.2852,0,0,0
@@ -35166,6 +35304,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Haiti,,18.9712,-72.2852,8740,6757,227
 2020-09-29,Haiti,,18.9712,-72.2852,8740,6757,227
 2020-09-30,Haiti,,18.9712,-72.2852,8766,6829,229
+2020-10-01,Haiti,,18.9712,-72.2852,8781,6907,229
 2020-01-22,Holy See,,41.9029,12.4534,0,0,0
 2020-01-23,Holy See,,41.9029,12.4534,0,0,0
 2020-01-24,Holy See,,41.9029,12.4534,0,0,0
@@ -35419,6 +35558,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Holy See,,41.9029,12.4534,12,12,0
 2020-09-29,Holy See,,41.9029,12.4534,12,12,0
 2020-09-30,Holy See,,41.9029,12.4534,12,12,0
+2020-10-01,Holy See,,41.9029,12.4534,12,12,0
 2020-01-22,Honduras,,15.2,-86.2419,0,0,0
 2020-01-23,Honduras,,15.2,-86.2419,0,0,0
 2020-01-24,Honduras,,15.2,-86.2419,0,0,0
@@ -35672,6 +35812,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Honduras,,15.2,-86.2419,75537,26957,2301
 2020-09-29,Honduras,,15.2,-86.2419,76098,27383,2323
 2020-09-30,Honduras,,15.2,-86.2419,76900,27922,2353
+2020-10-01,Honduras,,15.2,-86.2419,77598,28517,2380
 2020-01-22,Hungary,,47.1625,19.5033,0,0,0
 2020-01-23,Hungary,,47.1625,19.5033,0,0,0
 2020-01-24,Hungary,,47.1625,19.5033,0,0,0
@@ -35925,6 +36066,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Hungary,,47.1625,19.5033,24716,5152,749
 2020-09-29,Hungary,,47.1625,19.5033,25567,5173,757
 2020-09-30,Hungary,,47.1625,19.5033,26461,5890,765
+2020-10-01,Hungary,,47.1625,19.5033,27309,6118,781
 2020-01-22,Iceland,,64.9631,-19.0208,0,0,0
 2020-01-23,Iceland,,64.9631,-19.0208,0,0,0
 2020-01-24,Iceland,,64.9631,-19.0208,0,0,0
@@ -36178,6 +36320,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Iceland,,64.9631,-19.0208,2663,2161,10
 2020-09-29,Iceland,,64.9631,-19.0208,2695,2162,10
 2020-09-30,Iceland,,64.9631,-19.0208,2728,2167,10
+2020-10-01,Iceland,,64.9631,-19.0208,2769,2177,10
 2020-01-22,India,,20.593684,78.96288,0,0,0
 2020-01-23,India,,20.593684,78.96288,0,0,0
 2020-01-24,India,,20.593684,78.96288,0,0,0
@@ -36430,7 +36573,8 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-27,India,,20.593684,78.96288,6074702,5016520,95542
 2020-09-28,India,,20.593684,78.96288,6145291,5101397,96318
 2020-09-29,India,,20.593684,78.96288,6225763,5187825,97497
-2020-09-30,India,,20.593684,78.96288,6225763,5187825,97497
+2020-09-30,India,,20.593684,78.96288,6312584,5273201,98678
+2020-10-01,India,,20.593684,78.96288,6312584,5273201,98678
 2020-01-22,Indonesia,,-0.7893,113.9213,0,0,0
 2020-01-23,Indonesia,,-0.7893,113.9213,0,0,0
 2020-01-24,Indonesia,,-0.7893,113.9213,0,0,0
@@ -36684,6 +36828,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Indonesia,,-0.7893,113.9213,278722,206870,10473
 2020-09-29,Indonesia,,-0.7893,113.9213,282724,210437,10601
 2020-09-30,Indonesia,,-0.7893,113.9213,287008,214947,10740
+2020-10-01,Indonesia,,-0.7893,113.9213,291182,218487,10856
 2020-01-22,Iran,,32.427908,53.68804599999999,0,0,0
 2020-01-23,Iran,,32.427908,53.68804599999999,0,0,0
 2020-01-24,Iran,,32.427908,53.68804599999999,0,0,0
@@ -36937,6 +37082,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Iran,,32.427908,53.68804599999999,449960,376531,25779
 2020-09-29,Iran,,32.427908,53.68804599999999,453637,378727,25986
 2020-09-30,Iran,,32.427908,53.68804599999999,457219,380956,26169
+2020-10-01,Iran,,32.427908,53.68804599999999,461044,383368,26380
 2020-01-22,Iraq,,33.223191,43.679291,0,0,0
 2020-01-23,Iraq,,33.223191,43.679291,0,0,0
 2020-01-24,Iraq,,33.223191,43.679291,0,0,0
@@ -37190,6 +37336,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Iraq,,33.223191,43.679291,353566,284784,9052
 2020-09-29,Iraq,,33.223191,43.679291,358290,288812,9122
 2020-09-30,Iraq,,33.223191,43.679291,362981,292197,9181
+2020-10-01,Iraq,,33.223191,43.679291,367474,295882,9231
 2020-01-22,Ireland,,53.1424,-7.6921,0,0,0
 2020-01-23,Ireland,,53.1424,-7.6921,0,0,0
 2020-01-24,Ireland,,53.1424,-7.6921,0,0,0
@@ -37443,6 +37590,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Ireland,,53.1424,-7.6921,35377,23364,1802
 2020-09-29,Ireland,,53.1424,-7.6921,35740,23364,1803
 2020-09-30,Ireland,,53.1424,-7.6921,36155,23364,1804
+2020-10-01,Ireland,,53.1424,-7.6921,36597,23364,1806
 2020-01-22,Israel,,31.046051,34.851612,0,0,0
 2020-01-23,Israel,,31.046051,34.851612,0,0,0
 2020-01-24,Israel,,31.046051,34.851612,0,0,0
@@ -37696,6 +37844,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Israel,,31.046051,34.851612,233265,165191,1507
 2020-09-29,Israel,,31.046051,34.851612,236926,167804,1528
 2020-09-30,Israel,,31.046051,34.851612,245494,174506,1569
+2020-10-01,Israel,,31.046051,34.851612,253490,179468,1622
 2020-01-22,Italy,,41.87194,12.56738,0,0,0
 2020-01-23,Italy,,41.87194,12.56738,0,0,0
 2020-01-24,Italy,,41.87194,12.56738,0,0,0
@@ -37949,6 +38098,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Italy,,41.87194,12.56738,311364,225190,35851
 2020-09-29,Italy,,41.87194,12.56738,313011,226506,35875
 2020-09-30,Italy,,41.87194,12.56738,314861,227704,35894
+2020-10-01,Italy,,41.87194,12.56738,317409,228844,35918
 2020-01-22,Jamaica,,18.1096,-77.2975,0,0,0
 2020-01-23,Jamaica,,18.1096,-77.2975,0,0,0
 2020-01-24,Jamaica,,18.1096,-77.2975,0,0,0
@@ -38202,6 +38352,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Jamaica,,18.1096,-77.2975,6170,1741,93
 2020-09-29,Jamaica,,18.1096,-77.2975,6408,1770,101
 2020-09-30,Jamaica,,18.1096,-77.2975,6482,1867,107
+2020-10-01,Jamaica,,18.1096,-77.2975,6555,1991,111
 2020-01-22,Japan,,36.204824,138.252924,2,0,0
 2020-01-23,Japan,,36.204824,138.252924,2,0,0
 2020-01-24,Japan,,36.204824,138.252924,2,0,0
@@ -38455,6 +38606,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Japan,,36.204824,138.252924,82484,74495,1561
 2020-09-29,Japan,,36.204824,138.252924,83022,74962,1568
 2020-09-30,Japan,,36.204824,138.252924,83591,75522,1575
+2020-10-01,Japan,,36.204824,138.252924,84244,76081,1580
 2020-01-22,Jordan,,31.24,36.51,0,0,0
 2020-01-23,Jordan,,31.24,36.51,0,0,0
 2020-01-24,Jordan,,31.24,36.51,0,0,0
@@ -38708,6 +38860,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Jordan,,31.24,36.51,9226,4359,51
 2020-09-29,Jordan,,31.24,36.51,10049,4496,57
 2020-09-30,Jordan,,31.24,36.51,11825,4626,61
+2020-10-01,Jordan,,31.24,36.51,13101,4752,69
 2020-01-22,Kazakhstan,,48.0196,66.9237,0,0,0
 2020-01-23,Kazakhstan,,48.0196,66.9237,0,0,0
 2020-01-24,Kazakhstan,,48.0196,66.9237,0,0,0
@@ -38961,6 +39114,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Kazakhstan,,48.0196,66.9237,107833,102805,1699
 2020-09-29,Kazakhstan,,48.0196,66.9237,107908,102874,1725
 2020-09-30,Kazakhstan,,48.0196,66.9237,107979,102937,1725
+2020-10-01,Kazakhstan,,48.0196,66.9237,108044,103028,1725
 2020-01-22,Kenya,,-0.0236,37.9062,0,0,0
 2020-01-23,Kenya,,-0.0236,37.9062,0,0,0
 2020-01-24,Kenya,,-0.0236,37.9062,0,0,0
@@ -39214,6 +39368,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Kenya,,-0.0236,37.9062,38168,24681,700
 2020-09-29,Kenya,,-0.0236,37.9062,38378,24740,707
 2020-09-30,Kenya,,-0.0236,37.9062,38529,24908,711
+2020-10-01,Kenya,,-0.0236,37.9062,38713,24908,711
 2020-01-22,"Korea, South",,35.90775700000001,127.766922,1,0,0
 2020-01-23,"Korea, South",,35.90775700000001,127.766922,1,0,0
 2020-01-24,"Korea, South",,35.90775700000001,127.766922,2,0,0
@@ -39467,6 +39622,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,"Korea, South",,35.90775700000001,127.766922,23699,21470,407
 2020-09-29,"Korea, South",,35.90775700000001,127.766922,23812,21590,413
 2020-09-30,"Korea, South",,35.90775700000001,127.766922,23889,21666,415
+2020-10-01,"Korea, South",,35.90775700000001,127.766922,23952,21733,416
 2020-01-22,Kosovo,,42.602636,20.902977,0,0,0
 2020-01-23,Kosovo,,42.602636,20.902977,0,0,0
 2020-01-24,Kosovo,,42.602636,20.902977,0,0,0
@@ -39720,6 +39876,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Kosovo,,42.602636,20.902977,12683,8788,488
 2020-09-29,Kosovo,,42.602636,20.902977,12683,8788,488
 2020-09-30,Kosovo,,42.602636,20.902977,12683,8788,488
+2020-10-01,Kosovo,,42.602636,20.902977,12683,8788,488
 2020-01-22,Kuwait,,29.31166,47.481766,0,0,0
 2020-01-23,Kuwait,,29.31166,47.481766,0,0,0
 2020-01-24,Kuwait,,29.31166,47.481766,0,0,0
@@ -39973,6 +40130,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Kuwait,,29.31166,47.481766,103981,95511,605
 2020-09-29,Kuwait,,29.31166,47.481766,104568,96049,607
 2020-09-30,Kuwait,,29.31166,47.481766,105182,96688,610
+2020-10-01,Kuwait,,29.31166,47.481766,105676,97197,612
 2020-01-22,Kyrgyzstan,,41.20438,74.766098,0,0,0
 2020-01-23,Kyrgyzstan,,41.20438,74.766098,0,0,0
 2020-01-24,Kyrgyzstan,,41.20438,74.766098,0,0,0
@@ -40226,6 +40384,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Kyrgyzstan,,41.20438,74.766098,46355,42613,1064
 2020-09-29,Kyrgyzstan,,41.20438,74.766098,46522,42761,1064
 2020-09-30,Kyrgyzstan,,41.20438,74.766098,46669,42879,1064
+2020-10-01,Kyrgyzstan,,41.20438,74.766098,46841,42983,1065
 2020-01-22,Laos,,19.85627,102.495496,0,0,0
 2020-01-23,Laos,,19.85627,102.495496,0,0,0
 2020-01-24,Laos,,19.85627,102.495496,0,0,0
@@ -40479,6 +40638,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Laos,,19.85627,102.495496,23,22,0
 2020-09-29,Laos,,19.85627,102.495496,23,22,0
 2020-09-30,Laos,,19.85627,102.495496,23,22,0
+2020-10-01,Laos,,19.85627,102.495496,23,22,0
 2020-01-22,Latvia,,56.8796,24.6032,0,0,0
 2020-01-23,Latvia,,56.8796,24.6032,0,0,0
 2020-01-24,Latvia,,56.8796,24.6032,0,0,0
@@ -40732,6 +40892,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Latvia,,56.8796,24.6032,1697,1304,36
 2020-09-29,Latvia,,56.8796,24.6032,1729,1307,37
 2020-09-30,Latvia,,56.8796,24.6032,1824,1307,37
+2020-10-01,Latvia,,56.8796,24.6032,1868,1307,37
 2020-01-22,Lebanon,,33.8547,35.8623,0,0,0
 2020-01-23,Lebanon,,33.8547,35.8623,0,0,0
 2020-01-24,Lebanon,,33.8547,35.8623,0,0,0
@@ -40985,6 +41146,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Lebanon,,33.8547,35.8623,37272,16676,351
 2020-09-29,Lebanon,,33.8547,35.8623,38377,17110,361
 2020-09-30,Lebanon,,33.8547,35.8623,39634,17565,367
+2020-10-01,Lebanon,,33.8547,35.8623,40882,18103,374
 2020-01-22,Lesotho,,-29.61,28.2336,0,0,0
 2020-01-23,Lesotho,,-29.61,28.2336,0,0,0
 2020-01-24,Lesotho,,-29.61,28.2336,0,0,0
@@ -41238,6 +41400,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Lesotho,,-29.61,28.2336,1565,822,35
 2020-09-29,Lesotho,,-29.61,28.2336,1576,873,35
 2020-09-30,Lesotho,,-29.61,28.2336,1595,873,36
+2020-10-01,Lesotho,,-29.61,28.2336,1639,874,38
 2020-01-22,Liberia,,6.4280550000000005,-9.429499,0,0,0
 2020-01-23,Liberia,,6.4280550000000005,-9.429499,0,0,0
 2020-01-24,Liberia,,6.4280550000000005,-9.429499,0,0,0
@@ -41491,6 +41654,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Liberia,,6.4280550000000005,-9.429499,1342,1221,82
 2020-09-29,Liberia,,6.4280550000000005,-9.429499,1343,1221,82
 2020-09-30,Liberia,,6.4280550000000005,-9.429499,1343,1221,82
+2020-10-01,Liberia,,6.4280550000000005,-9.429499,1343,1221,82
 2020-01-22,Libya,,26.3351,17.228331,0,0,0
 2020-01-23,Libya,,26.3351,17.228331,0,0,0
 2020-01-24,Libya,,26.3351,17.228331,0,0,0
@@ -41744,6 +41908,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Libya,,26.3351,17.228331,33213,18518,527
 2020-09-29,Libya,,26.3351,17.228331,34014,18902,540
 2020-09-30,Libya,,26.3351,17.228331,34525,19361,551
+2020-10-01,Libya,,26.3351,17.228331,35208,19894,559
 2020-01-22,Liechtenstein,,47.14,9.55,0,0,0
 2020-01-23,Liechtenstein,,47.14,9.55,0,0,0
 2020-01-24,Liechtenstein,,47.14,9.55,0,0,0
@@ -41997,6 +42162,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Liechtenstein,,47.14,9.55,117,110,1
 2020-09-29,Liechtenstein,,47.14,9.55,118,113,1
 2020-09-30,Liechtenstein,,47.14,9.55,118,113,1
+2020-10-01,Liechtenstein,,47.14,9.55,119,114,1
 2020-01-22,Lithuania,,55.1694,23.8813,0,0,0
 2020-01-23,Lithuania,,55.1694,23.8813,0,0,0
 2020-01-24,Lithuania,,55.1694,23.8813,0,0,0
@@ -42250,6 +42416,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Lithuania,,55.1694,23.8813,4490,2327,92
 2020-09-29,Lithuania,,55.1694,23.8813,4587,2349,92
 2020-09-30,Lithuania,,55.1694,23.8813,4693,2365,92
+2020-10-01,Lithuania,,55.1694,23.8813,4784,2424,92
 2020-01-22,Luxembourg,,49.8153,6.1296,0,0,0
 2020-01-23,Luxembourg,,49.8153,6.1296,0,0,0
 2020-01-24,Luxembourg,,49.8153,6.1296,0,0,0
@@ -42503,6 +42670,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Luxembourg,,49.8153,6.1296,8376,7128,124
 2020-09-29,Luxembourg,,49.8153,6.1296,8431,7136,124
 2020-09-30,Luxembourg,,49.8153,6.1296,8509,7174,124
+2020-10-01,Luxembourg,,49.8153,6.1296,8595,7280,125
 2020-01-22,MS Zaandam,,0.0,0.0,0,0,0
 2020-01-23,MS Zaandam,,0.0,0.0,0,0,0
 2020-01-24,MS Zaandam,,0.0,0.0,0,0,0
@@ -42756,6 +42924,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,MS Zaandam,,0.0,0.0,9,0,2
 2020-09-29,MS Zaandam,,0.0,0.0,9,0,2
 2020-09-30,MS Zaandam,,0.0,0.0,9,0,2
+2020-10-01,MS Zaandam,,0.0,0.0,9,0,2
 2020-01-22,Madagascar,,-18.766947,46.869107,0,0,0
 2020-01-23,Madagascar,,-18.766947,46.869107,0,0,0
 2020-01-24,Madagascar,,-18.766947,46.869107,0,0,0
@@ -43009,6 +43178,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Madagascar,,-18.766947,46.869107,16348,14947,229
 2020-09-29,Madagascar,,-18.766947,46.869107,16377,15139,229
 2020-09-30,Madagascar,,-18.766947,46.869107,16408,15301,230
+2020-10-01,Madagascar,,-18.766947,46.869107,16454,15430,232
 2020-01-22,Malawi,,-13.2543,34.3015,0,0,0
 2020-01-23,Malawi,,-13.2543,34.3015,0,0,0
 2020-01-24,Malawi,,-13.2543,34.3015,0,0,0
@@ -43262,6 +43432,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Malawi,,-13.2543,34.3015,5770,4243,179
 2020-09-29,Malawi,,-13.2543,34.3015,5772,4245,179
 2020-09-30,Malawi,,-13.2543,34.3015,5773,4263,179
+2020-10-01,Malawi,,-13.2543,34.3015,5779,4514,179
 2020-01-22,Malaysia,,4.210483999999999,101.975766,0,0,0
 2020-01-23,Malaysia,,4.210483999999999,101.975766,0,0,0
 2020-01-24,Malaysia,,4.210483999999999,101.975766,0,0,0
@@ -43515,6 +43686,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Malaysia,,4.210483999999999,101.975766,11034,9889,134
 2020-09-29,Malaysia,,4.210483999999999,101.975766,11135,9939,134
 2020-09-30,Malaysia,,4.210483999999999,101.975766,11224,9967,136
+2020-10-01,Malaysia,,4.210483999999999,101.975766,11484,10014,136
 2020-01-22,Maldives,,3.2028,73.2207,0,0,0
 2020-01-23,Maldives,,3.2028,73.2207,0,0,0
 2020-01-24,Maldives,,3.2028,73.2207,0,0,0
@@ -43768,6 +43940,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Maldives,,3.2028,73.2207,10157,8950,34
 2020-09-29,Maldives,,3.2028,73.2207,10194,9037,34
 2020-09-30,Maldives,,3.2028,73.2207,10291,9108,34
+2020-10-01,Maldives,,3.2028,73.2207,10354,9187,34
 2020-01-22,Mali,,17.570692,-3.996166000000001,0,0,0
 2020-01-23,Mali,,17.570692,-3.996166000000001,0,0,0
 2020-01-24,Mali,,17.570692,-3.996166000000001,0,0,0
@@ -44021,6 +44194,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Mali,,17.570692,-3.996166000000001,3090,2439,130
 2020-09-29,Mali,,17.570692,-3.996166000000001,3101,2443,131
 2020-09-30,Mali,,17.570692,-3.996166000000001,3118,2453,131
+2020-10-01,Mali,,17.570692,-3.996166000000001,3131,2460,131
 2020-01-22,Malta,,35.9375,14.3754,0,0,0
 2020-01-23,Malta,,35.9375,14.3754,0,0,0
 2020-01-24,Malta,,35.9375,14.3754,0,0,0
@@ -44274,6 +44448,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Malta,,35.9375,14.3754,3006,2399,32
 2020-09-29,Malta,,35.9375,14.3754,3035,2484,34
 2020-09-30,Malta,,35.9375,14.3754,3058,2562,35
+2020-10-01,Malta,,35.9375,14.3754,3095,2605,35
 2020-01-22,Mauritania,,21.0079,-10.9408,0,0,0
 2020-01-23,Mauritania,,21.0079,-10.9408,0,0,0
 2020-01-24,Mauritania,,21.0079,-10.9408,0,0,0
@@ -44527,6 +44702,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Mauritania,,21.0079,-10.9408,7474,7091,161
 2020-09-29,Mauritania,,21.0079,-10.9408,7488,7111,161
 2020-09-30,Mauritania,,21.0079,-10.9408,7502,7120,161
+2020-10-01,Mauritania,,21.0079,-10.9408,7505,7138,161
 2020-01-22,Mauritius,,-20.348404,57.552152,0,0,0
 2020-01-23,Mauritius,,-20.348404,57.552152,0,0,0
 2020-01-24,Mauritius,,-20.348404,57.552152,0,0,0
@@ -44780,6 +44956,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Mauritius,,-20.348404,57.552152,367,343,10
 2020-09-29,Mauritius,,-20.348404,57.552152,367,343,10
 2020-09-30,Mauritius,,-20.348404,57.552152,381,344,10
+2020-10-01,Mauritius,,-20.348404,57.552152,381,344,10
 2020-01-22,Mexico,,23.6345,-102.5528,0,0,0
 2020-01-23,Mexico,,23.6345,-102.5528,0,0,0
 2020-01-24,Mexico,,23.6345,-102.5528,0,0,0
@@ -45033,6 +45210,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Mexico,,23.6345,-102.5528,733717,622398,76603
 2020-09-29,Mexico,,23.6345,-102.5528,738163,625512,77163
 2020-09-30,Mexico,,23.6345,-102.5528,743216,628007,77646
+2020-10-01,Mexico,,23.6345,-102.5528,748315,629630,78078
 2020-01-22,Moldova,,47.4116,28.3699,0,0,0
 2020-01-23,Moldova,,47.4116,28.3699,0,0,0
 2020-01-24,Moldova,,47.4116,28.3699,0,0,0
@@ -45286,6 +45464,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Moldova,,47.4116,28.3699,51194,38217,1301
 2020-09-29,Moldova,,47.4116,28.3699,52029,38579,1310
 2020-09-30,Moldova,,47.4116,28.3699,53042,38997,1320
+2020-10-01,Moldova,,47.4116,28.3699,54064,39499,1336
 2020-01-22,Monaco,,43.7333,7.4167,0,0,0
 2020-01-23,Monaco,,43.7333,7.4167,0,0,0
 2020-01-24,Monaco,,43.7333,7.4167,0,0,0
@@ -45539,6 +45718,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Monaco,,43.7333,7.4167,212,174,2
 2020-09-29,Monaco,,43.7333,7.4167,214,178,2
 2020-09-30,Monaco,,43.7333,7.4167,218,181,2
+2020-10-01,Monaco,,43.7333,7.4167,219,187,2
 2020-01-22,Mongolia,,46.8625,103.8467,0,0,0
 2020-01-23,Mongolia,,46.8625,103.8467,0,0,0
 2020-01-24,Mongolia,,46.8625,103.8467,0,0,0
@@ -45792,6 +45972,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Mongolia,,46.8625,103.8467,313,305,0
 2020-09-29,Mongolia,,46.8625,103.8467,313,305,0
 2020-09-30,Mongolia,,46.8625,103.8467,313,307,0
+2020-10-01,Mongolia,,46.8625,103.8467,313,307,0
 2020-01-22,Montenegro,,42.708678000000006,19.37439,0,0,0
 2020-01-23,Montenegro,,42.708678000000006,19.37439,0,0,0
 2020-01-24,Montenegro,,42.708678000000006,19.37439,0,0,0
@@ -46045,6 +46226,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Montenegro,,42.708678000000006,19.37439,10441,6720,163
 2020-09-29,Montenegro,,42.708678000000006,19.37439,10575,7002,164
 2020-09-30,Montenegro,,42.708678000000006,19.37439,10772,7192,169
+2020-10-01,Montenegro,,42.708678000000006,19.37439,10987,7397,170
 2020-01-22,Morocco,,31.7917,-7.0926,0,0,0
 2020-01-23,Morocco,,31.7917,-7.0926,0,0,0
 2020-01-24,Morocco,,31.7917,-7.0926,0,0,0
@@ -46298,6 +46480,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Morocco,,31.7917,-7.0926,119107,97468,2113
 2020-09-29,Morocco,,31.7917,-7.0926,121183,100253,2152
 2020-09-30,Morocco,,31.7917,-7.0926,123653,102715,2194
+2020-10-01,Morocco,,31.7917,-7.0926,126044,104136,2229
 2020-01-22,Mozambique,,-18.665695,35.529562,0,0,0
 2020-01-23,Mozambique,,-18.665695,35.529562,0,0,0
 2020-01-24,Mozambique,,-18.665695,35.529562,0,0,0
@@ -46551,6 +46734,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Mozambique,,-18.665695,35.529562,8288,4836,59
 2020-09-29,Mozambique,,-18.665695,35.529562,8556,5205,59
 2020-09-30,Mozambique,,-18.665695,35.529562,8728,5232,61
+2020-10-01,Mozambique,,-18.665695,35.529562,8888,5573,62
 2020-01-22,Namibia,,-22.9576,18.4904,0,0,0
 2020-01-23,Namibia,,-22.9576,18.4904,0,0,0
 2020-01-24,Namibia,,-22.9576,18.4904,0,0,0
@@ -46804,6 +46988,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Namibia,,-22.9576,18.4904,11121,8787,121
 2020-09-29,Namibia,,-22.9576,18.4904,11140,8937,121
 2020-09-30,Namibia,,-22.9576,18.4904,11265,9014,121
+2020-10-01,Namibia,,-22.9576,18.4904,11373,9083,123
 2020-01-22,Nepal,,28.1667,84.25,0,0,0
 2020-01-23,Nepal,,28.1667,84.25,0,0,0
 2020-01-24,Nepal,,28.1667,84.25,0,0,0
@@ -47057,6 +47242,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Nepal,,28.1667,84.25,74745,54640,481
 2020-09-29,Nepal,,28.1667,84.25,76258,55371,491
 2020-09-30,Nepal,,28.1667,84.25,77817,56428,498
+2020-10-01,Nepal,,28.1667,84.25,79728,57389,509
 2020-01-22,Netherlands,Aruba,12.5211,-69.9683,0,0,0
 2020-01-23,Netherlands,Aruba,12.5211,-69.9683,0,0,0
 2020-01-24,Netherlands,Aruba,12.5211,-69.9683,0,0,0
@@ -47310,6 +47496,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Netherlands,Aruba,12.5211,-69.9683,3872,3037,25
 2020-09-29,Netherlands,Aruba,12.5211,-69.9683,3934,3181,26
 2020-09-30,Netherlands,Aruba,12.5211,-69.9683,3963,3259,27
+2020-10-01,Netherlands,Aruba,12.5211,-69.9683,3998,3327,27
 2020-01-22,Netherlands,"Bonaire, Sint Eustatius and Saba",12.1784,-68.2385,0,0,0
 2020-01-23,Netherlands,"Bonaire, Sint Eustatius and Saba",12.1784,-68.2385,0,0,0
 2020-01-24,Netherlands,"Bonaire, Sint Eustatius and Saba",12.1784,-68.2385,0,0,0
@@ -47563,6 +47750,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Netherlands,"Bonaire, Sint Eustatius and Saba",12.1784,-68.2385,88,21,1
 2020-09-29,Netherlands,"Bonaire, Sint Eustatius and Saba",12.1784,-68.2385,106,24,1
 2020-09-30,Netherlands,"Bonaire, Sint Eustatius and Saba",12.1784,-68.2385,121,32,1
+2020-10-01,Netherlands,"Bonaire, Sint Eustatius and Saba",12.1784,-68.2385,121,32,1
 2020-01-22,Netherlands,Curacao,12.1696,-68.99,0,0,0
 2020-01-23,Netherlands,Curacao,12.1696,-68.99,0,0,0
 2020-01-24,Netherlands,Curacao,12.1696,-68.99,0,0,0
@@ -47816,6 +48004,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Netherlands,Curacao,12.1696,-68.99,364,148,1
 2020-09-29,Netherlands,Curacao,12.1696,-68.99,370,157,1
 2020-09-30,Netherlands,Curacao,12.1696,-68.99,392,171,1
+2020-10-01,Netherlands,Curacao,12.1696,-68.99,399,185,1
 2020-01-22,Netherlands,Sint Maarten,18.0425,-63.0548,0,0,0
 2020-01-23,Netherlands,Sint Maarten,18.0425,-63.0548,0,0,0
 2020-01-24,Netherlands,Sint Maarten,18.0425,-63.0548,0,0,0
@@ -48069,6 +48258,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Netherlands,Sint Maarten,18.0425,-63.0548,645,549,22
 2020-09-29,Netherlands,Sint Maarten,18.0425,-63.0548,659,557,22
 2020-09-30,Netherlands,Sint Maarten,18.0425,-63.0548,667,557,22
+2020-10-01,Netherlands,Sint Maarten,18.0425,-63.0548,668,567,22
 2020-01-22,Netherlands,,52.1326,5.2913,0,0,0
 2020-01-23,Netherlands,,52.1326,5.2913,0,0,0
 2020-01-24,Netherlands,,52.1326,5.2913,0,0,0
@@ -48322,6 +48512,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Netherlands,,52.1326,5.2913,110671,0,6366
 2020-09-29,Netherlands,,52.1326,5.2913,117551,0,6393
 2020-09-30,Netherlands,,52.1326,5.2913,120845,0,6406
+2020-10-01,Netherlands,,52.1326,5.2913,124097,0,6419
 2020-01-22,New Zealand,,-40.9006,174.886,0,0,0
 2020-01-23,New Zealand,,-40.9006,174.886,0,0,0
 2020-01-24,New Zealand,,-40.9006,174.886,0,0,0
@@ -48575,6 +48766,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,New Zealand,,-40.9006,174.886,1835,1755,25
 2020-09-29,New Zealand,,-40.9006,174.886,1836,1767,25
 2020-09-30,New Zealand,,-40.9006,174.886,1848,1770,25
+2020-10-01,New Zealand,,-40.9006,174.886,1848,1780,25
 2020-01-22,Nicaragua,,12.865416,-85.207229,0,0,0
 2020-01-23,Nicaragua,,12.865416,-85.207229,0,0,0
 2020-01-24,Nicaragua,,12.865416,-85.207229,0,0,0
@@ -48828,6 +49020,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Nicaragua,,12.865416,-85.207229,5073,2913,149
 2020-09-29,Nicaragua,,12.865416,-85.207229,5170,2913,151
 2020-09-30,Nicaragua,,12.865416,-85.207229,5170,2913,151
+2020-10-01,Nicaragua,,12.865416,-85.207229,5170,2913,151
 2020-01-22,Niger,,17.607789,8.081666,0,0,0
 2020-01-23,Niger,,17.607789,8.081666,0,0,0
 2020-01-24,Niger,,17.607789,8.081666,0,0,0
@@ -49081,6 +49274,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Niger,,17.607789,8.081666,1196,1110,69
 2020-09-29,Niger,,17.607789,8.081666,1196,1110,69
 2020-09-30,Niger,,17.607789,8.081666,1197,1114,69
+2020-10-01,Niger,,17.607789,8.081666,1197,1114,69
 2020-01-22,Nigeria,,9.082,8.6753,0,0,0
 2020-01-23,Nigeria,,9.082,8.6753,0,0,0
 2020-01-24,Nigeria,,9.082,8.6753,0,0,0
@@ -49334,6 +49528,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Nigeria,,9.082,8.6753,58460,49895,1111
 2020-09-29,Nigeria,,9.082,8.6753,58647,49937,1111
 2020-09-30,Nigeria,,9.082,8.6753,58848,50358,1112
+2020-10-01,Nigeria,,9.082,8.6753,59001,50452,1112
 2020-01-22,North Macedonia,,41.6086,21.7453,0,0,0
 2020-01-23,North Macedonia,,41.6086,21.7453,0,0,0
 2020-01-24,North Macedonia,,41.6086,21.7453,0,0,0
@@ -49587,6 +49782,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,North Macedonia,,41.6086,21.7453,17674,14642,729
 2020-09-29,North Macedonia,,41.6086,21.7453,17786,14801,737
 2020-09-30,North Macedonia,,41.6086,21.7453,17977,14959,739
+2020-10-01,North Macedonia,,41.6086,21.7453,18138,15068,743
 2020-01-22,Norway,,60.472,8.4689,0,0,0
 2020-01-23,Norway,,60.472,8.4689,0,0,0
 2020-01-24,Norway,,60.472,8.4689,0,0,0
@@ -49840,6 +50036,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Norway,,60.472,8.4689,13788,11190,274
 2020-09-29,Norway,,60.472,8.4689,13915,11190,274
 2020-09-30,Norway,,60.472,8.4689,14027,11190,274
+2020-10-01,Norway,,60.472,8.4689,14149,11190,274
 2020-01-22,Oman,,21.512583,55.92325500000001,0,0,0
 2020-01-23,Oman,,21.512583,55.92325500000001,0,0,0
 2020-01-24,Oman,,21.512583,55.92325500000001,0,0,0
@@ -50093,6 +50290,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Oman,,21.512583,55.92325500000001,98057,88234,924
 2020-09-29,Oman,,21.512583,55.92325500000001,98585,88528,935
 2020-09-30,Oman,,21.512583,55.92325500000001,98585,88528,935
+2020-10-01,Oman,,21.512583,55.92325500000001,98585,88528,935
 2020-01-22,Pakistan,,30.3753,69.3451,0,0,0
 2020-01-23,Pakistan,,30.3753,69.3451,0,0,0
 2020-01-24,Pakistan,,30.3753,69.3451,0,0,0
@@ -50346,6 +50544,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Pakistan,,30.3753,69.3451,311516,296340,6474
 2020-09-29,Pakistan,,30.3753,69.3451,312263,296881,6479
 2020-09-30,Pakistan,,30.3753,69.3451,312806,297497,6484
+2020-10-01,Pakistan,,30.3753,69.3451,313431,298055,6499
 2020-01-22,Panama,,8.538,-80.7821,0,0,0
 2020-01-23,Panama,,8.538,-80.7821,0,0,0
 2020-01-24,Panama,,8.538,-80.7821,0,0,0
@@ -50599,6 +50798,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Panama,,8.538,-80.7821,111277,87695,2348
 2020-09-29,Panama,,8.538,-80.7821,111853,88202,2364
 2020-09-30,Panama,,8.538,-80.7821,112595,89061,2372
+2020-10-01,Panama,,8.538,-80.7821,113342,89903,2387
 2020-01-22,Papua New Guinea,,-6.314993,143.95555,0,0,0
 2020-01-23,Papua New Guinea,,-6.314993,143.95555,0,0,0
 2020-01-24,Papua New Guinea,,-6.314993,143.95555,0,0,0
@@ -50852,6 +51052,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Papua New Guinea,,-6.314993,143.95555,532,516,7
 2020-09-29,Papua New Guinea,,-6.314993,143.95555,534,516,7
 2020-09-30,Papua New Guinea,,-6.314993,143.95555,534,516,7
+2020-10-01,Papua New Guinea,,-6.314993,143.95555,539,519,7
 2020-01-22,Paraguay,,-23.4425,-58.4438,0,0,0
 2020-01-23,Paraguay,,-23.4425,-58.4438,0,0,0
 2020-01-24,Paraguay,,-23.4425,-58.4438,0,0,0
@@ -51105,6 +51306,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Paraguay,,-23.4425,-58.4438,39432,23063,818
 2020-09-29,Paraguay,,-23.4425,-58.4438,40101,23748,841
 2020-09-30,Paraguay,,-23.4425,-58.4438,40758,24449,857
+2020-10-01,Paraguay,,-23.4425,-58.4438,41799,25167,869
 2020-01-22,Peru,,-9.19,-75.0152,0,0,0
 2020-01-23,Peru,,-9.19,-75.0152,0,0,0
 2020-01-24,Peru,,-9.19,-75.0152,0,0,0
@@ -51358,6 +51560,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Peru,,-9.19,-75.0152,805302,664490,32262
 2020-09-29,Peru,,-9.19,-75.0152,808714,670989,32324
 2020-09-30,Peru,,-9.19,-75.0152,811768,676925,32396
+2020-10-01,Peru,,-9.19,-75.0152,814829,690528,32463
 2020-01-22,Philippines,,12.879721,121.774017,0,0,0
 2020-01-23,Philippines,,12.879721,121.774017,0,0,0
 2020-01-24,Philippines,,12.879721,121.774017,0,0,0
@@ -51611,6 +51814,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Philippines,,12.879721,121.774017,307288,252665,5381
 2020-09-29,Philippines,,12.879721,121.774017,309303,252930,5448
 2020-09-30,Philippines,,12.879721,121.774017,311694,253488,5504
+2020-10-01,Philippines,,12.879721,121.774017,314079,254223,5562
 2020-01-22,Poland,,51.9194,19.1451,0,0,0
 2020-01-23,Poland,,51.9194,19.1451,0,0,0
 2020-01-24,Poland,,51.9194,19.1451,0,0,0
@@ -51864,6 +52068,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Poland,,51.9194,19.1451,88636,68420,2447
 2020-09-29,Poland,,51.9194,19.1451,89962,68955,2483
 2020-09-30,Poland,,51.9194,19.1451,91514,69695,2513
+2020-10-01,Poland,,51.9194,19.1451,93481,70401,2543
 2020-01-22,Portugal,,39.3999,-8.2245,0,0,0
 2020-01-23,Portugal,,39.3999,-8.2245,0,0,0
 2020-01-24,Portugal,,39.3999,-8.2245,0,0,0
@@ -52117,6 +52322,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Portugal,,39.3999,-8.2245,74029,47884,1957
 2020-09-29,Portugal,,39.3999,-8.2245,74717,48193,1963
 2020-09-30,Portugal,,39.3999,-8.2245,75542,48530,1971
+2020-10-01,Portugal,,39.3999,-8.2245,76396,48937,1977
 2020-01-22,Qatar,,25.3548,51.1839,0,0,0
 2020-01-23,Qatar,,25.3548,51.1839,0,0,0
 2020-01-24,Qatar,,25.3548,51.1839,0,0,0
@@ -52370,6 +52576,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Qatar,,25.3548,51.1839,125311,122209,214
 2020-09-29,Qatar,,25.3548,51.1839,125533,122448,214
 2020-09-30,Qatar,,25.3548,51.1839,125760,122699,214
+2020-10-01,Qatar,,25.3548,51.1839,125959,122911,214
 2020-01-22,Romania,,45.9432,24.9668,0,0,0
 2020-01-23,Romania,,45.9432,24.9668,0,0,0
 2020-01-24,Romania,,45.9432,24.9668,0,0,0
@@ -52623,6 +52830,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Romania,,45.9432,24.9668,123944,99344,4748
 2020-09-29,Romania,,45.9432,24.9668,125414,100636,4792
 2020-09-30,Romania,,45.9432,24.9668,127572,102476,4825
+2020-10-01,Romania,,45.9432,24.9668,129658,103994,4862
 2020-01-22,Russia,,61.52401,105.318756,0,0,0
 2020-01-23,Russia,,61.52401,105.318756,0,0,0
 2020-01-24,Russia,,61.52401,105.318756,0,0,0
@@ -52876,6 +53084,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Russia,,61.52401,105.318756,1154299,942619,20299
 2020-09-29,Russia,,61.52401,105.318756,1162428,948985,20456
 2020-09-30,Russia,,61.52401,105.318756,1170799,954788,20630
+2020-10-01,Russia,,61.52401,105.318756,1179634,960729,20796
 2020-01-22,Rwanda,,-1.9403,29.8739,0,0,0
 2020-01-23,Rwanda,,-1.9403,29.8739,0,0,0
 2020-01-24,Rwanda,,-1.9403,29.8739,0,0,0
@@ -53129,6 +53338,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Rwanda,,-1.9403,29.8739,4832,3117,29
 2020-09-29,Rwanda,,-1.9403,29.8739,4836,3125,29
 2020-09-30,Rwanda,,-1.9403,29.8739,4840,3154,29
+2020-10-01,Rwanda,,-1.9403,29.8739,4843,3181,29
 2020-01-22,Saint Kitts and Nevis,,17.357822,-62.782998,0,0,0
 2020-01-23,Saint Kitts and Nevis,,17.357822,-62.782998,0,0,0
 2020-01-24,Saint Kitts and Nevis,,17.357822,-62.782998,0,0,0
@@ -53382,6 +53592,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Saint Kitts and Nevis,,17.357822,-62.782998,19,17,0
 2020-09-29,Saint Kitts and Nevis,,17.357822,-62.782998,19,17,0
 2020-09-30,Saint Kitts and Nevis,,17.357822,-62.782998,19,17,0
+2020-10-01,Saint Kitts and Nevis,,17.357822,-62.782998,19,17,0
 2020-01-22,Saint Lucia,,13.9094,-60.9789,0,0,0
 2020-01-23,Saint Lucia,,13.9094,-60.9789,0,0,0
 2020-01-24,Saint Lucia,,13.9094,-60.9789,0,0,0
@@ -53635,6 +53846,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Saint Lucia,,13.9094,-60.9789,27,27,0
 2020-09-29,Saint Lucia,,13.9094,-60.9789,27,27,0
 2020-09-30,Saint Lucia,,13.9094,-60.9789,27,27,0
+2020-10-01,Saint Lucia,,13.9094,-60.9789,27,27,0
 2020-01-22,Saint Vincent and the Grenadines,,12.9843,-61.2872,0,0,0
 2020-01-23,Saint Vincent and the Grenadines,,12.9843,-61.2872,0,0,0
 2020-01-24,Saint Vincent and the Grenadines,,12.9843,-61.2872,0,0,0
@@ -53888,6 +54100,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Saint Vincent and the Grenadines,,12.9843,-61.2872,64,64,0
 2020-09-29,Saint Vincent and the Grenadines,,12.9843,-61.2872,64,64,0
 2020-09-30,Saint Vincent and the Grenadines,,12.9843,-61.2872,64,64,0
+2020-10-01,Saint Vincent and the Grenadines,,12.9843,-61.2872,64,64,0
 2020-01-22,San Marino,,43.9424,12.4578,0,0,0
 2020-01-23,San Marino,,43.9424,12.4578,0,0,0
 2020-01-24,San Marino,,43.9424,12.4578,0,0,0
@@ -54141,6 +54354,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,San Marino,,43.9424,12.4578,727,676,42
 2020-09-29,San Marino,,43.9424,12.4578,727,676,42
 2020-09-30,San Marino,,43.9424,12.4578,732,680,42
+2020-10-01,San Marino,,43.9424,12.4578,732,680,42
 2020-01-22,Sao Tome and Principe,,0.1864,6.6131,0,0,0
 2020-01-23,Sao Tome and Principe,,0.1864,6.6131,0,0,0
 2020-01-24,Sao Tome and Principe,,0.1864,6.6131,0,0,0
@@ -54394,6 +54608,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Sao Tome and Principe,,0.1864,6.6131,911,885,15
 2020-09-29,Sao Tome and Principe,,0.1864,6.6131,911,885,15
 2020-09-30,Sao Tome and Principe,,0.1864,6.6131,911,886,15
+2020-10-01,Sao Tome and Principe,,0.1864,6.6131,911,886,15
 2020-01-22,Saudi Arabia,,23.885942,45.079162,0,0,0
 2020-01-23,Saudi Arabia,,23.885942,45.079162,0,0,0
 2020-01-24,Saudi Arabia,,23.885942,45.079162,0,0,0
@@ -54647,6 +54862,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Saudi Arabia,,23.885942,45.079162,333648,317846,4712
 2020-09-29,Saudi Arabia,,23.885942,45.079162,334187,318542,4739
 2020-09-30,Saudi Arabia,,23.885942,45.079162,334605,319154,4768
+2020-10-01,Saudi Arabia,,23.885942,45.079162,335097,319746,4794
 2020-01-22,Senegal,,14.4974,-14.4524,0,0,0
 2020-01-23,Senegal,,14.4974,-14.4524,0,0,0
 2020-01-24,Senegal,,14.4974,-14.4524,0,0,0
@@ -54900,6 +55116,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Senegal,,14.4974,-14.4524,14919,12231,309
 2020-09-29,Senegal,,14.4974,-14.4524,14945,12335,310
 2020-09-30,Senegal,,14.4974,-14.4524,14982,12437,311
+2020-10-01,Senegal,,14.4974,-14.4524,15019,12538,311
 2020-01-22,Serbia,,44.0165,21.0059,0,0,0
 2020-01-23,Serbia,,44.0165,21.0059,0,0,0
 2020-01-24,Serbia,,44.0165,21.0059,0,0,0
@@ -55153,6 +55370,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Serbia,,44.0165,21.0059,33414,0,748
 2020-09-29,Serbia,,44.0165,21.0059,33479,0,749
 2020-09-30,Serbia,,44.0165,21.0059,33551,0,749
+2020-10-01,Serbia,,44.0165,21.0059,33662,0,750
 2020-01-22,Seychelles,,-4.6796,55.492,0,0,0
 2020-01-23,Seychelles,,-4.6796,55.492,0,0,0
 2020-01-24,Seychelles,,-4.6796,55.492,0,0,0
@@ -55406,6 +55624,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Seychelles,,-4.6796,55.492,143,140,0
 2020-09-29,Seychelles,,-4.6796,55.492,143,140,0
 2020-09-30,Seychelles,,-4.6796,55.492,144,140,0
+2020-10-01,Seychelles,,-4.6796,55.492,144,143,0
 2020-01-22,Sierra Leone,,8.460555000000001,-11.779889,0,0,0
 2020-01-23,Sierra Leone,,8.460555000000001,-11.779889,0,0,0
 2020-01-24,Sierra Leone,,8.460555000000001,-11.779889,0,0,0
@@ -55659,6 +55878,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Sierra Leone,,8.460555000000001,-11.779889,2215,1681,72
 2020-09-29,Sierra Leone,,8.460555000000001,-11.779889,2222,1685,72
 2020-09-30,Sierra Leone,,8.460555000000001,-11.779889,2231,1687,72
+2020-10-01,Sierra Leone,,8.460555000000001,-11.779889,2238,1695,72
 2020-01-22,Singapore,,1.2833,103.8333,0,0,0
 2020-01-23,Singapore,,1.2833,103.8333,1,0,0
 2020-01-24,Singapore,,1.2833,103.8333,3,0,0
@@ -55912,6 +56132,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Singapore,,1.2833,103.8333,57715,57393,27
 2020-09-29,Singapore,,1.2833,103.8333,57742,57466,27
 2020-09-30,Singapore,,1.2833,103.8333,57765,57488,27
+2020-10-01,Singapore,,1.2833,103.8333,57784,57512,27
 2020-01-22,Slovakia,,48.669,19.699,0,0,0
 2020-01-23,Slovakia,,48.669,19.699,0,0,0
 2020-01-24,Slovakia,,48.669,19.699,0,0,0
@@ -56165,6 +56386,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Slovakia,,48.669,19.699,9343,4213,44
 2020-09-29,Slovakia,,48.669,19.699,9574,4329,45
 2020-09-30,Slovakia,,48.669,19.699,10141,4395,48
+2020-10-01,Slovakia,,48.669,19.699,10938,4620,48
 2020-01-22,Slovenia,,46.1512,14.9955,0,0,0
 2020-01-23,Slovenia,,46.1512,14.9955,0,0,0
 2020-01-24,Slovenia,,46.1512,14.9955,0,0,0
@@ -56418,6 +56640,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Slovenia,,46.1512,14.9955,5388,3600,149
 2020-09-29,Slovenia,,46.1512,14.9955,5487,3682,149
 2020-09-30,Slovenia,,46.1512,14.9955,5690,3804,150
+2020-10-01,Slovenia,,46.1512,14.9955,5865,3906,152
 2020-01-22,Somalia,,5.152149,46.199616,0,0,0
 2020-01-23,Somalia,,5.152149,46.199616,0,0,0
 2020-01-24,Somalia,,5.152149,46.199616,0,0,0
@@ -56671,6 +56894,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Somalia,,5.152149,46.199616,3588,2946,99
 2020-09-29,Somalia,,5.152149,46.199616,3588,2946,99
 2020-09-30,Somalia,,5.152149,46.199616,3588,2946,99
+2020-10-01,Somalia,,5.152149,46.199616,3593,3001,99
 2020-01-22,South Africa,,-30.5595,22.9375,0,0,0
 2020-01-23,South Africa,,-30.5595,22.9375,0,0,0
 2020-01-24,South Africa,,-30.5595,22.9375,0,0,0
@@ -56924,6 +57148,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,South Africa,,-30.5595,22.9375,671669,604478,16586
 2020-09-29,South Africa,,-30.5595,22.9375,672572,606520,16667
 2020-09-30,South Africa,,-30.5595,22.9375,674339,608112,16734
+2020-10-01,South Africa,,-30.5595,22.9375,676084,609584,16866
 2020-01-22,South Sudan,,6.877000000000002,31.307,0,0,0
 2020-01-23,South Sudan,,6.877000000000002,31.307,0,0,0
 2020-01-24,South Sudan,,6.877000000000002,31.307,0,0,0
@@ -57177,6 +57402,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,South Sudan,,6.877000000000002,31.307,2692,1290,49
 2020-09-29,South Sudan,,6.877000000000002,31.307,2700,1290,49
 2020-09-30,South Sudan,,6.877000000000002,31.307,2704,1290,49
+2020-10-01,South Sudan,,6.877000000000002,31.307,2704,1290,49
 2020-01-22,Spain,,40.463667,-3.74922,0,0,0
 2020-01-23,Spain,,40.463667,-3.74922,0,0,0
 2020-01-24,Spain,,40.463667,-3.74922,0,0,0
@@ -57430,6 +57656,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Spain,,40.463667,-3.74922,748266,150376,31411
 2020-09-29,Spain,,40.463667,-3.74922,748266,150376,31411
 2020-09-30,Spain,,40.463667,-3.74922,769188,150376,31791
+2020-10-01,Spain,,40.463667,-3.74922,778607,150376,31973
 2020-01-22,Sri Lanka,,7.873054,80.77179699999998,0,0,0
 2020-01-23,Sri Lanka,,7.873054,80.77179699999998,0,0,0
 2020-01-24,Sri Lanka,,7.873054,80.77179699999998,0,0,0
@@ -57683,6 +57910,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Sri Lanka,,7.873054,80.77179699999998,3363,3210,13
 2020-09-29,Sri Lanka,,7.873054,80.77179699999998,3374,3230,13
 2020-09-30,Sri Lanka,,7.873054,80.77179699999998,3380,3230,13
+2020-10-01,Sri Lanka,,7.873054,80.77179699999998,3382,3233,13
 2020-01-22,Sudan,,12.8628,30.2176,0,0,0
 2020-01-23,Sudan,,12.8628,30.2176,0,0,0
 2020-01-24,Sudan,,12.8628,30.2176,0,0,0
@@ -57936,6 +58164,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Sudan,,12.8628,30.2176,13606,6764,836
 2020-09-29,Sudan,,12.8628,30.2176,13640,6764,836
 2020-09-30,Sudan,,12.8628,30.2176,13640,6764,836
+2020-10-01,Sudan,,12.8628,30.2176,13653,6764,836
 2020-01-22,Suriname,,3.9193,-56.0278,0,0,0
 2020-01-23,Suriname,,3.9193,-56.0278,0,0,0
 2020-01-24,Suriname,,3.9193,-56.0278,0,0,0
@@ -58189,6 +58418,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Suriname,,3.9193,-56.0278,4836,4667,102
 2020-09-29,Suriname,,3.9193,-56.0278,4863,4676,104
 2020-09-30,Suriname,,3.9193,-56.0278,4877,4695,104
+2020-10-01,Suriname,,3.9193,-56.0278,4891,4702,105
 2020-01-22,Sweden,,60.128161,18.643501,0,0,0
 2020-01-23,Sweden,,60.128161,18.643501,0,0,0
 2020-01-24,Sweden,,60.128161,18.643501,0,0,0
@@ -58442,6 +58672,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Sweden,,60.128161,18.643501,90923,0,5880
 2020-09-29,Sweden,,60.128161,18.643501,92466,0,5890
 2020-09-30,Sweden,,60.128161,18.643501,92863,0,5893
+2020-10-01,Sweden,,60.128161,18.643501,93615,0,5893
 2020-01-22,Switzerland,,46.8182,8.2275,0,0,0
 2020-01-23,Switzerland,,46.8182,8.2275,0,0,0
 2020-01-24,Switzerland,,46.8182,8.2275,0,0,0
@@ -58695,6 +58926,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Switzerland,,46.8182,8.2275,52646,42700,2065
 2020-09-29,Switzerland,,46.8182,8.2275,52871,42700,2069
 2020-09-30,Switzerland,,46.8182,8.2275,53282,42700,2074
+2020-10-01,Switzerland,,46.8182,8.2275,53832,45300,2074
 2020-01-22,Syria,,34.802075,38.99681500000001,0,0,0
 2020-01-23,Syria,,34.802075,38.99681500000001,0,0,0
 2020-01-24,Syria,,34.802075,38.99681500000001,0,0,0
@@ -58948,6 +59180,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Syria,,34.802075,38.99681500000001,4102,1074,194
 2020-09-29,Syria,,34.802075,38.99681500000001,4148,1088,197
 2020-09-30,Syria,,34.802075,38.99681500000001,4200,1103,200
+2020-10-01,Syria,,34.802075,38.99681500000001,4247,1117,202
 2020-01-22,Taiwan*,,23.7,121.0,1,0,0
 2020-01-23,Taiwan*,,23.7,121.0,1,0,0
 2020-01-24,Taiwan*,,23.7,121.0,3,0,0
@@ -59201,6 +59434,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Taiwan*,,23.7,121.0,513,482,7
 2020-09-29,Taiwan*,,23.7,121.0,513,482,7
 2020-09-30,Taiwan*,,23.7,121.0,514,483,7
+2020-10-01,Taiwan*,,23.7,121.0,515,484,7
 2020-01-22,Tajikistan,,38.861,71.2761,0,0,0
 2020-01-23,Tajikistan,,38.861,71.2761,0,0,0
 2020-01-24,Tajikistan,,38.861,71.2761,0,0,0
@@ -59454,6 +59688,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Tajikistan,,38.861,71.2761,9685,8483,75
 2020-09-29,Tajikistan,,38.861,71.2761,9726,8531,75
 2020-09-30,Tajikistan,,38.861,71.2761,9769,8572,76
+2020-10-01,Tajikistan,,38.861,71.2761,9811,8617,77
 2020-01-22,Tanzania,,-6.369028,34.888822,0,0,0
 2020-01-23,Tanzania,,-6.369028,34.888822,0,0,0
 2020-01-24,Tanzania,,-6.369028,34.888822,0,0,0
@@ -59707,6 +59942,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Tanzania,,-6.369028,34.888822,509,183,21
 2020-09-29,Tanzania,,-6.369028,34.888822,509,183,21
 2020-09-30,Tanzania,,-6.369028,34.888822,509,183,21
+2020-10-01,Tanzania,,-6.369028,34.888822,509,183,21
 2020-01-22,Thailand,,15.870032,100.992541,2,0,0
 2020-01-23,Thailand,,15.870032,100.992541,3,0,0
 2020-01-24,Thailand,,15.870032,100.992541,5,0,0
@@ -59960,6 +60196,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Thailand,,15.870032,100.992541,3559,3370,59
 2020-09-29,Thailand,,15.870032,100.992541,3564,3374,59
 2020-09-30,Thailand,,15.870032,100.992541,3569,3379,59
+2020-10-01,Thailand,,15.870032,100.992541,3575,3384,59
 2020-01-22,Timor-Leste,,-8.874217,125.727539,0,0,0
 2020-01-23,Timor-Leste,,-8.874217,125.727539,0,0,0
 2020-01-24,Timor-Leste,,-8.874217,125.727539,0,0,0
@@ -60213,6 +60450,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Timor-Leste,,-8.874217,125.727539,27,27,0
 2020-09-29,Timor-Leste,,-8.874217,125.727539,28,28,0
 2020-09-30,Timor-Leste,,-8.874217,125.727539,28,28,0
+2020-10-01,Timor-Leste,,-8.874217,125.727539,28,28,0
 2020-01-22,Togo,,8.6195,0.8248,0,0,0
 2020-01-23,Togo,,8.6195,0.8248,0,0,0
 2020-01-24,Togo,,8.6195,0.8248,0,0,0
@@ -60466,6 +60704,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Togo,,8.6195,0.8248,1749,1336,47
 2020-09-29,Togo,,8.6195,0.8248,1759,1341,48
 2020-09-30,Togo,,8.6195,0.8248,1784,1348,48
+2020-10-01,Togo,,8.6195,0.8248,1809,1353,48
 2020-01-22,Trinidad and Tobago,,10.6918,-61.2225,0,0,0
 2020-01-23,Trinidad and Tobago,,10.6918,-61.2225,0,0,0
 2020-01-24,Trinidad and Tobago,,10.6918,-61.2225,0,0,0
@@ -60719,6 +60958,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Trinidad and Tobago,,10.6918,-61.2225,4386,2275,72
 2020-09-29,Trinidad and Tobago,,10.6918,-61.2225,4463,2454,74
 2020-09-30,Trinidad and Tobago,,10.6918,-61.2225,4531,2560,76
+2020-10-01,Trinidad and Tobago,,10.6918,-61.2225,4570,2629,76
 2020-01-22,Tunisia,,33.886917,9.537499,0,0,0
 2020-01-23,Tunisia,,33.886917,9.537499,0,0,0
 2020-01-24,Tunisia,,33.886917,9.537499,0,0,0
@@ -60972,6 +61212,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Tunisia,,33.886917,9.537499,16114,5032,214
 2020-09-29,Tunisia,,33.886917,9.537499,17405,5032,246
 2020-09-30,Tunisia,,33.886917,9.537499,18413,5032,265
+2020-10-01,Tunisia,,33.886917,9.537499,18413,5032,265
 2020-01-22,Turkey,,38.9637,35.2433,0,0,0
 2020-01-23,Turkey,,38.9637,35.2433,0,0,0
 2020-01-24,Turkey,,38.9637,35.2433,0,0,0
@@ -61225,6 +61466,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Turkey,,38.9637,35.2433,315845,277052,8062
 2020-09-29,Turkey,,38.9637,35.2433,317272,278504,8130
 2020-09-30,Turkey,,38.9637,35.2433,318663,279749,8195
+2020-10-01,Turkey,,38.9637,35.2433,320070,281151,8262
 2020-01-22,US,,40.0,-100.0,1,0,0
 2020-01-23,US,,40.0,-100.0,1,0,0
 2020-01-24,US,,40.0,-100.0,2,0,0
@@ -61265,219 +61507,220 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-02-28,US,,40.0,-100.0,17,7,0
 2020-02-29,US,,40.0,-100.0,25,7,1
 2020-03-01,US,,40.0,-100.0,32,7,1
-2020-03-02,US,,40.0,-100.0,54,7,6
+2020-03-02,US,,40.0,-100.0,55,7,6
 2020-03-03,US,,40.0,-100.0,74,7,7
 2020-03-04,US,,40.0,-100.0,107,7,11
 2020-03-05,US,,40.0,-100.0,184,7,12
 2020-03-06,US,,40.0,-100.0,237,7,14
 2020-03-07,US,,40.0,-100.0,403,7,17
 2020-03-08,US,,40.0,-100.0,519,7,21
-2020-03-09,US,,40.0,-100.0,589,7,22
+2020-03-09,US,,40.0,-100.0,594,7,22
 2020-03-10,US,,40.0,-100.0,782,8,28
-2020-03-11,US,,40.0,-100.0,1145,8,33
-2020-03-12,US,,40.0,-100.0,1584,12,43
-2020-03-13,US,,40.0,-100.0,2214,12,51
-2020-03-14,US,,40.0,-100.0,2971,12,58
-2020-03-15,US,,40.0,-100.0,3211,12,70
+2020-03-11,US,,40.0,-100.0,1147,8,33
+2020-03-12,US,,40.0,-100.0,1586,12,43
+2020-03-13,US,,40.0,-100.0,2219,12,51
+2020-03-14,US,,40.0,-100.0,2978,12,58
+2020-03-15,US,,40.0,-100.0,3212,12,70
 2020-03-16,US,,40.0,-100.0,4679,17,97
-2020-03-17,US,,40.0,-100.0,6513,17,132
-2020-03-18,US,,40.0,-100.0,9153,105,191
-2020-03-19,US,,40.0,-100.0,13643,121,265
-2020-03-20,US,,40.0,-100.0,20007,147,364
-2020-03-21,US,,40.0,-100.0,25991,176,463
-2020-03-22,US,,40.0,-100.0,34804,178,573
-2020-03-23,US,,40.0,-100.0,45973,178,762
-2020-03-24,US,,40.0,-100.0,56571,348,1001
-2020-03-25,US,,40.0,-100.0,68583,361,1325
-2020-03-26,US,,40.0,-100.0,86495,681,1733
-2020-03-27,US,,40.0,-100.0,105103,869,2253
-2020-03-28,US,,40.0,-100.0,124701,1072,2886
-2020-03-29,US,,40.0,-100.0,143672,2665,3472
-2020-03-30,US,,40.0,-100.0,165615,5644,4164
-2020-03-31,US,,40.0,-100.0,192048,7024,5249
-2020-04-01,US,,40.0,-100.0,217730,8474,6421
-2020-04-02,US,,40.0,-100.0,248186,9001,7924
-2020-04-03,US,,40.0,-100.0,280173,9707,9316
-2020-04-04,US,,40.0,-100.0,313154,14652,10839
-2020-04-05,US,,40.0,-100.0,341245,17448,12429
-2020-04-06,US,,40.0,-100.0,371481,19581,14199
-2020-04-07,US,,40.0,-100.0,402917,21763,16770
-2020-04-08,US,,40.0,-100.0,434886,23559,18916
-2020-04-09,US,,40.0,-100.0,469478,25410,21144
-2020-04-10,US,,40.0,-100.0,503006,28790,23362
-2020-04-11,US,,40.0,-100.0,532447,31270,25481
-2020-04-12,US,,40.0,-100.0,559318,32988,27294
-2020-04-13,US,,40.0,-100.0,585240,43482,29240
-2020-04-14,US,,40.0,-100.0,613887,47763,31695
-2020-04-15,US,,40.0,-100.0,643833,52096,34304
-2020-04-16,US,,40.0,-100.0,675261,54703,36480
-2020-04-17,US,,40.0,-100.0,708179,58545,38573
-2020-04-18,US,,40.0,-100.0,735960,64840,40533
-2020-04-19,US,,40.0,-100.0,761620,70337,42464
-2020-04-20,US,,40.0,-100.0,790121,72329,44650
-2020-04-21,US,,40.0,-100.0,816100,75204,47198
-2020-04-22,US,,40.0,-100.0,845361,77366,49632
-2020-04-23,US,,40.0,-100.0,878645,80203,52101
-2020-04-24,US,,40.0,-100.0,912247,99079,54255
-2020-04-25,US,,40.0,-100.0,944231,100372,55953
-2020-04-26,US,,40.0,-100.0,971149,106988,57282
-2020-04-27,US,,40.0,-100.0,994204,111424,58748
-2020-04-28,US,,40.0,-100.0,1018950,115936,60989
-2020-04-29,US,,40.0,-100.0,1046653,120720,63510
-2020-04-30,US,,40.0,-100.0,1076323,153947,65832
-2020-05-01,US,,40.0,-100.0,1110394,164015,67723
-2020-05-02,US,,40.0,-100.0,1138570,175382,69415
-2020-05-03,US,,40.0,-100.0,1163016,180152,70535
-2020-05-04,US,,40.0,-100.0,1186303,187180,71868
-2020-05-05,US,,40.0,-100.0,1210960,189791,74186
-2020-05-06,US,,40.0,-100.0,1236037,189910,76550
-2020-05-07,US,,40.0,-100.0,1263804,195036,78484
-2020-05-08,US,,40.0,-100.0,1290687,198993,80231
-2020-05-09,US,,40.0,-100.0,1315641,212534,81719
-2020-05-10,US,,40.0,-100.0,1334685,216169,82612
-2020-05-11,US,,40.0,-100.0,1354141,232733,83626
-2020-05-12,US,,40.0,-100.0,1376823,230287,85253
-2020-05-13,US,,40.0,-100.0,1397811,243430,87017
-2020-05-14,US,,40.0,-100.0,1424941,246414,88800
-2020-05-15,US,,40.0,-100.0,1450023,250747,90481
-2020-05-16,US,,40.0,-100.0,1474187,268376,91697
-2020-05-17,US,,40.0,-100.0,1492437,272265,92455
-2020-05-18,US,,40.0,-100.0,1514460,283178,93627
-2020-05-19,US,,40.0,-100.0,1535031,289392,95179
-2020-05-20,US,,40.0,-100.0,1558734,294312,96705
-2020-05-21,US,,40.0,-100.0,1583861,298418,97922
-2020-05-22,US,,40.0,-100.0,1607949,350135,99166
-2020-05-23,US,,40.0,-100.0,1629327,361239,100275
-2020-05-24,US,,40.0,-100.0,1649389,366736,100897
-2020-05-25,US,,40.0,-100.0,1667937,379157,101445
-2020-05-26,US,,40.0,-100.0,1687244,384902,102107
-2020-05-27,US,,40.0,-100.0,1705634,391508,103625
-2020-05-28,US,,40.0,-100.0,1728330,399991,104803
-2020-05-29,US,,40.0,-100.0,1752689,406446,105963
-2020-05-30,US,,40.0,-100.0,1776531,416461,106926
-2020-05-31,US,,40.0,-100.0,1795916,444758,107507
-2020-06-01,US,,40.0,-100.0,1813448,458231,108283
-2020-06-02,US,,40.0,-100.0,1834439,463868,109351
-2020-06-03,US,,40.0,-100.0,1854437,479258,110358
-2020-06-04,US,,40.0,-100.0,1875699,485002,111381
-2020-06-05,US,,40.0,-100.0,1900769,491706,112295
-2020-06-06,US,,40.0,-100.0,1923078,500849,112954
-2020-06-07,US,,40.0,-100.0,1940659,506367,113392
-2020-06-08,US,,40.0,-100.0,1958249,518522,113911
-2020-06-09,US,,40.0,-100.0,1976464,524855,114861
-2020-06-10,US,,40.0,-100.0,1997257,533504,115762
-2020-06-11,US,,40.0,-100.0,2019935,540292,116633
-2020-06-12,US,,40.0,-100.0,2045136,547386,117461
-2020-06-13,US,,40.0,-100.0,2070461,556606,118220
-2020-06-14,US,,40.0,-100.0,2090161,561816,118528
-2020-06-15,US,,40.0,-100.0,2109973,576334,118922
-2020-06-16,US,,40.0,-100.0,2133693,583503,119760
-2020-06-17,US,,40.0,-100.0,2159245,592191,120504
-2020-06-18,US,,40.0,-100.0,2187044,599115,121222
-2020-06-19,US,,40.0,-100.0,2218476,606715,121892
-2020-06-20,US,,40.0,-100.0,2251036,617460,122496
-2020-06-21,US,,40.0,-100.0,2277433,622133,122781
-2020-06-22,US,,40.0,-100.0,2308050,640198,123170
-2020-06-23,US,,40.0,-100.0,2343205,647548,124017
-2020-06-24,US,,40.0,-100.0,2378183,656161,124776
-2020-06-25,US,,40.0,-100.0,2418044,663562,125327
-2020-06-26,US,,40.0,-100.0,2463274,670809,125944
-2020-06-27,US,,40.0,-100.0,2505748,679308,126448
-2020-06-28,US,,40.0,-100.0,2545202,685164,126721
-2020-06-29,US,,40.0,-100.0,2586113,705203,127098
-2020-06-30,US,,40.0,-100.0,2631972,720631,127723
-2020-07-01,US,,40.0,-100.0,2683112,729994,128417
-2020-07-02,US,,40.0,-100.0,2737612,781970,129144
-2020-07-03,US,,40.0,-100.0,2790743,790404,129804
-2020-07-04,US,,40.0,-100.0,2836480,894325,130069
-2020-07-05,US,,40.0,-100.0,2886342,906763,130357
-2020-07-06,US,,40.0,-100.0,2931382,924148,130712
-2020-07-07,US,,40.0,-100.0,2991455,936476,131934
-2020-07-08,US,,40.0,-100.0,3050023,953462,132797
-2020-07-09,US,,40.0,-100.0,3113250,969111,133800
-2020-07-10,US,,40.0,-100.0,3181074,983185,134624
-2020-07-11,US,,40.0,-100.0,3241100,995576,135314
-2020-07-12,US,,40.0,-100.0,3300020,1006326,135773
-2020-07-13,US,,40.0,-100.0,3359307,1031939,136140
-2020-07-14,US,,40.0,-100.0,3426658,1049098,137066
-2020-07-15,US,,40.0,-100.0,3494087,1075882,138034
-2020-07-16,US,,40.0,-100.0,3571354,1090645,138977
-2020-07-17,US,,40.0,-100.0,3642859,1107204,139907
-2020-07-18,US,,40.0,-100.0,3706333,1122720,140775
-2020-07-19,US,,40.0,-100.0,3767978,1131121,141222
-2020-07-20,US,,40.0,-100.0,3829433,1160087,141736
-2020-07-21,US,,40.0,-100.0,3894014,1182018,142843
-2020-07-22,US,,40.0,-100.0,3964927,1210849,144059
-2020-07-23,US,,40.0,-100.0,4033597,1233269,145153
-2020-07-24,US,,40.0,-100.0,4107256,1261624,146285
-2020-07-25,US,,40.0,-100.0,4173596,1279414,147184
-2020-07-26,US,,40.0,-100.0,4228323,1297863,147656
-2020-07-27,US,,40.0,-100.0,4284833,1325804,148776
-2020-07-28,US,,40.0,-100.0,4350802,1355363,150150
-2020-07-29,US,,40.0,-100.0,4421427,1389425,151582
-2020-07-30,US,,40.0,-100.0,4489400,1414155,152791
-2020-07-31,US,,40.0,-100.0,4556331,1438160,154034
-2020-08-01,US,,40.0,-100.0,4614540,1461885,155149
-2020-08-02,US,,40.0,-100.0,4661823,1468689,155552
-2020-08-03,US,,40.0,-100.0,4707373,1513446,156082
-2020-08-04,US,,40.0,-100.0,4764691,1528979,157460
-2020-08-05,US,,40.0,-100.0,4817408,1577851,158836
-2020-08-06,US,,40.0,-100.0,4877251,1598624,160089
-2020-08-07,US,,40.0,-100.0,4935332,1623870,161331
-2020-08-08,US,,40.0,-100.0,4991268,1643118,162408
-2020-08-09,US,,40.0,-100.0,5037976,1656864,162919
-2020-08-10,US,,40.0,-100.0,5087617,1670755,163446
-2020-08-11,US,,40.0,-100.0,5134340,1714960,164510
-2020-08-12,US,,40.0,-100.0,5190563,1753760,166015
-2020-08-13,US,,40.0,-100.0,5242056,1774648,167085
-2020-08-14,US,,40.0,-100.0,5306406,1796326,168423
-2020-08-15,US,,40.0,-100.0,5354024,1818527,169457
-2020-08-16,US,,40.0,-100.0,5395799,1833067,170028
-2020-08-17,US,,40.0,-100.0,5431045,1865580,170474
-2020-08-18,US,,40.0,-100.0,5476283,1898159,171799
-2020-08-19,US,,40.0,-100.0,5522710,1925049,173152
-2020-08-20,US,,40.0,-100.0,5566781,1947035,174231
-2020-08-21,US,,40.0,-100.0,5615216,1965056,175336
-2020-08-22,US,,40.0,-100.0,5659837,1985484,176318
-2020-08-23,US,,40.0,-100.0,5694522,1997761,176768
-2020-08-24,US,,40.0,-100.0,5732164,2020774,177210
-2020-08-25,US,,40.0,-100.0,5770344,2053699,178449
-2020-08-26,US,,40.0,-100.0,5814518,2084465,179674
-2020-08-27,US,,40.0,-100.0,5860493,2101326,180785
-2020-08-28,US,,40.0,-100.0,5906565,2118367,181756
-2020-08-29,US,,40.0,-100.0,5953475,2140614,182714
-2020-08-30,US,,40.0,-100.0,5988770,2153939,183024
-2020-08-31,US,,40.0,-100.0,6023072,2184825,183597
-2020-09-01,US,,40.0,-100.0,6066374,2202663,184664
-2020-09-02,US,,40.0,-100.0,6106154,2231757,185720
-2020-09-03,US,,40.0,-100.0,6150016,2266957,186790
-2020-09-04,US,,40.0,-100.0,6200518,2283454,187755
-2020-09-05,US,,40.0,-100.0,6244970,2302187,188538
-2020-09-06,US,,40.0,-100.0,6276365,2315995,188941
-2020-09-07,US,,40.0,-100.0,6300622,2333551,189208
-2020-09-08,US,,40.0,-100.0,6327009,2359111,189653
-2020-09-09,US,,40.0,-100.0,6360212,2387479,190859
-2020-09-10,US,,40.0,-100.0,6396100,2403511,191766
-2020-09-11,US,,40.0,-100.0,6443652,2417878,192979
-2020-09-12,US,,40.0,-100.0,6485123,2434658,193693
-2020-09-13,US,,40.0,-100.0,6520122,2451406,194071
-2020-09-14,US,,40.0,-100.0,6553652,2474570,194493
-2020-09-15,US,,40.0,-100.0,6592584,2495127,195781
-2020-09-16,US,,40.0,-100.0,6630604,2525573,196764
-2020-09-17,US,,40.0,-100.0,6675338,2540334,197634
-2020-09-18,US,,40.0,-100.0,6723933,2556465,198570
-2020-09-19,US,,40.0,-100.0,6768119,2577446,199282
-2020-09-20,US,,40.0,-100.0,6804814,2590671,199509
-2020-09-21,US,,40.0,-100.0,6856884,2615949,199865
-2020-09-22,US,,40.0,-100.0,6895918,2646959,200786
-2020-09-23,US,,40.0,-100.0,6933548,2670256,201884
-2020-09-24,US,,40.0,-100.0,6977658,2710183,202798
-2020-09-25,US,,40.0,-100.0,7032712,2727335,203750
-2020-09-26,US,,40.0,-100.0,7078089,2750459,204490
-2020-09-27,US,,40.0,-100.0,7115008,2766280,204756
-2020-09-28,US,,40.0,-100.0,7148045,2794608,205072
-2020-09-29,US,,40.0,-100.0,7190230,2813305,205986
-2020-09-30,US,,40.0,-100.0,7233042,2840688,206932
+2020-03-17,US,,40.0,-100.0,6511,17,132
+2020-03-18,US,,40.0,-100.0,9165,105,191
+2020-03-19,US,,40.0,-100.0,13659,121,265
+2020-03-20,US,,40.0,-100.0,20026,147,364
+2020-03-21,US,,40.0,-100.0,26022,176,463
+2020-03-22,US,,40.0,-100.0,34824,178,573
+2020-03-23,US,,40.0,-100.0,46043,178,762
+2020-03-24,US,,40.0,-100.0,56620,348,1001
+2020-03-25,US,,40.0,-100.0,68654,361,1325
+2020-03-26,US,,40.0,-100.0,86548,681,1733
+2020-03-27,US,,40.0,-100.0,105179,869,2253
+2020-03-28,US,,40.0,-100.0,124787,1072,2886
+2020-03-29,US,,40.0,-100.0,143716,2665,3472
+2020-03-30,US,,40.0,-100.0,165730,5644,4164
+2020-03-31,US,,40.0,-100.0,192094,7024,5249
+2020-04-01,US,,40.0,-100.0,217914,8474,6421
+2020-04-02,US,,40.0,-100.0,248307,9001,7924
+2020-04-03,US,,40.0,-100.0,280308,9707,9316
+2020-04-04,US,,40.0,-100.0,313312,14652,10839
+2020-04-05,US,,40.0,-100.0,341496,17448,12429
+2020-04-06,US,,40.0,-100.0,371681,19581,14199
+2020-04-07,US,,40.0,-100.0,403080,21763,16770
+2020-04-08,US,,40.0,-100.0,435096,23559,18916
+2020-04-09,US,,40.0,-100.0,469745,25410,21144
+2020-04-10,US,,40.0,-100.0,503281,28790,23362
+2020-04-11,US,,40.0,-100.0,532638,31270,25481
+2020-04-12,US,,40.0,-100.0,559597,32988,27294
+2020-04-13,US,,40.0,-100.0,585389,43482,29240
+2020-04-14,US,,40.0,-100.0,613980,47763,31695
+2020-04-15,US,,40.0,-100.0,643988,52096,34304
+2020-04-16,US,,40.0,-100.0,675510,54703,36480
+2020-04-17,US,,40.0,-100.0,708316,58545,38573
+2020-04-18,US,,40.0,-100.0,736167,64840,40533
+2020-04-19,US,,40.0,-100.0,761845,70337,42464
+2020-04-20,US,,40.0,-100.0,790270,72329,44650
+2020-04-21,US,,40.0,-100.0,816308,75204,47198
+2020-04-22,US,,40.0,-100.0,845605,77366,49632
+2020-04-23,US,,40.0,-100.0,879037,80203,52101
+2020-04-24,US,,40.0,-100.0,912603,99079,54255
+2020-04-25,US,,40.0,-100.0,944404,100372,55953
+2020-04-26,US,,40.0,-100.0,971503,106988,57282
+2020-04-27,US,,40.0,-100.0,994680,111424,58748
+2020-04-28,US,,40.0,-100.0,1019356,115936,60989
+2020-04-29,US,,40.0,-100.0,1047201,120720,63510
+2020-04-30,US,,40.0,-100.0,1076708,153947,65832
+2020-05-01,US,,40.0,-100.0,1110931,164015,67723
+2020-05-02,US,,40.0,-100.0,1138934,175382,69415
+2020-05-03,US,,40.0,-100.0,1163438,180152,70535
+2020-05-04,US,,40.0,-100.0,1186841,187180,71868
+2020-05-05,US,,40.0,-100.0,1211406,189791,74186
+2020-05-06,US,,40.0,-100.0,1236567,189910,76550
+2020-05-07,US,,40.0,-100.0,1264364,195036,78484
+2020-05-08,US,,40.0,-100.0,1291254,198993,80231
+2020-05-09,US,,40.0,-100.0,1316230,212534,81719
+2020-05-10,US,,40.0,-100.0,1335086,216169,82612
+2020-05-11,US,,40.0,-100.0,1354537,232733,83626
+2020-05-12,US,,40.0,-100.0,1377310,230287,85253
+2020-05-13,US,,40.0,-100.0,1398279,243430,87017
+2020-05-14,US,,40.0,-100.0,1425608,246414,88800
+2020-05-15,US,,40.0,-100.0,1450910,250747,90481
+2020-05-16,US,,40.0,-100.0,1474925,268376,91697
+2020-05-17,US,,40.0,-100.0,1493044,272265,92455
+2020-05-18,US,,40.0,-100.0,1515062,283178,93627
+2020-05-19,US,,40.0,-100.0,1536113,289392,95179
+2020-05-20,US,,40.0,-100.0,1559620,294312,96705
+2020-05-21,US,,40.0,-100.0,1585289,298418,97922
+2020-05-22,US,,40.0,-100.0,1608730,350135,99166
+2020-05-23,US,,40.0,-100.0,1629929,361239,100275
+2020-05-24,US,,40.0,-100.0,1650047,366736,100897
+2020-05-25,US,,40.0,-100.0,1668372,379157,101445
+2020-05-26,US,,40.0,-100.0,1687902,384902,102107
+2020-05-27,US,,40.0,-100.0,1706497,391508,103625
+2020-05-28,US,,40.0,-100.0,1729455,399991,104803
+2020-05-29,US,,40.0,-100.0,1753813,406446,105963
+2020-05-30,US,,40.0,-100.0,1777662,416461,106926
+2020-05-31,US,,40.0,-100.0,1796841,444758,107507
+2020-06-01,US,,40.0,-100.0,1814207,458231,108283
+2020-06-02,US,,40.0,-100.0,1835594,463868,109351
+2020-06-03,US,,40.0,-100.0,1855581,479258,110358
+2020-06-04,US,,40.0,-100.0,1877305,485002,111381
+2020-06-05,US,,40.0,-100.0,1902481,491706,112295
+2020-06-06,US,,40.0,-100.0,1924319,500849,112954
+2020-06-07,US,,40.0,-100.0,1942107,506367,113392
+2020-06-08,US,,40.0,-100.0,1959639,518522,113911
+2020-06-09,US,,40.0,-100.0,1978013,524855,114861
+2020-06-10,US,,40.0,-100.0,1998837,533504,115762
+2020-06-11,US,,40.0,-100.0,2022037,540292,116633
+2020-06-12,US,,40.0,-100.0,2046912,547386,117461
+2020-06-13,US,,40.0,-100.0,2072179,556606,118220
+2020-06-14,US,,40.0,-100.0,2091560,561816,118528
+2020-06-15,US,,40.0,-100.0,2111488,576334,118922
+2020-06-16,US,,40.0,-100.0,2135288,583503,119760
+2020-06-17,US,,40.0,-100.0,2161202,592191,120504
+2020-06-18,US,,40.0,-100.0,2189395,599115,121222
+2020-06-19,US,,40.0,-100.0,2220708,606715,121892
+2020-06-20,US,,40.0,-100.0,2252967,617460,122496
+2020-06-21,US,,40.0,-100.0,2279077,622133,122781
+2020-06-22,US,,40.0,-100.0,2309560,640198,123170
+2020-06-23,US,,40.0,-100.0,2345333,647548,124017
+2020-06-24,US,,40.0,-100.0,2379808,656161,124776
+2020-06-25,US,,40.0,-100.0,2420351,663562,125327
+2020-06-26,US,,40.0,-100.0,2465671,670809,125944
+2020-06-27,US,,40.0,-100.0,2508036,679308,126448
+2020-06-28,US,,40.0,-100.0,2547396,685164,126721
+2020-06-29,US,,40.0,-100.0,2588082,705203,127098
+2020-06-30,US,,40.0,-100.0,2634247,720631,127723
+2020-07-01,US,,40.0,-100.0,2685567,729994,128417
+2020-07-02,US,,40.0,-100.0,2740682,781970,129144
+2020-07-03,US,,40.0,-100.0,2793232,790404,129804
+2020-07-04,US,,40.0,-100.0,2838978,894325,130069
+2020-07-05,US,,40.0,-100.0,2888966,906763,130357
+2020-07-06,US,,40.0,-100.0,2933622,924148,130712
+2020-07-07,US,,40.0,-100.0,2993781,936476,131934
+2020-07-08,US,,40.0,-100.0,3052961,953462,132797
+2020-07-09,US,,40.0,-100.0,3116244,969111,133800
+2020-07-10,US,,40.0,-100.0,3183968,983185,134624
+2020-07-11,US,,40.0,-100.0,3244126,995576,135314
+2020-07-12,US,,40.0,-100.0,3303012,1006326,135773
+2020-07-13,US,,40.0,-100.0,3362489,1031939,136140
+2020-07-14,US,,40.0,-100.0,3429453,1049098,137066
+2020-07-15,US,,40.0,-100.0,3497081,1075882,138034
+2020-07-16,US,,40.0,-100.0,3574454,1090645,138977
+2020-07-17,US,,40.0,-100.0,3646470,1107204,139907
+2020-07-18,US,,40.0,-100.0,3709220,1122720,140775
+2020-07-19,US,,40.0,-100.0,3770479,1131121,141222
+2020-07-20,US,,40.0,-100.0,3832438,1160087,141736
+2020-07-21,US,,40.0,-100.0,3896872,1182018,142843
+2020-07-22,US,,40.0,-100.0,3968186,1210849,144059
+2020-07-23,US,,40.0,-100.0,4037265,1233269,145153
+2020-07-24,US,,40.0,-100.0,4110374,1261624,146285
+2020-07-25,US,,40.0,-100.0,4176830,1279414,147184
+2020-07-26,US,,40.0,-100.0,4231636,1297863,147656
+2020-07-27,US,,40.0,-100.0,4288224,1325804,148776
+2020-07-28,US,,40.0,-100.0,4354027,1355363,150150
+2020-07-29,US,,40.0,-100.0,4425342,1389425,151582
+2020-07-30,US,,40.0,-100.0,4493130,1414155,152791
+2020-07-31,US,,40.0,-100.0,4560286,1438160,154034
+2020-08-01,US,,40.0,-100.0,4618193,1461885,155149
+2020-08-02,US,,40.0,-100.0,4665527,1468689,155552
+2020-08-03,US,,40.0,-100.0,4710367,1513446,156082
+2020-08-04,US,,40.0,-100.0,4767841,1528979,157460
+2020-08-05,US,,40.0,-100.0,4821504,1577851,158836
+2020-08-06,US,,40.0,-100.0,4881150,1598624,160089
+2020-08-07,US,,40.0,-100.0,4939494,1623870,161331
+2020-08-08,US,,40.0,-100.0,4995194,1643118,162408
+2020-08-09,US,,40.0,-100.0,5041320,1656864,162919
+2020-08-10,US,,40.0,-100.0,5091092,1670755,163446
+2020-08-11,US,,40.0,-100.0,5138004,1714960,164510
+2020-08-12,US,,40.0,-100.0,5195012,1753760,166015
+2020-08-13,US,,40.0,-100.0,5246994,1774648,167085
+2020-08-14,US,,40.0,-100.0,5311599,1796326,168423
+2020-08-15,US,,40.0,-100.0,5359027,1818527,169457
+2020-08-16,US,,40.0,-100.0,5400446,1833067,170028
+2020-08-17,US,,40.0,-100.0,5436400,1865580,170474
+2020-08-18,US,,40.0,-100.0,5481761,1898159,171799
+2020-08-19,US,,40.0,-100.0,5529096,1925049,173152
+2020-08-20,US,,40.0,-100.0,5573184,1947035,174231
+2020-08-21,US,,40.0,-100.0,5621406,1965056,175336
+2020-08-22,US,,40.0,-100.0,5665821,1985484,176318
+2020-08-23,US,,40.0,-100.0,5700251,1997761,176768
+2020-08-24,US,,40.0,-100.0,5738111,2020774,177210
+2020-08-25,US,,40.0,-100.0,5776347,2053699,178449
+2020-08-26,US,,40.0,-100.0,5821451,2084465,179674
+2020-08-27,US,,40.0,-100.0,5867327,2101326,180785
+2020-08-28,US,,40.0,-100.0,5913537,2118367,181756
+2020-08-29,US,,40.0,-100.0,5959561,2140614,182714
+2020-08-30,US,,40.0,-100.0,5994918,2153939,183024
+2020-08-31,US,,40.0,-100.0,6029439,2184825,183597
+2020-09-01,US,,40.0,-100.0,6071975,2202663,184664
+2020-09-02,US,,40.0,-100.0,6112591,2231757,185720
+2020-09-03,US,,40.0,-100.0,6156516,2266957,186790
+2020-09-04,US,,40.0,-100.0,6206631,2283454,187755
+2020-09-05,US,,40.0,-100.0,6250682,2302187,188538
+2020-09-06,US,,40.0,-100.0,6281816,2315995,188941
+2020-09-07,US,,40.0,-100.0,6305873,2333551,189208
+2020-09-08,US,,40.0,-100.0,6332616,2359111,189653
+2020-09-09,US,,40.0,-100.0,6366176,2387479,190846
+2020-09-10,US,,40.0,-100.0,6402543,2403511,191766
+2020-09-11,US,,40.0,-100.0,6450073,2417878,192979
+2020-09-12,US,,40.0,-100.0,6491199,2434658,193693
+2020-09-13,US,,40.0,-100.0,6525827,2451406,194071
+2020-09-14,US,,40.0,-100.0,6559783,2474570,194493
+2020-09-15,US,,40.0,-100.0,6598981,2495127,195781
+2020-09-16,US,,40.0,-100.0,6637539,2525573,196764
+2020-09-17,US,,40.0,-100.0,6682274,2540334,197634
+2020-09-18,US,,40.0,-100.0,6730997,2556465,198570
+2020-09-19,US,,40.0,-100.0,6775048,2577446,199282
+2020-09-20,US,,40.0,-100.0,6811262,2590671,199509
+2020-09-21,US,,40.0,-100.0,6863731,2615949,199865
+2020-09-22,US,,40.0,-100.0,6902703,2646959,200786
+2020-09-23,US,,40.0,-100.0,6941151,2670256,201884
+2020-09-24,US,,40.0,-100.0,6985291,2710183,202798
+2020-09-25,US,,40.0,-100.0,7035882,2727335,203750
+2020-09-26,US,,40.0,-100.0,7080757,2750459,204490
+2020-09-27,US,,40.0,-100.0,7117181,2766280,204756
+2020-09-28,US,,40.0,-100.0,7150498,2794608,205072
+2020-09-29,US,,40.0,-100.0,7192602,2813305,205986
+2020-09-30,US,,40.0,-100.0,7234007,2840688,206932
+2020-10-01,US,,40.0,-100.0,7277759,2860650,207789
 2020-01-22,Uganda,,1.373333,32.290275,0,0,0
 2020-01-23,Uganda,,1.373333,32.290275,0,0,0
 2020-01-24,Uganda,,1.373333,32.290275,0,0,0
@@ -61731,6 +61974,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Uganda,,1.373333,32.290275,7777,4033,75
 2020-09-29,Uganda,,1.373333,32.290275,8017,4033,75
 2020-09-30,Uganda,,1.373333,32.290275,8129,4260,75
+2020-10-01,Uganda,,1.373333,32.290275,8287,4430,75
 2020-01-22,Ukraine,,48.3794,31.1656,0,0,0
 2020-01-23,Ukraine,,48.3794,31.1656,0,0,0
 2020-01-24,Ukraine,,48.3794,31.1656,0,0,0
@@ -61984,6 +62228,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Ukraine,,48.3794,31.1656,206579,91754,4082
 2020-09-29,Ukraine,,48.3794,31.1656,210309,93664,4154
 2020-09-30,Ukraine,,48.3794,31.1656,214446,95829,4221
+2020-10-01,Ukraine,,48.3794,31.1656,218625,97956,4288
 2020-01-22,United Arab Emirates,,23.424076,53.847818,0,0,0
 2020-01-23,United Arab Emirates,,23.424076,53.847818,0,0,0
 2020-01-24,United Arab Emirates,,23.424076,53.847818,0,0,0
@@ -62237,6 +62482,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,United Arab Emirates,,23.424076,53.847818,92095,81462,413
 2020-09-29,United Arab Emirates,,23.424076,53.847818,93090,82538,416
 2020-09-30,United Arab Emirates,,23.424076,53.847818,94190,83724,419
+2020-10-01,United Arab Emirates,,23.424076,53.847818,95348,84903,421
 2020-01-22,United Kingdom,Anguilla,18.2206,-63.0686,0,0,0
 2020-01-23,United Kingdom,Anguilla,18.2206,-63.0686,0,0,0
 2020-01-24,United Kingdom,Anguilla,18.2206,-63.0686,0,0,0
@@ -62490,6 +62736,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,United Kingdom,Anguilla,18.2206,-63.0686,3,3,0
 2020-09-29,United Kingdom,Anguilla,18.2206,-63.0686,3,3,0
 2020-09-30,United Kingdom,Anguilla,18.2206,-63.0686,3,3,0
+2020-10-01,United Kingdom,Anguilla,18.2206,-63.0686,3,3,0
 2020-01-22,United Kingdom,Bermuda,32.3078,-64.7505,0,0,0
 2020-01-23,United Kingdom,Bermuda,32.3078,-64.7505,0,0,0
 2020-01-24,United Kingdom,Bermuda,32.3078,-64.7505,0,0,0
@@ -62743,6 +62990,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,United Kingdom,Bermuda,32.3078,-64.7505,181,167,9
 2020-09-29,United Kingdom,Bermuda,32.3078,-64.7505,181,167,9
 2020-09-30,United Kingdom,Bermuda,32.3078,-64.7505,181,167,9
+2020-10-01,United Kingdom,Bermuda,32.3078,-64.7505,181,168,9
 2020-01-22,United Kingdom,British Virgin Islands,18.4207,-64.64,0,0,0
 2020-01-23,United Kingdom,British Virgin Islands,18.4207,-64.64,0,0,0
 2020-01-24,United Kingdom,British Virgin Islands,18.4207,-64.64,0,0,0
@@ -62996,6 +63244,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,United Kingdom,British Virgin Islands,18.4207,-64.64,71,62,1
 2020-09-29,United Kingdom,British Virgin Islands,18.4207,-64.64,71,66,1
 2020-09-30,United Kingdom,British Virgin Islands,18.4207,-64.64,71,66,1
+2020-10-01,United Kingdom,British Virgin Islands,18.4207,-64.64,71,66,1
 2020-01-22,United Kingdom,Cayman Islands,19.3133,-81.2546,0,0,0
 2020-01-23,United Kingdom,Cayman Islands,19.3133,-81.2546,0,0,0
 2020-01-24,United Kingdom,Cayman Islands,19.3133,-81.2546,0,0,0
@@ -63249,6 +63498,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,United Kingdom,Cayman Islands,19.3133,-81.2546,211,208,1
 2020-09-29,United Kingdom,Cayman Islands,19.3133,-81.2546,211,208,1
 2020-09-30,United Kingdom,Cayman Islands,19.3133,-81.2546,211,208,1
+2020-10-01,United Kingdom,Cayman Islands,19.3133,-81.2546,211,209,1
 2020-01-22,United Kingdom,Channel Islands,49.3723,-2.3644,0,0,0
 2020-01-23,United Kingdom,Channel Islands,49.3723,-2.3644,0,0,0
 2020-01-24,United Kingdom,Channel Islands,49.3723,-2.3644,0,0,0
@@ -63502,6 +63752,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,United Kingdom,Channel Islands,49.3723,-2.3644,664,600,48
 2020-09-29,United Kingdom,Channel Islands,49.3723,-2.3644,664,600,48
 2020-09-30,United Kingdom,Channel Islands,49.3723,-2.3644,665,600,48
+2020-10-01,United Kingdom,Channel Islands,49.3723,-2.3644,665,600,48
 2020-01-22,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,0,0,0
 2020-01-23,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,0,0,0
 2020-01-24,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,0,0,0
@@ -63755,6 +64006,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13,13,0
 2020-09-29,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13,13,0
 2020-09-30,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13,13,0
+2020-10-01,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13,13,0
 2020-01-22,United Kingdom,Gibraltar,36.1408,-5.3536,0,0,0
 2020-01-23,United Kingdom,Gibraltar,36.1408,-5.3536,0,0,0
 2020-01-24,United Kingdom,Gibraltar,36.1408,-5.3536,0,0,0
@@ -64008,6 +64260,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,United Kingdom,Gibraltar,36.1408,-5.3536,382,341,0
 2020-09-29,United Kingdom,Gibraltar,36.1408,-5.3536,391,342,0
 2020-09-30,United Kingdom,Gibraltar,36.1408,-5.3536,396,344,0
+2020-10-01,United Kingdom,Gibraltar,36.1408,-5.3536,410,349,0
 2020-01-22,United Kingdom,Isle of Man,54.2361,-4.5481,0,0,0
 2020-01-23,United Kingdom,Isle of Man,54.2361,-4.5481,0,0,0
 2020-01-24,United Kingdom,Isle of Man,54.2361,-4.5481,0,0,0
@@ -64261,6 +64514,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,United Kingdom,Isle of Man,54.2361,-4.5481,340,315,24
 2020-09-29,United Kingdom,Isle of Man,54.2361,-4.5481,340,315,24
 2020-09-30,United Kingdom,Isle of Man,54.2361,-4.5481,340,315,24
+2020-10-01,United Kingdom,Isle of Man,54.2361,-4.5481,340,315,24
 2020-01-22,United Kingdom,Montserrat,16.742498,-62.187366,0,0,0
 2020-01-23,United Kingdom,Montserrat,16.742498,-62.187366,0,0,0
 2020-01-24,United Kingdom,Montserrat,16.742498,-62.187366,0,0,0
@@ -64514,259 +64768,261 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,United Kingdom,Montserrat,16.742498,-62.187366,13,12,1
 2020-09-29,United Kingdom,Montserrat,16.742498,-62.187366,13,12,1
 2020-09-30,United Kingdom,Montserrat,16.742498,-62.187366,13,12,1
-2020-01-22,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-01-23,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-01-24,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-01-25,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-01-26,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-01-27,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-01-28,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-01-29,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-01-30,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-01-31,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-02-01,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-02-02,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-02-03,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-02-04,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-02-05,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-02-06,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-02-07,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-02-08,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-02-09,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-02-10,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-02-11,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-02-12,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-02-13,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-02-14,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-02-15,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-02-16,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-02-17,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-02-18,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-02-19,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-02-20,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-02-21,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-02-22,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-02-23,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-02-24,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-02-25,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-02-26,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-02-27,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-02-28,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-02-29,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-03-01,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-03-02,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-03-03,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-03-04,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-03-05,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-03-06,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-03-07,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-03-08,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-03-09,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-03-10,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-03-11,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-03-12,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-03-13,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-03-14,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-03-15,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-03-16,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-03-17,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-03-18,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-03-19,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-03-20,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-03-21,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-03-22,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-03-23,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-03-24,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-03-25,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-03-26,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-03-27,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,0,0,0
-2020-03-28,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,4,0,0
-2020-03-29,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,4,0,0
-2020-03-30,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,5,0,0
-2020-03-31,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,5,0,0
-2020-04-01,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,6,0,0
-2020-04-02,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,5,0,0
-2020-04-03,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,5,0,0
-2020-04-04,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,5,0,0
-2020-04-05,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,5,0,1
-2020-04-06,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,8,0,1
-2020-04-07,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,8,0,1
-2020-04-08,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,8,0,1
-2020-04-09,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,8,0,1
-2020-04-10,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,8,0,1
-2020-04-11,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,8,0,1
-2020-04-12,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,9,0,1
-2020-04-13,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,10,0,1
-2020-04-14,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,10,0,1
-2020-04-15,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,10,0,1
-2020-04-16,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,11,0,1
-2020-04-17,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,11,0,1
-2020-04-18,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,11,0,1
-2020-04-19,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,11,0,1
-2020-04-20,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,11,0,1
-2020-04-21,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,11,0,1
-2020-04-22,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,11,4,1
-2020-04-23,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,11,4,1
-2020-04-24,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,11,4,1
-2020-04-25,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,11,4,1
-2020-04-26,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,11,4,1
-2020-04-27,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,5,1
-2020-04-28,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,5,1
-2020-04-29,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,5,1
-2020-04-30,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,5,1
-2020-05-01,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,5,1
-2020-05-02,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,5,1
-2020-05-03,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,5,1
-2020-05-04,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,6,1
-2020-05-05,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,6,1
-2020-05-06,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,6,1
-2020-05-07,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,6,1
-2020-05-08,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,8,1
-2020-05-09,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,8,1
-2020-05-10,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,8,1
-2020-05-11,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,8,1
-2020-05-12,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,8,1
-2020-05-13,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,10,1
-2020-05-14,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,10,1
-2020-05-15,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,10,1
-2020-05-16,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,10,1
-2020-05-17,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,10,1
-2020-05-18,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,10,1
-2020-05-19,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,10,1
-2020-05-20,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,10,1
-2020-05-21,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,10,1
-2020-05-22,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,10,1
-2020-05-23,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,10,1
-2020-05-24,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,10,1
-2020-05-25,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,10,1
-2020-05-26,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,10,1
-2020-05-27,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,10,1
-2020-05-28,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,10,1
-2020-05-29,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,10,1
-2020-05-30,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,11,1
-2020-05-31,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,11,1
-2020-06-01,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,11,1
-2020-06-02,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,11,1
-2020-06-03,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,11,1
-2020-06-04,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,11,1
-2020-06-05,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,11,1
-2020-06-06,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,11,1
-2020-06-07,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,11,1
-2020-06-08,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,11,1
-2020-06-09,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,11,1
-2020-06-10,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,11,1
-2020-06-11,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,11,1
-2020-06-12,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,11,1
-2020-06-13,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,11,1
-2020-06-14,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,11,1
-2020-06-15,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,11,1
-2020-06-16,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,11,1
-2020-06-17,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,11,1
-2020-06-18,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,11,1
-2020-06-19,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,11,1
-2020-06-20,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,12,11,1
-2020-06-21,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,14,11,1
-2020-06-22,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,14,11,1
-2020-06-23,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,14,11,1
-2020-06-24,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,15,11,1
-2020-06-25,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,15,11,1
-2020-06-26,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,16,11,1
-2020-06-27,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,16,11,1
-2020-06-28,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,28,11,1
-2020-06-29,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,41,11,1
-2020-06-30,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,41,11,2
-2020-07-01,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,42,11,2
-2020-07-02,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,44,11,2
-2020-07-03,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,44,11,2
-2020-07-04,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,45,11,2
-2020-07-05,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,47,11,2
-2020-07-06,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,48,11,2
-2020-07-07,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,49,11,2
-2020-07-08,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,55,11,2
-2020-07-09,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,55,11,2
-2020-07-10,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,66,11,2
-2020-07-11,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,71,11,2
-2020-07-12,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,71,11,2
-2020-07-13,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,72,11,2
-2020-07-14,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,72,12,2
-2020-07-15,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,72,12,2
-2020-07-16,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,74,12,2
-2020-07-17,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,74,12,2
-2020-07-18,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,75,22,2
-2020-07-19,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,75,22,2
-2020-07-20,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,81,22,2
-2020-07-21,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,81,22,2
-2020-07-22,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,82,22,2
-2020-07-23,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,90,26,2
-2020-07-24,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,90,26,2
-2020-07-25,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,92,28,2
-2020-07-26,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,97,35,2
-2020-07-27,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,99,36,2
-2020-07-28,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,99,37,2
-2020-07-29,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,104,37,2
-2020-07-30,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,104,37,2
-2020-07-31,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,107,37,2
-2020-08-01,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,114,38,2
-2020-08-02,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,116,38,2
-2020-08-03,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,116,38,2
-2020-08-04,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,116,38,2
-2020-08-05,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,129,39,2
-2020-08-06,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,141,39,2
-2020-08-07,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,170,39,2
-2020-08-08,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,170,39,2
-2020-08-09,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,216,39,2
-2020-08-10,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,216,39,2
-2020-08-11,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,216,39,2
-2020-08-12,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,241,46,2
-2020-08-13,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,258,52,2
-2020-08-14,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,274,54,2
-2020-08-15,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,298,55,2
-2020-08-16,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,298,55,2
-2020-08-17,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,298,55,2
-2020-08-18,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,315,56,2
-2020-08-19,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,327,56,2
-2020-08-20,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,334,102,2
-2020-08-21,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,347,102,2
-2020-08-22,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,383,102,2
-2020-08-23,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,383,102,2
-2020-08-24,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,383,102,2
-2020-08-25,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,383,102,2
-2020-08-26,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,464,102,3
-2020-08-27,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,482,102,3
-2020-08-28,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,490,148,3
-2020-08-29,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,490,148,3
-2020-08-30,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,505,148,3
-2020-08-31,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,508,200,4
-2020-09-01,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,538,218,4
-2020-09-02,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,538,218,4
-2020-09-03,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,577,220,5
-2020-09-04,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,591,221,5
-2020-09-05,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,598,264,5
-2020-09-06,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,598,264,5
-2020-09-07,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,599,264,5
-2020-09-08,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,614,264,5
-2020-09-09,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,628,266,5
-2020-09-10,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,638,270,5
-2020-09-11,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,641,270,5
-2020-09-12,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,641,270,5
-2020-09-13,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,646,532,5
-2020-09-14,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,648,532,5
-2020-09-15,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,650,557,5
-2020-09-16,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,659,561,5
-2020-09-17,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,663,565,5
-2020-09-18,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,667,567,5
-2020-09-19,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,668,572,5
-2020-09-20,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,668,572,5
-2020-09-21,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,668,572,5
-2020-09-22,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,672,581,5
-2020-09-23,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,676,588,5
-2020-09-24,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,679,602,5
-2020-09-25,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,680,617,5
-2020-09-26,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,681,620,5
-2020-09-27,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,682,620,5
-2020-09-28,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,682,631,5
-2020-09-29,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,686,642,6
-2020-09-30,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979,689,645,6
+2020-10-01,United Kingdom,Montserrat,16.742498,-62.187366,13,12,1
+2020-01-22,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-01-23,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-01-24,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-01-25,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-01-26,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-01-27,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-01-28,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-01-29,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-01-30,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-01-31,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-02-01,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-02-02,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-02-03,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-02-04,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-02-05,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-02-06,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-02-07,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-02-08,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-02-09,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-02-10,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-02-11,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-02-12,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-02-13,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-02-14,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-02-15,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-02-16,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-02-17,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-02-18,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-02-19,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-02-20,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-02-21,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-02-22,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-02-23,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-02-24,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-02-25,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-02-26,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-02-27,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-02-28,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-02-29,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-03-01,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-03-02,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-03-03,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-03-04,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-03-05,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-03-06,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-03-07,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-03-08,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-03-09,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-03-10,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-03-11,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-03-12,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-03-13,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-03-14,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-03-15,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-03-16,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-03-17,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-03-18,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-03-19,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-03-20,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-03-21,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-03-22,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-03-23,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-03-24,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-03-25,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-03-26,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-03-27,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,0,0,0
+2020-03-28,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,4,0,0
+2020-03-29,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,4,0,0
+2020-03-30,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,5,0,0
+2020-03-31,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,5,0,0
+2020-04-01,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,6,0,0
+2020-04-02,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,5,0,0
+2020-04-03,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,5,0,0
+2020-04-04,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,5,0,0
+2020-04-05,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,5,0,1
+2020-04-06,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,8,0,1
+2020-04-07,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,8,0,1
+2020-04-08,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,8,0,1
+2020-04-09,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,8,0,1
+2020-04-10,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,8,0,1
+2020-04-11,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,8,0,1
+2020-04-12,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,9,0,1
+2020-04-13,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,10,0,1
+2020-04-14,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,10,0,1
+2020-04-15,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,10,0,1
+2020-04-16,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,11,0,1
+2020-04-17,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,11,0,1
+2020-04-18,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,11,0,1
+2020-04-19,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,11,0,1
+2020-04-20,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,11,0,1
+2020-04-21,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,11,0,1
+2020-04-22,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,11,4,1
+2020-04-23,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,11,4,1
+2020-04-24,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,11,4,1
+2020-04-25,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,11,4,1
+2020-04-26,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,11,4,1
+2020-04-27,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,5,1
+2020-04-28,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,5,1
+2020-04-29,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,5,1
+2020-04-30,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,5,1
+2020-05-01,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,5,1
+2020-05-02,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,5,1
+2020-05-03,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,5,1
+2020-05-04,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,6,1
+2020-05-05,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,6,1
+2020-05-06,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,6,1
+2020-05-07,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,6,1
+2020-05-08,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,8,1
+2020-05-09,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,8,1
+2020-05-10,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,8,1
+2020-05-11,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,8,1
+2020-05-12,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,8,1
+2020-05-13,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,10,1
+2020-05-14,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,10,1
+2020-05-15,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,10,1
+2020-05-16,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,10,1
+2020-05-17,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,10,1
+2020-05-18,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,10,1
+2020-05-19,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,10,1
+2020-05-20,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,10,1
+2020-05-21,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,10,1
+2020-05-22,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,10,1
+2020-05-23,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,10,1
+2020-05-24,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,10,1
+2020-05-25,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,10,1
+2020-05-26,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,10,1
+2020-05-27,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,10,1
+2020-05-28,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,10,1
+2020-05-29,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,10,1
+2020-05-30,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,11,1
+2020-05-31,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,11,1
+2020-06-01,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,11,1
+2020-06-02,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,11,1
+2020-06-03,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,11,1
+2020-06-04,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,11,1
+2020-06-05,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,11,1
+2020-06-06,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,11,1
+2020-06-07,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,11,1
+2020-06-08,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,11,1
+2020-06-09,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,11,1
+2020-06-10,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,11,1
+2020-06-11,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,11,1
+2020-06-12,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,11,1
+2020-06-13,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,11,1
+2020-06-14,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,11,1
+2020-06-15,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,11,1
+2020-06-16,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,11,1
+2020-06-17,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,11,1
+2020-06-18,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,11,1
+2020-06-19,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,11,1
+2020-06-20,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,12,11,1
+2020-06-21,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,14,11,1
+2020-06-22,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,14,11,1
+2020-06-23,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,14,11,1
+2020-06-24,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,15,11,1
+2020-06-25,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,15,11,1
+2020-06-26,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,16,11,1
+2020-06-27,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,16,11,1
+2020-06-28,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,28,11,1
+2020-06-29,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,41,11,1
+2020-06-30,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,41,11,2
+2020-07-01,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,42,11,2
+2020-07-02,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,44,11,2
+2020-07-03,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,44,11,2
+2020-07-04,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,45,11,2
+2020-07-05,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,47,11,2
+2020-07-06,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,48,11,2
+2020-07-07,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,49,11,2
+2020-07-08,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,55,11,2
+2020-07-09,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,55,11,2
+2020-07-10,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,66,11,2
+2020-07-11,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,71,11,2
+2020-07-12,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,71,11,2
+2020-07-13,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,72,11,2
+2020-07-14,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,72,12,2
+2020-07-15,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,72,12,2
+2020-07-16,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,74,12,2
+2020-07-17,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,74,12,2
+2020-07-18,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,75,22,2
+2020-07-19,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,75,22,2
+2020-07-20,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,81,22,2
+2020-07-21,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,81,22,2
+2020-07-22,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,82,22,2
+2020-07-23,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,90,26,2
+2020-07-24,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,90,26,2
+2020-07-25,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,92,28,2
+2020-07-26,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,97,35,2
+2020-07-27,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,99,36,2
+2020-07-28,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,99,37,2
+2020-07-29,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,104,37,2
+2020-07-30,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,104,37,2
+2020-07-31,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,107,37,2
+2020-08-01,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,114,38,2
+2020-08-02,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,116,38,2
+2020-08-03,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,116,38,2
+2020-08-04,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,116,38,2
+2020-08-05,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,129,39,2
+2020-08-06,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,141,39,2
+2020-08-07,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,170,39,2
+2020-08-08,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,170,39,2
+2020-08-09,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,216,39,2
+2020-08-10,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,216,39,2
+2020-08-11,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,216,39,2
+2020-08-12,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,241,46,2
+2020-08-13,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,258,52,2
+2020-08-14,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,274,54,2
+2020-08-15,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,298,55,2
+2020-08-16,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,298,55,2
+2020-08-17,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,298,55,2
+2020-08-18,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,315,56,2
+2020-08-19,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,327,56,2
+2020-08-20,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,334,102,2
+2020-08-21,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,347,102,2
+2020-08-22,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,383,102,2
+2020-08-23,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,383,102,2
+2020-08-24,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,383,102,2
+2020-08-25,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,383,102,2
+2020-08-26,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,464,102,3
+2020-08-27,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,482,102,3
+2020-08-28,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,490,148,3
+2020-08-29,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,490,148,3
+2020-08-30,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,505,148,3
+2020-08-31,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,508,200,4
+2020-09-01,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,538,218,4
+2020-09-02,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,538,218,4
+2020-09-03,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,577,220,5
+2020-09-04,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,591,221,5
+2020-09-05,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,598,264,5
+2020-09-06,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,598,264,5
+2020-09-07,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,599,264,5
+2020-09-08,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,614,264,5
+2020-09-09,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,628,266,5
+2020-09-10,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,638,270,5
+2020-09-11,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,641,270,5
+2020-09-12,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,641,270,5
+2020-09-13,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,646,532,5
+2020-09-14,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,648,532,5
+2020-09-15,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,650,557,5
+2020-09-16,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,659,561,5
+2020-09-17,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,663,565,5
+2020-09-18,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,667,567,5
+2020-09-19,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,668,572,5
+2020-09-20,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,668,572,5
+2020-09-21,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,668,572,5
+2020-09-22,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,672,581,5
+2020-09-23,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,676,588,5
+2020-09-24,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,679,602,5
+2020-09-25,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,680,617,5
+2020-09-26,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,681,620,5
+2020-09-27,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,682,620,5
+2020-09-28,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,682,631,5
+2020-09-29,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,686,642,6
+2020-09-30,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,689,645,6
+2020-10-01,United Kingdom,Turks and Caicos Islands,21.694000000000006,-71.7979,690,648,6
 2020-01-22,United Kingdom,,55.3781,-3.4360000000000004,0,0,0
 2020-01-23,United Kingdom,,55.3781,-3.4360000000000004,0,0,0
 2020-01-24,United Kingdom,,55.3781,-3.4360000000000004,0,0,0
@@ -65020,6 +65276,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,United Kingdom,,55.3781,-3.4360000000000004,439013,0,42001
 2020-09-29,United Kingdom,,55.3781,-3.4360000000000004,446156,0,42072
 2020-09-30,United Kingdom,,55.3781,-3.4360000000000004,453264,0,42143
+2020-10-01,United Kingdom,,55.3781,-3.4360000000000004,460178,0,42202
 2020-01-22,Uruguay,,-32.5228,-55.7658,0,0,0
 2020-01-23,Uruguay,,-32.5228,-55.7658,0,0,0
 2020-01-24,Uruguay,,-32.5228,-55.7658,0,0,0
@@ -65273,6 +65530,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Uruguay,,-32.5228,-55.7658,2010,1755,47
 2020-09-29,Uruguay,,-32.5228,-55.7658,2033,1771,48
 2020-09-30,Uruguay,,-32.5228,-55.7658,2046,1791,48
+2020-10-01,Uruguay,,-32.5228,-55.7658,2061,1809,48
 2020-01-22,Uzbekistan,,41.377491,64.585262,0,0,0
 2020-01-23,Uzbekistan,,41.377491,64.585262,0,0,0
 2020-01-24,Uzbekistan,,41.377491,64.585262,0,0,0
@@ -65526,6 +65784,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Uzbekistan,,41.377491,64.585262,55776,52324,460
 2020-09-29,Uzbekistan,,41.377491,64.585262,56354,52970,466
 2020-09-30,Uzbekistan,,41.377491,64.585262,56717,53366,470
+2020-10-01,Uzbekistan,,41.377491,64.585262,57190,53835,471
 2020-01-22,Venezuela,,6.4238,-66.5897,0,0,0
 2020-01-23,Venezuela,,6.4238,-66.5897,0,0,0
 2020-01-24,Venezuela,,6.4238,-66.5897,0,0,0
@@ -65779,6 +66038,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Venezuela,,6.4238,-66.5897,73528,63346,614
 2020-09-29,Venezuela,,6.4238,-66.5897,74363,64200,621
 2020-09-30,Venezuela,,6.4238,-66.5897,75122,65225,628
+2020-10-01,Venezuela,,6.4238,-66.5897,76029,66245,635
 2020-01-22,Vietnam,,14.058324,108.277199,0,0,0
 2020-01-23,Vietnam,,14.058324,108.277199,2,0,0
 2020-01-24,Vietnam,,14.058324,108.277199,2,0,0
@@ -66032,6 +66292,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Vietnam,,14.058324,108.277199,1077,999,35
 2020-09-29,Vietnam,,14.058324,108.277199,1094,1007,35
 2020-09-30,Vietnam,,14.058324,108.277199,1094,1010,35
+2020-10-01,Vietnam,,14.058324,108.277199,1095,1010,35
 2020-01-22,West Bank and Gaza,,31.9522,35.2332,0,0,0
 2020-01-23,West Bank and Gaza,,31.9522,35.2332,0,0,0
 2020-01-24,West Bank and Gaza,,31.9522,35.2332,0,0,0
@@ -66285,6 +66546,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,West Bank and Gaza,,31.9522,35.2332,39121,30220,299
 2020-09-29,West Bank and Gaza,,31.9522,35.2332,39541,31047,306
 2020-09-30,West Bank and Gaza,,31.9522,35.2332,39899,31743,311
+2020-10-01,West Bank and Gaza,,31.9522,35.2332,40322,32577,318
 2020-01-22,Western Sahara,,24.2155,-12.8858,0,0,0
 2020-01-23,Western Sahara,,24.2155,-12.8858,0,0,0
 2020-01-24,Western Sahara,,24.2155,-12.8858,0,0,0
@@ -66538,6 +66800,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Western Sahara,,24.2155,-12.8858,10,8,1
 2020-09-29,Western Sahara,,24.2155,-12.8858,10,8,1
 2020-09-30,Western Sahara,,24.2155,-12.8858,10,8,1
+2020-10-01,Western Sahara,,24.2155,-12.8858,10,8,1
 2020-01-22,Yemen,,15.552727,48.516388,0,0,0
 2020-01-23,Yemen,,15.552727,48.516388,0,0,0
 2020-01-24,Yemen,,15.552727,48.516388,0,0,0
@@ -66791,6 +67054,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Yemen,,15.552727,48.516388,2031,1266,587
 2020-09-29,Yemen,,15.552727,48.516388,2031,1275,587
 2020-09-30,Yemen,,15.552727,48.516388,2034,1286,587
+2020-10-01,Yemen,,15.552727,48.516388,2039,1297,587
 2020-01-22,Zambia,,-13.133897,27.849332,0,0,0
 2020-01-23,Zambia,,-13.133897,27.849332,0,0,0
 2020-01-24,Zambia,,-13.133897,27.849332,0,0,0
@@ -67044,6 +67308,7 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Zambia,,-13.133897,27.849332,14660,13821,332
 2020-09-29,Zambia,,-13.133897,27.849332,14715,13937,332
 2020-09-30,Zambia,,-13.133897,27.849332,14759,13959,332
+2020-10-01,Zambia,,-13.133897,27.849332,14802,13961,333
 2020-01-22,Zimbabwe,,-19.015438,29.154857,0,0,0
 2020-01-23,Zimbabwe,,-19.015438,29.154857,0,0,0
 2020-01-24,Zimbabwe,,-19.015438,29.154857,0,0,0
@@ -67297,3 +67562,4 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-09-28,Zimbabwe,,-19.015438,29.154857,7816,6112,228
 2020-09-29,Zimbabwe,,-19.015438,29.154857,7837,6122,228
 2020-09-30,Zimbabwe,,-19.015438,29.154857,7838,6303,228
+2020-10-01,Zimbabwe,,-19.015438,29.154857,7850,6312,228
