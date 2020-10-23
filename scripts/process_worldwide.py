@@ -38,7 +38,8 @@ confirmed_copy = df.copy()  # for time series file with provinces
 df = df.drop(["Lat", "Long"], axis=1)
 
 to_concat = df[df["Province/State"].notna()]["Country/Region"].unique()
-# We have to combine the numbers from the countries that are split up into provinces
+# We have to combine the numbers from the countries that are split up into
+# provinces
 for country in to_concat:
     new_row = df[df["Country/Region"] == country].sum()
     new_row["Country/Region"] = country
@@ -65,14 +66,12 @@ for country in to_concat:
 dead = df[df["Province/State"].isna()].drop(
     "Province/State", axis=1
 )  # take only countries (no territories)
-# print(to_concat)
 
 df = pd.read_csv(base_url + recovered_url)
 recovered_copy = df.copy()  # for time series
 df = df.drop(["Lat", "Long"], axis=1)
 to_concat = df[df["Province/State"].notna()]["Country/Region"].unique()
 for country in to_concat:
-    # print(df[df['Country/Region']==country])
     new_row = df[df["Country/Region"] == country].sum()
     new_row["Country/Region"] = country
     new_row["Province/State"] = np.NaN
@@ -82,7 +81,6 @@ for country in to_concat:
 recovered = df[df["Province/State"].isna()].drop(
     "Province/State", axis=1
 )  # take only countries (no territories)
-# print(to_concat)
 
 dates = np.intersect1d(
     np.intersect1d(
@@ -99,7 +97,6 @@ countries = np.intersect1d(
     ),
     confirmed["Country/Region"].unique(),
 )
-# print(countries)
 
 
 data = pd.DataFrame()
@@ -144,13 +141,12 @@ for country in countries:
     )
 
 
-# data=data.sort_values(by=['Date', 'Country'])
 data["Date"] = data["Date"].map(adjust_date)
 data = data.reset_index(drop=True)
 data.to_csv("data/countries-aggregated.csv", index=False)
 
 
-# ==============================================================================================
+# ============================================================================
 # Now create the more detailed time series
 print("\n===============\nWorking on more detailed time series\n")
 
@@ -161,19 +157,17 @@ dead["Province/State"] = dead["Province/State"].fillna("")
 recovered = recovered_copy.copy()
 recovered["Province/State"] = recovered["Province/State"].fillna("")
 
-# these are the country-province combinations, we go through them to reformat the columns
+# these are the country-province combinations, we go through them to
+# reformat the columns
 combos = np.array(
     confirmed[["Country/Region", "Province/State"]].to_records(index=False)
 )
-# print(combos)
-
-# countries = confirmed['Country/Region'].unique()
-# states = confirmed['Province/State'].unique()
 
 data = pd.DataFrame()
 for country, state in combos:
 
-    # Here we just need to check if we are dealing with a country-province or just a country
+    # Here we just need to check if we are dealing with a country-province
+    # or just a country
     is_na = False
     if state == "":
         is_na = True
@@ -221,10 +215,7 @@ for country, state in combos:
     df["Deaths"] = df_d["Deaths"]
     df["Country/Region"] = country
     df["Province/State"] = state
-    df["Lat"] = Lat
-    df["Long"] = Long
     df["Date"] = df.index
-    # print(df)
 
     data = data.append(
         df[
@@ -232,8 +223,6 @@ for country, state in combos:
                 "Date",
                 "Country/Region",
                 "Province/State",
-                "Lat",
-                "Long",
                 "Confirmed",
                 "Recovered",
                 "Deaths",
@@ -247,7 +236,7 @@ data = data.reset_index(drop=True)
 data.to_csv("data/time-series-19-covid-combined.csv", index=False)
 
 
-# ==============================================================================================
+# ============================================================================
 # Now create the key countries pivoted
 print("\n===============\nWorking on Key Countries\n")
 confirmed = confirmed_copy.copy()
@@ -256,7 +245,8 @@ confirmed["Province/State"] = confirmed["Province/State"]
 to_concat = confirmed[confirmed["Province/State"].notna()][
     "Country/Region"
 ].unique()
-# We have to combine the numbers from the countries that are split up into provinces
+# We have to combine the numbers from the countries that are split up into
+# provinces
 for country in to_concat:
     new_row = confirmed[confirmed["Country/Region"] == country].sum()
     new_row["Country/Region"] = country
@@ -303,7 +293,7 @@ key_countries = key_countries[
 key_countries.to_csv("data/key-countries-pivoted.csv", index=False)
 
 
-# ==============================================================================================
+# ============================================================================
 # Now create the world aggregate
 print("\n===============\nWorking on world aggregate\n")
 confirmed = confirmed_copy.copy().drop(

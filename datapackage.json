@@ -225,16 +225,6 @@
           },
           {
             "format": "default",
-            "name": "Lat",
-            "type": "number"
-          },
-          {
-            "format": "default",
-            "name": "Long",
-            "type": "number"
-          },
-          {
-            "format": "default",
             "name": "Confirmed",
             "type": "integer"
           },
@@ -269,42 +259,7 @@
         "fields": [
           {
             "format": "default",
-            "name": "UID",
-            "type": "integer"
-          },
-          {
-            "format": "default",
-            "name": "iso2",
-            "type": "string"
-          },
-          {
-            "format": "default",
-            "name": "iso3",
-            "type": "string"
-          },
-          {
-            "format": "default",
-            "name": "code3",
-            "type": "integer"
-          },
-          {
-            "format": "default",
-            "name": "FIPS",
-            "type": "number"
-          },
-          {
-            "format": "default",
             "name": "Admin2",
-            "type": "string"
-          },
-          {
-            "format": "default",
-            "name": "Lat",
-            "type": "number"
-          },
-          {
-            "format": "default",
-            "name": "Combined_Key",
             "type": "string"
           },
           {
@@ -316,11 +271,6 @@
             "format": "default",
             "name": "Case",
             "type": "integer"
-          },
-          {
-            "format": "default",
-            "name": "Long",
-            "type": "number"
           },
           {
             "format": "default",
@@ -353,48 +303,8 @@
         "fields": [
           {
             "format": "default",
-            "name": "UID",
-            "type": "integer"
-          },
-          {
-            "format": "default",
-            "name": "iso2",
-            "type": "string"
-          },
-          {
-            "format": "default",
-            "name": "iso3",
-            "type": "string"
-          },
-          {
-            "format": "default",
-            "name": "code3",
-            "type": "integer"
-          },
-          {
-            "format": "default",
-            "name": "FIPS",
-            "type": "number"
-          },
-          {
-            "format": "default",
             "name": "Admin2",
             "type": "string"
-          },
-          {
-            "format": "default",
-            "name": "Lat",
-            "type": "number"
-          },
-          {
-            "format": "default",
-            "name": "Combined_Key",
-            "type": "string"
-          },
-          {
-            "format": "default",
-            "name": "Population",
-            "type": "integer"
           },
           {
             "format": "%Y-%m-%d",
@@ -405,11 +315,6 @@
             "format": "default",
             "name": "Case",
             "type": "integer"
-          },
-          {
-            "format": "default",
-            "name": "Long",
-            "type": "number"
           },
           {
             "format": "default",
@@ -447,11 +352,6 @@
           },
           {
             "format": "default",
-            "name": "FIPS",
-            "type": "number"
-          },
-          {
-            "format": "default",
             "name": "Admin2",
             "type": "string"
           },
@@ -468,11 +368,6 @@
           {
             "format": "default",
             "name": "Deaths",
-            "type": "integer"
-          },
-          {
-            "format": "default",
-            "name": "Population",
             "type": "integer"
           },
           {
