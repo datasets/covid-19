@@ -275,6 +275,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Afghanistan,40510,33824,1501
 2020-10-22,Afghanistan,40626,33831,1505
 2020-10-23,Afghanistan,40687,34010,1507
+2020-10-24,Afghanistan,40768,34023,1511
 2020-01-22,Albania,0,0,0
 2020-01-23,Albania,0,0,0
 2020-01-24,Albania,0,0,0
@@ -551,6 +552,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Albania,17948,10341,462
 2020-10-22,Albania,18250,10395,465
 2020-10-23,Albania,18556,10466,469
+2020-10-24,Albania,18858,10548,473
 2020-01-22,Algeria,0,0,0
 2020-01-23,Algeria,0,0,0
 2020-01-24,Algeria,0,0,0
@@ -827,6 +829,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Algeria,55081,38482,1880
 2020-10-22,Algeria,55357,38618,1888
 2020-10-23,Algeria,55630,38788,1897
+2020-10-24,Algeria,55880,38932,1907
 2020-01-22,Andorra,0,0,0
 2020-01-23,Andorra,0,0,0
 2020-01-24,Andorra,0,0,0
@@ -1103,6 +1106,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Andorra,3811,2470,63
 2020-10-22,Andorra,3811,2470,63
 2020-10-23,Andorra,4038,2729,69
+2020-10-24,Andorra,4038,2729,69
 2020-01-22,Angola,0,0,0
 2020-01-23,Angola,0,0,0
 2020-01-24,Angola,0,0,0
@@ -1379,6 +1383,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Angola,8338,3040,255
 2020-10-22,Angola,8582,3305,260
 2020-10-23,Angola,8829,3384,265
+2020-10-24,Angola,9026,3461,267
 2020-01-22,Antigua and Barbuda,0,0,0
 2020-01-23,Antigua and Barbuda,0,0,0
 2020-01-24,Antigua and Barbuda,0,0,0
@@ -1655,6 +1660,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Antigua and Barbuda,122,101,3
 2020-10-22,Antigua and Barbuda,122,107,3
 2020-10-23,Antigua and Barbuda,122,107,3
+2020-10-24,Antigua and Barbuda,124,108,3
 2020-01-22,Argentina,0,0,0
 2020-01-23,Argentina,0,0,0
 2020-01-24,Argentina,0,0,0
@@ -1931,6 +1937,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Argentina,1037325,840520,27519
 2020-10-22,Argentina,1053650,851854,27957
 2020-10-23,Argentina,1069368,866695,28338
+2020-10-24,Argentina,1081336,881113,28613
 2020-01-22,Armenia,0,0,0
 2020-01-23,Armenia,0,0,0
 2020-01-24,Armenia,0,0,0
@@ -2207,6 +2214,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Armenia,68530,49219,1121
 2020-10-22,Armenia,70836,49787,1131
 2020-10-23,Armenia,73310,50276,1145
+2020-10-24,Armenia,75523,50701,1157
 2020-01-22,Australia,0,0,0
 2020-01-23,Australia,0,0,0
 2020-01-24,Australia,0,0,0
@@ -2483,6 +2491,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Australia,27458,25148,905
 2020-10-22,Australia,27476,25161,905
 2020-10-23,Australia,27495,25173,905
+2020-10-24,Australia,27513,25179,905
 2020-01-22,Austria,0,0,0
 2020-01-23,Austria,0,0,0
 2020-01-24,Austria,0,0,0
@@ -2759,6 +2768,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Austria,69409,52617,925
 2020-10-22,Austria,71844,53970,941
 2020-10-23,Austria,74415,55195,954
+2020-10-24,Austria,78029,56791,965
 2020-01-22,Azerbaijan,0,0,0
 2020-01-23,Azerbaijan,0,0,0
 2020-01-24,Azerbaijan,0,0,0
@@ -3035,6 +3045,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Azerbaijan,46593,40448,642
 2020-10-22,Azerbaijan,47418,40619,648
 2020-10-23,Azerbaijan,48221,40831,656
+2020-10-24,Azerbaijan,49013,41051,664
 2020-01-22,Bahamas,0,0,0
 2020-01-23,Bahamas,0,0,0
 2020-01-24,Bahamas,0,0,0
@@ -3311,6 +3322,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Bahamas,6051,3633,127
 2020-10-22,Bahamas,6135,3705,130
 2020-10-23,Bahamas,6268,3795,130
+2020-10-24,Bahamas,6268,3795,130
 2020-01-22,Bahrain,0,0,0
 2020-01-23,Bahrain,0,0,0
 2020-01-24,Bahrain,0,0,0
@@ -3587,6 +3599,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Bahrain,78907,75424,308
 2020-10-22,Bahrain,79211,75840,308
 2020-10-23,Bahrain,79574,76143,311
+2020-10-24,Bahrain,79975,76474,312
 2020-01-22,Bangladesh,0,0,0
 2020-01-23,Bangladesh,0,0,0
 2020-01-24,Bangladesh,0,0,0
@@ -3863,6 +3876,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Bangladesh,393131,308845,5723
 2020-10-22,Bangladesh,394827,310532,5747
 2020-10-23,Bangladesh,396413,312065,5761
+2020-10-24,Bangladesh,397507,313563,5780
 2020-01-22,Barbados,0,0,0
 2020-01-23,Barbados,0,0,0
 2020-01-24,Barbados,0,0,0
@@ -4139,6 +4153,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Barbados,222,205,7
 2020-10-22,Barbados,224,207,7
 2020-10-23,Barbados,226,207,7
+2020-10-24,Barbados,227,208,7
 2020-01-22,Belarus,0,0,0
 2020-01-23,Belarus,0,0,0
 2020-01-24,Belarus,0,0,0
@@ -4415,6 +4430,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Belarus,89642,80905,941
 2020-10-22,Belarus,90380,81501,945
 2020-10-23,Belarus,91167,82136,945
+2020-10-24,Belarus,91978,82670,953
 2020-01-22,Belgium,0,0,0
 2020-01-23,Belgium,0,0,0
 2020-01-24,Belgium,0,0,0
@@ -4691,6 +4707,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Belgium,253386,21717,10539
 2020-10-22,Belgium,270132,22213,10588
 2020-10-23,Belgium,287700,22517,10658
+2020-10-24,Belgium,305409,22878,10737
 2020-01-22,Belize,0,0,0
 2020-01-23,Belize,0,0,0
 2020-01-24,Belize,0,0,0
@@ -4967,6 +4984,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Belize,2937,1756,46
 2020-10-22,Belize,2995,1826,46
 2020-10-23,Belize,3050,1872,46
+2020-10-24,Belize,3106,1921,48
 2020-01-22,Benin,0,0,0
 2020-01-23,Benin,0,0,0
 2020-01-24,Benin,0,0,0
@@ -5243,6 +5261,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Benin,2557,2330,41
 2020-10-22,Benin,2557,2330,41
 2020-10-23,Benin,2557,2330,41
+2020-10-24,Benin,2557,2330,41
 2020-01-22,Bhutan,0,0,0
 2020-01-23,Bhutan,0,0,0
 2020-01-24,Bhutan,0,0,0
@@ -5519,6 +5538,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Bhutan,332,306,0
 2020-10-22,Bhutan,336,306,0
 2020-10-23,Bhutan,336,306,0
+2020-10-24,Bhutan,340,306,0
 2020-01-22,Bolivia,0,0,0
 2020-01-23,Bolivia,0,0,0
 2020-01-24,Bolivia,0,0,0
@@ -5795,6 +5815,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Bolivia,140228,106330,8558
 2020-10-22,Bolivia,140445,106950,8584
 2020-10-23,Bolivia,140612,107633,8608
+2020-10-24,Bolivia,140779,108067,8627
 2020-01-22,Bosnia and Herzegovina,0,0,0
 2020-01-23,Bosnia and Herzegovina,0,0,0
 2020-01-24,Bosnia and Herzegovina,0,0,0
@@ -6071,6 +6092,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Bosnia and Herzegovina,36315,25779,1031
 2020-10-22,Bosnia and Herzegovina,37314,25989,1051
 2020-10-23,Bosnia and Herzegovina,38493,26260,1065
+2020-10-24,Bosnia and Herzegovina,39758,26368,1075
 2020-01-22,Botswana,0,0,0
 2020-01-23,Botswana,0,0,0
 2020-01-24,Botswana,0,0,0
@@ -6347,6 +6369,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Botswana,5609,915,21
 2020-10-22,Botswana,5923,927,21
 2020-10-23,Botswana,5923,927,21
+2020-10-24,Botswana,5923,927,21
 2020-01-22,Brazil,0,0,0
 2020-01-23,Brazil,0,0,0
 2020-01-24,Brazil,0,0,0
@@ -6623,6 +6646,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Brazil,5298772,4526393,155403
 2020-10-22,Brazil,5323630,4526393,155900
 2020-10-23,Brazil,5353656,4526393,156471
+2020-10-24,Brazil,5380635,4526393,156903
 2020-01-22,Brunei,0,0,0
 2020-01-23,Brunei,0,0,0
 2020-01-24,Brunei,0,0,0
@@ -6899,6 +6923,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Brunei,147,143,3
 2020-10-22,Brunei,148,143,3
 2020-10-23,Brunei,148,143,3
+2020-10-24,Brunei,148,143,3
 2020-01-22,Bulgaria,0,0,0
 2020-01-23,Bulgaria,0,0,0
 2020-01-24,Bulgaria,0,0,0
@@ -7175,6 +7200,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Bulgaria,33335,17598,1048
 2020-10-22,Bulgaria,34930,17833,1064
 2020-10-23,Bulgaria,36519,18102,1077
+2020-10-24,Bulgaria,37562,18232,1084
 2020-01-22,Burkina Faso,0,0,0
 2020-01-23,Burkina Faso,0,0,0
 2020-01-24,Burkina Faso,0,0,0
@@ -7451,6 +7477,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Burkina Faso,2406,1824,65
 2020-10-22,Burkina Faso,2414,1869,65
 2020-10-23,Burkina Faso,2433,1996,65
+2020-10-24,Burkina Faso,2444,1997,65
 2020-01-22,Burma,0,0,0
 2020-01-23,Burma,0,0,0
 2020-01-24,Burma,0,0,0
@@ -7727,6 +7754,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Burma,39696,18865,972
 2020-10-22,Burma,41008,21144,1005
 2020-10-23,Burma,42365,22445,1038
+2020-10-24,Burma,43788,23708,1066
 2020-01-22,Burundi,0,0,0
 2020-01-23,Burundi,0,0,0
 2020-01-24,Burundi,0,0,0
@@ -8003,6 +8031,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Burundi,550,497,1
 2020-10-22,Burundi,551,497,1
 2020-10-23,Burundi,553,497,1
+2020-10-24,Burundi,555,497,1
 2020-01-22,Cabo Verde,0,0,0
 2020-01-23,Cabo Verde,0,0,0
 2020-01-24,Cabo Verde,0,0,0
@@ -8279,6 +8308,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Cabo Verde,8033,6835,90
 2020-10-22,Cabo Verde,8122,6940,91
 2020-10-23,Cabo Verde,8198,7034,94
+2020-10-24,Cabo Verde,8322,7234,94
 2020-01-22,Cambodia,0,0,0
 2020-01-23,Cambodia,0,0,0
 2020-01-24,Cambodia,0,0,0
@@ -8555,6 +8585,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Cambodia,286,280,0
 2020-10-22,Cambodia,286,280,0
 2020-10-23,Cambodia,287,283,0
+2020-10-24,Cambodia,287,283,0
 2020-01-22,Cameroon,0,0,0
 2020-01-23,Cameroon,0,0,0
 2020-01-24,Cameroon,0,0,0
@@ -8831,6 +8862,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Cameroon,21570,20117,425
 2020-10-22,Cameroon,21570,20117,425
 2020-10-23,Cameroon,21570,20117,425
+2020-10-24,Cameroon,21570,20117,425
 2020-01-22,Canada,0,0,0
 2020-01-23,Canada,0,0,0
 2020-01-24,Canada,0,0,0
@@ -9107,6 +9139,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Canada,209036,171405,9883
 2020-10-22,Canada,211617,173299,9916
 2020-10-23,Canada,214519,180626,9940
+2020-10-24,Canada,216051,181974,9969
 2020-01-22,Central African Republic,0,0,0
 2020-01-23,Central African Republic,0,0,0
 2020-01-24,Central African Republic,0,0,0
@@ -9383,6 +9416,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Central African Republic,4858,1924,62
 2020-10-22,Central African Republic,4862,1924,62
 2020-10-23,Central African Republic,4862,1924,62
+2020-10-24,Central African Republic,4862,1924,62
 2020-01-22,Chad,0,0,0
 2020-01-23,Chad,0,0,0
 2020-01-24,Chad,0,0,0
@@ -9659,6 +9693,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Chad,1404,1221,96
 2020-10-22,Chad,1410,1223,96
 2020-10-23,Chad,1423,1234,96
+2020-10-24,Chad,1434,1254,96
 2020-01-22,Chile,0,0,0
 2020-01-23,Chile,0,0,0
 2020-01-24,Chile,0,0,0
@@ -9935,6 +9970,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Chile,495637,467269,13719
 2020-10-22,Chile,497131,469765,13792
 2020-10-23,Chile,498906,471166,13844
+2020-10-24,Chile,500542,476576,13892
 2020-01-22,China,548,28,17
 2020-01-23,China,643,30,18
 2020-01-24,China,920,36,26
@@ -10211,6 +10247,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,China,91044,85899,4739
 2020-10-22,China,91073,85929,4739
 2020-10-23,China,91108,85950,4739
+2020-10-24,China,91128,85974,4739
 2020-01-22,Colombia,0,0,0
 2020-01-23,Colombia,0,0,0
 2020-01-24,Colombia,0,0,0
@@ -10487,6 +10524,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Colombia,981700,884895,29464
 2020-10-22,Colombia,990373,893810,29637
 2020-10-23,Colombia,998942,901652,29802
+2020-10-24,Colombia,1007711,907379,30000
 2020-01-22,Comoros,0,0,0
 2020-01-23,Comoros,0,0,0
 2020-01-24,Comoros,0,0,0
@@ -10763,6 +10801,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Comoros,504,494,7
 2020-10-22,Comoros,517,494,7
 2020-10-23,Comoros,517,494,7
+2020-10-24,Comoros,517,494,7
 2020-01-22,Congo (Brazzaville),0,0,0
 2020-01-23,Congo (Brazzaville),0,0,0
 2020-01-24,Congo (Brazzaville),0,0,0
@@ -11039,6 +11078,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Congo (Brazzaville),5156,3887,92
 2020-10-22,Congo (Brazzaville),5156,3887,92
 2020-10-23,Congo (Brazzaville),5156,3887,92
+2020-10-24,Congo (Brazzaville),5253,3887,92
 2020-01-22,Congo (Kinshasa),0,0,0
 2020-01-23,Congo (Kinshasa),0,0,0
 2020-01-24,Congo (Kinshasa),0,0,0
@@ -11315,6 +11355,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Congo (Kinshasa),11066,10362,303
 2020-10-22,Congo (Kinshasa),11097,10379,304
 2020-10-23,Congo (Kinshasa),11122,10379,304
+2020-10-24,Congo (Kinshasa),11143,10467,305
 2020-01-22,Costa Rica,0,0,0
 2020-01-23,Costa Rica,0,0,0
 2020-01-24,Costa Rica,0,0,0
@@ -11591,6 +11632,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Costa Rica,99425,60738,1236
 2020-10-22,Costa Rica,100616,61162,1251
 2020-10-23,Costa Rica,101826,61662,1265
+2020-10-24,Costa Rica,103088,62037,1282
 2020-01-22,Cote d'Ivoire,0,0,0
 2020-01-23,Cote d'Ivoire,0,0,0
 2020-01-24,Cote d'Ivoire,0,0,0
@@ -11867,6 +11909,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Cote d'Ivoire,20363,20070,121
 2020-10-22,Cote d'Ivoire,20390,20088,121
 2020-10-23,Cote d'Ivoire,20405,20100,121
+2020-10-24,Cote d'Ivoire,20429,20137,121
 2020-01-22,Croatia,0,0,0
 2020-01-23,Croatia,0,0,0
 2020-01-24,Croatia,0,0,0
@@ -12143,6 +12186,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Croatia,28287,21435,393
 2020-10-22,Croatia,29850,22064,406
 2020-10-23,Croatia,31717,22910,413
+2020-10-24,Croatia,33959,23785,429
 2020-01-22,Cuba,0,0,0
 2020-01-23,Cuba,0,0,0
 2020-01-24,Cuba,0,0,0
@@ -12419,6 +12463,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Cuba,6368,5814,127
 2020-10-22,Cuba,6421,5871,128
 2020-10-23,Cuba,6479,5899,128
+2020-10-24,Cuba,6534,5927,128
 2020-01-22,Cyprus,0,0,0
 2020-01-23,Cyprus,0,0,0
 2020-01-24,Cyprus,0,0,0
@@ -12695,6 +12740,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Cyprus,2966,1444,25
 2020-10-22,Cyprus,3154,1444,25
 2020-10-23,Cyprus,3314,1444,25
+2020-10-24,Cyprus,3444,1882,25
 2020-01-22,Czechia,0,0,0
 2020-01-23,Czechia,0,0,0
 2020-01-24,Czechia,0,0,0
@@ -12971,6 +13017,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Czechia,208915,83136,1739
 2020-10-22,Czechia,223065,87225,1845
 2020-10-23,Czechia,238323,91651,1971
+2020-10-24,Czechia,250797,94902,2077
 2020-01-22,Denmark,0,0,0
 2020-01-23,Denmark,0,0,0
 2020-01-24,Denmark,0,0,0
@@ -13247,6 +13294,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Denmark,37507,30921,690
 2020-10-22,Denmark,38270,31366,694
 2020-10-23,Denmark,39129,31784,697
+2020-10-24,Denmark,39918,32190,700
 2020-01-22,Diamond Princess,0,0,0
 2020-01-23,Diamond Princess,0,0,0
 2020-01-24,Diamond Princess,0,0,0
@@ -13523,6 +13571,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Diamond Princess,712,659,13
 2020-10-22,Diamond Princess,712,659,13
 2020-10-23,Diamond Princess,712,659,13
+2020-10-24,Diamond Princess,712,659,13
 2020-01-22,Djibouti,0,0,0
 2020-01-23,Djibouti,0,0,0
 2020-01-24,Djibouti,0,0,0
@@ -13799,6 +13848,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Djibouti,5512,5387,61
 2020-10-22,Djibouti,5522,5389,61
 2020-10-23,Djibouti,5528,5393,61
+2020-10-24,Djibouti,5530,5398,61
 2020-01-22,Dominica,0,0,0
 2020-01-23,Dominica,0,0,0
 2020-01-24,Dominica,0,0,0
@@ -14075,6 +14125,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Dominica,33,29,0
 2020-10-22,Dominica,33,29,0
 2020-10-23,Dominica,37,29,0
+2020-10-24,Dominica,38,29,0
 2020-01-22,Dominican Republic,0,0,0
 2020-01-23,Dominican Republic,0,0,0
 2020-01-24,Dominican Republic,0,0,0
@@ -14351,6 +14402,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Dominican Republic,122398,100051,2206
 2020-10-22,Dominican Republic,122873,100920,2212
 2020-10-23,Dominican Republic,122873,100920,2212
+2020-10-24,Dominican Republic,124018,102353,2220
 2020-01-22,Ecuador,0,0,0
 2020-01-23,Ecuador,0,0,0
 2020-01-24,Ecuador,0,0,0
@@ -14627,6 +14679,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Ecuador,155625,134187,12453
 2020-10-22,Ecuador,156451,134187,12500
 2020-10-23,Ecuador,158270,134187,12528
+2020-10-24,Ecuador,159614,134187,12542
 2020-01-22,Egypt,0,0,0
 2020-01-23,Egypt,0,0,0
 2020-01-24,Egypt,0,0,0
@@ -14903,6 +14956,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Egypt,105883,98516,6155
 2020-10-22,Egypt,106060,98624,6166
 2020-10-23,Egypt,106230,98713,6176
+2020-10-24,Egypt,106397,98813,6187
 2020-01-22,El Salvador,0,0,0
 2020-01-23,El Salvador,0,0,0
 2020-01-24,El Salvador,0,0,0
@@ -15179,6 +15233,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,El Salvador,32120,27670,933
 2020-10-22,El Salvador,32262,27904,936
 2020-10-23,El Salvador,32421,28127,940
+2020-10-24,El Salvador,32585,28258,944
 2020-01-22,Equatorial Guinea,0,0,0
 2020-01-23,Equatorial Guinea,0,0,0
 2020-01-24,Equatorial Guinea,0,0,0
@@ -15455,6 +15510,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Equatorial Guinea,5074,4954,83
 2020-10-22,Equatorial Guinea,5074,4961,83
 2020-10-23,Equatorial Guinea,5074,4961,83
+2020-10-24,Equatorial Guinea,5079,4962,83
 2020-01-22,Eritrea,0,0,0
 2020-01-23,Eritrea,0,0,0
 2020-01-24,Eritrea,0,0,0
@@ -15731,6 +15787,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Eritrea,452,388,0
 2020-10-22,Eritrea,457,391,0
 2020-10-23,Eritrea,461,405,0
+2020-10-24,Eritrea,461,405,0
 2020-01-22,Estonia,0,0,0
 2020-01-23,Estonia,0,0,0
 2020-01-24,Estonia,0,0,0
@@ -16007,6 +16064,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Estonia,4171,3334,71
 2020-10-22,Estonia,4247,3366,71
 2020-10-23,Estonia,4300,3418,73
+2020-10-24,Estonia,4351,3441,73
 2020-01-22,Eswatini,0,0,0
 2020-01-23,Eswatini,0,0,0
 2020-01-24,Eswatini,0,0,0
@@ -16283,6 +16341,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Eswatini,5805,5453,116
 2020-10-22,Eswatini,5814,5468,116
 2020-10-23,Eswatini,5831,5485,116
+2020-10-24,Eswatini,5847,5491,116
 2020-01-22,Ethiopia,0,0,0
 2020-01-23,Ethiopia,0,0,0
 2020-01-24,Ethiopia,0,0,0
@@ -16559,6 +16618,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Ethiopia,91118,44506,1384
 2020-10-22,Ethiopia,91693,45260,1396
 2020-10-23,Ethiopia,92229,46118,1400
+2020-10-24,Ethiopia,92858,46842,1419
 2020-01-22,Fiji,0,0,0
 2020-01-23,Fiji,0,0,0
 2020-01-24,Fiji,0,0,0
@@ -16835,6 +16895,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Fiji,33,30,2
 2020-10-22,Fiji,33,30,2
 2020-10-23,Fiji,33,30,2
+2020-10-24,Fiji,33,30,2
 2020-01-22,Finland,0,0,0
 2020-01-23,Finland,0,0,0
 2020-01-24,Finland,0,0,0
@@ -17111,6 +17172,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Finland,14071,9800,355
 2020-10-22,Finland,14255,9800,355
 2020-10-23,Finland,14474,9800,353
+2020-10-24,Finland,14652,9800,353
 2020-01-22,France,0,0,0
 2020-01-23,France,0,0,0
 2020-01-24,France,2,0,0
@@ -17387,6 +17449,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,France,1000369,111715,34075
 2020-10-22,France,1041991,112662,34237
 2020-10-23,France,1084659,113636,34536
+2020-10-24,France,1084659,113636,34536
 2020-01-22,Gabon,0,0,0
 2020-01-23,Gabon,0,0,0
 2020-01-24,Gabon,0,0,0
@@ -17663,6 +17726,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Gabon,8901,8479,54
 2020-10-22,Gabon,8901,8479,54
 2020-10-23,Gabon,8919,8512,54
+2020-10-24,Gabon,8919,8512,54
 2020-01-22,Gambia,0,0,0
 2020-01-23,Gambia,0,0,0
 2020-01-24,Gambia,0,0,0
@@ -17939,6 +18003,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Gambia,3657,2658,118
 2020-10-22,Gambia,3659,2660,119
 2020-10-23,Gambia,3659,2660,119
+2020-10-24,Gambia,3659,2660,119
 2020-01-22,Georgia,0,0,0
 2020-01-23,Georgia,0,0,0
 2020-01-24,Georgia,0,0,0
@@ -18215,6 +18280,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Georgia,21208,9003,172
 2020-10-22,Georgia,22803,9401,178
 2020-10-23,Georgia,24562,9751,183
+2020-10-24,Georgia,26503,10163,193
 2020-01-22,Germany,0,0,0
 2020-01-23,Germany,0,0,0
 2020-01-24,Germany,0,0,0
@@ -18491,6 +18557,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Germany,397922,304173,9911
 2020-10-22,Germany,403874,308779,9960
 2020-10-23,Germany,426110,312347,10008
+2020-10-24,Germany,434798,316124,10035
 2020-01-22,Ghana,0,0,0
 2020-01-23,Ghana,0,0,0
 2020-01-24,Ghana,0,0,0
@@ -18767,6 +18834,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Ghana,47461,46752,312
 2020-10-22,Ghana,47538,46789,312
 2020-10-23,Ghana,47601,46824,314
+2020-10-24,Ghana,47690,46887,316
 2020-01-22,Greece,0,0,0
 2020-01-23,Greece,0,0,0
 2020-01-24,Greece,0,0,0
@@ -19043,6 +19111,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Greece,27334,1347,534
 2020-10-22,Greece,28216,1347,549
 2020-10-23,Greece,29057,1347,559
+2020-10-24,Greece,29992,1347,564
 2020-01-22,Grenada,0,0,0
 2020-01-23,Grenada,0,0,0
 2020-01-24,Grenada,0,0,0
@@ -19319,6 +19388,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Grenada,27,24,0
 2020-10-22,Grenada,27,24,0
 2020-10-23,Grenada,27,24,0
+2020-10-24,Grenada,28,24,0
 2020-01-22,Guatemala,0,0,0
 2020-01-23,Guatemala,0,0,0
 2020-01-24,Guatemala,0,0,0
@@ -19595,6 +19665,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Guatemala,102415,92149,3567
 2020-10-22,Guatemala,103172,92665,3580
 2020-10-23,Guatemala,103902,93341,3594
+2020-10-24,Guatemala,104632,93880,3609
 2020-01-22,Guinea,0,0,0
 2020-01-23,Guinea,0,0,0
 2020-01-24,Guinea,0,0,0
@@ -19871,6 +19942,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Guinea,11599,10461,70
 2020-10-22,Guinea,11635,10474,71
 2020-10-23,Guinea,11635,10474,71
+2020-10-24,Guinea,11635,10474,71
 2020-01-22,Guinea-Bissau,0,0,0
 2020-01-23,Guinea-Bissau,0,0,0
 2020-01-24,Guinea-Bissau,0,0,0
@@ -20147,6 +20219,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Guinea-Bissau,2403,1818,41
 2020-10-22,Guinea-Bissau,2403,1818,41
 2020-10-23,Guinea-Bissau,2403,1818,41
+2020-10-24,Guinea-Bissau,2403,1818,41
 2020-01-22,Guyana,0,0,0
 2020-01-23,Guyana,0,0,0
 2020-01-24,Guyana,0,0,0
@@ -20423,6 +20496,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Guyana,3850,2839,116
 2020-10-22,Guyana,3877,2853,117
 2020-10-23,Guyana,3960,2923,117
+2020-10-24,Guyana,3994,2970,117
 2020-01-22,Haiti,0,0,0
 2020-01-23,Haiti,0,0,0
 2020-01-24,Haiti,0,0,0
@@ -20699,6 +20773,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Haiti,8979,7303,231
 2020-10-22,Haiti,9007,7311,231
 2020-10-23,Haiti,9015,7361,231
+2020-10-24,Haiti,9015,7361,231
 2020-01-22,Holy See,0,0,0
 2020-01-23,Holy See,0,0,0
 2020-01-24,Holy See,0,0,0
@@ -20975,6 +21050,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Holy See,27,15,0
 2020-10-22,Holy See,27,15,0
 2020-10-23,Holy See,27,15,0
+2020-10-24,Holy See,27,15,0
 2020-01-22,Honduras,0,0,0
 2020-01-23,Honduras,0,0,0
 2020-01-24,Honduras,0,0,0
@@ -21251,6 +21327,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Honduras,91078,36341,2596
 2020-10-22,Honduras,91509,37132,2604
 2020-10-23,Honduras,91509,37132,2604
+2020-10-24,Honduras,92724,37866,2617
 2020-01-22,Hungary,0,0,0
 2020-01-23,Hungary,0,0,0
 2020-01-24,Hungary,0,0,0
@@ -21527,6 +21604,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Hungary,50180,14905,1259
 2020-10-22,Hungary,52212,15254,1305
 2020-10-23,Hungary,54278,15655,1352
+2020-10-24,Hungary,56098,16007,1390
 2020-01-22,Iceland,0,0,0
 2020-01-23,Iceland,0,0,0
 2020-01-24,Iceland,0,0,0
@@ -21803,6 +21881,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Iceland,4230,3013,11
 2020-10-22,Iceland,4268,3098,11
 2020-10-23,Iceland,4308,3187,11
+2020-10-24,Iceland,4394,3302,11
 2020-01-22,India,0,0,0
 2020-01-23,India,0,0,0
 2020-01-24,India,0,0,0
@@ -22078,7 +22157,8 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-20,India,7651107,6795103,115914
 2020-10-21,India,7706946,6874518,116616
 2020-10-22,India,7761312,6948497,117306
-2020-10-23,India,7761312,6948497,117306
+2020-10-23,India,7814682,7016046,117956
+2020-10-24,India,7814682,7016046,117956
 2020-01-22,Indonesia,0,0,0
 2020-01-23,Indonesia,0,0,0
 2020-01-24,Indonesia,0,0,0
@@ -22355,6 +22435,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Indonesia,373109,297509,12857
 2020-10-22,Indonesia,377541,301006,12959
 2020-10-23,Indonesia,381910,305100,13077
+2020-10-24,Indonesia,385980,309219,13205
 2020-01-22,Iran,0,0,0
 2020-01-23,Iran,0,0,0
 2020-01-24,Iran,0,0,0
@@ -22631,6 +22712,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Iran,545286,438709,31346
 2020-10-22,Iran,550757,442674,31650
 2020-10-23,Iran,556891,446685,31985
+2020-10-24,Iran,562705,450891,32320
 2020-01-22,Iraq,0,0,0
 2020-01-23,Iraq,0,0,0
 2020-01-24,Iraq,0,0,0
@@ -22907,6 +22989,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Iraq,438265,369010,10418
 2020-10-22,Iraq,442164,371826,10465
 2020-10-23,Iraq,445949,375188,10513
+2020-10-24,Iraq,449153,378209,10568
 2020-01-22,Ireland,0,0,0
 2020-01-23,Ireland,0,0,0
 2020-01-24,Ireland,0,0,0
@@ -23183,6 +23266,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Ireland,53422,23364,1868
 2020-10-22,Ireland,54476,23364,1871
 2020-10-23,Ireland,55261,23364,1878
+2020-10-24,Ireland,56108,23364,1882
 2020-01-22,Israel,0,0,0
 2020-01-23,Israel,0,0,0
 2020-01-24,Israel,0,0,0
@@ -23459,6 +23543,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Israel,307335,285475,2291
 2020-10-22,Israel,308247,288337,2319
 2020-10-23,Israel,308840,290130,2329
+2020-10-24,Israel,309413,291206,2372
 2020-01-22,Italy,0,0,0
 2020-01-23,Italy,0,0,0
 2020-01-24,Italy,0,0,0
@@ -23735,6 +23820,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Italy,449648,257374,36832
 2020-10-22,Italy,465726,259456,36968
 2020-10-23,Italy,484869,261808,37059
+2020-10-24,Italy,504509,264117,37210
 2020-01-22,Jamaica,0,0,0
 2020-01-23,Jamaica,0,0,0
 2020-01-24,Jamaica,0,0,0
@@ -24011,6 +24097,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Jamaica,8445,4016,174
 2020-10-22,Jamaica,8600,4095,179
 2020-10-23,Jamaica,8638,4156,182
+2020-10-24,Jamaica,8670,4209,186
 2020-01-22,Japan,2,0,0
 2020-01-23,Japan,2,0,0
 2020-01-24,Japan,2,0,0
@@ -24287,6 +24374,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Japan,94515,86429,1686
 2020-10-22,Japan,95134,87022,1697
 2020-10-23,Japan,95868,87600,1706
+2020-10-24,Japan,96599,88138,1710
 2020-01-22,Jordan,0,0,0
 2020-01-23,Jordan,0,0,0
 2020-01-24,Jordan,0,0,0
@@ -24563,6 +24651,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Jordan,43620,7223,443
 2020-10-22,Jordan,46441,7340,481
 2020-10-23,Jordan,48930,7449,508
+2020-10-24,Jordan,50750,7508,540
 2020-01-22,Kazakhstan,0,0,0
 2020-01-23,Kazakhstan,0,0,0
 2020-01-24,Kazakhstan,0,0,0
@@ -24839,6 +24928,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Kazakhstan,109907,105385,1796
 2020-10-22,Kazakhstan,110086,105493,1796
 2020-10-23,Kazakhstan,110250,105566,1796
+2020-10-24,Kazakhstan,110402,105618,1796
 2020-01-22,Kenya,0,0,0
 2020-01-23,Kenya,0,0,0
 2020-01-24,Kenya,0,0,0
@@ -25115,6 +25205,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Kenya,46144,32760,858
 2020-10-22,Kenya,47212,33050,870
 2020-10-23,Kenya,47843,33421,884
+2020-10-24,Kenya,48790,33876,896
 2020-01-22,"Korea, South",1,0,0
 2020-01-23,"Korea, South",1,0,0
 2020-01-24,"Korea, South",2,0,0
@@ -25391,6 +25482,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,"Korea, South",25543,23647,453
 2020-10-22,"Korea, South",25698,23717,455
 2020-10-23,"Korea, South",25775,23834,457
+2020-10-24,"Korea, South",25836,23869,457
 2020-01-22,Kosovo,0,0,0
 2020-01-23,Kosovo,0,0,0
 2020-01-24,Kosovo,0,0,0
@@ -25667,6 +25759,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Kosovo,17263,14831,657
 2020-10-22,Kosovo,17263,14831,657
 2020-10-23,Kosovo,17263,14831,657
+2020-10-24,Kosovo,17263,14831,657
 2020-01-22,Kuwait,0,0,0
 2020-01-23,Kuwait,0,0,0
 2020-01-24,Kuwait,0,0,0
@@ -25943,6 +26036,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Kuwait,118531,109916,721
 2020-10-22,Kuwait,119420,110714,730
 2020-10-23,Kuwait,120232,111440,740
+2020-10-24,Kuwait,120927,112110,744
 2020-01-22,Kyrgyzstan,0,0,0
 2020-01-23,Kyrgyzstan,0,0,0
 2020-01-24,Kyrgyzstan,0,0,0
@@ -26219,6 +26313,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Kyrgyzstan,53459,46444,1118
 2020-10-22,Kyrgyzstan,54006,46726,1122
 2020-10-23,Kyrgyzstan,54588,47050,1126
+2020-10-24,Kyrgyzstan,55144,47337,1130
 2020-01-22,Laos,0,0,0
 2020-01-23,Laos,0,0,0
 2020-01-24,Laos,0,0,0
@@ -26495,6 +26590,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Laos,24,22,0
 2020-10-22,Laos,24,22,0
 2020-10-23,Laos,24,22,0
+2020-10-24,Laos,24,22,0
 2020-01-22,Latvia,0,0,0
 2020-01-23,Latvia,0,0,0
 2020-01-24,Latvia,0,0,0
@@ -26771,6 +26867,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Latvia,3797,1341,47
 2020-10-22,Latvia,3958,1357,49
 2020-10-23,Latvia,4208,1357,50
+2020-10-24,Latvia,4467,1357,54
 2020-01-22,Lebanon,0,0,0
 2020-01-23,Lebanon,0,0,0
 2020-01-24,Lebanon,0,0,0
@@ -27047,6 +27144,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Lebanon,65577,30470,536
 2020-10-22,Lebanon,67027,31409,552
 2020-10-23,Lebanon,68479,32412,559
+2020-10-24,Lebanon,69906,33438,562
 2020-01-22,Lesotho,0,0,0
 2020-01-23,Lesotho,0,0,0
 2020-01-24,Lesotho,0,0,0
@@ -27323,6 +27421,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Lesotho,1918,961,43
 2020-10-22,Lesotho,1923,961,43
 2020-10-23,Lesotho,1934,961,43
+2020-10-24,Lesotho,1940,970,43
 2020-01-22,Liberia,0,0,0
 2020-01-23,Liberia,0,0,0
 2020-01-24,Liberia,0,0,0
@@ -27599,6 +27698,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Liberia,1385,1276,82
 2020-10-22,Liberia,1385,1278,82
 2020-10-23,Liberia,1393,1278,82
+2020-10-24,Liberia,1393,1278,82
 2020-01-22,Libya,0,0,0
 2020-01-23,Libya,0,0,0
 2020-01-24,Libya,0,0,0
@@ -27875,6 +27975,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Libya,51625,28440,765
 2020-10-22,Libya,52620,29057,768
 2020-10-23,Libya,53384,29619,774
+2020-10-24,Libya,54374,29965,790
 2020-01-22,Liechtenstein,0,0,0
 2020-01-23,Liechtenstein,0,0,0
 2020-01-24,Liechtenstein,0,0,0
@@ -28151,6 +28252,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Liechtenstein,252,145,1
 2020-10-22,Liechtenstein,282,158,1
 2020-10-23,Liechtenstein,324,170,1
+2020-10-24,Liechtenstein,340,170,1
 2020-01-22,Lithuania,0,0,0
 2020-01-23,Lithuania,0,0,0
 2020-01-24,Lithuania,0,0,0
@@ -28427,6 +28529,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Lithuania,8239,3599,120
 2020-10-22,Lithuania,8663,3773,125
 2020-10-23,Lithuania,9104,3978,126
+2020-10-24,Lithuania,9578,4015,129
 2020-01-22,Luxembourg,0,0,0
 2020-01-23,Luxembourg,0,0,0
 2020-01-24,Luxembourg,0,0,0
@@ -28703,6 +28806,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Luxembourg,11671,8473,138
 2020-10-22,Luxembourg,12333,8474,140
 2020-10-23,Luxembourg,12851,9085,141
+2020-10-24,Luxembourg,12851,9085,141
 2020-01-22,MS Zaandam,0,0,0
 2020-01-23,MS Zaandam,0,0,0
 2020-01-24,MS Zaandam,0,0,0
@@ -28979,6 +29083,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,MS Zaandam,9,0,2
 2020-10-22,MS Zaandam,9,0,2
 2020-10-23,MS Zaandam,9,0,2
+2020-10-24,MS Zaandam,9,0,2
 2020-01-22,Madagascar,0,0,0
 2020-01-23,Madagascar,0,0,0
 2020-01-24,Madagascar,0,0,0
@@ -29255,6 +29360,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Madagascar,16810,16215,238
 2020-10-22,Madagascar,16810,16215,238
 2020-10-23,Madagascar,16810,16215,238
+2020-10-24,Madagascar,16968,16301,244
 2020-01-22,Malawi,0,0,0
 2020-01-23,Malawi,0,0,0
 2020-01-24,Malawi,0,0,0
@@ -29531,6 +29637,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Malawi,5864,4762,183
 2020-10-22,Malawi,5874,4764,183
 2020-10-23,Malawi,5885,5287,183
+2020-10-24,Malawi,5887,5288,183
 2020-01-22,Malaysia,0,0,0
 2020-01-23,Malaysia,0,0,0
 2020-01-24,Malaysia,0,0,0
@@ -29807,6 +29914,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Malaysia,22957,14931,199
 2020-10-22,Malaysia,23804,15417,204
 2020-10-23,Malaysia,24514,15884,214
+2020-10-24,Malaysia,25742,16555,221
 2020-01-22,Maldives,0,0,0
 2020-01-23,Maldives,0,0,0
 2020-01-24,Maldives,0,0,0
@@ -30083,6 +30191,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Maldives,11316,10284,37
 2020-10-22,Maldives,11358,10383,37
 2020-10-23,Maldives,11391,10428,37
+2020-10-24,Maldives,11421,10472,37
 2020-01-22,Mali,0,0,0
 2020-01-23,Mali,0,0,0
 2020-01-24,Mali,0,0,0
@@ -30359,6 +30468,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Mali,3428,2599,132
 2020-10-22,Mali,3440,2608,132
 2020-10-23,Mali,3444,2620,132
+2020-10-24,Mali,3472,2636,132
 2020-01-22,Malta,0,0,0
 2020-01-23,Malta,0,0,0
 2020-01-24,Malta,0,0,0
@@ -30635,6 +30745,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Malta,5026,3331,46
 2020-10-22,Malta,5137,3384,49
 2020-10-23,Malta,5258,3439,49
+2020-10-24,Malta,5373,3478,50
 2020-01-22,Mauritania,0,0,0
 2020-01-23,Mauritania,0,0,0
 2020-01-24,Mauritania,0,0,0
@@ -30911,6 +31022,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Mauritania,7638,7363,163
 2020-10-22,Mauritania,7650,7369,163
 2020-10-23,Mauritania,7662,7374,163
+2020-10-24,Mauritania,7663,7378,163
 2020-01-22,Mauritius,0,0,0
 2020-01-23,Mauritius,0,0,0
 2020-01-24,Mauritius,0,0,0
@@ -31187,6 +31299,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Mauritius,419,379,10
 2020-10-22,Mauritius,425,386,10
 2020-10-23,Mauritius,435,386,10
+2020-10-24,Mauritius,435,386,10
 2020-01-22,Mexico,0,0,0
 2020-01-23,Mexico,0,0,0
 2020-01-24,Mexico,0,0,0
@@ -31463,6 +31576,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Mexico,867559,733897,87415
 2020-10-22,Mexico,874171,737437,87415
 2020-10-23,Mexico,880775,740934,88312
+2020-10-24,Mexico,886800,746939,88743
 2020-01-22,Moldova,0,0,0
 2020-01-23,Moldova,0,0,0
 2020-01-24,Moldova,0,0,0
@@ -31739,6 +31853,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Moldova,68791,49702,1630
 2020-10-22,Moldova,69568,50422,1641
 2020-10-23,Moldova,70256,51102,1654
+2020-10-24,Moldova,71089,51719,1669
 2020-01-22,Monaco,0,0,0
 2020-01-23,Monaco,0,0,0
 2020-01-24,Monaco,0,0,0
@@ -32015,6 +32130,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Monaco,273,231,2
 2020-10-22,Monaco,281,233,2
 2020-10-23,Monaco,295,241,2
+2020-10-24,Monaco,296,244,2
 2020-01-22,Mongolia,0,0,0
 2020-01-23,Mongolia,0,0,0
 2020-01-24,Mongolia,0,0,0
@@ -32291,6 +32407,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Mongolia,328,312,0
 2020-10-22,Mongolia,328,312,0
 2020-10-23,Mongolia,328,312,0
+2020-10-24,Mongolia,338,312,0
 2020-01-22,Montenegro,0,0,0
 2020-01-23,Montenegro,0,0,0
 2020-01-24,Montenegro,0,0,0
@@ -32567,6 +32684,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Montenegro,16069,11815,250
 2020-10-22,Montenegro,16259,12093,253
 2020-10-23,Montenegro,16436,12378,255
+2020-10-24,Montenegro,16629,12601,263
 2020-01-22,Morocco,0,0,0
 2020-01-23,Morocco,0,0,0
 2020-01-24,Morocco,0,0,0
@@ -32843,6 +32961,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Morocco,182580,151634,3079
 2020-10-22,Morocco,186731,154481,3132
 2020-10-23,Morocco,190416,157175,3205
+2020-10-24,Morocco,194461,160372,3255
 2020-01-22,Mozambique,0,0,0
 2020-01-23,Mozambique,0,0,0
 2020-01-24,Mozambique,0,0,0
@@ -33119,6 +33238,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Mozambique,11331,9165,79
 2020-10-22,Mozambique,11559,9226,81
 2020-10-23,Mozambique,11748,9234,82
+2020-10-24,Mozambique,11895,9244,85
 2020-01-22,Namibia,0,0,0
 2020-01-23,Namibia,0,0,0
 2020-01-24,Namibia,0,0,0
@@ -33395,6 +33515,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Namibia,12406,10587,133
 2020-10-22,Namibia,12460,10609,133
 2020-10-23,Namibia,12501,10748,133
+2020-10-24,Namibia,12579,10775,133
 2020-01-22,Nepal,0,0,0
 2020-01-23,Nepal,0,0,0
 2020-01-24,Nepal,0,0,0
@@ -33671,6 +33792,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Nepal,144872,99605,791
 2020-10-22,Nepal,148509,102820,812
 2020-10-23,Nepal,153008,105488,829
+2020-10-24,Nepal,155233,108334,842
 2020-01-22,Netherlands,0,0,0
 2020-01-23,Netherlands,0,0,0
 2020-01-24,Netherlands,0,0,0
@@ -33947,6 +34069,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Netherlands,259207,5365,6934
 2020-10-22,Netherlands,268517,5431,6981
 2020-10-23,Netherlands,278546,5517,7026
+2020-10-24,Netherlands,287229,5567,7081
 2020-01-22,New Zealand,0,0,0
 2020-01-23,New Zealand,0,0,0
 2020-01-24,New Zealand,0,0,0
@@ -34223,6 +34346,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,New Zealand,1914,1831,25
 2020-10-22,New Zealand,1923,1832,25
 2020-10-23,New Zealand,1934,1835,25
+2020-10-24,New Zealand,1935,1840,25
 2020-01-22,Nicaragua,0,0,0
 2020-01-23,Nicaragua,0,0,0
 2020-01-24,Nicaragua,0,0,0
@@ -34499,6 +34623,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Nicaragua,5434,4225,155
 2020-10-22,Nicaragua,5434,4225,155
 2020-10-23,Nicaragua,5434,4225,155
+2020-10-24,Nicaragua,5434,4225,155
 2020-01-22,Niger,0,0,0
 2020-01-23,Niger,0,0,0
 2020-01-24,Niger,0,0,0
@@ -34775,6 +34900,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Niger,1214,1128,69
 2020-10-22,Niger,1215,1128,69
 2020-10-23,Niger,1215,1128,69
+2020-10-24,Niger,1215,1128,69
 2020-01-22,Nigeria,0,0,0
 2020-01-23,Nigeria,0,0,0
 2020-01-24,Nigeria,0,0,0
@@ -35051,6 +35177,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Nigeria,61667,56880,1125
 2020-10-22,Nigeria,61805,56985,1127
 2020-10-23,Nigeria,61882,57190,1129
+2020-10-24,Nigeria,61930,57285,1129
 2020-01-22,North Macedonia,0,0,0
 2020-01-23,North Macedonia,0,0,0
 2020-01-24,North Macedonia,0,0,0
@@ -35327,6 +35454,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,North Macedonia,24836,17905,862
 2020-10-22,North Macedonia,25473,18047,874
 2020-10-23,North Macedonia,25991,18247,883
+2020-10-24,North Macedonia,26394,18430,897
 2020-01-22,Norway,0,0,0
 2020-01-23,Norway,0,0,0
 2020-01-24,Norway,0,0,0
@@ -35603,6 +35731,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Norway,16964,11863,279
 2020-10-22,Norway,17234,11863,279
 2020-10-23,Norway,17532,11863,279
+2020-10-24,Norway,17749,11863,279
 2020-01-22,Oman,0,0,0
 2020-01-23,Oman,0,0,0
 2020-01-24,Oman,0,0,0
@@ -35879,6 +36008,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Oman,111484,97367,1137
 2020-10-22,Oman,111837,97949,1147
 2020-10-23,Oman,111837,97949,1147
+2020-10-24,Oman,111837,97949,1147
 2020-01-22,Pakistan,0,0,0
 2020-01-23,Pakistan,0,0,0
 2020-01-24,Pakistan,0,0,0
@@ -36155,6 +36285,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Pakistan,325480,309136,6702
 2020-10-22,Pakistan,326216,309646,6715
 2020-10-23,Pakistan,327063,310101,6727
+2020-10-24,Pakistan,327895,310491,6736
 2020-01-22,Panama,0,0,0
 2020-01-23,Panama,0,0,0
 2020-01-24,Panama,0,0,0
@@ -36431,6 +36562,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Panama,126435,102725,2597
 2020-10-22,Panama,127227,103398,2612
 2020-10-23,Panama,127866,103985,2622
+2020-10-24,Panama,128515,104562,2628
 2020-01-22,Papua New Guinea,0,0,0
 2020-01-23,Papua New Guinea,0,0,0
 2020-01-24,Papua New Guinea,0,0,0
@@ -36707,6 +36839,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Papua New Guinea,581,541,7
 2020-10-22,Papua New Guinea,583,545,7
 2020-10-23,Papua New Guinea,583,545,7
+2020-10-24,Papua New Guinea,583,545,7
 2020-01-22,Paraguay,0,0,0
 2020-01-23,Paraguay,0,0,0
 2020-01-24,Paraguay,0,0,0
@@ -36983,6 +37116,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Paraguay,56819,37673,1250
 2020-10-22,Paraguay,57526,38187,1262
 2020-10-23,Paraguay,58259,38797,1278
+2020-10-24,Paraguay,59043,39214,1293
 2020-01-22,Peru,0,0,0
 2020-01-23,Peru,0,0,0
 2020-01-24,Peru,0,0,0
@@ -37259,6 +37393,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Peru,874118,788494,33875
 2020-10-22,Peru,879876,796719,33984
 2020-10-23,Peru,879876,796719,33984
+2020-10-24,Peru,883116,800480,34033
 2020-01-22,Philippines,0,0,0
 2020-01-23,Philippines,0,0,0
 2020-01-24,Philippines,0,0,0
@@ -37535,6 +37670,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Philippines,362243,311506,6747
 2020-10-22,Philippines,363888,312333,6783
 2020-10-23,Philippines,365799,312691,6915
+2020-10-24,Philippines,367819,313112,6934
 2020-01-22,Poland,0,0,0
 2020-01-23,Poland,0,0,0
 2020-01-24,Poland,0,0,0
@@ -37811,6 +37947,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Poland,202579,98884,3851
 2020-10-22,Poland,214686,102204,4019
 2020-10-23,Poland,228318,105092,4172
+2020-10-24,Poland,241946,109344,4351
 2020-01-22,Portugal,0,0,0
 2020-01-23,Portugal,0,0,0
 2020-01-24,Portugal,0,0,0
@@ -38087,6 +38224,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Portugal,106271,63238,2229
 2020-10-22,Portugal,109541,64531,2245
 2020-10-23,Portugal,112440,65880,2276
+2020-10-24,Portugal,116109,67842,2297
 2020-01-22,Qatar,0,0,0
 2020-01-23,Qatar,0,0,0
 2020-01-24,Qatar,0,0,0
@@ -38363,6 +38501,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Qatar,130210,127093,225
 2020-10-22,Qatar,130462,127328,228
 2020-10-23,Qatar,130711,127599,229
+2020-10-24,Qatar,130965,127868,229
 2020-01-22,Romania,0,0,0
 2020-01-23,Romania,0,0,0
 2020-01-24,Romania,0,0,0
@@ -38639,6 +38778,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Romania,191102,137835,6065
 2020-10-22,Romania,196004,141089,6163
 2020-10-23,Romania,201032,144429,6245
+2020-10-24,Romania,205793,147932,6318
 2020-01-22,Russia,0,0,0
 2020-01-23,Russia,0,0,0
 2020-01-24,Russia,0,0,0
@@ -38915,6 +39055,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Russia,1438219,1091264,24786
 2020-10-22,Russia,1453923,1102564,25072
 2020-10-23,Russia,1471000,1113736,25353
+2020-10-24,Russia,1487260,1125155,25647
 2020-01-22,Rwanda,0,0,0
 2020-01-23,Rwanda,0,0,0
 2020-01-24,Rwanda,0,0,0
@@ -39191,6 +39332,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Rwanda,5012,4798,34
 2020-10-22,Rwanda,5017,4803,34
 2020-10-23,Rwanda,5052,4806,34
+2020-10-24,Rwanda,5060,4806,34
 2020-01-22,Saint Kitts and Nevis,0,0,0
 2020-01-23,Saint Kitts and Nevis,0,0,0
 2020-01-24,Saint Kitts and Nevis,0,0,0
@@ -39467,6 +39609,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Saint Kitts and Nevis,19,19,0
 2020-10-22,Saint Kitts and Nevis,19,19,0
 2020-10-23,Saint Kitts and Nevis,19,19,0
+2020-10-24,Saint Kitts and Nevis,19,19,0
 2020-01-22,Saint Lucia,0,0,0
 2020-01-23,Saint Lucia,0,0,0
 2020-01-24,Saint Lucia,0,0,0
@@ -39743,6 +39886,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Saint Lucia,38,27,0
 2020-10-22,Saint Lucia,42,27,0
 2020-10-23,Saint Lucia,48,27,0
+2020-10-24,Saint Lucia,52,27,0
 2020-01-22,Saint Vincent and the Grenadines,0,0,0
 2020-01-23,Saint Vincent and the Grenadines,0,0,0
 2020-01-24,Saint Vincent and the Grenadines,0,0,0
@@ -40019,6 +40163,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Saint Vincent and the Grenadines,68,64,0
 2020-10-22,Saint Vincent and the Grenadines,68,64,0
 2020-10-23,Saint Vincent and the Grenadines,73,64,0
+2020-10-24,Saint Vincent and the Grenadines,73,65,0
 2020-01-22,San Marino,0,0,0
 2020-01-23,San Marino,0,0,0
 2020-01-24,San Marino,0,0,0
@@ -40295,6 +40440,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,San Marino,774,690,42
 2020-10-22,San Marino,802,711,42
 2020-10-23,San Marino,819,716,42
+2020-10-24,San Marino,819,716,42
 2020-01-22,Sao Tome and Principe,0,0,0
 2020-01-23,Sao Tome and Principe,0,0,0
 2020-01-24,Sao Tome and Principe,0,0,0
@@ -40571,6 +40717,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Sao Tome and Principe,935,898,15
 2020-10-22,Sao Tome and Principe,935,898,15
 2020-10-23,Sao Tome and Principe,938,898,15
+2020-10-24,Sao Tome and Principe,940,900,15
 2020-01-22,Saudi Arabia,0,0,0
 2020-01-23,Saudi Arabia,0,0,0
 2020-01-24,Saudi Arabia,0,0,0
@@ -40847,6 +40994,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Saudi Arabia,343373,329715,5235
 2020-10-22,Saudi Arabia,343774,330181,5250
 2020-10-23,Saudi Arabia,344157,330578,5264
+2020-10-24,Saudi Arabia,344552,330995,5281
 2020-01-22,Senegal,0,0,0
 2020-01-23,Senegal,0,0,0
 2020-01-24,Senegal,0,0,0
@@ -41123,6 +41271,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Senegal,15484,13975,321
 2020-10-22,Senegal,15508,14026,321
 2020-10-23,Senegal,15525,14082,321
+2020-10-24,Senegal,15543,14161,321
 2020-01-22,Serbia,0,0,0
 2020-01-23,Serbia,0,0,0
 2020-01-24,Serbia,0,0,0
@@ -41399,6 +41548,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Serbia,37120,0,780
 2020-10-22,Serbia,37536,0,783
 2020-10-23,Serbia,38115,0,786
+2020-10-24,Serbia,38872,0,789
 2020-01-22,Seychelles,0,0,0
 2020-01-23,Seychelles,0,0,0
 2020-01-24,Seychelles,0,0,0
@@ -41675,6 +41825,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Seychelles,151,148,0
 2020-10-22,Seychelles,151,148,0
 2020-10-23,Seychelles,153,149,0
+2020-10-24,Seychelles,153,149,0
 2020-01-22,Sierra Leone,0,0,0
 2020-01-23,Sierra Leone,0,0,0
 2020-01-24,Sierra Leone,0,0,0
@@ -41951,6 +42102,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Sierra Leone,2337,1771,73
 2020-10-22,Sierra Leone,2340,1777,73
 2020-10-23,Sierra Leone,2343,1782,74
+2020-10-24,Sierra Leone,2345,1784,74
 2020-01-22,Singapore,0,0,0
 2020-01-23,Singapore,1,0,0
 2020-01-24,Singapore,3,0,0
@@ -42227,6 +42379,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Singapore,57933,57821,28
 2020-10-22,Singapore,57941,57829,28
 2020-10-23,Singapore,57951,57832,28
+2020-10-24,Singapore,57965,57844,28
 2020-01-22,Slovakia,0,0,0
 2020-01-23,Slovakia,0,0,0
 2020-01-24,Slovakia,0,0,0
@@ -42503,6 +42656,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Slovakia,33602,8404,98
 2020-10-22,Slovakia,35330,8763,115
 2020-10-23,Slovakia,37911,8859,134
+2020-10-24,Slovakia,40801,9920,159
 2020-01-22,Slovenia,0,0,0
 2020-01-23,Slovenia,0,0,0
 2020-01-24,Slovenia,0,0,0
@@ -42779,6 +42933,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Slovenia,15982,6922,200
 2020-10-22,Slovenia,17646,7299,211
 2020-10-23,Slovenia,19307,7659,214
+2020-10-24,Slovenia,21274,8018,235
 2020-01-22,Solomon Islands,0,0,0
 2020-01-23,Solomon Islands,0,0,0
 2020-01-24,Solomon Islands,0,0,0
@@ -43055,6 +43210,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Solomon Islands,3,0,0
 2020-10-22,Solomon Islands,4,3,0
 2020-10-23,Solomon Islands,4,3,0
+2020-10-24,Solomon Islands,4,3,0
 2020-01-22,Somalia,0,0,0
 2020-01-23,Somalia,0,0,0
 2020-01-24,Somalia,0,0,0
@@ -43331,6 +43487,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Somalia,3890,3166,101
 2020-10-22,Somalia,3897,3166,102
 2020-10-23,Somalia,3897,3166,102
+2020-10-24,Somalia,3897,3166,102
 2020-01-22,South Africa,0,0,0
 2020-01-23,South Africa,0,0,0
 2020-01-24,South Africa,0,0,0
@@ -43607,6 +43764,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,South Africa,708359,641706,18741
 2020-10-22,South Africa,710515,642560,18843
 2020-10-23,South Africa,712412,643523,18891
+2020-10-24,South Africa,714246,644641,18944
 2020-01-22,South Sudan,0,0,0
 2020-01-23,South Sudan,0,0,0
 2020-01-24,South Sudan,0,0,0
@@ -43883,6 +44041,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,South Sudan,2870,1290,55
 2020-10-22,South Sudan,2872,1290,55
 2020-10-23,South Sudan,2876,1290,56
+2020-10-24,South Sudan,2878,1290,56
 2020-01-22,Spain,0,0,0
 2020-01-23,Spain,0,0,0
 2020-01-24,Spain,0,0,0
@@ -44159,6 +44318,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Spain,1005295,150376,34366
 2020-10-22,Spain,1026281,150376,34521
 2020-10-23,Spain,1046132,150376,34752
+2020-10-24,Spain,1046132,150376,34752
 2020-01-22,Sri Lanka,0,0,0
 2020-01-23,Sri Lanka,0,0,0
 2020-01-24,Sri Lanka,0,0,0
@@ -44435,6 +44595,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Sri Lanka,5978,3501,13
 2020-10-22,Sri Lanka,6287,3561,14
 2020-10-23,Sri Lanka,7153,3644,14
+2020-10-24,Sri Lanka,7521,3714,15
 2020-01-22,Sudan,0,0,0
 2020-01-23,Sudan,0,0,0
 2020-01-24,Sudan,0,0,0
@@ -44711,6 +44872,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Sudan,13724,6764,836
 2020-10-22,Sudan,13724,6764,836
 2020-10-23,Sudan,13724,6764,836
+2020-10-24,Sudan,13742,6764,837
 2020-01-22,Suriname,0,0,0
 2020-01-23,Suriname,0,0,0
 2020-01-24,Suriname,0,0,0
@@ -44987,6 +45149,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Suriname,5150,4991,109
 2020-10-22,Suriname,5154,4995,109
 2020-10-23,Suriname,5155,5010,109
+2020-10-24,Suriname,5166,5016,109
 2020-01-22,Sweden,0,0,0
 2020-01-23,Sweden,0,0,0
 2020-01-24,Sweden,0,0,0
@@ -45263,6 +45426,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Sweden,107355,0,5929
 2020-10-22,Sweden,108969,0,5930
 2020-10-23,Sweden,110594,0,5933
+2020-10-24,Sweden,110594,0,5933
 2020-01-22,Switzerland,0,0,0
 2020-01-23,Switzerland,0,0,0
 2020-01-24,Switzerland,0,0,0
@@ -45539,6 +45703,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Switzerland,91763,54600,2039
 2020-10-22,Switzerland,97019,55700,2046
 2020-10-23,Switzerland,103653,55800,2067
+2020-10-24,Switzerland,103653,55800,2081
 2020-01-22,Syria,0,0,0
 2020-01-23,Syria,0,0,0
 2020-01-24,Syria,0,0,0
@@ -45815,6 +45980,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Syria,5224,1629,257
 2020-10-22,Syria,5267,1655,260
 2020-10-23,Syria,5319,1692,264
+2020-10-24,Syria,5359,1722,267
 2020-01-22,Taiwan*,1,0,0
 2020-01-23,Taiwan*,1,0,0
 2020-01-24,Taiwan*,3,0,0
@@ -46091,6 +46257,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Taiwan*,544,495,7
 2020-10-22,Taiwan*,548,497,7
 2020-10-23,Taiwan*,548,497,7
+2020-10-24,Taiwan*,550,502,7
 2020-01-22,Tajikistan,0,0,0
 2020-01-23,Tajikistan,0,0,0
 2020-01-24,Tajikistan,0,0,0
@@ -46367,6 +46534,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Tajikistan,10613,9668,80
 2020-10-22,Tajikistan,10653,9724,81
 2020-10-23,Tajikistan,10695,9782,81
+2020-10-24,Tajikistan,10736,9836,81
 2020-01-22,Tanzania,0,0,0
 2020-01-23,Tanzania,0,0,0
 2020-01-24,Tanzania,0,0,0
@@ -46643,6 +46811,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Tanzania,509,183,21
 2020-10-22,Tanzania,509,183,21
 2020-10-23,Tanzania,509,183,21
+2020-10-24,Tanzania,509,183,21
 2020-01-22,Thailand,2,0,0
 2020-01-23,Thailand,3,0,0
 2020-01-24,Thailand,5,0,0
@@ -46919,6 +47088,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Thailand,3719,3514,59
 2020-10-22,Thailand,3727,3518,59
 2020-10-23,Thailand,3731,3529,59
+2020-10-24,Thailand,3736,3530,59
 2020-01-22,Timor-Leste,0,0,0
 2020-01-23,Timor-Leste,0,0,0
 2020-01-24,Timor-Leste,0,0,0
@@ -47195,6 +47365,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Timor-Leste,29,28,0
 2020-10-22,Timor-Leste,29,28,0
 2020-10-23,Timor-Leste,29,28,0
+2020-10-24,Timor-Leste,29,28,0
 2020-01-22,Togo,0,0,0
 2020-01-23,Togo,0,0,0
 2020-01-24,Togo,0,0,0
@@ -47471,6 +47642,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Togo,2120,1561,51
 2020-10-22,Togo,2139,1574,52
 2020-10-23,Togo,2162,1586,52
+2020-10-24,Togo,2187,1591,52
 2020-01-22,Trinidad and Tobago,0,0,0
 2020-01-23,Trinidad and Tobago,0,0,0
 2020-01-24,Trinidad and Tobago,0,0,0
@@ -47747,6 +47919,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Trinidad and Tobago,5392,3822,101
 2020-10-22,Trinidad and Tobago,5446,3876,103
 2020-10-23,Trinidad and Tobago,5487,3945,104
+2020-10-24,Trinidad and Tobago,5503,4018,105
 2020-01-22,Tunisia,0,0,0
 2020-01-23,Tunisia,0,0,0
 2020-01-24,Tunisia,0,0,0
@@ -48023,6 +48196,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Tunisia,45892,5032,740
 2020-10-22,Tunisia,45892,5032,740
 2020-10-23,Tunisia,47214,5032,784
+2020-10-24,Tunisia,48799,5032,819
 2020-01-22,Turkey,0,0,0
 2020-01-23,Turkey,0,0,0
 2020-01-24,Turkey,0,0,0
@@ -48299,6 +48473,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Turkey,353426,308446,9513
 2020-10-22,Turkey,355528,310027,9584
 2020-10-23,Turkey,357693,311520,9658
+2020-10-24,Turkey,359784,313093,9727
 2020-01-22,US,1,0,0
 2020-01-23,US,1,0,0
 2020-01-24,US,2,0,0
@@ -48575,6 +48750,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,US,8336031,3323354,222176
 2020-10-22,US,8407702,3353056,223032
 2020-10-23,US,8491459,3375427,223975
+2020-10-24,US,8575177,3406656,224889
 2020-01-22,Uganda,0,0,0
 2020-01-23,Uganda,0,0,0
 2020-01-24,Uganda,0,0,0
@@ -48851,6 +49027,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Uganda,10933,7154,98
 2020-10-22,Uganda,11041,7210,98
 2020-10-23,Uganda,11163,7269,99
+2020-10-24,Uganda,11297,7281,99
 2020-01-22,Ukraine,0,0,0
 2020-01-23,Ukraine,0,0,0
 2020-01-24,Ukraine,0,0,0
@@ -49127,6 +49304,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Ukraine,324942,137515,6093
 2020-10-22,Ukraine,332262,140322,6213
 2020-10-23,Ukraine,340042,143093,6336
+2020-10-24,Ukraine,347317,145418,6463
 2020-01-22,United Arab Emirates,0,0,0
 2020-01-23,United Arab Emirates,0,0,0
 2020-01-24,United Arab Emirates,0,0,0
@@ -49403,6 +49581,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,United Arab Emirates,119132,111814,472
 2020-10-22,United Arab Emirates,120710,113364,474
 2020-10-23,United Arab Emirates,122273,115068,475
+2020-10-24,United Arab Emirates,123764,116894,475
 2020-01-22,United Kingdom,0,0,0
 2020-01-23,United Kingdom,0,0,0
 2020-01-24,United Kingdom,0,0,0
@@ -49679,6 +49858,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,United Kingdom,792194,2636,44248
 2020-10-22,United Kingdom,813451,2652,44437
 2020-10-23,United Kingdom,834010,2657,44661
+2020-10-24,United Kingdom,857043,2676,44835
 2020-01-22,Uruguay,0,0,0
 2020-01-23,Uruguay,0,0,0
 2020-01-24,Uruguay,0,0,0
@@ -49955,6 +50135,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Uruguay,2663,2172,53
 2020-10-22,Uruguay,2701,2204,53
 2020-10-23,Uruguay,2759,2241,53
+2020-10-24,Uruguay,2807,2301,53
 2020-01-22,Uzbekistan,0,0,0
 2020-01-23,Uzbekistan,0,0,0
 2020-01-24,Uzbekistan,0,0,0
@@ -50231,6 +50412,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Uzbekistan,64010,61068,534
 2020-10-22,Uzbekistan,64439,61658,540
 2020-10-23,Uzbekistan,64724,61957,542
+2020-10-24,Uzbekistan,64923,62033,544
 2020-01-22,Venezuela,0,0,0
 2020-01-23,Venezuela,0,0,0
 2020-01-24,Venezuela,0,0,0
@@ -50507,6 +50689,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Venezuela,88035,81626,753
 2020-10-22,Venezuela,88416,82284,759
 2020-10-23,Venezuela,88718,82899,764
+2020-10-24,Venezuela,89142,83443,770
 2020-01-22,Vietnam,0,0,0
 2020-01-23,Vietnam,2,0,0
 2020-01-24,Vietnam,2,0,0
@@ -50783,6 +50966,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Vietnam,1144,1046,35
 2020-10-22,Vietnam,1148,1049,35
 2020-10-23,Vietnam,1148,1049,35
+2020-10-24,Vietnam,1160,1051,35
 2020-01-22,West Bank and Gaza,0,0,0
 2020-01-23,West Bank and Gaza,0,0,0
 2020-01-24,West Bank and Gaza,0,0,0
@@ -51059,6 +51243,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,West Bank and Gaza,48628,41935,427
 2020-10-22,West Bank and Gaza,49134,42544,435
 2020-10-23,West Bank and Gaza,49579,42850,439
+2020-10-24,West Bank and Gaza,49989,43232,443
 2020-01-22,Western Sahara,0,0,0
 2020-01-23,Western Sahara,0,0,0
 2020-01-24,Western Sahara,0,0,0
@@ -51335,6 +51520,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Western Sahara,10,8,1
 2020-10-22,Western Sahara,10,8,1
 2020-10-23,Western Sahara,10,8,1
+2020-10-24,Western Sahara,10,8,1
 2020-01-22,Yemen,0,0,0
 2020-01-23,Yemen,0,0,0
 2020-01-24,Yemen,0,0,0
@@ -51611,6 +51797,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Yemen,2057,1344,597
 2020-10-22,Yemen,2057,1344,597
 2020-10-23,Yemen,2060,1354,599
+2020-10-24,Yemen,2060,1360,599
 2020-01-22,Zambia,0,0,0
 2020-01-23,Zambia,0,0,0
 2020-01-24,Zambia,0,0,0
@@ -51887,6 +52074,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Zambia,16000,15168,346
 2020-10-22,Zambia,16035,15168,346
 2020-10-23,Zambia,16095,15179,346
+2020-10-24,Zambia,16117,15179,348
 2020-01-22,Zimbabwe,0,0,0
 2020-01-23,Zimbabwe,0,0,0
 2020-01-24,Zimbabwe,0,0,0
@@ -52163,3 +52351,4 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-10-21,Zimbabwe,8215,7725,236
 2020-10-22,Zimbabwe,8242,7742,236
 2020-10-23,Zimbabwe,8257,7771,236
+2020-10-24,Zimbabwe,8269,7785,236
