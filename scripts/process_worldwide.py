@@ -67,6 +67,10 @@ dead = df[df["Province/State"].isna()].drop(
     "Province/State", axis=1
 )  # take only countries (no territories)
 
+# make sure all values in the column are strings (np.NaN is a float)
+confirmed["Country/Region"] = confirmed["Country/Region"].fillna("")
+dead["Country/Region"] = dead["Country/Region"].fillna("")
+
 df = pd.read_csv(base_url + recovered_url)
 recovered_copy = df.copy()  # for time series
 df = df.drop(["Lat", "Long"], axis=1)
