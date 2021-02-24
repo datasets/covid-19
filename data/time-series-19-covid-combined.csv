@@ -397,6 +397,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Afghanistan,,55580,48820,2430
 2021-02-21,Afghanistan,,55604,48834,2432
 2021-02-22,Afghanistan,,55617,48895,2433
+2021-02-23,Afghanistan,,55646,48967,2435
 2020-01-22,Albania,,0,0,0
 2020-01-23,Albania,,0,0,0
 2020-01-24,Albania,,0,0,0
@@ -795,6 +796,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Albania,,99062,62533,1653
 2021-02-21,Albania,,100246,63329,1666
 2021-02-22,Albania,,101285,64318,1681
+2021-02-23,Albania,,102306,65403,1696
 2020-01-22,Algeria,,0,0,0
 2020-01-23,Algeria,,0,0,0
 2020-01-24,Algeria,,0,0,0
@@ -1193,6 +1195,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Algeria,,111764,76940,2958
 2021-02-21,Algeria,,111917,77076,2961
 2021-02-22,Algeria,,112094,77225,2964
+2021-02-23,Algeria,,112279,77382,2967
 2020-01-22,Andorra,,0,0,0
 2020-01-23,Andorra,,0,0,0
 2020-01-24,Andorra,,0,0,0
@@ -1591,6 +1594,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Andorra,,10672,10170,107
 2021-02-21,Andorra,,10699,10206,107
 2021-02-22,Andorra,,10712,10245,109
+2021-02-23,Andorra,,10739,10285,110
 2020-01-22,Angola,,0,0,0
 2020-01-23,Angola,,0,0,0
 2020-01-24,Angola,,0,0,0
@@ -1989,6 +1993,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Angola,,20499,19005,498
 2021-02-21,Angola,,20519,19013,499
 2021-02-22,Angola,,20548,19190,499
+2021-02-23,Angola,,20584,19207,500
 2020-01-22,Antigua and Barbuda,,0,0,0
 2020-01-23,Antigua and Barbuda,,0,0,0
 2020-01-24,Antigua and Barbuda,,0,0,0
@@ -2387,6 +2392,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Antigua and Barbuda,,598,217,11
 2021-02-21,Antigua and Barbuda,,598,218,13
 2021-02-22,Antigua and Barbuda,,614,222,14
+2021-02-23,Antigua and Barbuda,,636,233,14
 2020-01-22,Argentina,,0,0,0
 2020-01-23,Argentina,,0,0,0
 2020-01-24,Argentina,,0,0,0
@@ -2785,6 +2791,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Argentina,,2060625,1861433,51122
 2021-02-21,Argentina,,2064334,1866501,51198
 2021-02-22,Argentina,,2069751,1872213,51359
+2021-02-23,Argentina,,2077228,1877898,51510
 2020-01-22,Armenia,,0,0,0
 2020-01-23,Armenia,,0,0,0
 2020-01-24,Armenia,,0,0,0
@@ -3183,6 +3190,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Armenia,,170234,161903,3159
 2021-02-21,Armenia,,170402,161994,3164
 2021-02-22,Armenia,,170506,162098,3167
+2021-02-23,Armenia,,170672,162329,3171
 2020-01-22,Australia,Australian Capital Territory,0,0,0
 2020-01-23,Australia,Australian Capital Territory,0,0,0
 2020-01-24,Australia,Australian Capital Territory,0,0,0
@@ -3581,6 +3589,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Australia,Australian Capital Territory,118,115,3
 2021-02-21,Australia,Australian Capital Territory,118,115,3
 2021-02-22,Australia,Australian Capital Territory,118,115,3
+2021-02-23,Australia,Australian Capital Territory,118,115,3
 2020-01-22,Australia,New South Wales,0,0,0
 2020-01-23,Australia,New South Wales,0,0,0
 2020-01-24,Australia,New South Wales,0,0,0
@@ -3979,6 +3988,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Australia,New South Wales,5149,0,54
 2021-02-21,Australia,New South Wales,5150,0,54
 2021-02-22,Australia,New South Wales,5154,0,54
+2021-02-23,Australia,New South Wales,5155,0,54
 2020-01-22,Australia,Northern Territory,0,0,0
 2020-01-23,Australia,Northern Territory,0,0,0
 2020-01-24,Australia,Northern Territory,0,0,0
@@ -4377,6 +4387,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Australia,Northern Territory,104,101,0
 2021-02-21,Australia,Northern Territory,104,101,0
 2021-02-22,Australia,Northern Territory,104,101,0
+2021-02-23,Australia,Northern Territory,104,102,0
 2020-01-22,Australia,Queensland,0,0,0
 2020-01-23,Australia,Queensland,0,0,0
 2020-01-24,Australia,Queensland,0,0,0
@@ -4775,6 +4786,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Australia,Queensland,1321,1309,6
 2021-02-21,Australia,Queensland,1323,1309,6
 2021-02-22,Australia,Queensland,1323,1309,6
+2021-02-23,Australia,Queensland,1323,1309,6
 2020-01-22,Australia,South Australia,0,0,0
 2020-01-23,Australia,South Australia,0,0,0
 2020-01-24,Australia,South Australia,0,0,0
@@ -5173,6 +5185,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Australia,South Australia,610,602,4
 2021-02-21,Australia,South Australia,610,603,4
 2021-02-22,Australia,South Australia,612,604,4
+2021-02-23,Australia,South Australia,613,605,4
 2020-01-22,Australia,Tasmania,0,0,0
 2020-01-23,Australia,Tasmania,0,0,0
 2020-01-24,Australia,Tasmania,0,0,0
@@ -5571,6 +5584,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Australia,Tasmania,234,221,13
 2021-02-21,Australia,Tasmania,234,221,13
 2021-02-22,Australia,Tasmania,234,221,13
+2021-02-23,Australia,Tasmania,234,221,13
 2020-01-22,Australia,Victoria,0,0,0
 2020-01-23,Australia,Victoria,0,0,0
 2020-01-24,Australia,Victoria,0,0,0
@@ -5969,6 +5983,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Australia,Victoria,20479,19634,820
 2021-02-21,Australia,Victoria,20479,19634,820
 2021-02-22,Australia,Victoria,20479,19634,820
+2021-02-23,Australia,Victoria,20479,19639,820
 2020-01-22,Australia,Western Australia,0,0,0
 2020-01-23,Australia,Western Australia,0,0,0
 2020-01-24,Australia,Western Australia,0,0,0
@@ -6367,6 +6382,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Australia,Western Australia,911,899,9
 2021-02-21,Australia,Western Australia,912,899,9
 2021-02-22,Australia,Western Australia,913,901,9
+2021-02-23,Australia,Western Australia,913,901,9
 2020-01-22,Austria,,0,0,0
 2020-01-23,Austria,,0,0,0
 2020-01-24,Austria,,0,0,0
@@ -6765,6 +6781,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Austria,,443536,419283,8368
 2021-02-21,Austria,,445374,420509,8386
 2021-02-22,Austria,,446644,421811,8397
+2021-02-23,Austria,,448371,423014,8434
 2020-01-22,Azerbaijan,,0,0,0
 2020-01-23,Azerbaijan,,0,0,0
 2020-01-24,Azerbaijan,,0,0,0
@@ -7163,6 +7180,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Azerbaijan,,232973,227619,3195
 2021-02-21,Azerbaijan,,233129,227761,3198
 2021-02-22,Azerbaijan,,233201,227836,3202
+2021-02-23,Azerbaijan,,233424,228012,3204
 2020-01-22,Bahamas,,0,0,0
 2020-01-23,Bahamas,,0,0,0
 2020-01-24,Bahamas,,0,0,0
@@ -7561,6 +7579,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Bahamas,,8403,7148,179
 2021-02-21,Bahamas,,8403,7148,179
 2021-02-22,Bahamas,,8471,7181,179
+2021-02-23,Bahamas,,8477,7231,179
 2020-01-22,Bahrain,,0,0,0
 2020-01-23,Bahrain,,0,0,0
 2020-01-24,Bahrain,,0,0,0
@@ -7959,6 +7978,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Bahrain,,117234,109085,420
 2021-02-21,Bahrain,,117809,110007,423
 2021-02-22,Bahrain,,118530,110827,429
+2021-02-23,Bahrain,,119205,111691,433
 2020-01-22,Bangladesh,,0,0,0
 2020-01-23,Bangladesh,,0,0,0
 2020-01-24,Bangladesh,,0,0,0
@@ -8357,6 +8377,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Bangladesh,,543024,490892,8342
 2021-02-21,Bangladesh,,543351,491367,8349
 2021-02-22,Bangladesh,,543717,492059,8356
+2021-02-23,Bangladesh,,544116,492887,8374
 2020-01-22,Barbados,,0,0,0
 2020-01-23,Barbados,,0,0,0
 2020-01-24,Barbados,,0,0,0
@@ -8755,6 +8776,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Barbados,,2715,1914,31
 2021-02-21,Barbados,,2772,1970,31
 2021-02-22,Barbados,,2791,2035,31
+2021-02-23,Barbados,,2852,2063,31
 2020-01-22,Belarus,,0,0,0
 2020-01-23,Belarus,,0,0,0
 2020-01-24,Belarus,,0,0,0
@@ -9153,6 +9175,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Belarus,,276990,266892,1903
 2021-02-21,Belarus,,278312,268530,1912
 2021-02-22,Belarus,,279456,269428,1921
+2021-02-23,Belarus,,280428,270289,1930
 2020-01-22,Belgium,,0,0,0
 2020-01-23,Belgium,,0,0,0
 2020-01-24,Belgium,,0,0,0
@@ -9551,6 +9574,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Belgium,,752379,0,21887
 2021-02-21,Belgium,,754473,0,21903
 2021-02-22,Belgium,,755594,0,21923
+2021-02-23,Belgium,,757696,0,21956
 2020-01-22,Belize,,0,0,0
 2020-01-23,Belize,,0,0,0
 2020-01-24,Belize,,0,0,0
@@ -9949,6 +9973,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Belize,,12244,11749,314
 2021-02-21,Belize,,12244,11749,314
 2021-02-22,Belize,,12255,11787,314
+2021-02-23,Belize,,12264,11799,314
 2020-01-22,Benin,,0,0,0
 2020-01-23,Benin,,0,0,0
 2020-01-24,Benin,,0,0,0
@@ -10347,6 +10372,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Benin,,5143,4119,65
 2021-02-21,Benin,,5434,4248,70
 2021-02-22,Benin,,5434,4248,70
+2021-02-23,Benin,,5434,4248,70
 2020-01-22,Bhutan,,0,0,0
 2020-01-23,Bhutan,,0,0,0
 2020-01-24,Bhutan,,0,0,0
@@ -10745,6 +10771,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Bhutan,,866,857,1
 2021-02-21,Bhutan,,866,857,1
 2021-02-22,Bhutan,,866,862,1
+2021-02-23,Bhutan,,867,862,1
 2020-01-22,Bolivia,,0,0,0
 2020-01-23,Bolivia,,0,0,0
 2020-01-24,Bolivia,,0,0,0
@@ -11143,6 +11170,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Bolivia,,241771,184717,11417
 2021-02-21,Bolivia,,242292,185155,11441
 2021-02-22,Bolivia,,243176,186118,11470
+2021-02-23,Bolivia,,244380,188645,11508
 2020-01-22,Bosnia and Herzegovina,,0,0,0
 2020-01-23,Bosnia and Herzegovina,,0,0,0
 2020-01-24,Bosnia and Herzegovina,,0,0,0
@@ -11541,6 +11569,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Bosnia and Herzegovina,,127537,111991,4979
 2021-02-21,Bosnia and Herzegovina,,127537,111991,4979
 2021-02-22,Bosnia and Herzegovina,,128661,112879,5016
+2021-02-23,Bosnia and Herzegovina,,129176,113688,5034
 2020-01-22,Botswana,,0,0,0
 2020-01-23,Botswana,,0,0,0
 2020-01-24,Botswana,,0,0,0
@@ -11939,6 +11968,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Botswana,,26524,22363,254
 2021-02-21,Botswana,,26524,22363,254
 2021-02-22,Botswana,,27721,22773,300
+2021-02-23,Botswana,,27721,22773,300
 2020-01-22,Brazil,,0,0,0
 2020-01-23,Brazil,,0,0,0
 2020-01-24,Brazil,,0,0,0
@@ -12337,6 +12367,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Brazil,,10139148,9070505,245977
 2021-02-21,Brazil,,10168174,9095692,246504
 2021-02-22,Brazil,,10195160,9108205,247143
+2021-02-23,Brazil,,10257875,9189903,248529
 2020-01-22,Brunei,,0,0,0
 2020-01-23,Brunei,,0,0,0
 2020-01-24,Brunei,,0,0,0
@@ -12735,6 +12766,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Brunei,,185,178,3
 2021-02-21,Brunei,,185,178,3
 2021-02-22,Brunei,,185,178,3
+2021-02-23,Brunei,,185,178,3
 2020-01-22,Bulgaria,,0,0,0
 2020-01-23,Bulgaria,,0,0,0
 2020-01-24,Bulgaria,,0,0,0
@@ -13133,6 +13165,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Bulgaria,,236439,200138,9839
 2021-02-21,Bulgaria,,236666,200252,9854
 2021-02-22,Bulgaria,,238591,201029,9933
+2021-02-23,Bulgaria,,240391,201500,9978
 2020-01-22,Burkina Faso,,0,0,0
 2020-01-23,Burkina Faso,,0,0,0
 2020-01-24,Burkina Faso,,0,0,0
@@ -13531,6 +13564,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Burkina Faso,,11783,11140,139
 2021-02-21,Burkina Faso,,11797,11140,139
 2021-02-22,Burkina Faso,,11847,11211,139
+2021-02-23,Burkina Faso,,11868,11293,141
 2020-01-22,Burma,,0,0,0
 2020-01-23,Burma,,0,0,0
 2020-01-24,Burma,,0,0,0
@@ -13929,6 +13963,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Burma,,141735,131249,3196
 2021-02-21,Burma,,141750,131282,3196
 2021-02-22,Burma,,141761,131318,3197
+2021-02-23,Burma,,141783,131358,3197
 2020-01-22,Burundi,,0,0,0
 2020-01-23,Burundi,,0,0,0
 2020-01-24,Burundi,,0,0,0
@@ -14327,6 +14362,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Burundi,,1983,773,3
 2021-02-21,Burundi,,2031,773,3
 2021-02-22,Burundi,,2034,773,3
+2021-02-23,Burundi,,2041,773,3
 2020-01-22,Cabo Verde,,0,0,0
 2020-01-23,Cabo Verde,,0,0,0
 2020-01-24,Cabo Verde,,0,0,0
@@ -14725,6 +14761,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Cabo Verde,,14999,14498,143
 2021-02-21,Cabo Verde,,15048,14538,144
 2021-02-22,Cabo Verde,,15072,14581,144
+2021-02-23,Cabo Verde,,15089,14608,144
 2020-01-22,Cambodia,,0,0,0
 2020-01-23,Cambodia,,0,0,0
 2020-01-24,Cambodia,,0,0,0
@@ -15123,6 +15160,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Cambodia,,533,473,0
 2021-02-21,Cambodia,,568,475,0
 2021-02-22,Cambodia,,593,475,0
+2021-02-23,Cambodia,,633,476,0
 2020-01-22,Cameroon,,0,0,0
 2020-01-23,Cameroon,,0,0,0
 2020-01-24,Cameroon,,0,0,0
@@ -15521,6 +15559,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Cameroon,,33749,31362,523
 2021-02-21,Cameroon,,33749,31362,523
 2021-02-22,Cameroon,,33749,31362,523
+2021-02-23,Cameroon,,33749,31362,523
 2020-01-22,Canada,Alberta,0,,0
 2020-01-23,Canada,Alberta,0,,0
 2020-01-24,Canada,Alberta,0,,0
@@ -15919,6 +15958,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Canada,Alberta,130735,,1818
 2021-02-21,Canada,Alberta,131063,,1827
 2021-02-22,Canada,Alberta,131336,,1843
+2021-02-23,Canada,Alberta,131603,,1853
 2020-01-22,Canada,British Columbia,0,,0
 2020-01-23,Canada,British Columbia,0,,0
 2020-01-24,Canada,British Columbia,0,,0
@@ -16317,6 +16357,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Canada,British Columbia,75835,,1327
 2021-02-21,Canada,British Columbia,75835,,1327
 2021-02-22,Canada,British Columbia,77263,,1335
+2021-02-23,Canada,British Columbia,77822,,1336
 2020-01-22,Canada,Diamond Princess,0,,0
 2020-01-23,Canada,Diamond Princess,0,,0
 2020-01-24,Canada,Diamond Princess,0,,0
@@ -16715,6 +16756,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Canada,Diamond Princess,0,,1
 2021-02-21,Canada,Diamond Princess,0,,1
 2021-02-22,Canada,Diamond Princess,0,,1
+2021-02-23,Canada,Diamond Princess,0,,1
 2020-01-22,Canada,Grand Princess,0,,0
 2020-01-23,Canada,Grand Princess,0,,0
 2020-01-24,Canada,Grand Princess,0,,0
@@ -17113,6 +17155,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Canada,Grand Princess,13,,0
 2021-02-21,Canada,Grand Princess,13,,0
 2021-02-22,Canada,Grand Princess,13,,0
+2021-02-23,Canada,Grand Princess,13,,0
 2020-01-22,Canada,Manitoba,0,,0
 2020-01-23,Canada,Manitoba,0,,0
 2020-01-24,Canada,Manitoba,0,,0
@@ -17511,6 +17554,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Canada,Manitoba,31329,,882
 2021-02-21,Canada,Manitoba,31386,,884
 2021-02-22,Canada,Manitoba,31483,,886
+2021-02-23,Canada,Manitoba,31551,,886
 2020-01-22,Canada,New Brunswick,0,,0
 2020-01-23,Canada,New Brunswick,0,,0
 2020-01-24,Canada,New Brunswick,0,,0
@@ -17909,6 +17953,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Canada,New Brunswick,1420,,24
 2021-02-21,Canada,New Brunswick,1424,,25
 2021-02-22,Canada,New Brunswick,1424,,26
+2021-02-23,Canada,New Brunswick,1424,,26
 2020-01-22,Canada,Newfoundland and Labrador,0,,0
 2020-01-23,Canada,Newfoundland and Labrador,0,,0
 2020-01-24,Canada,Newfoundland and Labrador,0,,0
@@ -18307,6 +18352,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Canada,Newfoundland and Labrador,901,,4
 2021-02-21,Canada,Newfoundland and Labrador,926,,4
 2021-02-22,Canada,Newfoundland and Labrador,940,,4
+2021-02-23,Canada,Newfoundland and Labrador,955,,4
 2020-01-22,Canada,Northwest Territories,0,,0
 2020-01-23,Canada,Northwest Territories,0,,0
 2020-01-24,Canada,Northwest Territories,0,,0
@@ -18705,6 +18751,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Canada,Northwest Territories,47,,0
 2021-02-21,Canada,Northwest Territories,47,,0
 2021-02-22,Canada,Northwest Territories,47,,0
+2021-02-23,Canada,Northwest Territories,47,,0
 2020-01-22,Canada,Nova Scotia,0,,0
 2020-01-23,Canada,Nova Scotia,0,,0
 2020-01-24,Canada,Nova Scotia,0,,0
@@ -19103,6 +19150,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Canada,Nova Scotia,1608,,65
 2021-02-21,Canada,Nova Scotia,1609,,65
 2021-02-22,Canada,Nova Scotia,1610,,65
+2021-02-23,Canada,Nova Scotia,1613,,65
 2020-01-22,Canada,Nunavut,0,,0
 2020-01-23,Canada,Nunavut,0,,0
 2020-01-24,Canada,Nunavut,0,,0
@@ -19501,6 +19549,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Canada,Nunavut,338,,1
 2021-02-21,Canada,Nunavut,339,,1
 2021-02-22,Canada,Nunavut,351,,1
+2021-02-23,Canada,Nunavut,351,,1
 2020-01-22,Canada,Ontario,0,,0
 2020-01-23,Canada,Ontario,0,,0
 2020-01-24,Canada,Ontario,0,,0
@@ -19899,6 +19948,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Canada,Ontario,297011,,6848
 2021-02-21,Canada,Ontario,298154,,6861
 2021-02-22,Canada,Ontario,298800,,6868
+2021-02-23,Canada,Ontario,300235,,6882
 2020-01-22,Canada,Prince Edward Island,0,,0
 2020-01-23,Canada,Prince Edward Island,0,,0
 2020-01-24,Canada,Prince Edward Island,0,,0
@@ -20297,6 +20347,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Canada,Prince Edward Island,114,,0
 2021-02-21,Canada,Prince Edward Island,114,,0
 2021-02-22,Canada,Prince Edward Island,114,,0
+2021-02-23,Canada,Prince Edward Island,115,,0
 2020-01-22,Canada,Quebec,0,,0
 2020-01-23,Canada,Quebec,0,,0
 2020-01-24,Canada,Quebec,0,,0
@@ -20695,6 +20746,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Canada,Quebec,281456,,10292
 2021-02-21,Canada,Quebec,282122,,10307
 2021-02-22,Canada,Quebec,282927,,10318
+2021-02-23,Canada,Quebec,283666,,10330
 2020-01-22,Canada,Repatriated Travellers,0,,0
 2020-01-23,Canada,Repatriated Travellers,0,,0
 2020-01-24,Canada,Repatriated Travellers,0,,0
@@ -21093,6 +21145,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Canada,Repatriated Travellers,13,,0
 2021-02-21,Canada,Repatriated Travellers,13,,0
 2021-02-22,Canada,Repatriated Travellers,13,,0
+2021-02-23,Canada,Repatriated Travellers,13,,0
 2020-01-22,Canada,Saskatchewan,0,,0
 2020-01-23,Canada,Saskatchewan,0,,0
 2020-01-24,Canada,Saskatchewan,0,,0
@@ -21491,6 +21544,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Canada,Saskatchewan,27438,,368
 2021-02-21,Canada,Saskatchewan,27620,,372
 2021-02-22,Canada,Saskatchewan,27797,,372
+2021-02-23,Canada,Saskatchewan,27923,,376
 2020-01-22,Canada,Yukon,0,,0
 2020-01-23,Canada,Yukon,0,,0
 2020-01-24,Canada,Yukon,0,,0
@@ -21889,6 +21943,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Canada,Yukon,72,,1
 2021-02-21,Canada,Yukon,72,,1
 2021-02-22,Canada,Yukon,72,,1
+2021-02-23,Canada,Yukon,72,,1
 2020-01-22,Central African Republic,,0,0,0
 2020-01-23,Central African Republic,,0,0,0
 2020-01-24,Central African Republic,,0,0,0
@@ -22287,6 +22342,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Central African Republic,,5001,4920,63
 2021-02-21,Central African Republic,,5001,4920,63
 2021-02-22,Central African Republic,,5001,4920,63
+2021-02-23,Central African Republic,,5001,4920,63
 2020-01-22,Chad,,0,0,0
 2020-01-23,Chad,,0,0,0
 2020-01-24,Chad,,0,0,0
@@ -22685,6 +22741,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Chad,,3794,3259,133
 2021-02-21,Chad,,3849,3315,134
 2021-02-22,Chad,,3868,3336,135
+2021-02-23,Chad,,3882,3368,136
 2020-01-22,Chile,,0,0,0
 2020-01-23,Chile,,0,0,0
 2020-01-24,Chile,,0,0,0
@@ -23083,6 +23140,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Chile,,795845,753037,19974
 2021-02-21,Chile,,799460,756764,20042
 2021-02-22,Chile,,803009,760577,20126
+2021-02-23,Chile,,805317,763904,20151
 2020-01-22,China,Anhui,1,0,0
 2020-01-23,China,Anhui,9,0,0
 2020-01-24,China,Anhui,15,0,0
@@ -23481,6 +23539,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,China,Anhui,994,988,6
 2021-02-21,China,Anhui,994,988,6
 2021-02-22,China,Anhui,994,988,6
+2021-02-23,China,Anhui,994,988,6
 2020-01-22,China,Beijing,14,0,0
 2020-01-23,China,Beijing,22,0,0
 2020-01-24,China,Beijing,36,1,0
@@ -23879,6 +23938,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,China,Beijing,1046,1014,9
 2021-02-21,China,Beijing,1047,1016,9
 2021-02-22,China,Beijing,1047,1019,9
+2021-02-23,China,Beijing,1047,1020,9
 2020-01-22,China,Chongqing,6,0,0
 2020-01-23,China,Chongqing,9,0,0
 2020-01-24,China,Chongqing,27,0,0
@@ -24277,6 +24337,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,China,Chongqing,591,585,6
 2021-02-21,China,Chongqing,591,585,6
 2021-02-22,China,Chongqing,591,585,6
+2021-02-23,China,Chongqing,591,585,6
 2020-01-22,China,Fujian,1,0,0
 2020-01-23,China,Fujian,5,0,0
 2020-01-24,China,Fujian,10,0,0
@@ -24675,6 +24736,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,China,Fujian,548,540,1
 2021-02-21,China,Fujian,549,541,1
 2021-02-22,China,Fujian,549,544,1
+2021-02-23,China,Fujian,549,544,1
 2020-01-22,China,Gansu,0,0,0
 2020-01-23,China,Gansu,2,0,0
 2020-01-24,China,Gansu,2,0,0
@@ -25073,6 +25135,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,China,Gansu,187,185,2
 2021-02-21,China,Gansu,187,185,2
 2021-02-22,China,Gansu,187,185,2
+2021-02-23,China,Gansu,187,185,2
 2020-01-22,China,Guangdong,26,0,0
 2020-01-23,China,Guangdong,32,2,0
 2020-01-24,China,Guangdong,53,2,0
@@ -25471,6 +25534,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,China,Guangdong,2184,2134,8
 2021-02-21,China,Guangdong,2187,2137,8
 2021-02-22,China,Guangdong,2196,2140,8
+2021-02-23,China,Guangdong,2196,2141,8
 2020-01-22,China,Guangxi,2,0,0
 2020-01-23,China,Guangxi,5,0,0
 2020-01-24,China,Guangxi,23,0,0
@@ -25869,6 +25933,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,China,Guangxi,267,265,2
 2021-02-21,China,Guangxi,267,265,2
 2021-02-22,China,Guangxi,267,265,2
+2021-02-23,China,Guangxi,267,265,2
 2020-01-22,China,Guizhou,1,0,0
 2020-01-23,China,Guizhou,3,0,0
 2020-01-24,China,Guizhou,3,0,0
@@ -26267,6 +26332,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,China,Guizhou,147,145,2
 2021-02-21,China,Guizhou,147,145,2
 2021-02-22,China,Guizhou,147,145,2
+2021-02-23,China,Guizhou,147,145,2
 2020-01-22,China,Hainan,4,0,0
 2020-01-23,China,Hainan,5,0,0
 2020-01-24,China,Hainan,8,0,0
@@ -26665,6 +26731,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,China,Hainan,171,165,6
 2021-02-21,China,Hainan,171,165,6
 2021-02-22,China,Hainan,171,165,6
+2021-02-23,China,Hainan,171,165,6
 2020-01-22,China,Hebei,1,0,0
 2020-01-23,China,Hebei,1,0,1
 2020-01-24,China,Hebei,2,0,1
@@ -27063,6 +27130,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,China,Hebei,1317,1164,7
 2021-02-21,China,Hebei,1317,1165,7
 2021-02-22,China,Hebei,1317,1172,7
+2021-02-23,China,Hebei,1317,1176,7
 2020-01-22,China,Heilongjiang,0,0,0
 2020-01-23,China,Heilongjiang,2,0,0
 2020-01-24,China,Heilongjiang,4,0,1
@@ -27461,6 +27529,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,China,Heilongjiang,1610,1581,13
 2021-02-21,China,Heilongjiang,1610,1584,13
 2021-02-22,China,Heilongjiang,1610,1587,13
+2021-02-23,China,Heilongjiang,1610,1590,13
 2020-01-22,China,Henan,5,0,0
 2020-01-23,China,Henan,5,0,0
 2020-01-24,China,Henan,9,0,0
@@ -27859,6 +27928,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,China,Henan,1304,1281,22
 2021-02-21,China,Henan,1304,1281,22
 2021-02-22,China,Henan,1304,1281,22
+2021-02-23,China,Henan,1304,1281,22
 2020-01-22,China,Hong Kong,0,0,0
 2020-01-23,China,Hong Kong,2,0,0
 2020-01-24,China,Hong Kong,2,0,0
@@ -28257,6 +28327,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,China,Hong Kong,10848,10362,197
 2021-02-21,China,Hong Kong,10868,10389,197
 2021-02-22,China,Hong Kong,10884,10404,197
+2021-02-23,China,Hong Kong,10896,10427,197
 2020-01-22,China,Hubei,444,28,17
 2020-01-23,China,Hubei,444,28,17
 2020-01-24,China,Hubei,549,31,24
@@ -28655,6 +28726,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,China,Hubei,68151,63638,4512
 2021-02-21,China,Hubei,68151,63638,4512
 2021-02-22,China,Hubei,68151,63638,4512
+2021-02-23,China,Hubei,68151,63638,4512
 2020-01-22,China,Hunan,4,0,0
 2020-01-23,China,Hunan,9,0,0
 2020-01-24,China,Hunan,24,0,0
@@ -29053,6 +29125,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,China,Hunan,1035,1023,4
 2021-02-21,China,Hunan,1036,1023,4
 2021-02-22,China,Hunan,1036,1025,4
+2021-02-23,China,Hunan,1036,1025,4
 2020-01-22,China,Inner Mongolia,0,0,0
 2020-01-23,China,Inner Mongolia,0,0,0
 2020-01-24,China,Inner Mongolia,1,0,0
@@ -29451,6 +29524,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,China,Inner Mongolia,367,365,1
 2021-02-21,China,Inner Mongolia,367,365,1
 2021-02-22,China,Inner Mongolia,367,365,1
+2021-02-23,China,Inner Mongolia,367,365,1
 2020-01-22,China,Jiangsu,1,0,0
 2020-01-23,China,Jiangsu,5,0,0
 2020-01-24,China,Jiangsu,9,0,0
@@ -29849,6 +29923,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,China,Jiangsu,703,696,0
 2021-02-21,China,Jiangsu,703,698,0
 2021-02-22,China,Jiangsu,703,698,0
+2021-02-23,China,Jiangsu,704,698,0
 2020-01-22,China,Jiangxi,2,0,0
 2020-01-23,China,Jiangxi,7,0,0
 2020-01-24,China,Jiangxi,18,0,0
@@ -30247,6 +30322,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,China,Jiangxi,935,934,1
 2021-02-21,China,Jiangxi,935,934,1
 2021-02-22,China,Jiangxi,935,934,1
+2021-02-23,China,Jiangxi,935,934,1
 2020-01-22,China,Jilin,0,0,0
 2020-01-23,China,Jilin,1,0,0
 2020-01-24,China,Jilin,3,0,0
@@ -30645,6 +30721,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,China,Jilin,573,533,3
 2021-02-21,China,Jilin,573,539,3
 2021-02-22,China,Jilin,573,543,3
+2021-02-23,China,Jilin,573,545,3
 2020-01-22,China,Liaoning,2,0,0
 2020-01-23,China,Liaoning,3,0,0
 2020-01-24,China,Liaoning,4,0,0
@@ -31043,6 +31120,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,China,Liaoning,406,401,2
 2021-02-21,China,Liaoning,406,401,2
 2021-02-22,China,Liaoning,406,401,2
+2021-02-23,China,Liaoning,406,402,2
 2020-01-22,China,Macau,1,0,0
 2020-01-23,China,Macau,2,0,0
 2020-01-24,China,Macau,2,0,0
@@ -31441,6 +31519,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,China,Macau,48,47,0
 2021-02-21,China,Macau,48,47,0
 2021-02-22,China,Macau,48,47,0
+2021-02-23,China,Macau,48,47,0
 2020-01-22,China,Ningxia,1,0,0
 2020-01-23,China,Ningxia,1,0,0
 2020-01-24,China,Ningxia,2,0,0
@@ -31839,6 +31918,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,China,Ningxia,75,75,0
 2021-02-21,China,Ningxia,75,75,0
 2021-02-22,China,Ningxia,75,75,0
+2021-02-23,China,Ningxia,75,75,0
 2020-01-22,China,Qinghai,0,0,0
 2020-01-23,China,Qinghai,0,0,0
 2020-01-24,China,Qinghai,0,0,0
@@ -32237,6 +32317,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,China,Qinghai,18,18,0
 2021-02-21,China,Qinghai,18,18,0
 2021-02-22,China,Qinghai,18,18,0
+2021-02-23,China,Qinghai,18,18,0
 2020-01-22,China,Shaanxi,0,0,0
 2020-01-23,China,Shaanxi,3,0,0
 2020-01-24,China,Shaanxi,5,0,0
@@ -32635,6 +32716,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,China,Shaanxi,547,534,3
 2021-02-21,China,Shaanxi,547,534,3
 2021-02-22,China,Shaanxi,547,536,3
+2021-02-23,China,Shaanxi,549,536,3
 2020-01-22,China,Shandong,2,0,0
 2020-01-23,China,Shandong,6,0,0
 2020-01-24,China,Shandong,15,0,0
@@ -33033,6 +33115,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,China,Shandong,867,860,7
 2021-02-21,China,Shandong,867,860,7
 2021-02-22,China,Shandong,867,860,7
+2021-02-23,China,Shandong,868,860,7
 2020-01-22,China,Shanghai,9,0,0
 2020-01-23,China,Shanghai,16,0,0
 2020-01-24,China,Shanghai,20,1,0
@@ -33431,6 +33514,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,China,Shanghai,1781,1689,7
 2021-02-21,China,Shanghai,1783,1704,7
 2021-02-22,China,Shanghai,1783,1710,7
+2021-02-23,China,Shanghai,1786,1713,7
 2020-01-22,China,Shanxi,1,0,0
 2020-01-23,China,Shanxi,1,0,0
 2020-01-24,China,Shanxi,1,0,0
@@ -33829,6 +33913,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,China,Shanxi,239,237,0
 2021-02-21,China,Shanxi,239,237,0
 2021-02-22,China,Shanxi,240,237,0
+2021-02-23,China,Shanxi,240,237,0
 2020-01-22,China,Sichuan,5,0,0
 2020-01-23,China,Sichuan,8,0,0
 2020-01-24,China,Sichuan,15,0,0
@@ -34227,6 +34312,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,China,Sichuan,885,869,3
 2021-02-21,China,Sichuan,887,869,3
 2021-02-22,China,Sichuan,887,869,3
+2021-02-23,China,Sichuan,889,869,3
 2020-01-22,China,Tianjin,4,0,0
 2020-01-23,China,Tianjin,4,0,0
 2020-01-24,China,Tianjin,8,0,0
@@ -34625,6 +34711,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,China,Tianjin,351,335,3
 2021-02-21,China,Tianjin,352,335,3
 2021-02-22,China,Tianjin,352,335,3
+2021-02-23,China,Tianjin,353,336,3
 2020-01-22,China,Tibet,0,0,0
 2020-01-23,China,Tibet,0,0,0
 2020-01-24,China,Tibet,0,0,0
@@ -35023,6 +35110,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,China,Tibet,1,1,0
 2021-02-21,China,Tibet,1,1,0
 2021-02-22,China,Tibet,1,1,0
+2021-02-23,China,Tibet,1,1,0
 2020-01-22,China,Xinjiang,0,0,0
 2020-01-23,China,Xinjiang,2,0,0
 2020-01-24,China,Xinjiang,2,0,0
@@ -35421,6 +35509,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,China,Xinjiang,980,977,3
 2021-02-21,China,Xinjiang,980,977,3
 2021-02-22,China,Xinjiang,980,977,3
+2021-02-23,China,Xinjiang,980,977,3
 2020-01-22,China,Yunnan,1,0,0
 2020-01-23,China,Yunnan,2,0,0
 2020-01-24,China,Yunnan,5,0,0
@@ -35819,6 +35908,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,China,Yunnan,231,228,2
 2021-02-21,China,Yunnan,231,228,2
 2021-02-22,China,Yunnan,231,229,2
+2021-02-23,China,Yunnan,231,229,2
 2020-01-22,China,Zhejiang,10,0,0
 2020-01-23,China,Zhejiang,27,0,0
 2020-01-24,China,Zhejiang,43,1,0
@@ -36217,6 +36307,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,China,Zhejiang,1320,1310,1
 2021-02-21,China,Zhejiang,1320,1310,1
 2021-02-22,China,Zhejiang,1320,1310,1
+2021-02-23,China,Zhejiang,1321,1310,1
 2020-01-22,Colombia,,0,0,0
 2020-01-23,Colombia,,0,0,0
 2020-01-24,Colombia,,0,0,0
@@ -36615,6 +36706,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Colombia,,2222018,2115470,58685
 2021-02-21,Colombia,,2226262,2120366,58834
 2021-02-22,Colombia,,2229663,2124695,58974
+2021-02-23,Colombia,,2233589,2129491,59118
 2020-01-22,Comoros,,0,0,0
 2020-01-23,Comoros,,0,0,0
 2020-01-24,Comoros,,0,0,0
@@ -37013,6 +37105,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Comoros,,3490,3059,143
 2021-02-21,Comoros,,3502,3117,143
 2021-02-22,Comoros,,3518,3130,144
+2021-02-23,Comoros,,3522,3175,144
 2020-01-22,Congo (Brazzaville),,0,0,0
 2020-01-23,Congo (Brazzaville),,0,0,0
 2020-01-24,Congo (Brazzaville),,0,0,0
@@ -37411,6 +37504,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Congo (Brazzaville),,8419,7019,123
 2021-02-21,Congo (Brazzaville),,8625,7019,127
 2021-02-22,Congo (Brazzaville),,8625,7019,127
+2021-02-23,Congo (Brazzaville),,8625,7019,127
 2020-01-22,Congo (Kinshasa),,0,0,0
 2020-01-23,Congo (Kinshasa),,0,0,0
 2020-01-24,Congo (Kinshasa),,0,0,0
@@ -37809,6 +37903,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Congo (Kinshasa),,25080,16135,700
 2021-02-21,Congo (Kinshasa),,25080,16135,700
 2021-02-22,Congo (Kinshasa),,25144,16135,700
+2021-02-23,Congo (Kinshasa),,25144,16135,700
 2020-01-22,Costa Rica,,0,0,0
 2020-01-23,Costa Rica,,0,0,0
 2020-01-24,Costa Rica,,0,0,0
@@ -38207,6 +38302,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Costa Rica,,201678,169053,2763
 2021-02-21,Costa Rica,,201678,169053,2763
 2021-02-22,Costa Rica,,202674,172280,2782
+2021-02-23,Costa Rica,,203097,173591,2785
 2020-01-22,Cote d'Ivoire,,0,0,0
 2020-01-23,Cote d'Ivoire,,0,0,0
 2020-01-24,Cote d'Ivoire,,0,0,0
@@ -38605,6 +38701,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Cote d'Ivoire,,31914,30243,185
 2021-02-21,Cote d'Ivoire,,32026,30589,186
 2021-02-22,Cote d'Ivoire,,32039,30768,188
+2021-02-23,Cote d'Ivoire,,32124,31096,188
 2020-01-22,Croatia,,0,0,0
 2020-01-23,Croatia,,0,0,0
 2020-01-24,Croatia,,0,0,0
@@ -39003,6 +39100,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Croatia,,239685,231844,5420
 2021-02-21,Croatia,,239945,232145,5429
 2021-02-22,Croatia,,240017,232457,5449
+2021-02-23,Croatia,,240360,232697,5462
 2020-01-22,Cuba,,0,0,0
 2020-01-23,Cuba,,0,0,0
 2020-01-24,Cuba,,0,0,0
@@ -39401,6 +39499,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Cuba,,43484,38190,291
 2021-02-21,Cuba,,44523,39125,296
 2021-02-22,Cuba,,45361,40037,300
+2021-02-23,Cuba,,46197,40979,304
 2020-01-22,Cyprus,,0,0,0
 2020-01-23,Cyprus,,0,0,0
 2020-01-24,Cyprus,,0,0,0
@@ -39799,6 +39898,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Cyprus,,33153,2057,229
 2021-02-21,Cyprus,,33260,2057,229
 2021-02-22,Cyprus,,33391,2057,230
+2021-02-23,Cyprus,,33567,2057,230
 2020-01-22,Czechia,,0,0,0
 2020-01-23,Czechia,,0,0,0
 2020-01-24,Czechia,,0,0,0
@@ -40197,6 +40297,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Czechia,,1146321,1012094,19097
 2021-02-21,Czechia,,1153159,1014997,19214
 2021-02-22,Czechia,,1157180,1017406,19330
+2021-02-23,Czechia,,1168491,1028131,19537
 2020-01-22,Denmark,Faroe Islands,0,0,0
 2020-01-23,Denmark,Faroe Islands,0,0,0
 2020-01-24,Denmark,Faroe Islands,0,0,0
@@ -40595,6 +40696,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Denmark,Faroe Islands,658,655,1
 2021-02-21,Denmark,Faroe Islands,658,655,1
 2021-02-22,Denmark,Faroe Islands,658,655,1
+2021-02-23,Denmark,Faroe Islands,658,655,1
 2020-01-22,Denmark,Greenland,0,0,0
 2020-01-23,Denmark,Greenland,0,0,0
 2020-01-24,Denmark,Greenland,0,0,0
@@ -40993,6 +41095,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Denmark,Greenland,30,30,0
 2021-02-21,Denmark,Greenland,30,30,0
 2021-02-22,Denmark,Greenland,30,30,0
+2021-02-23,Denmark,Greenland,30,30,0
 2020-01-22,Denmark,,0,0,0
 2020-01-23,Denmark,,0,0,0
 2020-01-24,Denmark,,0,0,0
@@ -41391,6 +41494,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Denmark,,207081,199026,2333
 2021-02-21,Denmark,,207577,199449,2338
 2021-02-22,Denmark,,208027,199818,2343
+2021-02-23,Denmark,,208556,200263,2343
 2020-01-22,Diamond Princess,,0,0,0
 2020-01-23,Diamond Princess,,0,0,0
 2020-01-24,Diamond Princess,,0,0,0
@@ -41789,6 +41893,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Diamond Princess,,712,699,13
 2021-02-21,Diamond Princess,,712,699,13
 2021-02-22,Diamond Princess,,712,699,13
+2021-02-23,Diamond Princess,,712,699,13
 2020-01-22,Djibouti,,0,0,0
 2020-01-23,Djibouti,,0,0,0
 2020-01-24,Djibouti,,0,0,0
@@ -42187,6 +42292,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Djibouti,,6022,5873,63
 2021-02-21,Djibouti,,6024,5873,63
 2021-02-22,Djibouti,,6026,5879,63
+2021-02-23,Djibouti,,6052,5881,63
 2020-01-22,Dominica,,0,0,0
 2020-01-23,Dominica,,0,0,0
 2020-01-24,Dominica,,0,0,0
@@ -42585,6 +42691,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Dominica,,134,121,0
 2021-02-21,Dominica,,134,121,0
 2021-02-22,Dominica,,134,121,0
+2021-02-23,Dominica,,141,126,0
 2020-01-22,Dominican Republic,,0,0,0
 2020-01-23,Dominican Republic,,0,0,0
 2020-01-24,Dominican Republic,,0,0,0
@@ -42983,6 +43090,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Dominican Republic,,234502,183720,3028
 2021-02-21,Dominican Republic,,235462,185154,3038
 2021-02-22,Dominican Republic,,235882,185964,3048
+2021-02-23,Dominican Republic,,236210,186703,3057
 2020-01-22,Ecuador,,0,0,0
 2020-01-23,Ecuador,,0,0,0
 2020-01-24,Ecuador,,0,0,0
@@ -43381,6 +43489,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Ecuador,,273097,230377,15513
 2021-02-21,Ecuador,,274673,238817,15536
 2021-02-22,Ecuador,,274968,238817,15547
+2021-02-23,Ecuador,,275780,238817,15567
 2020-01-22,Egypt,,0,0,0
 2020-01-23,Egypt,,0,0,0
 2020-01-24,Egypt,,0,0,0
@@ -43779,6 +43888,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Egypt,,177543,137294,10298
 2021-02-21,Egypt,,178151,137837,10353
 2021-02-22,Egypt,,178774,138183,10404
+2021-02-23,Egypt,,179407,138683,10443
 2020-01-22,El Salvador,,0,0,0
 2020-01-23,El Salvador,,0,0,0
 2020-01-24,El Salvador,,0,0,0
@@ -44177,6 +44287,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,El Salvador,,58546,53385,1792
 2021-02-21,El Salvador,,58546,53385,1799
 2021-02-22,El Salvador,,59235,54324,1807
+2021-02-23,El Salvador,,59235,54324,1815
 2020-01-22,Equatorial Guinea,,0,0,0
 2020-01-23,Equatorial Guinea,,0,0,0
 2020-01-24,Equatorial Guinea,,0,0,0
@@ -44575,6 +44686,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Equatorial Guinea,,5798,5488,89
 2021-02-21,Equatorial Guinea,,5798,5488,89
 2021-02-22,Equatorial Guinea,,5798,5488,89
+2021-02-23,Equatorial Guinea,,5852,5559,91
 2020-01-22,Eritrea,,0,0,0
 2020-01-23,Eritrea,,0,0,0
 2020-01-24,Eritrea,,0,0,0
@@ -44973,6 +45085,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Eritrea,,2685,2050,7
 2021-02-21,Eritrea,,2685,2050,7
 2021-02-22,Eritrea,,2703,2068,7
+2021-02-23,Eritrea,,2773,2159,7
 2020-01-22,Estonia,,0,0,0
 2020-01-23,Estonia,,0,0,0
 2020-01-24,Estonia,,0,0,0
@@ -45371,6 +45484,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Estonia,,57033,45080,528
 2021-02-21,Estonia,,57616,45233,535
 2021-02-22,Estonia,,58445,45352,540
+2021-02-23,Estonia,,59407,46335,553
 2020-01-22,Eswatini,,0,0,0
 2020-01-23,Eswatini,,0,0,0
 2020-01-24,Eswatini,,0,0,0
@@ -45769,6 +45883,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Eswatini,,16764,12984,645
 2021-02-21,Eswatini,,16789,13195,645
 2021-02-22,Eswatini,,16807,13415,645
+2021-02-23,Eswatini,,16839,13613,647
 2020-01-22,Ethiopia,,0,0,0
 2020-01-23,Ethiopia,,0,0,0
 2020-01-24,Ethiopia,,0,0,0
@@ -46167,6 +46282,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Ethiopia,,151857,131241,2271
 2021-02-21,Ethiopia,,152806,131366,2279
 2021-02-22,Ethiopia,,153541,131713,2293
+2021-02-23,Ethiopia,,154257,133051,2305
 2020-01-22,Fiji,,0,0,0
 2020-01-23,Fiji,,0,0,0
 2020-01-24,Fiji,,0,0,0
@@ -46565,6 +46681,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Fiji,,56,54,2
 2021-02-21,Fiji,,56,54,2
 2021-02-22,Fiji,,56,54,2
+2021-02-23,Fiji,,56,54,2
 2020-01-22,Finland,,0,0,0
 2020-01-23,Finland,,0,0,0
 2020-01-24,Finland,,0,0,0
@@ -46963,6 +47080,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Finland,,53285,40000,726
 2021-02-21,Finland,,53742,40000,726
 2021-02-22,Finland,,54132,40000,733
+2021-02-23,Finland,,54532,40000,734
 2020-01-22,France,French Guiana,0,0,0
 2020-01-23,France,French Guiana,0,0,0
 2020-01-24,France,French Guiana,0,0,0
@@ -47361,6 +47479,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,France,French Guiana,16529,9995,83
 2021-02-21,France,French Guiana,16529,9995,83
 2021-02-22,France,French Guiana,16529,9995,83
+2021-02-23,France,French Guiana,16529,9995,83
 2020-01-22,France,French Polynesia,0,0,0
 2020-01-23,France,French Polynesia,0,0,0
 2020-01-24,France,French Polynesia,0,0,0
@@ -47759,6 +47878,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,France,French Polynesia,18346,4842,137
 2021-02-21,France,French Polynesia,18346,4842,137
 2021-02-22,France,French Polynesia,18354,4842,138
+2021-02-23,France,French Polynesia,18362,4842,138
 2020-01-22,France,Guadeloupe,0,0,0
 2020-01-23,France,Guadeloupe,0,0,0
 2020-01-24,France,Guadeloupe,0,0,0
@@ -48157,6 +48277,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,France,Guadeloupe,9455,2242,160
 2021-02-21,France,Guadeloupe,9455,2242,160
 2021-02-22,France,Guadeloupe,9455,2242,160
+2021-02-23,France,Guadeloupe,9610,2242,163
 2020-01-22,France,Martinique,0,0,0
 2020-01-23,France,Martinique,0,0,0
 2020-01-24,France,Martinique,0,0,0
@@ -48555,6 +48676,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,France,Martinique,6593,98,45
 2021-02-21,France,Martinique,6593,98,45
 2021-02-22,France,Martinique,6593,98,45
+2021-02-23,France,Martinique,6646,98,45
 2020-01-22,France,Mayotte,0,0,0
 2020-01-23,France,Mayotte,0,0,0
 2020-01-24,France,Mayotte,0,0,0
@@ -48953,6 +49075,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,France,Mayotte,15365,2964,92
 2021-02-21,France,Mayotte,15792,2964,92
 2021-02-22,France,Mayotte,15792,2964,92
+2021-02-23,France,Mayotte,16349,2964,95
 2020-01-22,France,New Caledonia,0,0,0
 2020-01-23,France,New Caledonia,0,0,0
 2020-01-24,France,New Caledonia,0,0,0
@@ -49351,6 +49474,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,France,New Caledonia,55,50,0
 2021-02-21,France,New Caledonia,55,50,0
 2021-02-22,France,New Caledonia,55,55,0
+2021-02-23,France,New Caledonia,55,55,0
 2020-01-22,France,Reunion,0,0,0
 2020-01-23,France,Reunion,0,0,0
 2020-01-24,France,Reunion,0,0,0
@@ -49749,6 +49873,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,France,Reunion,11562,10576,48
 2021-02-21,France,Reunion,11562,10576,48
 2021-02-22,France,Reunion,11562,10576,48
+2021-02-23,France,Reunion,11562,10576,48
 2020-01-22,France,Saint Barthelemy,0,0,0
 2020-01-23,France,Saint Barthelemy,0,0,0
 2020-01-24,France,Saint Barthelemy,0,0,0
@@ -50147,6 +50272,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,France,Saint Barthelemy,512,247,1
 2021-02-21,France,Saint Barthelemy,512,247,1
 2021-02-22,France,Saint Barthelemy,512,247,1
+2021-02-23,France,Saint Barthelemy,573,462,1
 2020-01-22,France,Saint Pierre and Miquelon,0,0,0
 2020-01-23,France,Saint Pierre and Miquelon,0,0,0
 2020-01-24,France,Saint Pierre and Miquelon,0,0,0
@@ -50545,6 +50671,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,France,Saint Pierre and Miquelon,24,16,0
 2021-02-21,France,Saint Pierre and Miquelon,24,16,0
 2021-02-22,France,Saint Pierre and Miquelon,24,16,0
+2021-02-23,France,Saint Pierre and Miquelon,24,16,0
 2020-01-22,France,St Martin,0,0,0
 2020-01-23,France,St Martin,0,0,0
 2020-01-24,France,St Martin,0,0,0
@@ -50943,6 +51070,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,France,St Martin,1497,1050,12
 2021-02-21,France,St Martin,1497,1050,12
 2021-02-22,France,St Martin,1497,1050,12
+2021-02-23,France,St Martin,1544,1399,12
 2020-01-22,France,Wallis and Futuna,0,0,0
 2020-01-23,France,Wallis and Futuna,0,0,0
 2020-01-24,France,Wallis and Futuna,0,0,0
@@ -51341,6 +51469,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,France,Wallis and Futuna,9,5,0
 2021-02-21,France,Wallis and Futuna,9,5,0
 2021-02-22,France,Wallis and Futuna,9,6,0
+2021-02-23,France,Wallis and Futuna,9,6,0
 2020-01-22,France,,0,0,0
 2020-01-23,France,,0,0,0
 2020-01-24,France,,2,0,0
@@ -51739,6 +51868,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,France,,3562707,221252,83693
 2021-02-21,France,,3584326,221252,83852
 2021-02-22,France,,3588972,224657,84185
+2021-02-23,France,,3608271,226208,84610
 2020-01-22,Gabon,,0,0,0
 2020-01-23,Gabon,,0,0,0
 2020-01-24,Gabon,,0,0,0
@@ -52137,6 +52267,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Gabon,,13553,12262,75
 2021-02-21,Gabon,,13553,12262,75
 2021-02-22,Gabon,,13884,12561,76
+2021-02-23,Gabon,,13884,12561,76
 2020-01-22,Gambia,,0,0,0
 2020-01-23,Gambia,,0,0,0
 2020-01-24,Gambia,,0,0,0
@@ -52535,6 +52666,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Gambia,,4554,4011,144
 2021-02-21,Gambia,,4554,4011,144
 2021-02-22,Gambia,,4554,4011,144
+2021-02-23,Gambia,,4612,4089,146
 2020-01-22,Georgia,,0,0,0
 2020-01-23,Georgia,,0,0,0
 2020-01-24,Georgia,,0,0,0
@@ -52933,6 +53065,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Georgia,,268097,261066,3425
 2021-02-21,Georgia,,268355,261637,3435
 2021-02-22,Georgia,,268502,262244,3447
+2021-02-23,Georgia,,268995,262796,3457
 2020-01-22,Germany,,0,0,0
 2020-01-23,Germany,,0,0,0
 2020-01-24,Germany,,0,0,0
@@ -53331,6 +53464,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Germany,,2388421,2197065,67883
 2021-02-21,Germany,,2394515,2204110,67946
 2021-02-22,Germany,,2399499,2212439,68363
+2021-02-23,Germany,,2405263,2221972,68785
 2020-01-22,Ghana,,0,0,0
 2020-01-23,Ghana,,0,0,0
 2020-01-24,Ghana,,0,0,0
@@ -53729,6 +53863,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Ghana,,79655,72516,572
 2021-02-21,Ghana,,80253,73018,577
 2021-02-22,Ghana,,80759,73365,582
+2021-02-23,Ghana,,80759,73365,582
 2020-01-22,Greece,,0,0,0
 2020-01-23,Greece,,0,0,0
 2020-01-24,Greece,,0,0,0
@@ -54127,6 +54262,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Greece,,178918,93764,6272
 2021-02-21,Greece,,179802,93764,6297
 2021-02-22,Greece,,180672,93764,6321
+2021-02-23,Greece,,182783,93764,6343
 2020-01-22,Grenada,,0,0,0
 2020-01-23,Grenada,,0,0,0
 2020-01-24,Grenada,,0,0,0
@@ -54525,6 +54661,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Grenada,,148,146,1
 2021-02-21,Grenada,,148,146,1
 2021-02-22,Grenada,,148,147,1
+2021-02-23,Grenada,,148,147,1
 2020-01-22,Guatemala,,0,0,0
 2020-01-23,Guatemala,,0,0,0
 2020-01-24,Guatemala,,0,0,0
@@ -54923,6 +55060,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Guatemala,,170931,157794,6249
 2021-02-21,Guatemala,,171170,158201,6282
 2021-02-22,Guatemala,,171289,158501,6306
+2021-02-23,Guatemala,,172072,159206,6315
 2020-01-22,Guinea,,0,0,0
 2020-01-23,Guinea,,0,0,0
 2020-01-24,Guinea,,0,0,0
@@ -55321,6 +55459,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Guinea,,15395,14705,86
 2021-02-21,Guinea,,15395,14705,86
 2021-02-22,Guinea,,15427,14736,86
+2021-02-23,Guinea,,15487,14785,87
 2020-01-22,Guinea-Bissau,,0,0,0
 2020-01-23,Guinea-Bissau,,0,0,0
 2020-01-24,Guinea-Bissau,,0,0,0
@@ -55719,6 +55858,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Guinea-Bissau,,3091,2500,46
 2021-02-21,Guinea-Bissau,,3115,2555,47
 2021-02-22,Guinea-Bissau,,3115,2555,47
+2021-02-23,Guinea-Bissau,,3156,2560,47
 2020-01-22,Guyana,,0,0,0
 2020-01-23,Guyana,,0,0,0
 2020-01-24,Guyana,,0,0,0
@@ -56117,6 +56257,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Guyana,,8399,7729,189
 2021-02-21,Guyana,,8420,7733,189
 2021-02-22,Guyana,,8427,7774,189
+2021-02-23,Guyana,,8452,7808,190
 2020-01-22,Haiti,,0,0,0
 2020-01-23,Haiti,,0,0,0
 2020-01-24,Haiti,,0,0,0
@@ -56515,6 +56656,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Haiti,,12254,9529,247
 2021-02-21,Haiti,,12274,9529,247
 2021-02-22,Haiti,,12309,9529,247
+2021-02-23,Haiti,,12309,9536,247
 2020-01-22,Holy See,,0,0,0
 2020-01-23,Holy See,,0,0,0
 2020-01-24,Holy See,,0,0,0
@@ -56913,6 +57055,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Holy See,,27,15,0
 2021-02-21,Holy See,,27,15,0
 2021-02-22,Holy See,,27,15,0
+2021-02-23,Holy See,,27,15,0
 2020-01-22,Honduras,,0,0,0
 2020-01-23,Honduras,,0,0,0
 2020-01-24,Honduras,,0,0,0
@@ -57311,6 +57454,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Honduras,,164495,64606,3992
 2021-02-21,Honduras,,165095,64678,3996
 2021-02-22,Honduras,,165737,64781,4024
+2021-02-23,Honduras,,166547,64891,4040
 2020-01-22,Hungary,,0,0,0
 2020-01-23,Hungary,,0,0,0
 2020-01-24,Hungary,,0,0,0
@@ -57709,6 +57853,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Hungary,,400111,304680,14252
 2021-02-21,Hungary,,403023,306621,14299
 2021-02-22,Hungary,,405646,308650,14347
+2021-02-23,Hungary,,407274,310848,14450
 2020-01-22,Iceland,,0,0,0
 2020-01-23,Iceland,,0,0,0
 2020-01-24,Iceland,,0,0,0
@@ -58107,6 +58252,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Iceland,,6045,5989,29
 2021-02-21,Iceland,,6045,5989,29
 2021-02-22,Iceland,,6049,5995,29
+2021-02-23,Iceland,,6049,6003,29
 2020-01-22,India,,0,0,0
 2020-01-23,India,,0,0,0
 2020-01-24,India,,0,0,0
@@ -58505,6 +58651,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,India,,10991651,10689715,156302
 2021-02-21,India,,11005850,10699410,156385
 2021-02-22,India,,11016434,10712665,156463
+2021-02-23,India,,11030176,10726702,156567
 2020-01-22,Indonesia,,0,0,0
 2020-01-23,Indonesia,,0,0,0
 2020-01-24,Indonesia,,0,0,0
@@ -58903,6 +59050,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Indonesia,,1271353,1078840,34316
 2021-02-21,Indonesia,,1278653,1087076,34489
 2021-02-22,Indonesia,,1288833,1096994,34691
+2021-02-23,Indonesia,,1298608,1104990,35014
 2020-01-22,Iran,,0,0,0
 2020-01-23,Iran,,0,0,0
 2020-01-24,Iran,,0,0,0
@@ -59301,6 +59449,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Iran,,1566081,1337877,59409
 2021-02-21,Iran,,1574012,1344791,59483
 2021-02-22,Iran,,1582275,1351390,59572
+2021-02-23,Iran,,1590605,1358541,59663
 2020-01-22,Iraq,,0,0,0
 2020-01-23,Iraq,,0,0,0
 2020-01-24,Iraq,,0,0,0
@@ -59699,6 +59848,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Iraq,,664750,616507,13245
 2021-02-21,Iraq,,667937,618509,13272
 2021-02-22,Iraq,,671801,620745,13295
+2021-02-23,Iraq,,675982,623337,13311
 2020-01-22,Ireland,,0,0,0
 2020-01-23,Ireland,,0,0,0
 2020-01-24,Ireland,,0,0,0
@@ -60097,6 +60247,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Ireland,,214378,23364,4135
 2021-02-21,Ireland,,215057,23364,4136
 2021-02-22,Ireland,,215743,23364,4137
+2021-02-23,Ireland,,216300,23364,4181
 2020-01-22,Israel,,0,0,0
 2020-01-23,Israel,,0,0,0
 2020-01-24,Israel,,0,0,0
@@ -60495,6 +60646,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Israel,,744513,693503,5526
 2021-02-21,Israel,,750043,703791,5577
 2021-02-22,Israel,,754998,709394,5596
+2021-02-23,Israel,,759572,712328,5634
 2020-01-22,Italy,,0,0,0
 2020-01-23,Italy,,0,0,0
 2020-01-24,Italy,,0,0,0
@@ -60893,6 +61045,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Italy,,2795796,2315687,95486
 2021-02-21,Italy,,2809246,2324633,95718
 2021-02-22,Italy,,2818863,2334968,95992
+2021-02-23,Italy,,2832162,2347866,96348
 2020-01-22,Jamaica,,0,0,0
 2020-01-23,Jamaica,,0,0,0
 2020-01-24,Jamaica,,0,0,0
@@ -61291,6 +61444,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Jamaica,,20924,12883,391
 2021-02-21,Jamaica,,21382,12931,396
 2021-02-22,Jamaica,,21679,12988,399
+2021-02-23,Jamaica,,21826,13046,405
 2020-01-22,Japan,,2,0,0
 2020-01-23,Japan,,2,0,0
 2020-01-24,Japan,,2,0,0
@@ -61689,6 +61843,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Japan,,423952,397137,7438
 2021-02-21,Japan,,424988,398765,7485
 2021-02-22,Japan,,425725,400094,7541
+2021-02-23,Japan,,426828,401653,7595
 2020-01-22,Jordan,,0,0,0
 2020-01-23,Jordan,,0,0,0
 2020-01-24,Jordan,,0,0,0
@@ -62087,6 +62242,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Jordan,,359811,334191,4543
 2021-02-21,Jordan,,363728,335876,4554
 2021-02-22,Jordan,,368278,337359,4570
+2021-02-23,Jordan,,372417,339214,4589
 2020-01-22,Kazakhstan,,0,0,0
 2020-01-23,Kazakhstan,,0,0,0
 2020-01-24,Kazakhstan,,0,0,0
@@ -62485,6 +62641,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Kazakhstan,,256388,231667,3150
 2021-02-21,Kazakhstan,,257100,232504,3152
 2021-02-22,Kazakhstan,,257800,233700,3153
+2021-02-23,Kazakhstan,,258609,234889,3155
 2020-01-22,Kenya,,0,0,0
 2020-01-23,Kenya,,0,0,0
 2020-01-24,Kenya,,0,0,0
@@ -62883,6 +63040,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Kenya,,103993,85540,1817
 2021-02-21,Kenya,,104201,85577,1823
 2021-02-22,Kenya,,104306,85626,1827
+2021-02-23,Kenya,,104500,85665,1837
 2020-01-22,"Korea, South",,1,0,0
 2020-01-23,"Korea, South",,1,0,0
 2020-01-24,"Korea, South",,2,0,0
@@ -63281,6 +63439,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,"Korea, South",,86992,77516,1557
 2021-02-21,"Korea, South",,87324,77887,1562
 2021-02-22,"Korea, South",,87681,78394,1573
+2021-02-23,"Korea, South",,88120,79050,1576
 2020-01-22,Kosovo,,0,0,0
 2020-01-23,Kosovo,,0,0,0
 2020-01-24,Kosovo,,0,0,0
@@ -63679,6 +63838,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Kosovo,,65450,56976,1558
 2021-02-21,Kosovo,,66480,58171,1572
 2021-02-22,Kosovo,,66480,58171,1572
+2021-02-23,Kosovo,,66740,58361,1575
 2020-01-22,Kuwait,,0,0,0
 2020-01-23,Kuwait,,0,0,0
 2020-01-24,Kuwait,,0,0,0
@@ -64077,6 +64237,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Kuwait,,183322,171260,1039
 2021-02-21,Kuwait,,184090,172227,1044
 2021-02-22,Kuwait,,184989,173182,1049
+2021-02-23,Kuwait,,186004,174088,1057
 2020-01-22,Kyrgyzstan,,0,0,0
 2020-01-23,Kyrgyzstan,,0,0,0
 2020-01-24,Kyrgyzstan,,0,0,0
@@ -64475,6 +64636,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Kyrgyzstan,,85831,82690,1452
 2021-02-21,Kyrgyzstan,,85929,82803,1458
 2021-02-22,Kyrgyzstan,,85929,82803,1458
+2021-02-23,Kyrgyzstan,,86001,82879,1460
 2020-01-22,Laos,,0,0,0
 2020-01-23,Laos,,0,0,0
 2020-01-24,Laos,,0,0,0
@@ -64873,6 +65035,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Laos,,45,41,0
 2021-02-21,Laos,,45,41,0
 2021-02-22,Laos,,45,42,0
+2021-02-23,Laos,,45,42,0
 2020-01-22,Latvia,,0,0,0
 2020-01-23,Latvia,,0,0,0
 2020-01-24,Latvia,,0,0,0
@@ -65271,6 +65434,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Latvia,,81109,69993,1538
 2021-02-21,Latvia,,81519,69993,1542
 2021-02-22,Latvia,,81793,70741,1546
+2021-02-23,Latvia,,82462,71506,1570
 2020-01-22,Lebanon,,0,0,0
 2020-01-23,Lebanon,,0,0,0
 2020-01-24,Lebanon,,0,0,0
@@ -65669,6 +65833,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Lebanon,,353371,264894,4297
 2021-02-21,Lebanon,,355073,268071,4340
 2021-02-22,Lebanon,,356614,272200,4387
+2021-02-23,Lebanon,,359337,275149,4446
 2020-01-22,Lesotho,,0,0,0
 2020-01-23,Lesotho,,0,0,0
 2020-01-24,Lesotho,,0,0,0
@@ -66067,6 +66232,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Lesotho,,10461,3312,285
 2021-02-21,Lesotho,,10461,3312,285
 2021-02-22,Lesotho,,10466,3354,288
+2021-02-23,Lesotho,,10467,3418,291
 2020-01-22,Liberia,,0,0,0
 2020-01-23,Liberia,,0,0,0
 2020-01-24,Liberia,,0,0,0
@@ -66465,6 +66631,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Liberia,,1988,1856,85
 2021-02-21,Liberia,,1988,1856,85
 2021-02-22,Liberia,,1996,1856,85
+2021-02-23,Liberia,,1998,1879,85
 2020-01-22,Libya,,0,0,0
 2020-01-23,Libya,,0,0,0
 2020-01-24,Libya,,0,0,0
@@ -66863,6 +67030,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Libya,,129325,114305,2088
 2021-02-21,Libya,,129797,115357,2114
 2021-02-22,Libya,,130212,116120,2116
+2021-02-23,Libya,,130701,117017,2125
 2020-01-22,Liechtenstein,,0,0,0
 2020-01-23,Liechtenstein,,0,0,0
 2020-01-24,Liechtenstein,,0,0,0
@@ -67261,6 +67429,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Liechtenstein,,2545,2484,54
 2021-02-21,Liechtenstein,,2546,2484,54
 2021-02-22,Liechtenstein,,2550,2484,54
+2021-02-23,Liechtenstein,,2553,2484,54
 2020-01-22,Lithuania,,0,0,0
 2020-01-23,Lithuania,,0,0,0
 2020-01-24,Lithuania,,0,0,0
@@ -67659,6 +67828,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Lithuania,,193562,179364,3162
 2021-02-21,Lithuania,,194051,179509,3171
 2021-02-22,Lithuania,,194333,179624,3178
+2021-02-23,Lithuania,,194833,180640,3189
 2020-01-22,Luxembourg,,0,0,0
 2020-01-23,Luxembourg,,0,0,0
 2020-01-24,Luxembourg,,0,0,0
@@ -68057,6 +68227,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Luxembourg,,53782,50386,622
 2021-02-21,Luxembourg,,53782,50386,622
 2021-02-22,Luxembourg,,54172,50931,628
+2021-02-23,Luxembourg,,54354,50945,629
 2020-01-22,MS Zaandam,,0,0,0
 2020-01-23,MS Zaandam,,0,0,0
 2020-01-24,MS Zaandam,,0,0,0
@@ -68455,6 +68626,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,MS Zaandam,,9,7,2
 2021-02-21,MS Zaandam,,9,7,2
 2021-02-22,MS Zaandam,,9,7,2
+2021-02-23,MS Zaandam,,9,7,2
 2020-01-22,Madagascar,,0,0,0
 2020-01-23,Madagascar,,0,0,0
 2020-01-24,Madagascar,,0,0,0
@@ -68853,6 +69025,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Madagascar,,19598,18915,292
 2021-02-21,Madagascar,,19831,19296,297
 2021-02-22,Madagascar,,19831,19296,297
+2021-02-23,Madagascar,,19831,19296,297
 2020-01-22,Malawi,,0,0,0
 2020-01-23,Malawi,,0,0,0
 2020-01-24,Malawi,,0,0,0
@@ -69251,6 +69424,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Malawi,,30528,16620,1004
 2021-02-21,Malawi,,30742,16840,1013
 2021-02-22,Malawi,,30942,17184,1021
+2021-02-23,Malawi,,31106,17445,1024
 2020-01-22,Malaysia,,0,0,0
 2020-01-23,Malaysia,,0,0,0
 2020-01-24,Malaysia,,0,0,0
@@ -69649,6 +69823,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Malaysia,,280272,244753,1051
 2021-02-21,Malaysia,,283569,249209,1056
 2021-02-22,Malaysia,,285761,252623,1062
+2021-02-23,Malaysia,,288229,256678,1076
 2020-01-22,Maldives,,0,0,0
 2020-01-23,Maldives,,0,0,0
 2020-01-24,Maldives,,0,0,0
@@ -70047,6 +70222,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Maldives,,18612,16061,60
 2021-02-21,Maldives,,18769,16196,60
 2021-02-22,Maldives,,18930,16351,60
+2021-02-23,Maldives,,19038,16542,60
 2020-01-22,Mali,,0,0,0
 2020-01-23,Mali,,0,0,0
 2020-01-24,Mali,,0,0,0
@@ -70445,6 +70621,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Mali,,8292,6263,347
 2021-02-21,Mali,,8299,6298,348
 2021-02-22,Mali,,8306,6303,348
+2021-02-23,Mali,,8324,6305,348
 2020-01-22,Malta,,0,0,0
 2020-01-23,Malta,,0,0,0
 2020-01-24,Malta,,0,0,0
@@ -70843,6 +71020,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Malta,,20762,17933,303
 2021-02-21,Malta,,20892,18067,304
 2021-02-22,Malta,,21085,18309,305
+2021-02-23,Malta,,21306,18500,306
 2020-01-22,Marshall Islands,,0,0,0
 2020-01-23,Marshall Islands,,0,0,0
 2020-01-24,Marshall Islands,,0,0,0
@@ -71241,6 +71419,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Marshall Islands,,4,4,0
 2021-02-21,Marshall Islands,,4,4,0
 2021-02-22,Marshall Islands,,4,4,0
+2021-02-23,Marshall Islands,,4,4,0
 2020-01-22,Mauritania,,0,0,0
 2020-01-23,Mauritania,,0,0,0
 2020-01-24,Mauritania,,0,0,0
@@ -71639,6 +71818,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Mauritania,,17083,16376,434
 2021-02-21,Mauritania,,17095,16396,434
 2021-02-22,Mauritania,,17110,16438,435
+2021-02-23,Mauritania,,17130,16472,437
 2020-01-22,Mauritius,,0,0,0
 2020-01-23,Mauritius,,0,0,0
 2020-01-24,Mauritius,,0,0,0
@@ -72037,6 +72217,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Mauritius,,603,556,10
 2021-02-21,Mauritius,,603,556,10
 2021-02-22,Mauritius,,603,556,10
+2021-02-23,Mauritius,,610,571,10
 2020-01-22,Mexico,,0,0,0
 2020-01-23,Mexico,,0,0,0
 2020-01-24,Mexico,,0,0,0
@@ -72435,6 +72616,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Mexico,,2038276,1590696,179797
 2021-02-21,Mexico,,2041380,1595320,180107
 2021-02-22,Mexico,,2043632,1602024,180536
+2021-02-23,Mexico,,2052266,1607869,181809
 2020-01-22,Micronesia,,0,0,0
 2020-01-23,Micronesia,,0,0,0
 2020-01-24,Micronesia,,0,0,0
@@ -72833,6 +73015,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Micronesia,,1,1,0
 2021-02-21,Micronesia,,1,1,0
 2021-02-22,Micronesia,,1,1,0
+2021-02-23,Micronesia,,1,1,0
 2020-01-22,Moldova,,0,0,0
 2020-01-23,Moldova,,0,0,0
 2020-01-24,Moldova,,0,0,0
@@ -73231,6 +73414,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Moldova,,176245,161220,3760
 2021-02-21,Moldova,,176752,161893,3780
 2021-02-22,Moldova,,177407,162595,3799
+2021-02-23,Moldova,,178540,163376,3823
 2020-01-22,Monaco,,0,0,0
 2020-01-23,Monaco,,0,0,0
 2020-01-24,Monaco,,0,0,0
@@ -73629,6 +73813,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Monaco,,1862,1644,22
 2021-02-21,Monaco,,1870,1650,22
 2021-02-22,Monaco,,1885,1657,22
+2021-02-23,Monaco,,1904,1669,23
 2020-01-22,Mongolia,,0,0,0
 2020-01-23,Mongolia,,0,0,0
 2020-01-24,Mongolia,,0,0,0
@@ -74027,6 +74212,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Mongolia,,2638,1846,2
 2021-02-21,Mongolia,,2693,1933,2
 2021-02-22,Mongolia,,2723,2003,2
+2021-02-23,Mongolia,,2755,2070,2
 2020-01-22,Montenegro,,0,0,0
 2020-01-23,Montenegro,,0,0,0
 2020-01-24,Montenegro,,0,0,0
@@ -74425,6 +74611,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Montenegro,,71593,62205,939
 2021-02-21,Montenegro,,71995,62825,950
 2021-02-22,Montenegro,,72395,63280,957
+2021-02-23,Montenegro,,72969,63738,969
 2020-01-22,Morocco,,0,0,0
 2020-01-23,Morocco,,0,0,0
 2020-01-24,Morocco,,0,0,0
@@ -74823,6 +75010,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Morocco,,480948,464043,8548
 2021-02-21,Morocco,,481155,464664,8554
 2021-02-22,Morocco,,481263,465297,8559
+2021-02-23,Morocco,,481709,466105,8574
 2020-01-22,Mozambique,,0,0,0
 2020-01-23,Mozambique,,0,0,0
 2020-01-24,Mozambique,,0,0,0
@@ -75221,6 +75409,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Mozambique,,54968,34921,587
 2021-02-21,Mozambique,,55643,35267,595
 2021-02-22,Mozambique,,56160,36224,599
+2021-02-23,Mozambique,,56595,37570,606
 2020-01-22,Namibia,,0,0,0
 2020-01-23,Namibia,,0,0,0
 2020-01-24,Namibia,,0,0,0
@@ -75619,6 +75808,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Namibia,,37295,35035,402
 2021-02-21,Namibia,,37483,35090,402
 2021-02-22,Namibia,,37742,35273,406
+2021-02-23,Namibia,,37896,35419,411
 2020-01-22,Nepal,,0,0,0
 2020-01-23,Nepal,,0,0,0
 2020-01-24,Nepal,,0,0,0
@@ -76017,6 +76207,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Nepal,,273351,269755,2061
 2021-02-21,Nepal,,273431,269876,2061
 2021-02-22,Nepal,,273556,269966,2061
+2021-02-23,Nepal,,273666,270068,2065
 2020-01-22,Netherlands,Aruba,0,0,0
 2020-01-23,Netherlands,Aruba,0,0,0
 2020-01-24,Netherlands,Aruba,0,0,0
@@ -76415,6 +76606,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Netherlands,Aruba,7647,7291,71
 2021-02-21,Netherlands,Aruba,7674,7323,71
 2021-02-22,Netherlands,Aruba,7692,7361,71
+2021-02-23,Netherlands,Aruba,7735,7384,71
 2020-01-22,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0,0
 2020-01-23,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0,0
 2020-01-24,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0,0
@@ -76813,6 +77005,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Netherlands,"Bonaire, Sint Eustatius and Saba",196,180,3
 2021-02-21,Netherlands,"Bonaire, Sint Eustatius and Saba",196,180,3
 2021-02-22,Netherlands,"Bonaire, Sint Eustatius and Saba",196,180,3
+2021-02-23,Netherlands,"Bonaire, Sint Eustatius and Saba",196,180,3
 2020-01-22,Netherlands,Curacao,0,0,0
 2020-01-23,Netherlands,Curacao,0,0,0
 2020-01-24,Netherlands,Curacao,0,0,0
@@ -77211,6 +77404,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Netherlands,Curacao,4681,4603,22
 2021-02-21,Netherlands,Curacao,4681,4603,22
 2021-02-22,Netherlands,Curacao,4694,4610,22
+2021-02-23,Netherlands,Curacao,4696,4611,22
 2020-01-22,Netherlands,Sint Maarten,0,0,0
 2020-01-23,Netherlands,Sint Maarten,0,0,0
 2020-01-24,Netherlands,Sint Maarten,0,0,0
@@ -77609,6 +77803,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Netherlands,Sint Maarten,2033,1955,27
 2021-02-21,Netherlands,Sint Maarten,2033,1955,27
 2021-02-22,Netherlands,Sint Maarten,2042,1966,27
+2021-02-23,Netherlands,Sint Maarten,2047,1973,27
 2020-01-22,Netherlands,,0,0,0
 2020-01-23,Netherlands,,0,0,0
 2020-01-24,Netherlands,,0,0,0
@@ -78007,6 +78202,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Netherlands,,1051965,0,15200
 2021-02-21,Netherlands,,1056639,0,15217
 2021-02-22,Netherlands,,1060801,0,15249
+2021-02-23,Netherlands,,1064598,0,15343
 2020-01-22,New Zealand,,0,0,0
 2020-01-23,New Zealand,,0,0,0
 2020-01-24,New Zealand,,0,0,0
@@ -78405,6 +78601,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,New Zealand,,2350,2273,26
 2021-02-21,New Zealand,,2357,2277,26
 2021-02-22,New Zealand,,2363,2277,26
+2021-02-23,New Zealand,,2365,2277,26
 2020-01-22,Nicaragua,,0,0,0
 2020-01-23,Nicaragua,,0,0,0
 2020-01-24,Nicaragua,,0,0,0
@@ -78803,6 +79000,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Nicaragua,,6398,4225,172
 2021-02-21,Nicaragua,,6398,4225,172
 2021-02-22,Nicaragua,,6398,4225,172
+2021-02-23,Nicaragua,,6445,4225,173
 2020-01-22,Niger,,0,0,0
 2020-01-23,Niger,,0,0,0
 2020-01-24,Niger,,0,0,0
@@ -79201,6 +79399,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Niger,,4733,4235,170
 2021-02-21,Niger,,4733,4235,170
 2021-02-22,Niger,,4740,4250,172
+2021-02-23,Niger,,4740,4250,172
 2020-01-22,Nigeria,,0,0,0
 2020-01-23,Nigeria,,0,0,0
 2020-01-24,Nigeria,,0,0,0
@@ -79599,6 +79798,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Nigeria,,151553,128005,1831
 2021-02-21,Nigeria,,152074,128619,1839
 2021-02-22,Nigeria,,152616,129300,1862
+2021-02-23,Nigeria,,153187,129943,1874
 2020-01-22,North Macedonia,,0,0,0
 2020-01-23,North Macedonia,,0,0,0
 2020-01-24,North Macedonia,,0,0,0
@@ -79997,6 +80197,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,North Macedonia,,99031,89249,3047
 2021-02-21,North Macedonia,,99285,89400,3063
 2021-02-22,North Macedonia,,99408,89742,3076
+2021-02-23,North Macedonia,,99917,90096,3085
 2020-01-22,Norway,,0,0,0
 2020-01-23,Norway,,0,0,0
 2020-01-24,Norway,,0,0,0
@@ -80395,6 +80596,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Norway,,68315,17998,607
 2021-02-21,Norway,,68532,17998,607
 2021-02-22,Norway,,68758,17998,608
+2021-02-23,Norway,,69148,17998,608
 2020-01-22,Oman,,0,0,0
 2020-01-23,Oman,,0,0,0
 2020-01-24,Oman,,0,0,0
@@ -80793,6 +80995,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Oman,,138494,130084,1549
 2021-02-21,Oman,,139362,130653,1552
 2021-02-22,Oman,,139692,130653,1555
+2021-02-23,Oman,,139989,131143,1557
 2020-01-22,Pakistan,,0,0,0
 2020-01-23,Pakistan,,0,0,0
 2020-01-24,Pakistan,,0,0,0
@@ -81191,6 +81394,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Pakistan,,571174,534107,12601
 2021-02-21,Pakistan,,572334,535491,12617
 2021-02-22,Pakistan,,573384,536243,12658
+2021-02-23,Pakistan,,574580,538207,12708
 2020-01-22,Panama,,0,0,0
 2020-01-23,Panama,,0,0,0
 2020-01-24,Panama,,0,0,0
@@ -81589,6 +81793,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Panama,,336037,319821,5727
 2021-02-21,Panama,,336521,320668,5742
 2021-02-22,Panama,,337087,321439,5756
+2021-02-23,Panama,,337805,322238,5772
 2020-01-22,Papua New Guinea,,0,0,0
 2020-01-23,Papua New Guinea,,0,0,0
 2020-01-24,Papua New Guinea,,0,0,0
@@ -81987,6 +82192,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Papua New Guinea,,970,846,10
 2021-02-21,Papua New Guinea,,970,846,10
 2021-02-22,Papua New Guinea,,1056,846,10
+2021-02-23,Papua New Guinea,,1111,846,10
 2020-01-22,Paraguay,,0,0,0
 2020-01-23,Paraguay,,0,0,0
 2020-01-24,Paraguay,,0,0,0
@@ -82385,6 +82591,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Paraguay,,150731,125967,3045
 2021-02-21,Paraguay,,151718,126919,3065
 2021-02-22,Paraguay,,152658,127819,3080
+2021-02-23,Paraguay,,153790,128731,3101
 2020-01-22,Peru,,0,0,0
 2020-01-23,Peru,,0,0,0
 2020-01-24,Peru,,0,0,0
@@ -82783,6 +82990,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Peru,,1269523,1169648,44690
 2021-02-21,Peru,,1283309,1183238,45097
 2021-02-22,Peru,,1283309,1183238,45097
+2021-02-23,Peru,,1286757,1188995,45263
 2020-01-22,Philippines,,0,0,0
 2020-01-23,Philippines,,0,0,0
 2020-01-24,Philippines,,0,0,0
@@ -83181,6 +83389,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Philippines,,559288,513120,12068
 2021-02-21,Philippines,,561169,522843,12088
 2021-02-22,Philippines,,563456,522874,12094
+2021-02-23,Philippines,,564865,522941,12107
 2020-01-22,Poland,,0,0,0
 2020-01-23,Poland,,0,0,0
 2020-01-24,Poland,,0,0,0
@@ -83579,6 +83788,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Poland,,1631727,1372326,42077
 2021-02-21,Poland,,1638767,1378414,42171
 2021-02-22,Poland,,1642658,1384373,42188
+2021-02-23,Poland,,1648962,1389516,42436
 2020-01-22,Portugal,,0,0,0
 2020-01-23,Portugal,,0,0,0
 2020-01-24,Portugal,,0,0,0
@@ -83977,6 +84187,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Portugal,,796339,696916,15897
 2021-02-21,Portugal,,797525,699222,15962
 2021-02-22,Portugal,,798074,701409,16023
+2021-02-23,Portugal,,799106,705976,16086
 2020-01-22,Qatar,,0,0,0
 2020-01-23,Qatar,,0,0,0
 2020-01-24,Qatar,,0,0,0
@@ -84375,6 +84586,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Qatar,,159967,149740,256
 2021-02-21,Qatar,,160426,150220,256
 2021-02-22,Qatar,,160889,150715,257
+2021-02-23,Qatar,,161344,151225,257
 2020-01-22,Romania,,0,0,0
 2020-01-23,Romania,,0,0,0
 2020-01-24,Romania,,0,0,0
@@ -84773,6 +84985,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Romania,,777276,722484,19795
 2021-02-21,Romania,,779695,724333,19847
 2021-02-22,Romania,,781329,725526,19894
+2021-02-23,Romania,,784711,728252,20013
 2020-01-22,Russia,,0,0,0
 2020-01-23,Russia,,0,0,0
 2020-01-24,Russia,,0,0,0
@@ -85171,6 +85384,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Russia,,4105424,3656314,81517
 2021-02-21,Russia,,4117992,3672084,81926
 2021-02-22,Russia,,4130447,3684955,82255
+2021-02-23,Russia,,4142126,3697787,82666
 2020-01-22,Rwanda,,0,0,0
 2020-01-23,Rwanda,,0,0,0
 2020-01-24,Rwanda,,0,0,0
@@ -85569,6 +85783,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Rwanda,,17988,16597,247
 2021-02-21,Rwanda,,18053,16803,249
 2021-02-22,Rwanda,,18199,16992,252
+2021-02-23,Rwanda,,18325,17251,253
 2020-01-22,Saint Kitts and Nevis,,0,0,0
 2020-01-23,Saint Kitts and Nevis,,0,0,0
 2020-01-24,Saint Kitts and Nevis,,0,0,0
@@ -85967,6 +86182,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Saint Kitts and Nevis,,41,39,0
 2021-02-21,Saint Kitts and Nevis,,41,39,0
 2021-02-22,Saint Kitts and Nevis,,41,39,0
+2021-02-23,Saint Kitts and Nevis,,41,39,0
 2020-01-22,Saint Lucia,,0,0,0
 2020-01-23,Saint Lucia,,0,0,0
 2020-01-24,Saint Lucia,,0,0,0
@@ -86365,6 +86581,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Saint Lucia,,2860,2437,28
 2021-02-21,Saint Lucia,,3078,2534,31
 2021-02-22,Saint Lucia,,3135,2675,32
+2021-02-23,Saint Lucia,,3142,2745,32
 2020-01-22,Saint Vincent and the Grenadines,,0,0,0
 2020-01-23,Saint Vincent and the Grenadines,,0,0,0
 2020-01-24,Saint Vincent and the Grenadines,,0,0,0
@@ -86763,6 +86980,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Saint Vincent and the Grenadines,,1498,768,6
 2021-02-21,Saint Vincent and the Grenadines,,1503,803,6
 2021-02-22,Saint Vincent and the Grenadines,,1503,803,6
+2021-02-23,Saint Vincent and the Grenadines,,1511,845,6
 2020-01-22,Samoa,,0,0,0
 2020-01-23,Samoa,,0,0,0
 2020-01-24,Samoa,,0,0,0
@@ -87161,6 +87379,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Samoa,,3,2,0
 2021-02-21,Samoa,,3,2,0
 2021-02-22,Samoa,,3,2,0
+2021-02-23,Samoa,,3,2,0
 2020-01-22,San Marino,,0,0,0
 2020-01-23,San Marino,,0,0,0
 2020-01-24,San Marino,,0,0,0
@@ -87559,6 +87778,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,San Marino,,3472,3092,72
 2021-02-21,San Marino,,3472,3092,72
 2021-02-22,San Marino,,3494,3115,72
+2021-02-23,San Marino,,3538,3167,73
 2020-01-22,Sao Tome and Principe,,0,0,0
 2020-01-23,Sao Tome and Principe,,0,0,0
 2020-01-24,Sao Tome and Principe,,0,0,0
@@ -87957,6 +88177,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Sao Tome and Principe,,1578,1220,21
 2021-02-21,Sao Tome and Principe,,1610,1248,21
 2021-02-22,Sao Tome and Principe,,1628,1257,22
+2021-02-23,Sao Tome and Principe,,1655,1271,26
 2020-01-22,Saudi Arabia,,0,0,0
 2020-01-23,Saudi Arabia,,0,0,0
 2020-01-24,Saudi Arabia,,0,0,0
@@ -88355,6 +88576,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Saudi Arabia,,374691,365745,6457
 2021-02-21,Saudi Arabia,,375006,366094,6461
 2021-02-22,Saudi Arabia,,375333,366412,6466
+2021-02-23,Saudi Arabia,,375668,366735,6470
 2020-01-22,Senegal,,0,0,0
 2020-01-23,Senegal,,0,0,0
 2020-01-24,Senegal,,0,0,0
@@ -88753,6 +88975,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Senegal,,32630,26907,795
 2021-02-21,Senegal,,32927,27131,808
 2021-02-22,Senegal,,33099,27428,814
+2021-02-23,Senegal,,33242,27694,832
 2020-01-22,Serbia,,0,0,0
 2020-01-23,Serbia,,0,0,0
 2020-01-24,Serbia,,0,0,0
@@ -89151,6 +89374,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Serbia,,434122,0,4321
 2021-02-21,Serbia,,436640,0,4337
 2021-02-22,Serbia,,439596,0,4351
+2021-02-23,Serbia,,442853,0,4366
 2020-01-22,Seychelles,,0,0,0
 2020-01-23,Seychelles,,0,0,0
 2020-01-24,Seychelles,,0,0,0
@@ -89549,6 +89773,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Seychelles,,2328,1831,10
 2021-02-21,Seychelles,,2401,1874,10
 2021-02-22,Seychelles,,2464,1940,11
+2021-02-23,Seychelles,,2514,2016,11
 2020-01-22,Sierra Leone,,0,0,0
 2020-01-23,Sierra Leone,,0,0,0
 2020-01-24,Sierra Leone,,0,0,0
@@ -89947,6 +90172,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Sierra Leone,,3849,2603,79
 2021-02-21,Sierra Leone,,3855,2607,79
 2021-02-22,Sierra Leone,,3857,2609,79
+2021-02-23,Sierra Leone,,3862,2609,79
 2020-01-22,Singapore,,0,0,0
 2020-01-23,Singapore,,1,0,0
 2020-01-24,Singapore,,3,0,0
@@ -90345,6 +90571,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Singapore,,59858,59719,29
 2021-02-21,Singapore,,59869,59731,29
 2021-02-22,Singapore,,59879,59746,29
+2021-02-23,Singapore,,59883,59753,29
 2020-01-22,Slovakia,,0,0,0
 2020-01-23,Slovakia,,0,0,0
 2020-01-24,Slovakia,,0,0,0
@@ -90743,6 +90970,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Slovakia,,290457,255300,6424
 2021-02-21,Slovakia,,292143,255300,6505
 2021-02-22,Slovakia,,292792,255300,6577
+2021-02-23,Slovakia,,294790,255300,6671
 2020-01-22,Slovenia,,0,0,0
 2020-01-23,Slovenia,,0,0,0
 2020-01-24,Slovenia,,0,0,0
@@ -91141,6 +91369,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Slovenia,,184352,169406,3769
 2021-02-21,Slovenia,,184767,169896,3776
 2021-02-22,Slovenia,,185014,170198,3784
+2021-02-23,Slovenia,,185916,170527,3792
 2020-01-22,Solomon Islands,,0,0,0
 2020-01-23,Solomon Islands,,0,0,0
 2020-01-24,Solomon Islands,,0,0,0
@@ -91539,6 +91768,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Solomon Islands,,18,14,0
 2021-02-21,Solomon Islands,,18,14,0
 2021-02-22,Solomon Islands,,18,14,0
+2021-02-23,Solomon Islands,,18,14,0
 2020-01-22,Somalia,,0,0,0
 2020-01-23,Somalia,,0,0,0
 2020-01-24,Somalia,,0,0,0
@@ -91937,6 +92167,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Somalia,,5889,3757,194
 2021-02-21,Somalia,,6017,3764,202
 2021-02-22,Somalia,,6246,3778,208
+2021-02-23,Somalia,,6246,3778,208
 2020-01-22,South Africa,,0,0,0
 2020-01-23,South Africa,,0,0,0
 2020-01-24,South Africa,,0,0,0
@@ -92335,6 +92566,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,South Africa,,1502367,1409553,48940
 2021-02-21,South Africa,,1503796,1412015,49053
 2021-02-22,South Africa,,1504588,1413566,49150
+2021-02-23,South Africa,,1505586,1419459,49413
 2020-01-22,South Sudan,,0,0,0
 2020-01-23,South Sudan,,0,0,0
 2020-01-24,South Sudan,,0,0,0
@@ -92733,6 +92965,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,South Sudan,,6417,4014,85
 2021-02-21,South Sudan,,6583,4014,86
 2021-02-22,South Sudan,,6931,4014,87
+2021-02-23,South Sudan,,7098,4014,87
 2020-01-22,Spain,,0,0,0
 2020-01-23,Spain,,0,0,0
 2020-01-24,Spain,,0,0,0
@@ -93131,6 +93364,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Spain,,3133122,150376,67101
 2021-02-21,Spain,,3133122,150376,67101
 2021-02-22,Spain,,3153971,150376,67636
+2021-02-23,Spain,,3161432,150376,68079
 2020-01-22,Sri Lanka,,0,0,0
 2020-01-23,Sri Lanka,,0,0,0
 2020-01-24,Sri Lanka,,0,0,0
@@ -93529,6 +93763,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Sri Lanka,,79480,73456,435
 2021-02-21,Sri Lanka,,79999,74299,445
 2021-02-22,Sri Lanka,,80517,75110,450
+2021-02-23,Sri Lanka,,81009,75842,453
 2020-01-22,Sudan,,0,0,0
 2020-01-23,Sudan,,0,0,0
 2020-01-24,Sudan,,0,0,0
@@ -93927,6 +94162,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Sudan,,30128,22638,1864
 2021-02-21,Sudan,,30128,22638,1864
 2021-02-22,Sudan,,30128,22797,1871
+2021-02-23,Sudan,,30205,22823,1876
 2020-01-22,Suriname,,0,0,0
 2020-01-23,Suriname,,0,0,0
 2020-01-24,Suriname,,0,0,0
@@ -94325,6 +94561,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Suriname,,8856,8331,168
 2021-02-21,Suriname,,8868,8338,168
 2021-02-22,Suriname,,8869,8349,169
+2021-02-23,Suriname,,8880,8359,170
 2020-01-22,Sweden,,0,0,0
 2020-01-23,Sweden,,0,0,0
 2020-01-24,Sweden,,0,0,0
@@ -94723,6 +94960,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Sweden,,631166,0,12649
 2021-02-21,Sweden,,631166,0,12649
 2021-02-22,Sweden,,631166,0,12649
+2021-02-23,Sweden,,642099,0,12713
 2020-01-22,Switzerland,,0,0,0
 2020-01-23,Switzerland,,0,0,0
 2020-01-24,Switzerland,,0,0,0
@@ -95121,6 +95359,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Switzerland,,547775,317600,9886
 2021-02-21,Switzerland,,547775,317600,9887
 2021-02-22,Switzerland,,550224,317600,9907
+2021-02-23,Switzerland,,551355,317600,9930
 2020-01-22,Syria,,0,0,0
 2020-01-23,Syria,,0,0,0
 2020-01-24,Syria,,0,0,0
@@ -95519,6 +95758,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Syria,,15143,9144,996
 2021-02-21,Syria,,15179,9221,998
 2021-02-22,Syria,,15230,9307,1001
+2021-02-23,Syria,,15282,9389,1004
 2020-01-22,Taiwan*,,1,0,0
 2020-01-23,Taiwan*,,1,0,0
 2020-01-24,Taiwan*,,3,0,0
@@ -95917,6 +96157,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Taiwan*,,942,893,9
 2021-02-21,Taiwan*,,942,893,9
 2021-02-22,Taiwan*,,942,893,9
+2021-02-23,Taiwan*,,942,893,9
 2020-01-22,Tajikistan,,0,0,0
 2020-01-23,Tajikistan,,0,0,0
 2020-01-24,Tajikistan,,0,0,0
@@ -96315,6 +96556,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Tajikistan,,13308,13218,90
 2021-02-21,Tajikistan,,13308,13218,90
 2021-02-22,Tajikistan,,13308,13218,90
+2021-02-23,Tajikistan,,13308,13218,90
 2020-01-22,Tanzania,,0,0,0
 2020-01-23,Tanzania,,0,0,0
 2020-01-24,Tanzania,,0,0,0
@@ -96713,6 +96955,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Tanzania,,509,183,21
 2021-02-21,Tanzania,,509,183,21
 2021-02-22,Tanzania,,509,183,21
+2021-02-23,Tanzania,,509,183,21
 2020-01-22,Thailand,,4,2,0
 2020-01-23,Thailand,,4,2,0
 2020-01-24,Thailand,,5,3,0
@@ -97111,6 +97354,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Thailand,,25323,24129,83
 2021-02-21,Thailand,,25504,24361,83
 2021-02-22,Thailand,,25504,24361,83
+2021-02-23,Thailand,,25692,24542,83
 2020-01-22,Timor-Leste,,0,0,0
 2020-01-23,Timor-Leste,,0,0,0
 2020-01-24,Timor-Leste,,0,0,0
@@ -97509,6 +97753,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Timor-Leste,,103,82,0
 2021-02-21,Timor-Leste,,103,82,0
 2021-02-22,Timor-Leste,,103,82,0
+2021-02-23,Timor-Leste,,107,82,0
 2020-01-22,Togo,,0,0,0
 2020-01-23,Togo,,0,0,0
 2020-01-24,Togo,,0,0,0
@@ -97907,6 +98152,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Togo,,6268,5296,81
 2021-02-21,Togo,,6319,5314,81
 2021-02-22,Togo,,6348,5323,81
+2021-02-23,Togo,,6466,5388,81
 2020-01-22,Trinidad and Tobago,,0,0,0
 2020-01-23,Trinidad and Tobago,,0,0,0
 2020-01-24,Trinidad and Tobago,,0,0,0
@@ -98305,6 +98551,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Trinidad and Tobago,,7676,7392,139
 2021-02-21,Trinidad and Tobago,,7680,7403,139
 2021-02-22,Trinidad and Tobago,,7682,7411,139
+2021-02-23,Trinidad and Tobago,,7686,7423,139
 2020-01-22,Tunisia,,0,0,0
 2020-01-23,Tunisia,,0,0,0
 2020-01-24,Tunisia,,0,0,0
@@ -98703,6 +98950,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Tunisia,,227643,188317,7755
 2021-02-21,Tunisia,,228362,188607,7793
 2021-02-22,Tunisia,,228937,189358,7811
+2021-02-23,Tunisia,,229781,190155,7843
 2020-01-22,Turkey,,0,0,0
 2020-01-23,Turkey,,0,0,0
 2020-01-24,Turkey,,0,0,0
@@ -99101,6 +99349,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Turkey,,2631876,2518758,27983
 2021-02-21,Turkey,,2638422,2523760,28060
 2021-02-22,Turkey,,2646526,2529450,28138
+2021-02-23,Turkey,,2655633,2534996,28213
 2020-01-22,US,,1,0,0
 2020-01-23,US,,1,0,0
 2020-01-24,US,,2,0,0
@@ -99498,7 +99747,8 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-19,US,,28006110,0,495827
 2021-02-20,US,,28077620,0,497648
 2021-02-21,US,,28134115,0,498897
-2021-02-22,US,,28188571,0,500244
+2021-02-22,US,,28190159,0,500310
+2021-02-23,US,,28259987,0,502594
 2020-01-22,Uganda,,0,0,0
 2020-01-23,Uganda,,0,0,0
 2020-01-24,Uganda,,0,0,0
@@ -99897,6 +100147,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Uganda,,40199,14578,333
 2021-02-21,Uganda,,40213,14578,333
 2021-02-22,Uganda,,40221,14608,333
+2021-02-23,Uganda,,40243,14615,333
 2020-01-22,Ukraine,,0,0,0
 2020-01-23,Ukraine,,0,0,0
 2020-01-24,Ukraine,,0,0,0
@@ -100295,6 +100546,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Ukraine,,1346527,1185635,26404
 2021-02-21,Ukraine,,1351190,1187434,26470
 2021-02-22,Ukraine,,1354545,1188859,26531
+2021-02-23,Ukraine,,1358871,1193334,26690
 2020-01-22,United Arab Emirates,,0,0,0
 2020-01-23,United Arab Emirates,,0,0,0
 2020-01-24,United Arab Emirates,,0,0,0
@@ -100693,6 +100945,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,United Arab Emirates,,368175,356013,1108
 2021-02-21,United Arab Emirates,,370425,359697,1125
 2021-02-22,United Arab Emirates,,372530,363052,1140
+2021-02-23,United Arab Emirates,,375535,366567,1145
 2020-01-22,United Kingdom,Anguilla,0,0,0
 2020-01-23,United Kingdom,Anguilla,0,0,0
 2020-01-24,United Kingdom,Anguilla,0,0,0
@@ -101091,6 +101344,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,United Kingdom,Anguilla,18,18,0
 2021-02-21,United Kingdom,Anguilla,18,18,0
 2021-02-22,United Kingdom,Anguilla,18,18,0
+2021-02-23,United Kingdom,Anguilla,18,18,0
 2020-01-22,United Kingdom,Bermuda,0,0,0
 2020-01-23,United Kingdom,Bermuda,0,0,0
 2020-01-24,United Kingdom,Bermuda,0,0,0
@@ -101489,6 +101743,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,United Kingdom,Bermuda,699,679,12
 2021-02-21,United Kingdom,Bermuda,699,679,12
 2021-02-22,United Kingdom,Bermuda,699,679,12
+2021-02-23,United Kingdom,Bermuda,703,681,12
 2020-01-22,United Kingdom,British Virgin Islands,0,0,0
 2020-01-23,United Kingdom,British Virgin Islands,0,0,0
 2020-01-24,United Kingdom,British Virgin Islands,0,0,0
@@ -101887,6 +102142,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,United Kingdom,British Virgin Islands,114,95,1
 2021-02-21,United Kingdom,British Virgin Islands,114,95,1
 2021-02-22,United Kingdom,British Virgin Islands,114,95,1
+2021-02-23,United Kingdom,British Virgin Islands,114,95,1
 2020-01-22,United Kingdom,Cayman Islands,0,0,0
 2020-01-23,United Kingdom,Cayman Islands,0,0,0
 2020-01-24,United Kingdom,Cayman Islands,0,0,0
@@ -102285,6 +102541,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,United Kingdom,Cayman Islands,428,394,2
 2021-02-21,United Kingdom,Cayman Islands,428,394,2
 2021-02-22,United Kingdom,Cayman Islands,431,403,2
+2021-02-23,United Kingdom,Cayman Islands,431,403,2
 2020-01-22,United Kingdom,Channel Islands,0,0,0
 2020-01-23,United Kingdom,Channel Islands,0,0,0
 2020-01-24,United Kingdom,Channel Islands,0,0,0
@@ -102683,6 +102940,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,United Kingdom,Channel Islands,4025,3829,85
 2021-02-21,United Kingdom,Channel Islands,4026,3842,85
 2021-02-22,United Kingdom,Channel Islands,4030,3858,85
+2021-02-23,United Kingdom,Channel Islands,4030,3879,85
 2020-01-22,United Kingdom,Falkland Islands (Malvinas),0,0,0
 2020-01-23,United Kingdom,Falkland Islands (Malvinas),0,0,0
 2020-01-24,United Kingdom,Falkland Islands (Malvinas),0,0,0
@@ -103081,6 +103339,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,United Kingdom,Falkland Islands (Malvinas),54,43,0
 2021-02-21,United Kingdom,Falkland Islands (Malvinas),54,43,0
 2021-02-22,United Kingdom,Falkland Islands (Malvinas),54,43,0
+2021-02-23,United Kingdom,Falkland Islands (Malvinas),54,46,0
 2020-01-22,United Kingdom,Gibraltar,0,0,0
 2020-01-23,United Kingdom,Gibraltar,0,0,0
 2020-01-24,United Kingdom,Gibraltar,0,0,0
@@ -103479,6 +103738,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,United Kingdom,Gibraltar,4228,4092,88
 2021-02-21,United Kingdom,Gibraltar,4228,4097,90
 2021-02-22,United Kingdom,Gibraltar,4232,4103,91
+2021-02-23,United Kingdom,Gibraltar,4234,4113,91
 2020-01-22,United Kingdom,Isle of Man,0,0,0
 2020-01-23,United Kingdom,Isle of Man,0,0,0
 2020-01-24,United Kingdom,Isle of Man,0,0,0
@@ -103877,6 +104137,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,United Kingdom,Isle of Man,450,409,25
 2021-02-21,United Kingdom,Isle of Man,450,409,25
 2021-02-22,United Kingdom,Isle of Man,456,409,25
+2021-02-23,United Kingdom,Isle of Man,462,409,25
 2020-01-22,United Kingdom,Montserrat,0,0,0
 2020-01-23,United Kingdom,Montserrat,0,0,0
 2020-01-24,United Kingdom,Montserrat,0,0,0
@@ -104275,6 +104536,406 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,United Kingdom,Montserrat,20,13,1
 2021-02-21,United Kingdom,Montserrat,20,13,1
 2021-02-22,United Kingdom,Montserrat,20,13,1
+2021-02-23,United Kingdom,Montserrat,20,13,1
+2020-01-22,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-01-23,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-01-24,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-01-25,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-01-26,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-01-27,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-01-28,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-01-29,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-01-30,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-01-31,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-02-01,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-02-02,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-02-03,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-02-04,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-02-05,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-02-06,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-02-07,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-02-08,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-02-09,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-02-10,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-02-11,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-02-12,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-02-13,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-02-14,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-02-15,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-02-16,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-02-17,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-02-18,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-02-19,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-02-20,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-02-21,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-02-22,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-02-23,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-02-24,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-02-25,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-02-26,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-02-27,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-02-28,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-02-29,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-03-01,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-03-02,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-03-03,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-03-04,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-03-05,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-03-06,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-03-07,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-03-08,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-03-09,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-03-10,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-03-11,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-03-12,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-03-13,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-03-14,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-03-15,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-03-16,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-03-17,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-03-18,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",1,1,1
+2020-03-19,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",1,1,1
+2020-03-20,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",1,1,1
+2020-03-21,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",1,1,1
+2020-03-22,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-03-23,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-03-24,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-03-25,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-03-26,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-03-27,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-03-28,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-03-29,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-03-30,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-03-31,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-04-01,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-04-02,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-04-03,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-04-04,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-04-05,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-04-06,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-04-07,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-04-08,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-04-09,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-04-10,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-04-11,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-04-12,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-04-13,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-04-14,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-04-15,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-04-16,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-04-17,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-04-18,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-04-19,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-04-20,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-04-21,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-04-22,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-04-23,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-04-24,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-04-25,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-04-26,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-04-27,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-04-28,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-04-29,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-04-30,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-05-01,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-05-02,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-05-03,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-05-04,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-05-05,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-05-06,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-05-07,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-05-08,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-05-09,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-05-10,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-05-11,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-05-12,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-05-13,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-05-14,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-05-15,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-05-16,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-05-17,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-05-18,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-05-19,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-05-20,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-05-21,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-05-22,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-05-23,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-05-24,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-05-25,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-05-26,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-05-27,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-05-28,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-05-29,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-05-30,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-05-31,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-06-01,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-06-02,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-06-03,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-06-04,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-06-05,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-06-06,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-06-07,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-06-08,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-06-09,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-06-10,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-06-11,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-06-12,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-06-13,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-06-14,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-06-15,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-06-16,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-06-17,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-06-18,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-06-19,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-06-20,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-06-21,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-06-22,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-06-23,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-06-24,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-06-25,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-06-26,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-06-27,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-06-28,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-06-29,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-06-30,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-07-01,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-07-02,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-07-03,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-07-04,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-07-05,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-07-06,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-07-07,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-07-08,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-07-09,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-07-10,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-07-11,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-07-12,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-07-13,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-07-14,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-07-15,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-07-16,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-07-17,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-07-18,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-07-19,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-07-20,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-07-21,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-07-22,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-07-23,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-07-24,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-07-25,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-07-26,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-07-27,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-07-28,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-07-29,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-07-30,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-07-31,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-08-01,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-08-02,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-08-03,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-08-04,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-08-05,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-08-06,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-08-07,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-08-08,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-08-09,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-08-10,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-08-11,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-08-12,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-08-13,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-08-14,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-08-15,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-08-16,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-08-17,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-08-18,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-08-19,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-08-20,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-08-21,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-08-22,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-08-23,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-08-24,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-08-25,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-08-26,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-08-27,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-08-28,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-08-29,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-08-30,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-08-31,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-09-01,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-09-02,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-09-03,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-09-04,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-09-05,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-09-06,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",0,0,0
+2020-09-07,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,0,0
+2020-09-08,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,0,0
+2020-09-09,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-09-10,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-09-11,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-09-12,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-09-13,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-09-14,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-09-15,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-09-16,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-09-17,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-09-18,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-09-19,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-09-20,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-09-21,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-09-22,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-09-23,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-09-24,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-09-25,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-09-26,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-09-27,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-09-28,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-09-29,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-09-30,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-10-01,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-10-02,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-10-03,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-10-04,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-10-05,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-10-06,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-10-07,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-10-08,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-10-09,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-10-10,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-10-11,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-10-12,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-10-13,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-10-14,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-10-15,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-10-16,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-10-17,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-10-18,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-10-19,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-10-20,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-10-21,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-10-22,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-10-23,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-10-24,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-10-25,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-10-26,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-10-27,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-10-28,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-10-29,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-10-30,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-10-31,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-11-01,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-11-02,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-11-03,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-11-04,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-11-05,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-11-06,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-11-07,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-11-08,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-11-09,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-11-10,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-11-11,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-11-12,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-11-13,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-11-14,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-11-15,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",2,2,0
+2020-11-16,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",3,2,0
+2020-11-17,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",3,2,0
+2020-11-18,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",3,3,0
+2020-11-19,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",3,3,0
+2020-11-20,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",3,3,0
+2020-11-21,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",3,3,0
+2020-11-22,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",3,3,0
+2020-11-23,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",3,3,0
+2020-11-24,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",3,3,0
+2020-11-25,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",3,3,0
+2020-11-26,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",3,3,0
+2020-11-27,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",3,3,0
+2020-11-28,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",3,3,0
+2020-11-29,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",3,3,0
+2020-11-30,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",3,3,0
+2020-12-01,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",3,3,0
+2020-12-02,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",3,3,0
+2020-12-03,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",3,3,0
+2020-12-04,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",3,3,0
+2020-12-05,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",3,3,0
+2020-12-06,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",3,3,0
+2020-12-07,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",3,3,0
+2020-12-08,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",3,3,0
+2020-12-09,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",3,3,0
+2020-12-10,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",3,3,0
+2020-12-11,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",3,3,0
+2020-12-12,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",3,3,0
+2020-12-13,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",3,3,0
+2020-12-14,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",3,3,0
+2020-12-15,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",3,3,0
+2020-12-16,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",3,3,0
+2020-12-17,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",3,3,0
+2020-12-18,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",3,3,0
+2020-12-19,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",3,3,0
+2020-12-20,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",3,3,0
+2020-12-21,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",3,3,0
+2020-12-22,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",3,3,0
+2020-12-23,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",3,3,0
+2020-12-24,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,3,0
+2020-12-25,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,3,0
+2020-12-26,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,3,0
+2020-12-27,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,3,0
+2020-12-28,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,3,0
+2020-12-29,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,3,0
+2020-12-30,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,3,0
+2020-12-31,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,3,0
+2021-01-01,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,3,0
+2021-01-02,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,3,0
+2021-01-03,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,3,0
+2021-01-04,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,3,0
+2021-01-05,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,3,0
+2021-01-06,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,4,0
+2021-01-07,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,4,0
+2021-01-08,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,4,0
+2021-01-09,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,4,0
+2021-01-10,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,4,0
+2021-01-11,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,4,0
+2021-01-12,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,4,0
+2021-01-13,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,4,0
+2021-01-14,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,4,0
+2021-01-15,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,4,0
+2021-01-16,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,4,0
+2021-01-17,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,4,0
+2021-01-18,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,4,0
+2021-01-19,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,4,0
+2021-01-20,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,4,0
+2021-01-21,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,4,0
+2021-01-22,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,4,0
+2021-01-23,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,4,0
+2021-01-24,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,4,0
+2021-01-25,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,4,0
+2021-01-26,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,4,0
+2021-01-27,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,4,0
+2021-01-28,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,4,0
+2021-01-29,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,4,0
+2021-01-30,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,4,0
+2021-01-31,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,4,0
+2021-02-01,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,4,0
+2021-02-02,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,4,0
+2021-02-03,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,4,0
+2021-02-04,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,4,0
+2021-02-05,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,4,0
+2021-02-06,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,4,0
+2021-02-07,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,4,0
+2021-02-08,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,4,0
+2021-02-09,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,4,0
+2021-02-10,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,4,0
+2021-02-11,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,4,0
+2021-02-12,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,4,0
+2021-02-13,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,4,0
+2021-02-14,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,4,0
+2021-02-15,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,4,0
+2021-02-16,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,4,0
+2021-02-17,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,4,0
+2021-02-18,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,4,0
+2021-02-19,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,4,0
+2021-02-20,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,4,0
+2021-02-21,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,4,0
+2021-02-22,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,4,0
+2021-02-23,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,4,0
 2020-01-22,United Kingdom,Turks and Caicos Islands,0,0,0
 2020-01-23,United Kingdom,Turks and Caicos Islands,0,0,0
 2020-01-24,United Kingdom,Turks and Caicos Islands,0,0,0
@@ -104673,6 +105334,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,United Kingdom,Turks and Caicos Islands,2028,1721,14
 2021-02-21,United Kingdom,Turks and Caicos Islands,2028,1721,14
 2021-02-22,United Kingdom,Turks and Caicos Islands,2029,1721,14
+2021-02-23,United Kingdom,Turks and Caicos Islands,2051,1796,14
 2020-01-22,United Kingdom,,0,0,0
 2020-01-23,United Kingdom,,0,0,0
 2020-01-24,United Kingdom,,0,0,0
@@ -105071,6 +105733,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,United Kingdom,,4105675,0,120365
 2021-02-21,United Kingdom,,4115509,0,120580
 2021-02-22,United Kingdom,,4126150,0,120757
+2021-02-23,United Kingdom,,4134639,0,121305
 2020-01-22,Uruguay,,0,0,0
 2020-01-23,Uruguay,,0,0,0
 2020-01-24,Uruguay,,0,0,0
@@ -105469,6 +106132,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Uruguay,,52163,45881,569
 2021-02-21,Uruguay,,52815,46265,574
 2021-02-22,Uruguay,,53310,46845,583
+2021-02-23,Uruguay,,53973,47512,588
 2020-01-22,Uzbekistan,,0,0,0
 2020-01-23,Uzbekistan,,0,0,0
 2020-01-24,Uzbekistan,,0,0,0
@@ -105867,6 +106531,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Uzbekistan,,79632,78127,622
 2021-02-21,Uzbekistan,,79654,78152,622
 2021-02-22,Uzbekistan,,79681,78171,622
+2021-02-23,Uzbekistan,,79717,78185,622
 2020-01-22,Vanuatu,,0,0,0
 2020-01-23,Vanuatu,,0,0,0
 2020-01-24,Vanuatu,,0,0,0
@@ -106265,6 +106930,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Vanuatu,,1,1,0
 2021-02-21,Vanuatu,,1,1,0
 2021-02-22,Vanuatu,,1,1,0
+2021-02-23,Vanuatu,,1,1,0
 2020-01-22,Venezuela,,0,0,0
 2020-01-23,Venezuela,,0,0,0
 2020-01-24,Venezuela,,0,0,0
@@ -106663,6 +107329,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Venezuela,,135603,127598,1312
 2021-02-21,Venezuela,,136068,128088,1316
 2021-02-22,Venezuela,,136545,128579,1320
+2021-02-23,Venezuela,,136986,129027,1325
 2020-01-22,Vietnam,,0,0,0
 2020-01-23,Vietnam,,2,0,0
 2020-01-24,Vietnam,,2,0,0
@@ -107061,6 +107728,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Vietnam,,2368,1627,35
 2021-02-21,Vietnam,,2383,1702,35
 2021-02-22,Vietnam,,2392,1717,35
+2021-02-23,Vietnam,,2403,1760,35
 2020-01-22,West Bank and Gaza,,0,0,0
 2020-01-23,West Bank and Gaza,,0,0,0
 2020-01-24,West Bank and Gaza,,0,0,0
@@ -107459,6 +108127,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,West Bank and Gaza,,172315,160763,1971
 2021-02-21,West Bank and Gaza,,173635,161410,1976
 2021-02-22,West Bank and Gaza,,174969,162025,1986
+2021-02-23,West Bank and Gaza,,176377,162757,1994
 2020-01-22,Yemen,,0,0,0
 2020-01-23,Yemen,,0,0,0
 2020-01-24,Yemen,,0,0,0
@@ -107857,6 +108526,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Yemen,,2157,1432,618
 2021-02-21,Yemen,,2165,1432,619
 2021-02-22,Yemen,,2176,1432,619
+2021-02-23,Yemen,,2187,1432,620
 2020-01-22,Zambia,,0,0,0
 2020-01-23,Zambia,,0,0,0
 2020-01-24,Zambia,,0,0,0
@@ -108255,6 +108925,7 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Zambia,,73894,66943,1016
 2021-02-21,Zambia,,74503,67944,1020
 2021-02-22,Zambia,,75027,68928,1031
+2021-02-23,Zambia,,75582,69436,1040
 2020-01-22,Zimbabwe,,0,0,0
 2020-01-23,Zimbabwe,,0,0,0
 2020-01-24,Zimbabwe,,0,0,0
@@ -108653,3 +109324,4 @@ Date,Country/Region,Province/State,Confirmed,Recovered,Deaths
 2021-02-20,Zimbabwe,,35768,32096,1432
 2021-02-21,Zimbabwe,,35796,32125,1436
 2021-02-22,Zimbabwe,,35862,32216,1441
+2021-02-23,Zimbabwe,,35910,32288,1448
