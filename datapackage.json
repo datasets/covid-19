@@ -147,7 +147,7 @@
           {
             "format": "%Y-%m-%d",
             "name": "Date",
-            "type": "string"
+            "type": "date"
           },
           {
             "format": "default",
@@ -397,7 +397,7 @@
           {
             "format": "%Y-%m-%d",
             "name": "Date",
-            "type": "string"
+            "type": "date"
           },
           {
             "format": "default",
@@ -417,6 +417,35 @@
           {
             "format": "default",
             "name": "Increase rate",
+            "type": "number"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    },
+    {
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\""
+      },
+      "encoding": "utf-8",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "name": "worldwide-mortality-rate",
+      "path": "data/worldwide-mortality-rate.csv",
+      "pathType": "local",
+      "schema": {
+        "fields": [
+          {
+            "format": "%Y-%m-%d",
+            "name": "Date",
+            "type": "date"
+          },
+          {
+            "format": "default",
+            "name": "Mortality rate",
             "type": "number"
           }
         ],
@@ -466,20 +495,7 @@
     },
     {
       "resources": [
-        {
-          "name": "worldwide-aggregate",
-          "transform": [
-            {
-              "asFields": [
-                "Mortality rate"
-              ],
-              "expressions": [
-                "data['Deaths'] / data['Confirmed'] * 100 + '%'"
-              ],
-              "type": "formula"
-            }
-          ]
-        }
+        "worldwide-mortality-rate"
       ],
       "spec": {
         "group": "Date",
