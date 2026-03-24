@@ -18,6 +18,7 @@
       "mediatype": "text/csv",
       "name": "countries-aggregated",
       "path": "data/countries-aggregated.csv",
+      "sample": "data/countries-aggregated-sample.csv",
       "pathType": "local",
       "schema": {
         "fields": [
@@ -205,6 +206,7 @@
       "mediatype": "text/csv",
       "name": "time-series-19-covid-combined",
       "path": "data/time-series-19-covid-combined.csv",
+      "sample": "data/time-series-19-covid-combined-sample.csv",
       "pathType": "local",
       "schema": {
         "fields": [
@@ -254,6 +256,7 @@
       "mediatype": "text/csv",
       "name": "us_confirmed",
       "path": "data/us_confirmed.csv",
+      "sample": "data/us_confirmed-sample.csv",
       "pathType": "local",
       "schema": {
         "fields": [
@@ -298,6 +301,7 @@
       "mediatype": "text/csv",
       "name": "us_deaths",
       "path": "data/us_deaths.csv",
+      "sample": "data/us_deaths-sample.csv",
       "pathType": "local",
       "schema": {
         "fields": [
@@ -342,6 +346,7 @@
       "mediatype": "text/csv",
       "name": "us_simplified",
       "path": "data/us_simplified.csv",
+      "sample": "data/us_simplified-sample.csv",
       "pathType": "local",
       "schema": {
         "fields": [
